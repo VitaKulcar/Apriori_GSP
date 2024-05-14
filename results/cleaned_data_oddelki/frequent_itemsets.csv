@@ -1,0 +1,19 @@
+support,itemsets
+0.20537875786786391,frozenset({'2021-11'})
+0.2833751485540737,frozenset({'2022-01'})
+0.3420925216778907,frozenset({'9 days'})
+0.8065495840485937,frozenset({'Karantena za celoten oddelek - pouk poteka na daljavo'})
+0.5127866543421805,frozenset({'Okužba s Covid-19 pri učencu ali več učencih oddelka'})
+0.31242572296315857,frozenset({'Osrednjeslovenska'})
+0.34455741890047975,frozenset({'srednje'})
+0.3681059905805713,frozenset({'veliko'})
+0.2418240239447159,"frozenset({'2022-01', 'Karantena za celoten oddelek - pouk poteka na daljavo'})"
+0.2602667370923016,"frozenset({'9 days', 'Karantena za celoten oddelek - pouk poteka na daljavo'})"
+0.49716096659183945,"frozenset({'Okužba s Covid-19 pri učencu ali več učencih oddelka', 'Karantena za celoten oddelek - pouk poteka na daljavo'})"
+0.2402394471587658,"frozenset({'Osrednjeslovenska', 'Karantena za celoten oddelek - pouk poteka na daljavo'})"
+0.2883929750429156,"frozenset({'srednje', 'Karantena za celoten oddelek - pouk poteka na daljavo'})"
+0.3332012852678375,"frozenset({'veliko', 'Karantena za celoten oddelek - pouk poteka na daljavo'})"
+0.21312557771028653,"frozenset({'srednje', 'Okužba s Covid-19 pri učencu ali več učencih oddelka'})"
+0.21981601302874246,"frozenset({'veliko', 'Okužba s Covid-19 pri učencu ali več učencih oddelka'})"
+0.20665522250099036,"frozenset({'srednje', 'Okužba s Covid-19 pri učencu ali več učencih oddelka', 'Karantena za celoten oddelek - pouk poteka na daljavo'})"
+0.21453409040890883,"frozenset({'veliko', 'Okužba s Covid-19 pri učencu ali več učencih oddelka', 'Karantena za celoten oddelek - pouk poteka na daljavo'})"

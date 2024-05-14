@@ -1,0 +1,11 @@
+support,itemsets
+0.2304210940574577,frozenset({'10 days'})
+0.25248425816607634,frozenset({'2022-01'})
+0.3094254230617867,frozenset({'9 days'})
+0.6736521054702873,frozenset({'Okužba s Covid-19'})
+0.27026761117670206,frozenset({'Osrednjeslovenska'})
+0.3263478945297127,frozenset({'Sum na okužbo'})
+0.45902203856749313,frozenset({'Učitelj'})
+0.21359700905155452,frozenset({'Vzgojitelj'})
+0.20262691853600945,"frozenset({'Okužba s Covid-19', '9 days'})"
+0.3157467532467532,"frozenset({'Okužba s Covid-19', 'Učitelj'})"
