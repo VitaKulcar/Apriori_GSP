@@ -4,6 +4,7 @@ from data_preparation import data_cleaning, attributes, generate_sequences
 from apriori import Apriori
 from gsp import GeneralizedSequentialPatternMining
 from visualisation import visualize
+from concurrent.futures import ProcessPoolExecutor, as_completed
 
 """
 # priprava podatkov
@@ -51,72 +52,42 @@ def save_rules(algorithm, rules):
     df_rules.to_csv(f"results/test/{algorithm}_rules.csv", index=False)
 
 
-"""
-sequences = data_preparation.generate_sequences('oddelki', ['ZAVMATNAZ', 'OBDOBJE',
-                                                            'STEV_UCENCEV', 'DOGODEK', 'VZROK', 'TRAJANJE'])
-# za vsak mesec izvedi algoritem
-for month in sequences:
-    data = sequences[month]
-    GSP = GeneralizedSequentialPatternMining(data, 0.5, 0.5)
+def process_month(month, data, min_support, min_confidence):
+    GSP = GeneralizedSequentialPatternMining(data, min_support, min_confidence)
     GSP_frequent_sequences = GSP.mine_frequent_sequences()
     GSP_rules = GSP.generate_association_rules(GSP_frequent_sequences)
     save_results(month, GSP_frequent_sequences)
     save_rules(month, GSP_rules)
-    visualize('test/GSP_rules')
-"""
-sequences = [
-    [("a", "b"), ("c"), ("f", "g"), ("g"), ("e")],
-    [("a", "d"), ("c"), ("b"), ("a", "b", "e", "f")],
-    [("a"), ("b"), ("f", "g"), ("e")],
-    [("b"), ("f", "g")]
-]
-"""
-sequences_tt = {
-    '2020/09': [('Nova Gorica', 'OŠ', 'Okužba s Covid-19 pri vzgojitelju', '3. razred', '3 days'),
-                ('Ljubljana', 'Vrtec', 'Okužba s Covid-19 pri vzgojitelju', 'Skupina A', '12 days'),
-                ('Kočevje', 'Srednja', 'Okužba s Covid-19 pri učencu', '5. razred', '10 days'),
-                ('Ljubljana', 'Glasbena', 'Okužba s Covid-19 pri otroku', 'Klavir', '5 days')],
-    '2020/10': [('Kočevje', 'SŠ', 'Okužba s Covid-19 pri vzgojitelju', '2. razred', '9 days'),
-                ('Nova Gorica', 'SŠ', 'Okužba s Covid-19 pri učitelju', '1. razred', '12 days'),
-                ('Kranj', 'Srednja', 'Okužba s Covid-19 pri otroku', 'Skupina B', '5 days'),
-                ('Kočevje', 'Gimnazija', 'Okužba s Covid-19 pri učitelju', '5. razred', '10 days')],
-    '2020/11': [('Cerklje na Gorenjskem', 'OŠ', 'Okužba s Covid-19 pri otroku', '1. razred', '9 days'),
-                ('Kočevje', 'Vrtec', 'Okužba s Covid-19 pri učencu', '5. razred', '7 days'),
-                ('Maribor', 'Srednja', 'Okužba s Covid-19 pri učitelju', '4. razred', '12 days'),
-                ('Ptuj', 'Srednja', 'Okužba s Covid-19 pri učencu', 'Skupina B', '9 days')],
-    '2020/12': [('Celje', 'OŠ', 'Okužba s Covid-19 pri otroku', '5. razred', '10 days'),
-                ('Kranj', 'Glasbena', 'Okužba s Covid-19 pri učitelju', '3. razred', '12 days'),
-                ('Ptuj', 'Gimnazija', 'Okužba s Covid-19 pri vzgojitelju', '4. razred', '7 days'),
-                ('Cerklje na Gorenjskem', 'SŠ', 'Okužba s Covid-19 pri učitelju', 'Kitara', '12 days')]
-}
-"""
 
-GSP = GeneralizedSequentialPatternMining(sequences, 0.5, 0.5)
-GSP_frequent_sequences = GSP.mine_frequent_sequences()
-GSP_rules = GSP.generate_association_rules(GSP_frequent_sequences)
-save_results('GSP_test', GSP_frequent_sequences)
-save_rules('GSP_test', GSP_rules)
-# visualize('test/GSP_rules')
+    APRIORI = Apriori(data, min_support, min_confidence)
+    APRIORI_frequent_sequences = APRIORI.mine_frequent_itemsets()
+    APRIORI_rules = APRIORI.generate_association_rules(APRIORI_frequent_sequences)
+    save_results(month, APRIORI_frequent_sequences)
+    save_rules(month, APRIORI_rules)
 
-"""
-def generate_transactions(data_file):
-    df = pd.read_csv(data_file)
-    _transactions = {}
-    for _, row in df.iterrows():
-        regija = row['REGIJA']
-        leto_mesec = row['LETO_MESEC_VNOSA']
-        vzrok = row['VZROK']
-        transaction_key = (leto_mesec, regija)
-        if transaction_key not in _transactions:
-            _transactions[transaction_key] = set()
-        _transactions[transaction_key].add(vzrok)
-    return _transactions
-    
-    
-transactions = generate_transactions('datasets/cleaned_oddelki.csv')
-print("transactions")
-APRIORI = Apriori(transactions, 0.5)
-APRIORI_frequent_sequences = APRIORI.run()
-print("APRIORI")
-save_results('APRIORI', APRIORI_frequent_sequences)
-"""
+    return month, GSP_frequent_sequences, GSP_rules
+
+
+def process_month_wrapper(args):
+    month, data, min_support, min_confidence = args
+    return process_month(month, data, min_support, min_confidence)
+
+
+if __name__ == '__main__':
+    sequences = data_preparation.generate_sequences('oddelki', ['ZAVMATNAZ', 'OBDOBJE',
+                                                                'STEV_UCENCEV', 'DOGODEK', 'VZROK', 'TRAJANJE'])
+
+    args_list = [(month, data, 0.5, 0.5) for month, data in sequences.items()]
+    results = []
+    with ProcessPoolExecutor() as executor:
+        futures = {executor.submit(process_month_wrapper, args): args[0] for args in args_list}
+        for future in as_completed(futures):
+            month = futures[future]
+            try:
+                result = future.result()
+                results.append(result)
+                print(f"Processed {month}")
+            except Exception as e:
+                print(f"Error processing {month}: {e}")
+
+    print("All months processed.")

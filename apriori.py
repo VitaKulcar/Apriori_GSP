@@ -1,3 +1,6 @@
+import itertools
+
+
 def generate_candidates(previous_level, items, sequence_list, min_support):
     candidates = set()
     # one-item sequence candidates
@@ -17,7 +20,7 @@ def generate_candidates(previous_level, items, sequence_list, min_support):
     return candidates
 
 
-def filter_candidates(candidates,  sequence_list, min_support):
+def filter_candidates(candidates, sequence_list, min_support):
     valid_candidates = {}
     for candidate in candidates:
         support = calc_support(candidate, sequence_list)
@@ -44,13 +47,22 @@ def get_unique_items(sequences):
     return sorted(unique_items)
 
 
+def get_nonempty_subsets(itemset):
+    subsets = []
+    itemset = list(itemset)
+    for i in range(1, len(itemset)):
+        subsets.extend(itertools.combinations(itemset, i))
+    return subsets
+
+
 class Apriori:
-    def __init__(self, sequences, min_support):
-        self.dataset = sequences
-        self.min_support_count = min_support * len(self.dataset)
+    def __init__(self, transactions, min_supp, min_conf):
+        self.dataset = transactions
+        self.min_support_count = min_supp * len(self.dataset)
+        self.min_confidence = min_conf
         self.unique_items = get_unique_items(self.dataset)
 
-    def run(self):
+    def mine_frequent_itemsets(self):
         current_level = set()
         frequent_sequences = {}
         k = 1
@@ -64,3 +76,18 @@ class Apriori:
             candidates = generate_candidates(current_level, self.unique_items, self.dataset, self.min_support_count)
 
         return frequent_sequences
+
+    def generate_association_rules(self, frequent_itemsets):
+        association_rules = {}
+        for itemset, support in frequent_itemsets.items():
+            if len(itemset) > 1:
+                subsets = get_nonempty_subsets(itemset)
+                for antecedent in subsets:
+                    consequent = tuple(sorted(set(itemset) - set(antecedent)))
+                    if consequent:
+                        antecedent_support = calc_support(antecedent, self.dataset)
+                        confidence = support / antecedent_support
+                        if confidence >= self.min_confidence:
+                            association_rules[(antecedent, consequent)] = confidence
+
+        return association_rules
