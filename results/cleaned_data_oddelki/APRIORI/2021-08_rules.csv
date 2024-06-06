@@ -1,0 +1,15 @@
+Rule,Confidence
+{1. star. obd.} => {malo},0.8
+{malo} => {1. star. obd.},0.5714285714285714
+{9 days} => {srednje},0.6666666666666666
+{srednje} => {9 days},1.0
+{Okužba s Covid-19 pri vzgojitelju} => {malo},0.8
+{malo} => {Okužba s Covid-19 pri vzgojitelju},0.5714285714285714
+{1. star. obd.} => {2. star. obd.},0.8
+{2. star. obd.} => {1. star. obd.},0.8
+{9 days} => {malo},0.6666666666666666
+{malo} => {9 days},0.5714285714285714
+{1. star. obd.} => {9 days},0.8
+{9 days} => {1. star. obd.},0.6666666666666666
+{malo} => {srednje},0.5714285714285714
+{srednje} => {malo},1.0

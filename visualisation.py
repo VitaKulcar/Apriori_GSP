@@ -1,66 +1,7 @@
 import pandas as pd
-import matplotlib.pyplot as plt
-import networkx as nx
-from matplotlib.sankey import Sankey
 import plotly.graph_objects as go
-
-
-def plot_sankey_like_plotly(sankey_data):
-    fig = go.Figure(data=[go.Sankey(
-        arrangement='snap',
-        node=dict(
-            pad=15,
-            thickness=20,
-            label=["A", "B", "C", "D", "E", "F"],
-        ),
-        link=dict(
-            arrowlen=15,
-            source=[0, 0, 1, 2, 5, 4, 3, 5],
-            target=[5, 3, 4, 3, 0, 2, 2, 3],
-            value=[1, 2, 1, 1, 1, 1, 1, 2]
-        )
-    )])
-    fig.show()
-
-
-def prepare_sankey_data(rules):
-    nodes = set()
-    links = []
-    values = []
-
-    # Parse rules and confidence levels
-    for rule, confidence in rules.items():
-        antecedent, consequent = rule.split('=>')
-        antecedent = antecedent.strip('{}').split(',')
-        consequent = consequent.strip('{}').split(',')
-
-        # Add nodes to set
-        nodes.update(antecedent)
-        nodes.update(consequent)
-
-        # Add links
-        for a in antecedent:
-            for c in consequent:
-                links.append((a, c))
-                values.append(confidence)
-
-    # Assign indices to nodes
-    node_indices = {node: i for i, node in enumerate(nodes)}
-
-    # Create source, target, and value arrays for links
-    sources = [node_indices[link[0]] for link in links]
-    targets = [node_indices[link[1]] for link in links]
-
-    return {
-        "node": {
-            "label": list(nodes),
-        },
-        "link": {
-            "source": sources,
-            "target": targets,
-            "value": values
-        }
-}
+import networkx as nx
+from collections import defaultdict
 
 
 def parse_rule(rule_str):
@@ -70,70 +11,179 @@ def parse_rule(rule_str):
     return antecedent, consequent
 
 
-def preparation(df):
-    weighted_graph_data = []
-    sankey_data = {'Source': [], 'Target': [], 'Confidence': []}
-    tree_data = []
+def prepare_sankey_data(rules):
+    nodes = []
+    links = {"source": [], "target": [], "value": []}
+    node_index = {}
 
-    for index, row in df.iterrows():
-        antecedent, consequent = parse_rule(row['Rule'])
-        confidence = float(row['Confidence'])
+    # To aggregate the links by counting the number of connections
+    link_counts = defaultdict(int)
 
-        # Weighted graph
-        for a in antecedent:
-            for c in consequent:
-                weighted_graph_data.append((a, c, confidence))
+    # Parse each rule
+    for rule in rules:
+        try:
+            rule_str = rule.strip()
 
-        # Sankey diagram
-        sankey_data['Source'].extend(antecedent)
-        sankey_data['Target'].extend(consequent)
-        sankey_data['Confidence'].extend([confidence] * len(antecedent))
+            antecedent, consequent = parse_rule(rule_str)
+            items = antecedent + consequent
 
-        # Tree diagram
-        tree_data.append((antecedent, consequent, confidence))
-    return tree_data, sankey_data, weighted_graph_data
+            # Update nodes and node_index
+            for item in items:
+                if item not in node_index:
+                    node_index[item] = len(nodes)
+                    nodes.append(item)
+
+            # Count links for each pair (antecedent -> consequent)
+            for ant in antecedent:
+                for cons in consequent:
+                    source_idx = node_index[ant]
+                    target_idx = node_index[cons]
+                    link_counts[(source_idx, target_idx)] += 1
+        except ValueError:
+            continue  # Skip rows that don't conform to the expected format
+
+    # Prepare aggregated links
+    for (source_idx, target_idx), count in link_counts.items():
+        links["source"].append(source_idx)
+        links["target"].append(target_idx)
+        links["value"].append(count)
+
+    return nodes, links
+
+
+def plot_sankey(nodes, links):
+    fig = go.Figure(data=[go.Sankey(
+        arrangement='snap',
+        node=dict(
+            pad=15,
+            thickness=20,
+            label=nodes,
+        ),
+        link=dict(
+            arrowlen=15,
+            source=links["source"],
+            target=links["target"],
+            value=links["value"]
+        )
+    )])
+    fig.show()
+
+
+def prepare_weighted_graph(rules, confidences):
+    G = nx.DiGraph()
+
+    # Parse each rule and add edges with confidence values
+    for rule, confidence in zip(rules, confidences):
+        try:
+            rule_str = rule.strip()
+            confidence = float(confidence)
+
+            antecedent, consequent = parse_rule(rule_str)
+
+            # Add edges for each pair (antecedent -> consequent) with weighted values
+            for ant in antecedent:
+                for cons in consequent:
+                    G.add_edge(ant, cons, weight=confidence)
+        except ValueError:
+            continue  # Skip rows that don't conform to the expected format
+
+    return G
+
+
+def plot_weighted_graph(G):
+    pos = nx.spring_layout(G)  # Positions for all nodes
+
+    # Create nodes trace
+    node_trace = go.Scatter(
+        x=[pos[node][0] for node in G.nodes()],
+        y=[pos[node][1] for node in G.nodes()],
+        mode='markers',
+        marker=dict(
+            color='blue',
+            size=10
+        ),
+        text=list(G.nodes())
+    )
+
+    # Create edge traces
+    edge_traces = []
+    for edge in G.edges(data=True):
+        x0, y0 = pos[edge[0]]
+        x1, y1 = pos[edge[1]]
+        edge_trace = go.Scatter(
+            x=[x0, x1],
+            y=[y0, y1],
+            mode='lines',
+            line=dict(width=edge[2]['weight'] * 5, color='gray'),  # Adjust width based on weight
+            hoverinfo='none'
+        )
+        edge_traces.append(edge_trace)
+
+    # Create figure
+    fig = go.Figure(data=edge_traces + [node_trace],
+                    layout=go.Layout(
+                        title='Weighted Graph',
+                        showlegend=False,
+                        hovermode='closest',
+                        margin=dict(b=20, l=5, r=5, t=40),
+                        xaxis=dict(showgrid=False, zeroline=False, showticklabels=False),
+                        yaxis=dict(showgrid=False, zeroline=False, showticklabels=False))
+                    )
+    fig.show()
 
 
 def plot_tree(tree_data):
-    G = nx.DiGraph()
+    fig = go.Figure()
 
-    for antecedent, consequent, confidence in tree_data:
-        antecedent_str = ', '.join(antecedent)
-        consequent_str = ', '.join(consequent)
-        G.add_edge(antecedent_str, consequent_str, weight=confidence)
+    def add_trace(node, parent_pos=None):
+        if 'name' in node:
+            fig.add_trace(go.Scatter(
+                x=[parent_pos[0], node['pos'][0]] if parent_pos else [],
+                y=[parent_pos[1], node['pos'][1]] if parent_pos else [],
+                mode='lines+markers',
+                line=dict(width=2),
+                marker=dict(size=10, color='blue'),
+                text=node['name'],
+                hoverinfo='text'
+            ))
+            for child in node.get('children', []):
+                add_trace(child, node['pos'])
 
-    pos = nx.spring_layout(G)
-    edge_labels = {(u, v): d['weight'] for u, v, d in G.edges(data=True)}
+    add_trace(tree_data)
 
-    nx.draw(G, pos, with_labels=True, node_size=2000, node_color="skyblue", font_size=10, font_weight="bold")
-    nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels)
-    plt.title("Tree Diagram")
-    plt.show()
+    fig.update_layout(title='Tree Diagram', showlegend=False,
+                      hovermode='closest', xaxis=dict(showgrid=False, zeroline=False, showticklabels=False),
+                      yaxis=dict(showgrid=False, zeroline=False, showticklabels=False),
+                      plot_bgcolor='white')
 
-
-def plot_sankey(sankey_data):
-    sources = sankey_data['Source']
-    targets = sankey_data['Target']
-    confidences = sankey_data['Confidence']
-
-    fig = plt.figure(figsize=(12, 8))
-    ax = fig.add_subplot(1, 1, 1, xticks=[], yticks=[])
-
-    sankey = Sankey(ax=ax, scale=0.01)
-    flows = [1] * len(sources)
-    sankey.add(flows=flows, labels=sources + targets, orientations=[0] * len(sources) + [1] * len(targets),
-               facecolor='skyblue', edgecolor='black')
-
-    sankey.finish()
-
-    plt.title("Sankey Diagram")
-    plt.show()
+    fig.show()
 
 
-def visualize(dataset_name):
-    df = pd.read_csv(f'results/{dataset_name}.csv')
-    #tree_data, sankey_data, _ = preparation(df)
-    # plot_tree(tree_data)
-    # plot_sankey(sankey_data)
-    sankey_data = prepare_sankey_data(df)
-    plot_sankey_like_plotly(sankey_data)
+# Your tree data (similar to Sankey and weighted graph data structure)
+tree_data = {
+    'name': 'Root',
+    'pos': (0, 0),
+    'children': [
+        {'name': 'Child 1', 'pos': (-1, -1)},
+        {'name': 'Child 2', 'pos': (1, -1)},
+        {'name': 'Child 3', 'pos': (0, -2), 'children': [
+            {'name': 'Grandchild 1', 'pos': (-1, -3)},
+            {'name': 'Grandchild 2', 'pos': (1, -3)}
+        ]}
+    ]
+}
+
+# Plot the tree diagram
+plot_tree(tree_data)
+
+data = pd.read_csv('results/cleaned_data_oddelki/GSP/2020-11_rules.csv', header=None)
+rules_ = data[0].tolist()
+conf_ = data[1].tolist()
+
+nodes, links = prepare_sankey_data(rules_)
+plot_sankey(nodes, links)
+
+G = prepare_weighted_graph(rules_, conf_)
+plot_weighted_graph(G)
+
+################################

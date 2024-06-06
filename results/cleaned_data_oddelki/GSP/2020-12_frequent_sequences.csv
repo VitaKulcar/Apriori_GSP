@@ -1,0 +1,33 @@
+Sequence,Support,Relative Frequency
+{10 days},7,0.6363636363636364
+{malo},6,0.5454545454545454
+{Komb. 1. in 2. star. obd.},7,0.6363636363636364
+{9 days},7,0.6363636363636364
+{zelo malo},9,0.8181818181818182
+{Okužba s Covid-19 pri vzgojitelju},8,0.7272727272727273
+{Okužba s Covid-19 pri otroku ali več otrocih skupine},6,0.5454545454545454
+{Okužba s Covid-19 pri drugem strokovnem delavcu},8,0.7272727272727273
+{2. star. obd.},7,0.6363636363636364
+"{Komb. 1. in 2. star. obd.}, {zelo malo}",6,0.5454545454545454
+"{zelo malo}, {Okužba s Covid-19 pri vzgojitelju}",6,0.5454545454545454
+"{Okužba s Covid-19 pri vzgojitelju, zelo malo}",7,0.6363636363636364
+"{Komb. 1. in 2. star. obd., Okužba s Covid-19 pri vzgojitelju}",6,0.5454545454545454
+"{zelo malo}, {Okužba s Covid-19 pri otroku ali več otrocih skupine}",6,0.5454545454545454
+"{Okužba s Covid-19 pri vzgojitelju}, {Okužba s Covid-19 pri otroku ali več otrocih skupine}",6,0.5454545454545454
+"{10 days, 2. star. obd.}",6,0.5454545454545454
+"{9 days, zelo malo}",7,0.6363636363636364
+"{Okužba s Covid-19 pri drugem strokovnem delavcu, zelo malo}",6,0.5454545454545454
+"{Okužba s Covid-19 pri otroku ali več otrocih skupine, zelo malo}",6,0.5454545454545454
+"{zelo malo}, {Komb. 1. in 2. star. obd.}",7,0.6363636363636364
+"{zelo malo}, {9 days}",6,0.5454545454545454
+"{zelo malo}, {zelo malo}",8,0.7272727272727273
+"{Okužba s Covid-19 pri vzgojitelju}, {Komb. 1. in 2. star. obd.}",6,0.5454545454545454
+"{Okužba s Covid-19 pri vzgojitelju}, {zelo malo}",7,0.6363636363636364
+"{Okužba s Covid-19 pri vzgojitelju}, {Okužba s Covid-19 pri otroku ali več otrocih skupine, zelo malo}",6,0.5454545454545454
+"{zelo malo}, {Okužba s Covid-19 pri otroku ali več otrocih skupine, zelo malo}",6,0.5454545454545454
+"{Okužba s Covid-19 pri vzgojitelju, zelo malo}, {zelo malo}",6,0.5454545454545454
+"{zelo malo}, {zelo malo}, {Komb. 1. in 2. star. obd.}",6,0.5454545454545454
+"{zelo malo}, {zelo malo}, {9 days}",6,0.5454545454545454
+"{zelo malo}, {zelo malo}, {zelo malo}",6,0.5454545454545454
+"{zelo malo}, {9 days, zelo malo}",6,0.5454545454545454
+"{zelo malo}, {zelo malo}, {9 days, zelo malo}",6,0.5454545454545454

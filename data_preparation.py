@@ -14,9 +14,12 @@ def data_cleaning(dataset_name, columns_drop):
     df['VNOS'] = pd.to_datetime(df['VNOS'], format='%d.%m.%Y', errors='coerce')
 
     # dodan stolpec trajanje
-    df['TRAJANJE'] = df['DAT_DO'] - df['DAT_OD']
+    df['TRAJANJE'] = (df['DAT_DO'] - df['DAT_OD'])
 
-    # dodajanje stolpca LETO_MESEC_VNOSA (gsp - sekvence)
+    # odstranitev negativnih dni trajanja (napake pri vnosu)
+    #df = df[df['TRAJANJE'] >= 0]
+
+    # dodajanje stolpca LETO_MESEC_VNOSA
     df['LETO_MESEC_VNOSA'] = df['VNOS'].dt.to_period('M')
 
     # diskretizacija števila učencev (oddelki.csv)
@@ -49,21 +52,6 @@ def attributes(dataset_name):
 
     attributes_df = pd.DataFrame(attributes_list)
     attributes_df.to_csv(f'datasets/attributes/{dataset_name}.csv', index=False)
-
-
-"""
-def generate_sequences(dataset_name, attributes: []):
-    df = pd.read_csv(f'datasets/cleaned_data/{dataset_name}.csv')
-    df_sorted = df.sort_values(by=['LETO_MESEC_VNOSA'])
-    sequences = {}
-    for _, row in df_sorted.iterrows():
-        leto_mesec = row['LETO_MESEC_VNOSA']
-        att = row[attributes]
-        if leto_mesec not in sequences:
-            sequences[leto_mesec] = set()
-        sequences[leto_mesec].add(tuple(att.values))
-    return sequences
-"""
 
 
 def generate_sequences(dataset_name, attributes):

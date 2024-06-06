@@ -1,0 +1,11 @@
+Rule,Confidence
+{Komb. 1. in 2. star. obd.} => {Okužba s Covid-19 pri vzgojitelju},0.875
+{Okužba s Covid-19 pri vzgojitelju} => {Komb. 1. in 2. star. obd.},0.7
+{Komb. 1. in 2. star. obd.} => {zelo malo},0.75
+{zelo malo} => {Komb. 1. in 2. star. obd.},0.6
+{9 days} => {Okužba s Covid-19 pri vzgojitelju},0.6363636363636364
+{Okužba s Covid-19 pri vzgojitelju} => {9 days},0.7
+{9 days} => {zelo malo},0.5454545454545454
+{zelo malo} => {9 days},0.6
+{9 days} => {Komb. 1. in 2. star. obd.},0.6363636363636364
+{Komb. 1. in 2. star. obd.} => {9 days},0.875
