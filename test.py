@@ -1,5 +1,5 @@
-from gsp import GeneralizedSequentialPatternMining
-from apriori import Apriori
+from algorithms.gsp import GeneralizedSequentialPatternMining
+from algorithms.apriori import Apriori
 
 
 def process_GSP(data, min_support, min_confidence):
