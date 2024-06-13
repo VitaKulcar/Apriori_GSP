@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Covid-19</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        .container {
+            display: flex;
+            justify-content: space-around;
+            margin: auto;
+            padding-top: 20px;
+            width: 100%;
+        }
+
+        .plot-section {
+            width: 50%;
+        }
+
+        .plot-container {
+            width: 100%;
+            margin: auto;
+            padding-top: 20px;
+        }
+
+        .slider-container, .button-container {
+            width: 100%;
+            text-align: center;
+            padding-top: 20px;
+        }
+
+        .button-container button {
+            margin: 5px;
+        }
+
+        .active {
+            background-color: lightblue;
+        }
+    </style>
+</head>
+<body>
+<h1>Covid-19 rules visualization</h1>
+<div class="button-container">
+    <button class="dataset-button active" data-dataset="oddelki">oddelki</button>
+    <button class="dataset-button" data-dataset="ucenci">učenci</button>
+    <button class="dataset-button" data-dataset="zaposleni">zaposleni</button>
+</div>
+<div class="slider-container">
+    <input type="range" id="monthSlider" min="0" max="19" value="0" step="1">
+    <p id="monthLabel"></p>
+</div>
+<div class="container">
+    <div class="plot-section">
+        <h2>Apriori</h2>
+        <div class="plot-container" id="aprioriSankey"></div>
+        <div class="plot-container" id="aprioriWeightedGraph"></div>
+    </div>
+    <div class="plot-section">
+        <h2>GSP</h2>
+        <div class="plot-container" id="gspSankey"></div>
+        <div class="plot-container" id="gspWeightedGraph"></div>
+    </div>
+</div>
+
+<script>
+    var months = [
+        '2020-09', '2020-10', '2020-11', '2020-12', '2021-01',
+        '2021-02', '2021-03', '2021-04', '2021-05', '2021-06',
+        '2021-07', '2021-08', '2021-09', '2021-10', '2021-11',
+        '2021-12', '2022-01', '2022-02', '2022-03', '2022-04'
+    ];
+
+    var selectedDataset = 'oddelki';
+
+    function updateGraphs(monthIndex) {
+        var selectedMonth = months[monthIndex];
+        document.getElementById('monthLabel').innerText = selectedMonth;
+
+        fetch(`/get_graphs?date=${selectedMonth}&type=APRIORI&dataset=${selectedDataset}`)
+            .then(response => response.json())
+            .then(data => {
+                if (data.error) {
+                    /*alert(data.error);*/
+                    return;
+                }
+                Plotly.react('aprioriSankey', JSON.parse(data.sankey).data, JSON.parse(data.sankey).layout);
+                Plotly.react('aprioriWeightedGraph', JSON.parse(data.weighted_graph).data, JSON.parse(data.weighted_graph).layout);
+            });
+
+        fetch(`/get_graphs?date=${selectedMonth}&type=GSP&dataset=${selectedDataset}`)
+            .then(response => response.json())
+            .then(data => {
+                if (data.error) {
+                    /*alert(data.error);*/
+                    return;
+                }
+                Plotly.react('gspSankey', JSON.parse(data.sankey).data, JSON.parse(data.sankey).layout);
+                Plotly.react('gspWeightedGraph', JSON.parse(data.weighted_graph).data, JSON.parse(data.weighted_graph).layout);
+            });
+    }
+
+    // Initial plot when page loads
+    updateGraphs(0);
+
+    // Event listener for slider change
+    var slider = document.getElementById('monthSlider');
+    slider.oninput = function () {
+        var monthIndex = parseInt(this.value);
+        updateGraphs(monthIndex);
+    };
+
+    // Event listener for dataset buttons
+    var buttons = document.querySelectorAll('.dataset-button');
+    buttons.forEach(button => {
+        button.addEventListener('click', function () {
+            buttons.forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+            selectedDataset = this.getAttribute('data-dataset');
+            updateGraphs(slider.value);
+        });
+    });
+</script>
+</body>
+</html>

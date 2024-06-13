@@ -1,5 +1,6 @@
 from algorithms.gsp import GeneralizedSequentialPatternMining
 from algorithms.apriori import Apriori
+from data_process.process_main import rule_to_string
 
 
 def process_GSP(data, min_support, min_confidence):
@@ -19,13 +20,6 @@ def process_Apriori(data, min_support, min_confidence):
 def sequence_to_string(s):
     set_notation = ", ".join(["{" + ", ".join(item) + "}" for item in s])
     return f"{set_notation}"
-
-
-def rule_to_string(rule):
-    antecedent, consequent = rule
-    antecedent_str = ", ".join(["{" + ", ".join(item) + "}" for item in antecedent])
-    consequent_str = ", ".join(["{" + ", ".join(item) + "}" for item in consequent])
-    return f"{antecedent_str} => {consequent_str}"
 
 
 def print_results(frequent_items, rules):
