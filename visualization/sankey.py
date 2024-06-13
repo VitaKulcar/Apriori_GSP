@@ -16,10 +16,8 @@ def prepare_sankey_data(rules):
     links = {"source": [], "target": [], "value": []}
     node_index = {}
 
-    # To aggregate the links by counting the number of connections
     link_counts = defaultdict(int)
 
-    # Parse each rule
     for rule in rules:
         try:
             rule_str = rule.strip()
@@ -27,13 +25,11 @@ def prepare_sankey_data(rules):
             antecedent, consequent = parse_rule(rule_str)
             items = antecedent + consequent
 
-            # Update nodes and node_index
             for item in items:
                 if item not in node_index:
                     node_index[item] = len(nodes)
                     nodes.append(item)
 
-            # Count links for each pair (antecedent -> consequent)
             for ant in antecedent:
                 for cons in consequent:
                     source_idx = node_index[ant]
