@@ -17,7 +17,6 @@ def data_cleaning(dataset_name, columns_drop):
     df['TRAJANJE'] = (df['DAT_DO'] - df['DAT_OD'])
 
     # odstranitev negativnih dni trajanja (napake pri vnosu)
-    #df = df[df['TRAJANJE'] >= 0]
 
     # dodajanje stolpca LETO_MESEC_VNOSA
     df['LETO_MESEC_VNOSA'] = df['VNOS'].dt.to_period('M')

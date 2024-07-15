@@ -7,7 +7,6 @@ def generate_candidates(previous_level, items, sequence_list, min_support):
             if calc_support(candidate, sequence_list) >= min_support:
                 candidates.add(candidate)
     else:
-        # Generate new candidates from previous level by s-extension and i-extension
         for seq in previous_level:
             last_itemset = seq[-1]
             for item in items:
@@ -25,12 +24,10 @@ def generate_candidates(previous_level, items, sequence_list, min_support):
 
 
 def calc_support(candidate_sequence, sequence_list):
-    # Calculate how many sequences contain the candidate sequence
     return sum(1 for seq in sequence_list if is_subsequence(candidate_sequence, seq))
 
 
 def is_subsequence(candidate, sequence):
-    # Check if candidate is a subsequence of sequence
     it = iter(sequence)
     return all(any(set(subseq).issubset(itemset) for itemset in it) for subseq in candidate)
 

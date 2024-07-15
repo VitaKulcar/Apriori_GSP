@@ -1,6 +1,5 @@
 import plotly.graph_objects as go
 from collections import defaultdict
-
 from plotly.io import to_json
 
 
@@ -15,21 +14,16 @@ def prepare_sankey_data(rules):
     nodes = []
     links = {"source": [], "target": [], "value": []}
     node_index = {}
-
     link_counts = defaultdict(int)
-
     for rule in rules:
         try:
             rule_str = rule.strip()
-
             antecedent, consequent = parse_rule(rule_str)
             items = antecedent + consequent
-
             for item in items:
                 if item not in node_index:
                     node_index[item] = len(nodes)
                     nodes.append(item)
-
             for ant in antecedent:
                 for cons in consequent:
                     source_idx = node_index[ant]
@@ -38,7 +32,7 @@ def prepare_sankey_data(rules):
         except ValueError:
             continue
 
-    # Prepare aggregated links
+    # aggregated links
     for (source_idx, target_idx), count in link_counts.items():
         links["source"].append(source_idx)
         links["target"].append(target_idx)

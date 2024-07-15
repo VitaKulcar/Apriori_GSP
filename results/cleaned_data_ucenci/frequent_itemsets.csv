@@ -1,7 +1,0 @@
-support,itemsets
-0.34481719782229775,frozenset({'2022-01'})
-0.3071485442534054,frozenset({'9 days'})
-0.5043360375287814,frozenset({'Okužba s Covid-19'})
-0.23411374835919174,frozenset({'Osrednjeslovenska'})
-0.49566396247121863,frozenset({'Sum na okužbo'})
-0.2045146435411332,"frozenset({'Okužba s Covid-19', '2022-01'})"

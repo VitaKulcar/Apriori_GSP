@@ -79,23 +79,25 @@
         fetch(`/get_graphs?date=${selectedMonth}&type=APRIORI&dataset=${selectedDataset}`)
             .then(response => response.json())
             .then(data => {
-                if (data.error) {
-                    /*alert(data.error);*/
-                    return;
+                if (data.error === undefined) {
+                    Plotly.react('aprioriSankey', JSON.parse(data.sankey).data, JSON.parse(data.sankey).layout);
+                    Plotly.react('aprioriWeightedGraph', JSON.parse(data.weighted_graph).data, JSON.parse(data.weighted_graph).layout);
+                } else {
+                    Plotly.react('aprioriSankey', [], {});
+                    Plotly.react('aprioriWeightedGraph', [], {});
                 }
-                Plotly.react('aprioriSankey', JSON.parse(data.sankey).data, JSON.parse(data.sankey).layout);
-                Plotly.react('aprioriWeightedGraph', JSON.parse(data.weighted_graph).data, JSON.parse(data.weighted_graph).layout);
             });
 
         fetch(`/get_graphs?date=${selectedMonth}&type=GSP&dataset=${selectedDataset}`)
             .then(response => response.json())
             .then(data => {
-                if (data.error) {
-                    /*alert(data.error);*/
-                    return;
+                if (data.error === undefined) {
+                    Plotly.react('gspSankey', JSON.parse(data.sankey).data, JSON.parse(data.sankey).layout);
+                    Plotly.react('gspWeightedGraph', JSON.parse(data.weighted_graph).data, JSON.parse(data.weighted_graph).layout);
+                } else {
+                    Plotly.react('gspSankey', [], {});
+                    Plotly.react('gspWeightedGraph', [], {});
                 }
-                Plotly.react('gspSankey', JSON.parse(data.sankey).data, JSON.parse(data.sankey).layout);
-                Plotly.react('gspWeightedGraph', JSON.parse(data.weighted_graph).data, JSON.parse(data.weighted_graph).layout);
             });
     }
 
@@ -104,10 +106,10 @@
 
     // Event listener for slider change
     var slider = document.getElementById('monthSlider');
-    slider.oninput = function () {
+    slider.addEventListener('change', function () {
         var monthIndex = parseInt(this.value);
         updateGraphs(monthIndex);
-    };
+    });
 
     // Event listener for dataset buttons
     var buttons = document.querySelectorAll('.dataset-button');
