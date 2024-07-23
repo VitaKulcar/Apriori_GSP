@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Covid-19</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="{{ url_for('static', filename='script_index.js') }}" defer></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<header>
+    <h1>{% block title %}Diplomska naloga: Primerjava algoritmov Apriori in GSP{% endblock %}</h1>
+    <nav>
+        <ul>
+            <li><a href="{{ url_for('index') }}">Domov</a></li>
+            <li><a href="{{ url_for('graphs') }}">Grafi</a></li>
+            <li><a href="{{ url_for('attributes') }}">Atributi</a></li>
+        </ul>
+    </nav>
+    <div class="button-container">
+        <button class="dataset-button" data-dataset="oddelki">oddelki</button>
+        <button class="dataset-button" data-dataset="ucenci">učenci</button>
+        <button class="dataset-button" data-dataset="zaposleni">zaposleni</button>
+    </div>
+    {%block slider%} {% endblock %}
+</header>
+<body>
+<div class="container">
+    {% block content %}
+    <h2>Pozdravljeni!</h2>
+    {% endblock %}
+</div>
+</body>
+</html>

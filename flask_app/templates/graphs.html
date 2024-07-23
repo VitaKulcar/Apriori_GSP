@@ -1,0 +1,24 @@
+{% extends "index.html" %}
+
+{% block title %}Grafi asociativnih pravil{% endblock %}
+
+{%block slider%}
+<div class="slider-container">
+    <input type="range" id="monthSlider" min="0" value="0" step="1">
+    <label id="monthLabel" for="monthSlider"></label>
+</div>
+{% endblock %}
+{% block content %}
+<div class="container">
+    <div class="plot-section">
+        <h2>Apriori</h2>
+        <div class="plot-container" id="aprioriSankey"></div>
+        <div class="plot-container" id="aprioriWeightedGraph"></div>
+    </div>
+    <div class="plot-section">
+        <h2>GSP</h2>
+        <div class="plot-container" id="gspSankey"></div>
+        <div class="plot-container" id="gspWeightedGraph"></div>
+    </div>
+</div>
+{% endblock %}
