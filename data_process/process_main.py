@@ -85,6 +85,6 @@ def process():
             for name, columns in dataset_names.items():
                 sequences = generate_sequences(name, columns)
                 for month, data in sequences.items():
-                    futures.append(executor.submit(process_month, name, month, data, 0.5, 0.5, len(data)))
+                    futures.append(executor.submit(process_month, name, month, data, 0.6, 0.7, len(data)))
 
         print("All datasets processed.")

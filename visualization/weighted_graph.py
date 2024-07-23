@@ -65,8 +65,13 @@ def plot_weighted_graph(nodes, edges):
         'values': values
     })
 
+    if df['values'].sum() == 0:
+        color_continuous_midpoint = 0  # Set a default value
+    else:
+        color_continuous_midpoint = np.average(df['values'], weights=df['values'])
+
     fig = px.treemap(df, path=['parents', 'names'], values='values', color='values',
                      color_continuous_scale='RdBu',
-                     color_continuous_midpoint=np.average(df['values'], weights=df['values']))
+                     color_continuous_midpoint=color_continuous_midpoint)
     fig.update_layout(margin=dict(t=50, l=25, r=25, b=25))
     return to_json(fig)
