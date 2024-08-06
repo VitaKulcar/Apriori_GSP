@@ -21,7 +21,7 @@ def data_cleaning(dataset_name, columns_drop):
     # dodajanje stolpca LETO_MESEC_VNOSA
     df['LETO_MESEC_VNOSA'] = df['VNOS'].dt.to_period('M')
 
-    # diskretizacija števila učencev (oddelki.csv)
+    # diskretizacija števila učencev (oddelki)
     if dataset_name == 'oddelki':
         df['STEV_UCENCEV'] = pd.cut(df['STEV_UCENCEV'], bins=5,
                                     labels=['zelo malo', 'malo', 'srednje', 'veliko', 'zelo veliko'])
@@ -53,25 +53,25 @@ def attributes(dataset_name):
     attributes_df.to_csv(f'datasets/attributes/{dataset_name}.csv', index=False)
 
 
-def generate_sequences(dataset_name, attributes):
+def group_data(dataset_name, attributes):
     df = pd.read_csv(f'datasets/cleaned_data/{dataset_name}.csv')
     grouped = df.groupby('LETO_MESEC_VNOSA')
+    for group_name, data in grouped:
+        data[attributes].to_csv(f'datasets/cleaned_data/{dataset_name}/{group_name}.csv', index=False)
+
+
+def generate_sequences(dataset_name, group_name):
+    df = pd.read_csv(f'datasets/cleaned_data/{dataset_name}/{group_name}.csv')
 
     sequences = {}
-    for group_name, group_data in grouped:
-        group_sequences = {}
-        for _, row in group_data.iterrows():
-            sequence_item = tuple(row[attr] for attr in attributes)
-            if row['REGIJA'] not in group_sequences:
-                group_sequences[row['REGIJA']] = []
-            group_sequences[row['REGIJA']].append(sequence_item)
-        sequences[group_name] = group_sequences
+    for _, row in df.iterrows():
+        sequence_item = tuple(row)
+        if row['REGIJA'] not in sequences:
+            sequences[row['REGIJA']] = []
+        sequences[row['REGIJA']].append(sequence_item)
 
-    # odstranitev besedila regije
-    for month, region_data in sequences.items():
-        s = []
-        for region, data in region_data.items():
-            s.append(data)
-        sequences[month] = s
+    consolidated_sequences = []
+    for region, data in sequences.items():
+        consolidated_sequences.append(data)
 
-    return sequences
+    return consolidated_sequences

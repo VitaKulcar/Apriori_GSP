@@ -1,5 +1,8 @@
+import os
 import pandas as pd
-from data_process.data_preparation import data_cleaning, attributes, generate_sequences
+import time
+import csv
+from data_process.data_preparation import data_cleaning, attributes, generate_sequences, group_data
 from algorithms.apriori import Apriori
 from algorithms.gsp import GeneralizedSequentialPatternMining
 from concurrent.futures import ProcessPoolExecutor
@@ -54,37 +57,62 @@ def save_rules(dataset_name, algorithm, dataset_month, rules):
 
 
 def process_month(dataset_name, dataset_month, dataset_data, min_support, min_confidence, length):
+    start_time_gsp = time.time()
     GSP = GeneralizedSequentialPatternMining(dataset_data, min_support, min_confidence)
     GSP_frequent_sequences = GSP.mine_frequent_sequences()
     GSP_rules = GSP.generate_association_rules(GSP_frequent_sequences)
     save_results(dataset_name, 'GSP', dataset_month, GSP_frequent_sequences, length)
     save_rules(dataset_name, 'GSP', dataset_month, GSP_rules)
+    end_time_gsp = time.time()
+    elapsed_time_gsp = end_time_gsp - start_time_gsp
 
+    start_time_apriori = time.time()
     APRIORI = Apriori(dataset_data, min_support, min_confidence)
     APRIORI_frequent_sequences = APRIORI.mine_frequent_itemsets()
     APRIORI_rules = APRIORI.generate_association_rules(APRIORI_frequent_sequences)
     save_results(dataset_name, 'APRIORI', dataset_month, APRIORI_frequent_sequences, length)
     save_rules(dataset_name, 'APRIORI', dataset_month, APRIORI_rules)
+    end_time_apriori = time.time()
+    elapsed_time_apriori = end_time_apriori - start_time_apriori
 
-    print(f"procesed {dataset_name} {dataset_month}")
+    with open('results/timings.csv', 'a', newline='') as csvfile:
+        csvwriter = csv.writer(csvfile)
+        csvwriter.writerow([dataset_name, dataset_month, 'GSP', elapsed_time_gsp])
+        csvwriter.writerow([dataset_name, dataset_month, 'APRIORI', elapsed_time_apriori])
+
+    print(
+        f"processed {dataset_name} {dataset_month}: GSP in {elapsed_time_gsp:.2f} seconds, APRIORI in {elapsed_time_apriori:.2f} seconds")
+
+
+def process_file(name, filename):
+    if filename.endswith('.csv'):
+        group_name = filename.split('.')[0]
+        sequences = generate_sequences(name, group_name)
+        process_month(name, group_name, sequences, 0.9, 0.9, len(sequences))
 
 
 def process():
-    if __name__ == '__process_main__':
-        clean_data()
-        write_attributes()
+    clean_data()
+    write_attributes()
 
-        dataset_names = {
-            'oddelki': ['REGIJA', 'OBDOBJE', 'STEV_UCENCEV', 'VZROK', 'TRAJANJE'],
-            'ucenci': ['REGIJA', 'OBDOBJE', 'VZROK', 'TRAJANJE'],
-            'zaposleni': ['REGIJA', 'DELOVNO_MESTO', 'VZROK', 'TRAJANJE']
-        }
+    dataset_names = {
+        'oddelki': ['REGIJA', 'STEV_UCENCEV', 'VZROK', 'TRAJANJE'],
+        'ucenci': ['REGIJA', 'OBDOBJE', 'VZROK', 'TRAJANJE'],
+        'zaposleni': ['REGIJA', 'DELOVNO_MESTO', 'VZROK', 'TRAJANJE']
+    }
 
-        with ProcessPoolExecutor() as executor:
-            futures = []
-            for name, columns in dataset_names.items():
-                sequences = generate_sequences(name, columns)
-                for month, data in sequences.items():
-                    futures.append(executor.submit(process_month, name, month, data, 0.6, 0.7, len(data)))
+    for name, columns in dataset_names.items():
+        group_data(name, columns)
 
-        print("All datasets processed.")
+    with ProcessPoolExecutor() as executor:
+        futures = []
+        for name, _ in dataset_names.items():
+            directory_path = f'datasets/cleaned_data/{name}'
+            files = [f for f in os.listdir(directory_path) if f.endswith('.csv')]
+            for filename in files:
+                futures.append(executor.submit(process_file, name, filename))
+
+        for future in futures:
+            future.result()
+
+    print("All datasets processed.")
