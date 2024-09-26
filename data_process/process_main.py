@@ -91,7 +91,7 @@ def process_file(name, filename):
         process_month(name, group_name, sequences, 0.9, 0.9, len(sequences))
 
 
-def process():
+def process_sequential():
     clean_data()
     write_attributes()
 
@@ -104,15 +104,53 @@ def process():
     for name, columns in dataset_names.items():
         group_data(name, columns)
 
+        directory_path = f'datasets/cleaned_data/{name}'
+        if not os.path.exists(directory_path):
+            print(f"Directory {directory_path} does not exist.")
+            continue
+
+        files = [f for f in os.listdir(directory_path) if f.endswith('.csv')]
+        for filename in files:
+            process_file(name, filename)
+
+    print("All datasets processed sequentially.")
+
+
+def process_concurrent():
+    clean_data()
+    write_attributes()
+
+    dataset_names = {
+        'oddelki': ['REGIJA', 'STEV_UCENCEV', 'VZROK', 'TRAJANJE'],
+        'ucenci': ['REGIJA', 'OBDOBJE', 'VZROK', 'TRAJANJE'],
+        'zaposleni': ['REGIJA', 'DELOVNO_MESTO', 'VZROK', 'TRAJANJE']
+    }
+
+    for name, columns in dataset_names.items():
+        group_data(name, columns)
+
+    # Using ProcessPoolExecutor to process files concurrently
     with ProcessPoolExecutor() as executor:
         futures = []
-        for name, _ in dataset_names.items():
+
+        for name in dataset_names.keys():
             directory_path = f'datasets/cleaned_data/{name}'
+            if not os.path.exists(directory_path):
+                print(f"Directory {directory_path} does not exist.")
+                continue
+
             files = [f for f in os.listdir(directory_path) if f.endswith('.csv')]
             for filename in files:
                 futures.append(executor.submit(process_file, name, filename))
 
+        # Ensure all processes are completed
         for future in futures:
             future.result()
 
+    print("All datasets processed concurrently.")
+
+
+def process():
+    process_sequential()
+    # process_concurrent()
     print("All datasets processed.")

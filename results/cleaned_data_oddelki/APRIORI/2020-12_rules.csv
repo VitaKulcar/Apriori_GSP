@@ -1,5 +1,0 @@
-Rule,Confidence
-{Komb. 1. in 2. star. obd.} => {zelo malo},0.8571428571428571
-{zelo malo} => {Komb. 1. in 2. star. obd.},0.6666666666666666
-{Okužba s Covid-19 pri vzgojitelju} => {zelo malo},0.875
-{zelo malo} => {Okužba s Covid-19 pri vzgojitelju},0.7777777777777778

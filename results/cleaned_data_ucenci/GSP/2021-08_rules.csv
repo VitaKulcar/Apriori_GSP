@@ -1,4 +1,0 @@
-Rule,Confidence
-{Sum na okužbo} => {Sum na okužbo},0.75
-"{Sum na okužbo} => {Sum na okužbo}, {Sum na okužbo}",0.75
-"{Sum na okužbo}, {Sum na okužbo} => {Sum na okužbo}",1.0
