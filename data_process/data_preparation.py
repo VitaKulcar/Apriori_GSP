@@ -17,14 +17,36 @@ def data_cleaning(dataset_name, columns_drop):
     df['TRAJANJE'] = (df['DAT_DO'] - df['DAT_OD'])
 
     # odstranitev negativnih dni trajanja (napake pri vnosu)
+    df = df[df['TRAJANJE'] >= pd.Timedelta(0)]
 
     # dodajanje stolpca LETO_MESEC_VNOSA
     df['LETO_MESEC_VNOSA'] = df['VNOS'].dt.to_period('M')
 
     # diskretizacija števila učencev (oddelki)
     if dataset_name == 'oddelki':
-        df['STEV_UCENCEV'] = pd.cut(df['STEV_UCENCEV'], bins=5,
-                                    labels=['zelo malo', 'malo', 'srednje', 'veliko', 'zelo veliko'])
+        df['STEV_UCENCEV'] = pd.cut(df['STEV_UCENCEV'], bins=3, labels=['malo', 'srednje', 'veliko'])
+
+    # diskretizacija trajanja okužbe
+    df['TRAJANJE'] = pd.cut(df['TRAJANJE'], bins=3, labels=['kratko', 'srednje', 'dolgo'])
+
+    # posplošitev zapisov
+    if dataset_name != 'zaposleni':
+        df.loc[df['OBDOBJE'].str.contains('razred', case=False, na=False), 'OBDOBJE'] = 'OSNOVNA ŠOLA'
+        df.loc[df['OBDOBJE'].str.contains('letnik', case=False, na=False), 'OBDOBJE'] = 'SREDNJA ŠOLA'
+        df.loc[df['OBDOBJE'].str.contains('star. obd', case=False, na=False), 'OBDOBJE'] = 'VRTEC'
+
+    # posplošitev zapisov
+    terms = [
+        'Klarinet', 'Kitara', 'Petje', 'Flavta', 'Pozavna', 'Rog', 'Tolkala', 'Trobenta',
+        'Klavir', 'Saksofon', 'Violina', 'Kontrabas', 'Harmonika', 'Glasbena pripravnica',
+        'Plesna pripravnica', 'Sodobni ples', 'Violončelo', 'Kljunasta flavta',
+        'Predšolska glasbena vzgoja', 'Diatonična harmonika', 'Citre', 'Orgle', 'Harfa'
+    ]
+    pattern = '|'.join(terms)
+    if dataset_name != 'zaposleni':
+        df.loc[df['OBDOBJE'].str.contains(pattern, case=False, na=False), 'OBDOBJE'] = 'GLASBENA ŠOLA'
+
+    # posplošitev zapisov ...
 
     # odstranitev praznih vrstic
     df.dropna(inplace=True)
@@ -57,7 +79,8 @@ def group_data(dataset_name, attributes):
     df = pd.read_csv(f'datasets/cleaned_data/{dataset_name}.csv')
     grouped = df.groupby('LETO_MESEC_VNOSA')
     for group_name, data in grouped:
-        data[attributes].to_csv(f'datasets/cleaned_data/{dataset_name}/{group_name}.csv', index=False)
+        unique_data = data[attributes].drop_duplicates()
+        unique_data.to_csv(f'datasets/cleaned_data/{dataset_name}/{group_name}.csv', index=False)
 
 
 def generate_sequences(dataset_name, group_name):
