@@ -34,19 +34,75 @@ def data_cleaning(dataset_name, columns_drop):
         df.loc[df['OBDOBJE'].str.contains('razred', case=False, na=False), 'OBDOBJE'] = 'OSNOVNA ŠOLA'
         df.loc[df['OBDOBJE'].str.contains('letnik', case=False, na=False), 'OBDOBJE'] = 'SREDNJA ŠOLA'
         df.loc[df['OBDOBJE'].str.contains('star. obd', case=False, na=False), 'OBDOBJE'] = 'VRTEC'
+        df.loc[df['OBDOBJE'].str.contains('stopnja', case=False, na=False), 'OBDOBJE'] = 'OSTALO'
+        df.loc[df['OBDOBJE'].str.contains('skupina', case=False, na=False), 'OBDOBJE'] = 'OSTALO'
 
     # posplošitev zapisov
     terms = [
-        'Klarinet', 'Kitara', 'Petje', 'Flavta', 'Pozavna', 'Rog', 'Tolkala', 'Trobenta',
-        'Klavir', 'Saksofon', 'Violina', 'Kontrabas', 'Harmonika', 'Glasbena pripravnica',
-        'Plesna pripravnica', 'Sodobni ples', 'Violončelo', 'Kljunasta flavta',
-        'Predšolska glasbena vzgoja', 'Diatonična harmonika', 'Citre', 'Orgle', 'Harfa'
+        'Klarinet', 'Kitara', 'Petje', 'Flavta', 'Pozavna', 'Rog', 'Tolkala', 'Trobenta', 'Viola',
+        'Nauk o glasbi', 'Fagot', 'Tamburica', 'Klavir', 'Saksofon', 'Violina', 'Kontrabas', 'Harmonika',
+        'Plesna pripravnica', 'Sodobni ples', 'Violončelo', 'Kljunasta flavta', 'Tuba', 'Oboa',
+        'Predšolska glasbena vzgoja', 'Diatonična harmonika', 'Citre', 'Orgle', 'Harfa', 'Balet',
+        'Glasbena pripravnica', 'Druga konična trobila'
     ]
     pattern = '|'.join(terms)
     if dataset_name != 'zaposleni':
         df.loc[df['OBDOBJE'].str.contains(pattern, case=False, na=False), 'OBDOBJE'] = 'GLASBENA ŠOLA'
 
     # posplošitev zapisov ...
+    terms = [
+        'Klarinet', 'Kitara', 'Petje', 'Flavta', 'Pozavna', 'Rog', 'Tolkala', 'Trobenta', 'Viola',
+        'Nauk o glasbi', 'Fagot', 'Tamburica', 'Klavir', 'Saksofon', 'Violina', 'Kontrabas', 'Harmonika',
+        'Plesna pripravnica', 'Sodobni ples', 'Violončelo', 'Kljunasta flavta', 'Tuba', 'Oboa',
+        'Predšolska glasbena vzgoja', 'Diatonična harmonika', 'Citre', 'Orgle', 'Harfa', 'Balet',
+        'Glasbena pripravnica', 'Druga konična trobila'
+    ]
+    pattern = '|'.join(terms)
+    if dataset_name == 'odelki':
+        df.loc[df['VZROK'].str.contains(pattern, case=False,
+                                        na=False), 'VZROK'] = 'Okužba pri otroku / učencu / dijaku ali več učencih oddelka'
+
+    if dataset_name == 'oddelki':
+        terms = [
+            'Okužba s Covid-19 pri otroku ali več otrocih skupine',
+            'Okužba s Covid-19 pri učencu ali več učencih oddelka',
+            'Okužba s Covid-19 pri dijaku ali več dijakih oddelka',
+            'Okužba s Covid-19 pri otroku / učencu / dijaku ali več učencih oddelka'
+        ]
+        pattern = '|'.join(terms)
+        df.loc[df['VZROK'].str.contains(pattern, case=False, na=False), 'VZROK'] = 'Okužba pri otroku / učencu / dijaku'
+
+        terms = [
+            'Okužba s Covid-19 pri vzgojitelju',
+            'Okužba s Covid-19 pri učitelju',
+            'Okužba s Covid-19 pri predavatelju',
+            'Okužba s Covid-19 pri drugem strokovnem delavcu',
+            'Okužba s Covid-19 pri drugem delavcu'
+        ]
+        pattern = '|'.join(terms)
+        df.loc[df['VZROK'].str.contains(pattern, case=False, na=False), 'VZROK'] = 'Okužba pri delavcu'
+
+        terms = [
+            'Sum na okužbo s Covid-19 pri otroku ali več otrocih skupine',
+            'Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka',
+            'Sum na okužbo s Covid-19 pri dijaku ali več dijakih oddelka',
+            'Sum na okužbo s Covid-19 pri otroku / učencu / dijaku ali več učencih oddelka'
+        ]
+        pattern = '|'.join(terms)
+        df.loc[df['VZROK'].str.contains(pattern, case=False,
+                                        na=False), 'VZROK'] = 'Sum na okužbo pri otroku / učencu / dijaku'
+
+        terms = [
+            'Sum na okužbo s Covid-19 pri vzgojitelju',
+            'Sum na okužbo s Covid-19 pri učitelju',
+            'Sum na okužbo s Covid-19 pri predavatelju',
+            'Sum na okužbo s Covid-19 pri drugem strokovnem delavcu',
+            'Sum na okužbo s Covid-19 pri drugem delavcu',
+            'Okužba s Covid-19 pri slušatelju ali več slušateljih oddelka'
+        ]
+        pattern = '|'.join(terms)
+        df.loc[df['VZROK'].str.contains(pattern, case=False,
+                                        na=False), 'VZROK'] = 'Sum na okužbo pri delavcu'
 
     # odstranitev praznih vrstic
     df.dropna(inplace=True)

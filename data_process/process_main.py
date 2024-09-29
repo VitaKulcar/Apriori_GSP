@@ -121,7 +121,7 @@ def process_concurrent():
     write_attributes()
 
     dataset_names = {
-        'oddelki': ['REGIJA', 'STEV_UCENCEV', 'VZROK', 'TRAJANJE'],
+        'oddelki': ['REGIJA', 'OBDOBJE', 'STEV_UCENCEV', 'VZROK', 'TRAJANJE'],
         'ucenci': ['REGIJA', 'OBDOBJE', 'VZROK', 'TRAJANJE'],
         'zaposleni': ['REGIJA', 'DELOVNO_MESTO', 'VZROK', 'TRAJANJE']
     }
