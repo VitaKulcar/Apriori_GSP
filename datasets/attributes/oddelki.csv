@@ -1,0 +1,6 @@
+Feature,Attributes
+REGIJA,"Eastern Slovenia, Central Slovenia, Western Slovenia"
+OBDOBJE,"OSNOVNA ŠOLA, SREDNJA ŠOLA, VRTEC, OSTALO, GLASBENA ŠOLA"
+STEV_UCENCEV,"srednje, malo, veliko"
+VZROK,"Okužba pri otroku / učencu / dijaku, Sum na okužbo pri otroku / učencu / dijaku, Okužba pri delavcu, Sum na okužbo pri delavcu, Starši zavračajo izvajanje ukrepov"
+TRAJANJE,"srednje, kratko, dolgo"

@@ -29,6 +29,23 @@ def data_cleaning(dataset_name, columns_drop):
     # diskretizacija trajanja okužbe
     df['TRAJANJE'] = pd.cut(df['TRAJANJE'], bins=3, labels=['kratko', 'srednje', 'dolgo'])
 
+    # posplošitev zapisov regij
+    region_groups = {
+        'Podravska': 'Eastern Slovenia',
+        'Savinjska': 'Eastern Slovenia',
+        'Pomurska': 'Eastern Slovenia',
+        'Koroška': 'Eastern Slovenia',
+        'Posavska': 'Eastern Slovenia',
+        'Zasavska': 'Eastern Slovenia',
+        'Jugovzhodna Slovenija': 'Eastern Slovenia',
+        'Osrednjeslovenska': 'Central Slovenia',
+        'Obalno-kraška': 'Western Slovenia',
+        'Gorenjska': 'Western Slovenia',
+        'Goriška': 'Western Slovenia',
+        'Primorsko-notranjska': 'Western Slovenia'
+    }
+    df['REGIJA'] = df['REGIJA'].map(region_groups)
+
     # posplošitev zapisov
     if dataset_name != 'zaposleni':
         df.loc[df['OBDOBJE'].str.contains('razred', case=False, na=False), 'OBDOBJE'] = 'OSNOVNA ŠOLA'
@@ -113,22 +130,14 @@ def data_cleaning(dataset_name, columns_drop):
     # ureditev podatkov po stolpcu VNOS
     df = df.sort_values(by='VNOS', ascending=True)
 
+    # omejitev na podatke od 2021-10 do 2022-10 (obdobje 1 leta)
+    df = df[(df['VNOS'] >= '2021-10') & (df['VNOS'] <= '2022-10')]
+
+    # ureditev podatkov po stolpcu VNOS
+    df = df.sort_values(by='VNOS', ascending=True)
+
     # shranjevanje prečiščenih podatkov
     df.to_csv(f'datasets/cleaned_data/{dataset_name}.csv', index=False)
-
-
-def attributes(dataset_name):
-    df = pd.read_csv(f'datasets/cleaned_data/{dataset_name}.csv')
-
-    attributes_list = []
-    # v vsakem stolpcu poiščemo unikatne vrednosti
-    for column in df.columns:
-        unique_values = df[column].unique()
-        unique_values_str = ', '.join(map(str, unique_values))
-        attributes_list.append({'Feature': column, 'Attributes': unique_values_str})
-
-    attributes_df = pd.DataFrame(attributes_list)
-    attributes_df.to_csv(f'datasets/attributes/{dataset_name}.csv', index=False)
 
 
 def group_data(dataset_name, attributes):

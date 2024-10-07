@@ -1,11 +1,8 @@
 import os
-import pandas as pd
-import time
-import csv
-from data_process.data_preparation import data_cleaning, attributes, generate_sequences, group_data
-from algorithms.apriori import Apriori
-from algorithms.gsp import GeneralizedSequentialPatternMining
 from concurrent.futures import ProcessPoolExecutor
+from data_process.data_preparation import data_cleaning, generate_sequences, group_data
+from data_process.process_algorithms import process_algorithms
+from data_process.data_csv_save import attributes
 
 
 def clean_data():
@@ -18,70 +15,9 @@ def clean_data():
         data_cleaning(dataset_name, columns_drop)
 
 
-def write_attributes():
-    dataset_name = ['oddelki', 'ucenci', 'zaposleni']
-    for dataset in dataset_name:
-        attributes(dataset)
-
-
-def sequence_to_string(s):
-    set_notation = ", ".join(["{" + ", ".join(item) + "}" for item in s])
-    return f"{set_notation}"
-
-
-def save_results(dataset_name, algorithm, dataset_month, frequent_sequences, length):
-    dataset_data = {
-        'Sequence': [sequence_to_string(k) for k in frequent_sequences.keys()],
-        'Support': list(frequent_sequences.values()),
-        'Relative Frequency': [support / length for support in frequent_sequences.values()]
-    }
-    df_freq_sequences = pd.DataFrame(dataset_data)
-    df_freq_sequences.to_csv(f"results/cleaned_data_{dataset_name}/{algorithm}/{dataset_month}_frequent_sequences.csv",
-                             index=False)
-
-
-def rule_to_string(rule):
-    antecedent, consequent = rule
-    antecedent_str = ", ".join(["{" + ", ".join(item) + "}" for item in antecedent])
-    consequent_str = ", ".join(["{" + ", ".join(item) + "}" for item in consequent])
-    return f"{antecedent_str} => {consequent_str}"
-
-
-def save_rules(dataset_name, algorithm, dataset_month, rules):
-    dataset_data = {
-        'Rule': [rule_to_string(k) for k in rules.keys()],
-        'Confidence': list(rules.values())
-    }
-    df_rules = pd.DataFrame(dataset_data)
-    df_rules.to_csv(f"results/cleaned_data_{dataset_name}/{algorithm}/{dataset_month}_rules.csv", index=False)
-
-
-def process_month(dataset_name, dataset_month, dataset_data, min_support, min_confidence, length):
-    start_time_gsp = time.time()
-    GSP = GeneralizedSequentialPatternMining(dataset_data, min_support, min_confidence)
-    GSP_frequent_sequences = GSP.mine_frequent_sequences()
-    GSP_rules = GSP.generate_association_rules(GSP_frequent_sequences)
-    save_results(dataset_name, 'GSP', dataset_month, GSP_frequent_sequences, length)
-    save_rules(dataset_name, 'GSP', dataset_month, GSP_rules)
-    end_time_gsp = time.time()
-    elapsed_time_gsp = end_time_gsp - start_time_gsp
-
-    start_time_apriori = time.time()
-    APRIORI = Apriori(dataset_data, min_support, min_confidence)
-    APRIORI_frequent_sequences = APRIORI.mine_frequent_itemsets()
-    APRIORI_rules = APRIORI.generate_association_rules(APRIORI_frequent_sequences)
-    save_results(dataset_name, 'APRIORI', dataset_month, APRIORI_frequent_sequences, length)
-    save_rules(dataset_name, 'APRIORI', dataset_month, APRIORI_rules)
-    end_time_apriori = time.time()
-    elapsed_time_apriori = end_time_apriori - start_time_apriori
-
-    with open('results/timings.csv', 'a', newline='') as csvfile:
-        csvwriter = csv.writer(csvfile)
-        csvwriter.writerow([dataset_name, dataset_month, 'GSP', elapsed_time_gsp])
-        csvwriter.writerow([dataset_name, dataset_month, 'APRIORI', elapsed_time_apriori])
-
-    print(
-        f"processed {dataset_name} {dataset_month}: GSP in {elapsed_time_gsp:.2f} seconds, APRIORI in {elapsed_time_apriori:.2f} seconds")
+def process_month(dataset_name, dataset_month, dataset_data, min_sup, min_conf, lenght):
+    processor = process_algorithms(dataset_name, dataset_month, dataset_data, min_sup, min_conf, lenght)
+    processor.process()
 
 
 def process_file(name, filename):
@@ -93,7 +29,6 @@ def process_file(name, filename):
 
 def process_sequential():
     clean_data()
-    write_attributes()
 
     dataset_names = {
         'oddelki': ['REGIJA', 'OBDOBJE', 'STEV_UCENCEV', 'VZROK', 'TRAJANJE'],
@@ -102,6 +37,7 @@ def process_sequential():
     }
 
     for name, columns in dataset_names.items():
+        attributes(name, columns)
         group_data(name, columns)
 
         directory_path = f'datasets/cleaned_data/{name}'
@@ -118,7 +54,6 @@ def process_sequential():
 
 def process_concurrent():
     clean_data()
-    write_attributes()
 
     dataset_names = {
         'oddelki': ['REGIJA', 'OBDOBJE', 'STEV_UCENCEV', 'VZROK', 'TRAJANJE'],
@@ -127,6 +62,7 @@ def process_concurrent():
     }
 
     for name, columns in dataset_names.items():
+        attributes(name, columns)
         group_data(name, columns)
 
     # Using ProcessPoolExecutor to process files concurrently
