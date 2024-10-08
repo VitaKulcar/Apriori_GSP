@@ -1,0 +1,6 @@
+Rule,Confidence
+{Okužba s Covid-19} => {Sum na okužbo},0.9166666666666666
+{srednje} => {OSNOVNA ŠOLA},1.0
+{srednje} => {srednje},0.9166666666666666
+{srednje} => {Sum na okužbo},0.9166666666666666
+"{srednje} => {OSNOVNA ŠOLA, srednje}",0.9166666666666666

@@ -1,0 +1,3 @@
+Rule,Confidence
+{Učitelj} => {srednje},0.9090909090909091
+{srednje} => {Učitelj},0.9090909090909091

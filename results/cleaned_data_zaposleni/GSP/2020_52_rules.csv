@@ -1,0 +1,16 @@
+Rule,Confidence
+{Okužba s Covid-19} => {Sum na okužbo},0.9166666666666666
+{Okužba s Covid-19} => {Vzgojitelj},0.9166666666666666
+{Vzgojitelj} => {Okužba s Covid-19},0.9166666666666666
+{srednje} => {srednje},1.0
+{Drugi delavci} => {srednje},1.0
+{Okužba s Covid-19} => {srednje},1.0
+{Okužba s Covid-19} => {Okužba s Covid-19},0.9166666666666666
+{srednje} => {Sum na okužbo},1.0
+"{Okužba s Covid-19} => {Okužba s Covid-19, srednje}",0.9166666666666666
+"{Okužba s Covid-19, srednje} => {srednje}",1.0
+"{Okužba s Covid-19, srednje} => {Sum na okužbo}",0.9166666666666666
+"{Okužba s Covid-19} => {Vzgojitelj, srednje}",0.9166666666666666
+"{Okužba s Covid-19} => {Sum na okužbo, srednje}",0.9166666666666666
+"{srednje} => {Sum na okužbo, srednje}",1.0
+"{Okužba s Covid-19, srednje} => {Sum na okužbo, srednje}",0.9166666666666666

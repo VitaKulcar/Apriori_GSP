@@ -1,0 +1,85 @@
+Sequence,Support,Relative Frequency
+{Okužba s Covid-19},11,0.9166666666666666
+{kratko},11,0.9166666666666666
+{Drugi delavci},11,0.9166666666666666
+{Sum na okužbo},12,1.0
+{Učitelj},12,1.0
+{srednje},11,0.9166666666666666
+"{Sum na okužbo, srednje}",11,0.9166666666666666
+"{Okužba s Covid-19}, {Sum na okužbo}",11,0.9166666666666666
+"{Učitelj}, {Učitelj}",11,0.9166666666666666
+"{Sum na okužbo, Učitelj}",12,1.0
+"{Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{Učitelj}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19, srednje}",11,0.9166666666666666
+"{Okužba s Covid-19, Učitelj}",11,0.9166666666666666
+"{Sum na okužbo}, {Sum na okužbo}",11,0.9166666666666666
+"{Učitelj}, {Sum na okužbo}",11,0.9166666666666666
+"{Učitelj, srednje}",11,0.9166666666666666
+"{Okužba s Covid-19}, {Učitelj}",11,0.9166666666666666
+"{srednje}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19}, {srednje}",11,0.9166666666666666
+"{srednje}, {Učitelj}",11,0.9166666666666666
+"{Drugi delavci, srednje}",11,0.9166666666666666
+"{Učitelj, kratko}",11,0.9166666666666666
+"{srednje}, {Sum na okužbo}",11,0.9166666666666666
+"{Okužba s Covid-19, srednje}, {Učitelj}",11,0.9166666666666666
+"{Okužba s Covid-19, Učitelj}, {Učitelj}",11,0.9166666666666666
+"{Okužba s Covid-19, srednje}, {Sum na okužbo}",11,0.9166666666666666
+"{srednje}, {Učitelj}, {Sum na okužbo}",11,0.9166666666666666
+"{Okužba s Covid-19, Učitelj}, {Sum na okužbo}",11,0.9166666666666666
+"{srednje}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19}, {Učitelj}, {Sum na okužbo}",11,0.9166666666666666
+"{srednje}, {srednje}, {srednje}",11,0.9166666666666666
+"{Sum na okužbo, Učitelj}, {srednje}",11,0.9166666666666666
+"{Učitelj, srednje}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19, Učitelj, srednje}",11,0.9166666666666666
+"{Okužba s Covid-19}, {srednje}, {srednje}",11,0.9166666666666666
+"{srednje}, {Sum na okužbo}, {Sum na okužbo}",11,0.9166666666666666
+"{Okužba s Covid-19}, {Sum na okužbo}, {Sum na okužbo}",11,0.9166666666666666
+"{Učitelj, srednje}, {Učitelj}",11,0.9166666666666666
+"{Učitelj}, {Sum na okužbo, Učitelj}",11,0.9166666666666666
+"{Učitelj}, {Učitelj}, {srednje}",11,0.9166666666666666
+"{Sum na okužbo}, {Sum na okužbo, srednje}",11,0.9166666666666666
+"{Učitelj, srednje}, {Sum na okužbo}",11,0.9166666666666666
+"{srednje}, {srednje}, {Sum na okužbo}",11,0.9166666666666666
+"{Sum na okužbo, Učitelj}, {Sum na okužbo}",11,0.9166666666666666
+"{srednje}, {Sum na okužbo, srednje}",11,0.9166666666666666
+"{srednje}, {Učitelj}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19, srednje}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19}, {srednje}, {Sum na okužbo}",11,0.9166666666666666
+"{srednje}, {Učitelj, srednje}",11,0.9166666666666666
+"{Okužba s Covid-19, Učitelj}, {srednje}",11,0.9166666666666666
+"{Učitelj}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{Učitelj}, {Učitelj}, {Sum na okužbo}",11,0.9166666666666666
+"{Okužba s Covid-19}, {Učitelj}, {srednje}",11,0.9166666666666666
+"{srednje}, {Sum na okužbo, Učitelj}",11,0.9166666666666666
+"{srednje}, {srednje}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19, srednje}, {srednje}, {Sum na okužbo}",11,0.9166666666666666
+"{Okužba s Covid-19, srednje}, {Sum na okužbo}, {Sum na okužbo}",11,0.9166666666666666
+"{Okužba s Covid-19, Učitelj}, {Učitelj}, {srednje}",11,0.9166666666666666
+"{srednje}, {srednje}, {srednje}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19, Učitelj, srednje}, {srednje}",11,0.9166666666666666
+"{srednje}, {Učitelj, srednje}, {Sum na okužbo}",11,0.9166666666666666
+"{Okužba s Covid-19, srednje}, {Učitelj}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19, Učitelj}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{srednje}, {Učitelj}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19, Učitelj, srednje}, {Učitelj}",11,0.9166666666666666
+"{Učitelj, srednje}, {Učitelj}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19, Učitelj, srednje}, {Sum na okužbo}",11,0.9166666666666666
+"{Učitelj}, {Sum na okužbo, Učitelj}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19}, {srednje}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19, srednje}, {Učitelj}, {Sum na okužbo}",11,0.9166666666666666
+"{Okužba s Covid-19, srednje}, {srednje}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19}, {srednje}, {srednje}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19, srednje}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{Učitelj, srednje}, {Učitelj}, {Sum na okužbo}",11,0.9166666666666666
+"{Okužba s Covid-19}, {Učitelj}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{Učitelj, srednje}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{srednje}, {Sum na okužbo, Učitelj}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19, Učitelj, srednje}, {Učitelj}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19, srednje}, {srednje}, {srednje}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19, srednje}, {Učitelj}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19, srednje}, {srednje}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19, Učitelj, srednje}, {Sum na okužbo}, {srednje}",11,0.9166666666666666

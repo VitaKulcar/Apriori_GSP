@@ -1,0 +1,9 @@
+Rule,Confidence
+{Sum na okužbo} => {Učitelj},0.9090909090909091
+{Učitelj} => {Sum na okužbo},0.9090909090909091
+{Sum na okužbo} => {srednje},0.9090909090909091
+{srednje} => {Sum na okužbo},0.9090909090909091
+{Učitelj} => {srednje},0.9090909090909091
+{srednje} => {Učitelj},0.9090909090909091
+{Okužba s Covid-19} => {srednje},0.9090909090909091
+{srednje} => {Okužba s Covid-19},0.9090909090909091

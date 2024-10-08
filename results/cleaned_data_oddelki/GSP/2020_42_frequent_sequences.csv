@@ -1,0 +1,21 @@
+Sequence,Support,Relative Frequency
+{kratko},11,1.0
+{OSNOVNA ŠOLA},11,1.0
+{malo},10,0.9090909090909091
+{srednje},11,1.0
+"{kratko}, {srednje}",10,0.9090909090909091
+"{OSNOVNA ŠOLA}, {srednje}",10,0.9090909090909091
+"{OSNOVNA ŠOLA}, {kratko}",10,0.9090909090909091
+"{malo}, {srednje}",10,0.9090909090909091
+"{OSNOVNA ŠOLA, srednje}",10,0.9090909090909091
+"{srednje}, {malo}",10,0.9090909090909091
+"{kratko, srednje}",10,0.9090909090909091
+"{OSNOVNA ŠOLA}, {malo}",10,0.9090909090909091
+"{malo}, {kratko}",10,0.9090909090909091
+"{OSNOVNA ŠOLA, kratko}",10,0.9090909090909091
+"{kratko}, {OSNOVNA ŠOLA}",10,0.9090909090909091
+"{srednje}, {OSNOVNA ŠOLA}",10,0.9090909090909091
+"{srednje}, {srednje}",11,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",10,0.9090909090909091
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, kratko}",10,0.9090909090909091
+"{kratko, srednje}, {srednje}",10,0.9090909090909091

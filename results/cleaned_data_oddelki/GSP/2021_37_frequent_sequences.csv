@@ -1,0 +1,705 @@
+Sequence,Support,Relative Frequency
+{kratko},12,1.0
+{OSNOVNA ŠOLA},12,1.0
+{Okužba s Covid-19 pri učencu ali več učencih oddelka},12,1.0
+{veliko},11,0.9166666666666666
+{srednje},12,1.0
+"{kratko}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}",12,1.0
+"{kratko}, {kratko}",12,1.0
+"{kratko, srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{OSNOVNA ŠOLA, kratko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",11,0.9166666666666666
+"{srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {kratko}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",12,1.0
+"{kratko}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{srednje}, {srednje}",12,1.0
+"{kratko}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}",12,1.0
+"{srednje}, {kratko}",12,1.0
+"{OSNOVNA ŠOLA, veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{srednje}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{kratko, srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",12,1.0
+"{srednje}, {srednje}, {kratko}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {kratko}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {veliko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{kratko}, {kratko}, {srednje}",11,0.9166666666666666
+"{kratko, srednje}, {kratko}",12,1.0
+"{OSNOVNA ŠOLA}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}",12,1.0
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {kratko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",12,1.0
+"{srednje}, {kratko}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {kratko}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, kratko, srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{OSNOVNA ŠOLA, kratko}, {kratko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{kratko}, {srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{kratko, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{kratko}, {srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",11,0.9166666666666666
+"{kratko, srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {kratko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {kratko}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{kratko}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{kratko}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {srednje}, {kratko}",12,1.0
+"{srednje}, {srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {kratko}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA}, {veliko}",11,0.9166666666666666
+"{srednje}, {srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{kratko}, {srednje}, {kratko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{kratko, srednje}, {srednje}, {kratko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {kratko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{srednje}, {srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{srednje}, {srednje}, {kratko}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, kratko}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {srednje}, {OSNOVNA ŠOLA, veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",11,0.9166666666666666
+"{srednje}, {srednje}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{kratko}, {srednje}, {srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{OSNOVNA ŠOLA}, {srednje}, {srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {kratko}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{kratko}, {srednje}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}, {srednje}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA}, {srednje}, {srednje}, {srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{kratko, srednje}, {kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {srednje}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{srednje}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {kratko}",12,1.0
+"{kratko, srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}, {srednje}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {srednje}, {kratko}",12,1.0
+"{OSNOVNA ŠOLA, kratko}, {kratko}, {srednje}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",12,1.0
+"{srednje}, {srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}, {kratko}",12,1.0
+"{srednje}, {srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {srednje}, {srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA}, {srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, kratko, srednje}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {kratko}",11,0.9166666666666666
+"{kratko}, {srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {kratko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {srednje}, {veliko}",11,0.9166666666666666
+"{kratko, srednje}, {srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {kratko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}, {srednje}",12,1.0
+"{srednje}, {srednje}, {srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{srednje}, {srednje}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {srednje}, {OSNOVNA ŠOLA, veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {veliko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {srednje}, {veliko}",11,0.9166666666666666
+"{kratko, srednje}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{srednje}, {srednje}, {srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {kratko}",12,1.0
+"{OSNOVNA ŠOLA, kratko, srednje}, {kratko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {srednje}, {kratko}, {srednje}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}",12,1.0
+"{kratko, srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {srednje}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{srednje}, {srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {kratko}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",12,1.0
+"{srednje}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{kratko, srednje}, {srednje}, {srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {srednje}, {srednje}, {srednje}",12,1.0
+"{srednje}, {srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{kratko, srednje}, {srednje}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, kratko}, {srednje}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {veliko}",11,0.9166666666666666
+"{kratko, srednje}, {srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {srednje}, {srednje}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {srednje}, {srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}, {kratko}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{srednje}, {srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {kratko}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {kratko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}, {srednje}, {srednje}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {srednje}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {srednje}, {srednje}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}",12,1.0
+"{srednje}, {srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, kratko, srednje}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {srednje}, {kratko}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {kratko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {srednje}, {srednje}, {OSNOVNA ŠOLA, veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}, {kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{srednje}, {srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {kratko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}, {srednje}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}",11,0.9166666666666666
+"{srednje}, {srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {srednje}, {srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {srednje}, {OSNOVNA ŠOLA, veliko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{srednje}, {srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, kratko, srednje}, {kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}",11,0.9166666666666666
+"{srednje}, {srednje}, {OSNOVNA ŠOLA}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {srednje}, {srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}, {srednje}",12,1.0
+"{srednje}, {srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {srednje}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {kratko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}, {kratko}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {srednje}, {srednje}",12,1.0
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, kratko, srednje}, {srednje}, {srednje}, {srednje}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}, {srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {veliko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA}, {srednje}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {srednje}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}, {OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666

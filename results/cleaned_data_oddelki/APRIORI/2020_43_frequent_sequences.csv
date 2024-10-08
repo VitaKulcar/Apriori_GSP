@@ -1,0 +1,51 @@
+Sequence,Support,Relative Frequency
+{kratko},10,1.0
+{Okužba s Covid-19 pri učitelju},10,1.0
+{malo},9,0.9
+{VRTEC},10,1.0
+{OSNOVNA ŠOLA},10,1.0
+{Okužba s Covid-19 pri vzgojitelju},9,0.9
+{veliko},9,0.9
+{srednje},10,1.0
+"{Okužba s Covid-19 pri učitelju}, {kratko}",10,1.0
+"{kratko}, {srednje}",10,1.0
+"{VRTEC}, {srednje}",10,1.0
+"{VRTEC}, {kratko}",9,0.9
+"{OSNOVNA ŠOLA}, {malo}",9,0.9
+"{srednje}, {veliko}",9,0.9
+"{OSNOVNA ŠOLA}, {VRTEC}",10,1.0
+"{OSNOVNA ŠOLA}, {srednje}",10,1.0
+"{OSNOVNA ŠOLA}, {kratko}",10,1.0
+"{Okužba s Covid-19 pri vzgojitelju}, {srednje}",9,0.9
+"{Okužba s Covid-19 pri učitelju}, {veliko}",9,0.9
+"{kratko}, {veliko}",9,0.9
+"{VRTEC}, {veliko}",9,0.9
+"{OSNOVNA ŠOLA}, {veliko}",9,0.9
+"{malo}, {srednje}",9,0.9
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učitelju}",9,0.9
+"{Okužba s Covid-19 pri učitelju}, {malo}",9,0.9
+"{Okužba s Covid-19 pri učitelju}, {VRTEC}",10,1.0
+"{Okužba s Covid-19 pri učitelju}, {srednje}",10,1.0
+"{kratko}, {malo}",9,0.9
+"{OSNOVNA ŠOLA}, {VRTEC}, {srednje}",10,1.0
+"{OSNOVNA ŠOLA}, {kratko}, {malo}",9,0.9
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učitelju}, {srednje}",9,0.9
+"{Okužba s Covid-19 pri učitelju}, {kratko}, {srednje}",10,1.0
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učitelju}, {kratko}",9,0.9
+"{OSNOVNA ŠOLA}, {VRTEC}, {veliko}",9,0.9
+"{OSNOVNA ŠOLA}, {srednje}, {veliko}",9,0.9
+"{OSNOVNA ŠOLA}, {kratko}, {srednje}",10,1.0
+"{OSNOVNA ŠOLA}, {kratko}, {veliko}",9,0.9
+"{Okužba s Covid-19 pri učitelju}, {malo}, {srednje}",9,0.9
+"{Okužba s Covid-19 pri učitelju}, {VRTEC}, {srednje}",10,1.0
+"{Okužba s Covid-19 pri učitelju}, {srednje}, {veliko}",9,0.9
+"{kratko}, {malo}, {srednje}",9,0.9
+"{kratko}, {srednje}, {veliko}",9,0.9
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učitelju}, {malo}",9,0.9
+"{VRTEC}, {kratko}, {srednje}",9,0.9
+"{OSNOVNA ŠOLA}, {malo}, {srednje}",9,0.9
+"{OSNOVNA ŠOLA}, {VRTEC}, {kratko}",9,0.9
+"{OSNOVNA ŠOLA}, {VRTEC}, {kratko}, {srednje}",9,0.9
+"{OSNOVNA ŠOLA}, {kratko}, {malo}, {srednje}",9,0.9
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učitelju}, {malo}, {srednje}",9,0.9
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učitelju}, {kratko}, {srednje}",9,0.9

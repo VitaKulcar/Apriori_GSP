@@ -1,0 +1,4 @@
+Rule,Confidence
+{srednje} => {VRTEC},0.9166666666666666
+{srednje} => {srednje},0.9166666666666666
+"{srednje} => {VRTEC, srednje}",0.9166666666666666

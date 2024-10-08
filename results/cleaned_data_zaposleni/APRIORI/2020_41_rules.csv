@@ -1,0 +1,5 @@
+Rule,Confidence
+{Sum na okužbo} => {Učitelj},0.9166666666666666
+{Učitelj} => {Sum na okužbo},0.9166666666666666
+{Učitelj} => {srednje},0.9166666666666666
+{srednje} => {Učitelj},0.9166666666666666

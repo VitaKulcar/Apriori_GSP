@@ -1,0 +1,10 @@
+Rule,Confidence
+{OSNOVNA ŠOLA} => {srednje},1.0
+{srednje} => {VRTEC},1.0
+{srednje} => {srednje},1.0
+{OSNOVNA ŠOLA} => {VRTEC},1.0
+"{srednje} => {VRTEC, srednje}",1.0
+"{OSNOVNA ŠOLA} => {VRTEC, srednje}",1.0
+"{OSNOVNA ŠOLA, srednje} => {VRTEC}",1.0
+"{OSNOVNA ŠOLA, srednje} => {srednje}",1.0
+"{OSNOVNA ŠOLA, srednje} => {VRTEC, srednje}",1.0

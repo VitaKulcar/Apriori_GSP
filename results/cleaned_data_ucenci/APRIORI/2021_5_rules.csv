@@ -1,0 +1,5 @@
+Rule,Confidence
+{OSNOVNA ŠOLA} => {srednje},0.9090909090909091
+{srednje} => {OSNOVNA ŠOLA},1.0
+{Sum na okužbo} => {srednje},0.9090909090909091
+{srednje} => {Sum na okužbo},1.0

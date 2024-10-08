@@ -1,0 +1,18 @@
+Sequence,Support,Relative Frequency
+{SREDNJA ŠOLA},1,1.0
+{Okužba s Covid-19 pri otroku ali več otrocih skupine},1,1.0
+{Jugovzhodna Slovenija},1,1.0
+{VRTEC},1,1.0
+{Okužba s Covid-19 pri dijaku ali več dijakih oddelka},1,1.0
+{veliko},1,1.0
+{srednje},1,1.0
+"{Okužba s Covid-19 pri otroku ali več otrocih skupine}, {SREDNJA ŠOLA}",1,1.0
+"{VRTEC}, {veliko}",1,1.0
+"{VRTEC}, {srednje}",1,1.0
+"{Jugovzhodna Slovenija}, {veliko}",1,1.0
+"{Jugovzhodna Slovenija}, {Okužba s Covid-19 pri dijaku ali več dijakih oddelka}",1,1.0
+"{srednje}, {veliko}",1,1.0
+"{Okužba s Covid-19 pri otroku ali več otrocih skupine}, {veliko}",1,1.0
+"{Jugovzhodna Slovenija}, {srednje}",1,1.0
+"{Okužba s Covid-19 pri otroku ali več otrocih skupine}, {srednje}",1,1.0
+"{Jugovzhodna Slovenija}, {SREDNJA ŠOLA}",1,1.0

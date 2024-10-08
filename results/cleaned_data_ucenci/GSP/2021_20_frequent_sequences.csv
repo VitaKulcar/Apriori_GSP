@@ -1,0 +1,14 @@
+Sequence,Support,Relative Frequency
+{Sum na okužbo},12,1.0
+{OSNOVNA ŠOLA},12,1.0
+{srednje},12,1.0
+"{Sum na okužbo, srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{Sum na okužbo}, {Sum na okužbo}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}",11,0.9166666666666666
+"{srednje}, {Sum na okužbo}",12,1.0
+"{Sum na okužbo, srednje}, {Sum na okužbo}",11,0.9166666666666666
+"{srednje}, {Sum na okužbo, srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Sum na okužbo}",11,0.9166666666666666

@@ -1,0 +1,249 @@
+Sequence,Support,Relative Frequency
+{Okužba s Covid-19},1,1.0
+{Sum na okužbo},1,1.0
+{VRTEC},1,1.0
+{Posavska},1,1.0
+{srednje},1,1.0
+"{VRTEC}, {VRTEC}",1,1.0
+"{Okužba s Covid-19}, {Sum na okužbo}",1,1.0
+"{Posavska}, {Posavska}",1,1.0
+"{srednje}, {Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, srednje}",1,1.0
+"{VRTEC}, {srednje}",1,1.0
+"{Posavska}, {Sum na okužbo}",1,1.0
+"{Sum na okužbo, VRTEC}",1,1.0
+"{Sum na okužbo, srednje}",1,1.0
+"{VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska}",1,1.0
+"{VRTEC}, {Posavska}",1,1.0
+"{VRTEC}, {Sum na okužbo}",1,1.0
+"{Posavska, VRTEC}",1,1.0
+"{Posavska, srednje}",1,1.0
+"{Okužba s Covid-19}, {VRTEC}",1,1.0
+"{srednje}, {VRTEC}",1,1.0
+"{srednje}, {srednje}",1,1.0
+"{Okužba s Covid-19}, {srednje}",1,1.0
+"{Posavska}, {VRTEC}",1,1.0
+"{Posavska}, {srednje}",1,1.0
+"{srednje}, {Posavska}",1,1.0
+"{Posavska, Sum na okužbo}",1,1.0
+"{Okužba s Covid-19}, {Posavska}",1,1.0
+"{Okužba s Covid-19, VRTEC}",1,1.0
+"{Okužba s Covid-19}, {Posavska, srednje}",1,1.0
+"{Okužba s Covid-19, srednje}, {Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, VRTEC}, {VRTEC}",1,1.0
+"{Posavska}, {Posavska, VRTEC}",1,1.0
+"{VRTEC, srednje}, {srednje}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Posavska}",1,1.0
+"{VRTEC}, {Sum na okužbo, VRTEC}",1,1.0
+"{Posavska}, {Posavska, srednje}",1,1.0
+"{VRTEC}, {Sum na okužbo, srednje}",1,1.0
+"{VRTEC}, {VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC}, {srednje}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Sum na okužbo}",1,1.0
+"{Posavska, srednje}, {VRTEC}",1,1.0
+"{Posavska, srednje}, {srednje}",1,1.0
+"{VRTEC, srednje}, {Posavska}",1,1.0
+"{VRTEC}, {Posavska, VRTEC}",1,1.0
+"{Okužba s Covid-19}, {Posavska, Sum na okužbo}",1,1.0
+"{srednje}, {Posavska, Sum na okužbo}",1,1.0
+"{Posavska, VRTEC}, {VRTEC}",1,1.0
+"{Okužba s Covid-19, VRTEC}, {Posavska}",1,1.0
+"{VRTEC, srednje}, {Sum na okužbo}",1,1.0
+"{VRTEC}, {Posavska, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC}",1,1.0
+"{Posavska, Sum na okužbo, VRTEC}",1,1.0
+"{Posavska, VRTEC}, {srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC}, {Sum na okužbo}",1,1.0
+"{Posavska}, {Posavska, Sum na okužbo}",1,1.0
+"{Posavska, Sum na okužbo, srednje}",1,1.0
+"{Posavska, srednje}, {Posavska}",1,1.0
+"{Posavska, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC, srednje}",1,1.0
+"{srednje}, {Posavska, srednje}",1,1.0
+"{Posavska, srednje}, {Sum na okužbo}",1,1.0
+"{Okužba s Covid-19}, {Sum na okužbo, VRTEC}",1,1.0
+"{Okužba s Covid-19, srednje}, {VRTEC}",1,1.0
+"{Okužba s Covid-19}, {Sum na okužbo, srednje}",1,1.0
+"{srednje}, {Sum na okužbo, VRTEC}",1,1.0
+"{Posavska, VRTEC}, {Posavska}",1,1.0
+"{Okužba s Covid-19}, {VRTEC, srednje}",1,1.0
+"{srednje}, {Sum na okužbo, srednje}",1,1.0
+"{srednje}, {VRTEC, srednje}",1,1.0
+"{Posavska}, {Sum na okužbo, VRTEC}",1,1.0
+"{VRTEC}, {Posavska, Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, srednje}, {srednje}",1,1.0
+"{Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska}, {VRTEC}",1,1.0
+"{Posavska, VRTEC}, {Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}",1,1.0
+"{Posavska}, {Sum na okužbo, srednje}",1,1.0
+"{Posavska}, {VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska}, {srednje}",1,1.0
+"{srednje}, {Posavska, VRTEC}",1,1.0
+"{Okužba s Covid-19, srednje}, {Posavska}",1,1.0
+"{Okužba s Covid-19}, {Posavska, VRTEC}",1,1.0
+"{VRTEC, srednje}, {VRTEC}",1,1.0
+"{Okužba s Covid-19, srednje}, {Posavska, VRTEC}",1,1.0
+"{srednje}, {Posavska, VRTEC, srednje}",1,1.0
+"{Posavska}, {Posavska, Sum na okužbo, VRTEC}",1,1.0
+"{Okužba s Covid-19, srednje}, {Posavska, srednje}",1,1.0
+"{VRTEC, srednje}, {Sum na okužbo, VRTEC}",1,1.0
+"{Posavska}, {Posavska, Sum na okužbo, srednje}",1,1.0
+"{VRTEC, srednje}, {Sum na okužbo, srednje}",1,1.0
+"{VRTEC, srednje}, {VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Posavska, VRTEC}",1,1.0
+"{Posavska}, {Posavska, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC}, {Sum na okužbo, VRTEC}",1,1.0
+"{Posavska, VRTEC}, {Posavska, Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Posavska, srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC}, {Sum na okužbo, srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC, srednje}, {VRTEC}",1,1.0
+"{Okužba s Covid-19, VRTEC}, {VRTEC, srednje}",1,1.0
+"{srednje}, {Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19}, {Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Posavska, srednje}, {Sum na okužbo, VRTEC}",1,1.0
+"{Okužba s Covid-19, VRTEC, srednje}, {srednje}",1,1.0
+"{VRTEC}, {Posavska, Sum na okužbo, VRTEC}",1,1.0
+"{VRTEC, srednje}, {Posavska, VRTEC}",1,1.0
+"{Posavska, srednje}, {Sum na okužbo, srednje}",1,1.0
+"{Posavska}, {Sum na okužbo, VRTEC, srednje}",1,1.0
+"{VRTEC, srednje}, {Posavska, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC}, {VRTEC}",1,1.0
+"{VRTEC}, {Posavska, Sum na okužbo, srednje}",1,1.0
+"{Posavska, srednje}, {VRTEC, srednje}",1,1.0
+"{VRTEC}, {Posavska, VRTEC, srednje}",1,1.0
+"{Posavska, VRTEC, srednje}, {VRTEC}",1,1.0
+"{Okužba s Covid-19, srednje}, {Posavska, Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, VRTEC}, {Posavska, VRTEC}",1,1.0
+"{Posavska, VRTEC}, {Sum na okužbo, VRTEC}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC}, {srednje}",1,1.0
+"{Posavska, VRTEC, srednje}, {srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {VRTEC}",1,1.0
+"{Okužba s Covid-19, VRTEC}, {Posavska, srednje}",1,1.0
+"{Posavska, VRTEC}, {Sum na okužbo, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {srednje}",1,1.0
+"{Posavska, VRTEC}, {VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC, srednje}, {Posavska}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Posavska, Sum na okužbo}",1,1.0
+"{Posavska, srednje}, {Posavska, VRTEC}",1,1.0
+"{Okužba s Covid-19, VRTEC, srednje}, {Sum na okužbo}",1,1.0
+"{Posavska, srednje}, {Posavska, srednje}",1,1.0
+"{VRTEC}, {Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC}, {Posavska}",1,1.0
+"{Posavska, VRTEC, srednje}, {Posavska}",1,1.0
+"{Posavska, VRTEC}, {Posavska, VRTEC}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Posavska}",1,1.0
+"{VRTEC, srednje}, {Posavska, Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, srednje}, {Sum na okužbo, VRTEC}",1,1.0
+"{Okužba s Covid-19, srednje}, {Sum na okužbo, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC}, {Sum na okužbo}",1,1.0
+"{Posavska, VRTEC, srednje}, {Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, srednje}, {VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC}, {Posavska, Sum na okužbo}",1,1.0
+"{Posavska, VRTEC}, {Posavska, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Sum na okužbo}",1,1.0
+"{Okužba s Covid-19}, {Posavska, Sum na okužbo, VRTEC}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Sum na okužbo, VRTEC}",1,1.0
+"{srednje}, {Posavska, Sum na okužbo, VRTEC}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Sum na okužbo, srednje}",1,1.0
+"{Posavska, Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska}, {VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19}, {Posavska, Sum na okužbo, srednje}",1,1.0
+"{Posavska, srednje}, {Posavska, Sum na okužbo}",1,1.0
+"{Okužba s Covid-19}, {Posavska, VRTEC, srednje}",1,1.0
+"{srednje}, {Posavska, Sum na okužbo, srednje}",1,1.0
+"{Posavska, VRTEC}, {Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, srednje}, {Posavska, Sum na okužbo, srednje}",1,1.0
+"{Okužba s Covid-19, srednje}, {Posavska, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Posavska, Sum na okužbo, VRTEC}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC}, {Posavska, Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Posavska, Sum na okužbo, srednje}",1,1.0
+"{Posavska, VRTEC, srednje}, {Posavska, Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Posavska, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Posavska, Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, VRTEC, srednje}, {Sum na okužbo, VRTEC}",1,1.0
+"{VRTEC, srednje}, {Posavska, Sum na okužbo, VRTEC}",1,1.0
+"{Okužba s Covid-19, srednje}, {Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC, srednje}, {Sum na okužbo, srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC, srednje}, {VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC}, {Posavska, Sum na okužbo, VRTEC}",1,1.0
+"{Okužba s Covid-19}, {Posavska, Sum na okužbo, VRTEC, srednje}",1,1.0
+"{VRTEC, srednje}, {Posavska, Sum na okužbo, srednje}",1,1.0
+"{VRTEC, srednje}, {Posavska, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Sum na okužbo, VRTEC, srednje}",1,1.0
+"{srednje}, {Posavska, Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC}, {Sum na okužbo, VRTEC}",1,1.0
+"{Posavska, VRTEC, srednje}, {Sum na okužbo, VRTEC}",1,1.0
+"{Posavska}, {Posavska, Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC}, {Posavska, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC}, {Posavska, Sum na okužbo, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC}, {Sum na okužbo, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC, srednje}, {VRTEC}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC}, {VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Sum na okužbo, VRTEC}",1,1.0
+"{Posavska, VRTEC, srednje}, {Sum na okužbo, srednje}",1,1.0
+"{Posavska, srednje}, {Posavska, Sum na okužbo, VRTEC}",1,1.0
+"{VRTEC, srednje}, {Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Posavska, VRTEC, srednje}, {VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC, srednje}, {Posavska, VRTEC}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Sum na okužbo, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {VRTEC, srednje}",1,1.0
+"{Posavska, srednje}, {Posavska, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC, srednje}, {Posavska, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC, srednje}, {srednje}",1,1.0
+"{Posavska, srednje}, {Posavska, Sum na okužbo, srednje}",1,1.0
+"{Posavska, VRTEC}, {Posavska, Sum na okužbo, VRTEC}",1,1.0
+"{Okužba s Covid-19, VRTEC}, {Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC, srednje}, {Posavska}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC}, {Posavska, VRTEC}",1,1.0
+"{Posavska, VRTEC}, {Posavska, Sum na okužbo, srednje}",1,1.0
+"{VRTEC}, {Posavska, Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Posavska, VRTEC, srednje}, {Posavska, VRTEC}",1,1.0
+"{Posavska, VRTEC}, {Posavska, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC}, {Posavska, srednje}",1,1.0
+"{Posavska, VRTEC, srednje}, {Posavska, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Posavska, VRTEC}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Posavska, srednje}",1,1.0
+"{Posavska, srednje}, {Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC, srednje}, {Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, VRTEC, srednje}, {Posavska, Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, srednje}, {Posavska, Sum na okužbo, VRTEC}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC}, {Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Posavska, VRTEC, srednje}, {Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Posavska, VRTEC}, {Posavska, Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC, srednje}, {Posavska, Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, srednje}, {Posavska, Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC, srednje}, {Posavska, Sum na okužbo, VRTEC}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC, srednje}, {Sum na okužbo, VRTEC}",1,1.0
+"{Okužba s Covid-19, VRTEC, srednje}, {Posavska, Sum na okužbo, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Posavska, Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC, srednje}, {Sum na okužbo, srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC, srednje}, {Posavska, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC, srednje}, {VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC}, {Posavska, Sum na okužbo, VRTEC}",1,1.0
+"{Posavska, VRTEC, srednje}, {Posavska, Sum na okužbo, VRTEC}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Posavska, Sum na okužbo, VRTEC}",1,1.0
+"{Posavska, VRTEC, srednje}, {Posavska, Sum na okužbo, srednje}",1,1.0
+"{VRTEC, srednje}, {Posavska, Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC}, {Posavska, Sum na okužbo, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC}, {Posavska, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC, srednje}, {Posavska, VRTEC}",1,1.0
+"{Okužba s Covid-19, VRTEC, srednje}, {Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC}, {Posavska, Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Posavska, Sum na okužbo, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC, srednje}, {Posavska, srednje}",1,1.0
+"{Posavska, VRTEC, srednje}, {Posavska, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Posavska, VRTEC, srednje}",1,1.0
+"{Posavska, srednje}, {Posavska, Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC, srednje}, {Posavska, Sum na okužbo, VRTEC}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC, srednje}, {Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC, srednje}, {Posavska, Sum na okužbo, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC, srednje}, {Posavska, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC}, {Posavska, Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Posavska, VRTEC, srednje}, {Posavska, Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, VRTEC, srednje}, {Posavska, Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Posavska, Sum na okužbo, VRTEC, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska, VRTEC, srednje}, {Posavska, Sum na okužbo, VRTEC, srednje}",1,1.0

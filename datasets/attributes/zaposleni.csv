@@ -1,5 +1,5 @@
 Feature,Attributes
-REGIJA,"Eastern Slovenia, Western Slovenia, Central Slovenia"
+REGIJA,"Savinjska, Podravska, Posavska, Koroška, Gorenjska, Zasavska, Osrednjeslovenska, Goriška, Jugovzhodna Slovenija, Pomurska, Primorsko-notranjska, Obalno-kraška"
 DELOVNO_MESTO,"Učitelj, Drugi strokovni delavec, Predavatelj, Vzgojitelj, Drugi delavci"
 VZROK,"Sum na okužbo, Okužba s Covid-19"
 TRAJANJE,"srednje, kratko, dolgo"

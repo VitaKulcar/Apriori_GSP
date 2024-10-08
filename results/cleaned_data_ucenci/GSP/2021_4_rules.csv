@@ -1,0 +1,3 @@
+Rule,Confidence
+{srednje} => {srednje},0.9166666666666666
+{srednje} => {Sum na okužbo},0.9166666666666666

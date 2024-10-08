@@ -1,0 +1,11 @@
+Rule,Confidence
+{Sum na okužbo} => {srednje},1.0
+{srednje} => {Sum na okužbo},1.0
+{Vzgojitelj} => {srednje},1.0
+{srednje} => {Vzgojitelj},0.9166666666666666
+{Drugi strokovni delavec} => {srednje},1.0
+{srednje} => {Drugi strokovni delavec},0.9166666666666666
+{Drugi strokovni delavec} => {Okužba s Covid-19},1.0
+{Okužba s Covid-19} => {Drugi strokovni delavec},0.9166666666666666
+{Okužba s Covid-19} => {srednje},0.9166666666666666
+{srednje} => {Okužba s Covid-19},0.9166666666666666

@@ -1,0 +1,5 @@
+Rule,Confidence
+{OSNOVNA ŠOLA} => {srednje},1.0
+{srednje} => {OSNOVNA ŠOLA},0.9
+{OSNOVNA ŠOLA} => {VRTEC},1.0
+{VRTEC} => {OSNOVNA ŠOLA},0.9

@@ -1,0 +1,39 @@
+Sequence,Support,Relative Frequency
+{Sum na okužbo},11,1.0
+{Okužba s Covid-19},11,1.0
+{Učitelj},11,1.0
+{srednje},11,1.0
+"{Sum na okužbo, srednje}",10,0.9090909090909091
+"{Učitelj}, {Učitelj}",10,0.9090909090909091
+"{Sum na okužbo}, {srednje}",10,0.9090909090909091
+"{Sum na okužbo, Učitelj}",11,1.0
+"{Učitelj}, {srednje}",10,0.9090909090909091
+"{Sum na okužbo}, {Okužba s Covid-19}",10,0.9090909090909091
+"{Sum na okužbo}, {Učitelj}",10,0.9090909090909091
+"{Učitelj}, {Okužba s Covid-19}",10,0.9090909090909091
+"{Okužba s Covid-19, srednje}",11,1.0
+"{Učitelj, srednje}",11,1.0
+"{srednje}, {srednje}",11,1.0
+"{Okužba s Covid-19}, {srednje}",10,0.9090909090909091
+"{srednje}, {Okužba s Covid-19}",10,0.9090909090909091
+"{srednje}, {Učitelj}",11,1.0
+"{srednje}, {Sum na okužbo}",11,1.0
+"{srednje}, {Učitelj}, {Okužba s Covid-19}",10,0.9090909090909091
+"{srednje}, {Sum na okužbo}, {Okužba s Covid-19}",10,0.9090909090909091
+"{Okužba s Covid-19, srednje}, {srednje}",10,0.9090909090909091
+"{Sum na okužbo, Učitelj}, {Učitelj}",10,0.9090909090909091
+"{srednje}, {srednje}, {srednje}",10,0.9090909090909091
+"{Sum na okužbo, Učitelj}, {srednje}",10,0.9090909090909091
+"{srednje}, {srednje}, {Okužba s Covid-19}",10,0.9090909090909091
+"{srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{Sum na okužbo, Učitelj}, {Okužba s Covid-19}",10,0.9090909090909091
+"{srednje}, {Učitelj, srednje}",10,0.9090909090909091
+"{Učitelj}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{srednje}, {Sum na okužbo}, {srednje}",10,0.9090909090909091
+"{Sum na okužbo}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{srednje}, {Sum na okužbo, srednje}",10,0.9090909090909091
+"{srednje}, {Učitelj}, {srednje}",10,0.9090909090909091
+"{srednje}, {srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{srednje}, {Učitelj}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{Sum na okužbo, Učitelj}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{srednje}, {Sum na okužbo}, {Okužba s Covid-19, srednje}",10,0.9090909090909091

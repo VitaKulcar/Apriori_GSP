@@ -1,0 +1,8 @@
+Rule,Confidence
+{OSNOVNA ŠOLA} => {srednje},0.9166666666666666
+{srednje} => {srednje},1.0
+{Okužba s Covid-19} => {srednje},0.9166666666666666
+{srednje} => {Okužba s Covid-19},0.9166666666666666
+"{srednje} => {Okužba s Covid-19, srednje}",0.9166666666666666
+"{OSNOVNA ŠOLA, srednje} => {srednje}",0.9166666666666666
+"{Okužba s Covid-19, srednje} => {srednje}",0.9166666666666666

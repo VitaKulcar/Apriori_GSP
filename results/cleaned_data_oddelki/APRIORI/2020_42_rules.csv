@@ -1,0 +1,11 @@
+Rule,Confidence
+{kratko} => {srednje},0.9090909090909091
+{srednje} => {kratko},0.9090909090909091
+{OSNOVNA ŠOLA} => {srednje},0.9090909090909091
+{srednje} => {OSNOVNA ŠOLA},0.9090909090909091
+{OSNOVNA ŠOLA} => {kratko},0.9090909090909091
+{kratko} => {OSNOVNA ŠOLA},0.9090909090909091
+{malo} => {srednje},1.0
+{srednje} => {malo},0.9090909090909091
+{OSNOVNA ŠOLA} => {malo},0.9090909090909091
+{malo} => {OSNOVNA ŠOLA},1.0

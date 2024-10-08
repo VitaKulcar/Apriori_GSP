@@ -1,0 +1,17 @@
+Rule,Confidence
+{OSNOVNA ŠOLA} => {srednje},1.0
+{srednje} => {OSNOVNA ŠOLA},1.0
+{OSNOVNA ŠOLA} => {SREDNJA ŠOLA},0.9166666666666666
+{SREDNJA ŠOLA} => {OSNOVNA ŠOLA},1.0
+{Okužba s Covid-19 pri učencu ali več učencih oddelka} => {srednje},0.9166666666666666
+{srednje} => {Okužba s Covid-19 pri učencu ali več učencih oddelka},0.9166666666666666
+{OSNOVNA ŠOLA} => {Okužba s Covid-19 pri dijaku ali več dijakih oddelka},0.9166666666666666
+{Okužba s Covid-19 pri dijaku ali več dijakih oddelka} => {OSNOVNA ŠOLA},1.0
+{OSNOVNA ŠOLA} => {Okužba s Covid-19 pri učencu ali več učencih oddelka},1.0
+{Okužba s Covid-19 pri učencu ali več učencih oddelka} => {OSNOVNA ŠOLA},1.0
+"{OSNOVNA ŠOLA} => {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka} => {OSNOVNA ŠOLA}, {srednje}",0.9166666666666666
+"{srednje} => {OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",0.9166666666666666
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka} => {srednje}",0.9166666666666666
+"{OSNOVNA ŠOLA}, {srednje} => {Okužba s Covid-19 pri učencu ali več učencih oddelka}",0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje} => {OSNOVNA ŠOLA}",1.0

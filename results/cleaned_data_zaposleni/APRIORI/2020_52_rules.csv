@@ -1,0 +1,9 @@
+Rule,Confidence
+{Okužba s Covid-19} => {Sum na okužbo},0.9166666666666666
+{Sum na okužbo} => {Okužba s Covid-19},0.9166666666666666
+{Drugi delavci} => {srednje},1.0
+{srednje} => {Drugi delavci},0.9166666666666666
+{Okužba s Covid-19} => {srednje},1.0
+{srednje} => {Okužba s Covid-19},1.0
+{Okužba s Covid-19} => {Vzgojitelj},0.9166666666666666
+{Vzgojitelj} => {Okužba s Covid-19},0.9166666666666666

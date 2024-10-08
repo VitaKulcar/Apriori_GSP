@@ -1,0 +1,11 @@
+Sequence,Support,Relative Frequency
+{Okužba s Covid-19},12,1.0
+{Drugi strokovni delavec},11,0.9166666666666666
+{Drugi delavci},11,0.9166666666666666
+{Sum na okužbo},11,0.9166666666666666
+{Vzgojitelj},11,0.9166666666666666
+{Učitelj},11,0.9166666666666666
+{srednje},12,1.0
+"{Okužba s Covid-19}, {Sum na okužbo}",11,0.9166666666666666
+"{Okužba s Covid-19}, {srednje}",12,1.0
+"{Drugi strokovni delavec}, {srednje}",11,0.9166666666666666

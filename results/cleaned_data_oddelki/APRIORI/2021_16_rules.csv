@@ -1,0 +1,11 @@
+Rule,Confidence
+{OSNOVNA ŠOLA} => {srednje},1.0
+{srednje} => {OSNOVNA ŠOLA},0.9166666666666666
+{Okužba s Covid-19 pri učencu ali več učencih oddelka} => {srednje},1.0
+{srednje} => {Okužba s Covid-19 pri učencu ali več učencih oddelka},0.9166666666666666
+{Okužba s Covid-19 pri učencu ali več učencih oddelka} => {veliko},1.0
+{veliko} => {Okužba s Covid-19 pri učencu ali več učencih oddelka},1.0
+{srednje} => {veliko},0.9166666666666666
+{veliko} => {srednje},1.0
+{OSNOVNA ŠOLA} => {veliko},1.0
+{veliko} => {OSNOVNA ŠOLA},1.0

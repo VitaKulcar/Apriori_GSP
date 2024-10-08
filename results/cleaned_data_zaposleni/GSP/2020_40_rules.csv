@@ -1,0 +1,2 @@
+Rule,Confidence
+{Sum na okužbo} => {Sum na okužbo},0.9

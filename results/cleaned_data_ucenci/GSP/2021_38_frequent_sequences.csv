@@ -1,0 +1,200 @@
+Sequence,Support,Relative Frequency
+{Okužba s Covid-19},12,1.0
+{kratko},11,0.9166666666666666
+{Sum na okužbo},12,1.0
+{VRTEC},11,0.9166666666666666
+{OSNOVNA ŠOLA},12,1.0
+{srednje},12,1.0
+"{Okužba s Covid-19}, {Sum na okužbo}",11,0.9166666666666666
+"{kratko}, {srednje}",11,0.9166666666666666
+"{kratko}, {Okužba s Covid-19}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}",12,1.0
+"{Okužba s Covid-19, srednje}",12,1.0
+"{OSNOVNA ŠOLA, kratko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {VRTEC}",11,0.9166666666666666
+"{Sum na okužbo, VRTEC}",11,0.9166666666666666
+"{Sum na okužbo, srednje}",12,1.0
+"{Sum na okužbo}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19}",12,1.0
+"{Sum na okužbo, kratko}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19}",12,1.0
+"{OSNOVNA ŠOLA, Sum na okužbo}",12,1.0
+"{Sum na okužbo}, {VRTEC}",11,0.9166666666666666
+"{Sum na okužbo}, {srednje}",12,1.0
+"{Sum na okužbo}, {Okužba s Covid-19}",12,1.0
+"{Okužba s Covid-19}, {VRTEC}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Sum na okužbo}",12,1.0
+"{srednje}, {VRTEC}",11,0.9166666666666666
+"{srednje}, {srednje}",12,1.0
+"{Okužba s Covid-19}, {srednje}",11,0.9166666666666666
+"{kratko}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19}",12,1.0
+"{Sum na okužbo}, {Sum na okužbo}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",12,1.0
+"{srednje}, {Sum na okužbo}",12,1.0
+"{Sum na okužbo, srednje}, {VRTEC}",11,0.9166666666666666
+"{Sum na okužbo, kratko}, {srednje}",11,0.9166666666666666
+"{Sum na okužbo, kratko}, {Okužba s Covid-19}",11,0.9166666666666666
+"{srednje}, {Sum na okužbo}, {VRTEC}",11,0.9166666666666666
+"{Sum na okužbo}, {OSNOVNA ŠOLA}, {VRTEC}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19}, {VRTEC}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Sum na okužbo}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}",12,1.0
+"{Sum na okužbo}, {Sum na okužbo}, {VRTEC}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, kratko}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{srednje}, {srednje}, {Sum na okužbo}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {Okužba s Covid-19}",11,0.9166666666666666
+"{Okužba s Covid-19, srednje}, {VRTEC}",11,0.9166666666666666
+"{kratko}, {Okužba s Covid-19, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, kratko}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo, srednje}",12,1.0
+"{OSNOVNA ŠOLA, kratko}, {Okužba s Covid-19}",11,0.9166666666666666
+"{Sum na okužbo, srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {Sum na okužbo}, {Sum na okužbo}",11,0.9166666666666666
+"{Sum na okužbo, srednje}, {Okužba s Covid-19}",12,1.0
+"{OSNOVNA ŠOLA, Sum na okužbo}, {OSNOVNA ŠOLA}",12,1.0
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19, srednje}",12,1.0
+"{Sum na okužbo}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{Sum na okužbo}, {OSNOVNA ŠOLA}, {Okužba s Covid-19}",11,0.9166666666666666
+"{srednje}, {srednje}, {VRTEC}",11,0.9166666666666666
+"{kratko}, {OSNOVNA ŠOLA, Okužba s Covid-19}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Sum na okužbo}, {Okužba s Covid-19}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Sum na okužbo}",11,0.9166666666666666
+"{Sum na okužbo}, {Sum na okužbo}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{Sum na okužbo}, {Sum na okužbo}, {Okužba s Covid-19}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{Sum na okužbo}, {OSNOVNA ŠOLA, Okužba s Covid-19}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA}, {Okužba s Covid-19}",11,0.9166666666666666
+"{Sum na okužbo}, {OSNOVNA ŠOLA, Sum na okužbo}",11,0.9166666666666666
+"{Sum na okužbo, srednje}, {OSNOVNA ŠOLA}",12,1.0
+"{srednje}, {Sum na okužbo}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{Sum na okužbo}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {Sum na okužbo}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19}",12,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}",12,1.0
+"{Okužba s Covid-19}, {Sum na okužbo}, {VRTEC}",11,0.9166666666666666
+"{srednje}, {Sum na okužbo}, {srednje}",12,1.0
+"{srednje}, {Sum na okužbo}, {Okužba s Covid-19}",11,0.9166666666666666
+"{Sum na okužbo}, {Sum na okužbo}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{Sum na okužbo, srednje}, {Sum na okužbo}",12,1.0
+"{Sum na okužbo}, {Okužba s Covid-19, srednje}",12,1.0
+"{srednje}, {Okužba s Covid-19}, {srednje}",11,0.9166666666666666
+"{Sum na okužbo}, {OSNOVNA ŠOLA}, {Sum na okužbo}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {VRTEC}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Sum na okužbo}, {VRTEC}",11,0.9166666666666666
+"{srednje}, {Sum na okužbo, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}, {Sum na okužbo}",12,1.0
+"{Okužba s Covid-19, srednje}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19}",12,1.0
+"{kratko}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{Sum na okužbo}, {Sum na okužbo}, {Sum na okužbo}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {Sum na okužbo}",11,0.9166666666666666
+"{Okužba s Covid-19, srednje}, {Sum na okužbo}",11,0.9166666666666666
+"{Okužba s Covid-19}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {Sum na okužbo}",12,1.0
+"{srednje}, {srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}, {VRTEC}",11,0.9166666666666666
+"{Sum na okužbo}, {OSNOVNA ŠOLA, srednje}",12,1.0
+"{srednje}, {Sum na okužbo}, {Sum na okužbo}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19, srednje}",12,1.0
+"{srednje}, {OSNOVNA ŠOLA}, {VRTEC}",11,0.9166666666666666
+"{Okužba s Covid-19}, {Sum na okužbo, srednje}",11,0.9166666666666666
+"{Sum na okužbo, kratko}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Sum na okužbo}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {Sum na okužbo}, {Okužba s Covid-19}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19}, {Sum na okužbo}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {VRTEC}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Okužba s Covid-19, srednje}",12,1.0
+"{OSNOVNA ŠOLA, Sum na okužbo, kratko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo, kratko}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{srednje}, {Sum na okužbo}, {Okužba s Covid-19, srednje}",11,0.9166666666666666
+"{srednje}, {srednje}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, kratko}, {OSNOVNA ŠOLA, Okužba s Covid-19}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo, srednje}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{Sum na okužbo}, {OSNOVNA ŠOLA}, {Okužba s Covid-19, srednje}",11,0.9166666666666666
+"{Sum na okužbo, srednje}, {Sum na okužbo}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19}",11,0.9166666666666666
+"{Sum na okužbo}, {OSNOVNA ŠOLA, Sum na okužbo}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {VRTEC}",11,0.9166666666666666
+"{Sum na okužbo, kratko}, {OSNOVNA ŠOLA, Okužba s Covid-19}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Sum na okužbo}, {OSNOVNA ŠOLA}, {VRTEC}",11,0.9166666666666666
+"{Sum na okužbo, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19}",12,1.0
+"{Sum na okužbo}, {OSNOVNA ŠOLA}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo, srednje}, {VRTEC}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}, {Okužba s Covid-19, srednje}",12,1.0
+"{Sum na okužbo}, {OSNOVNA ŠOLA, Okužba s Covid-19, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}, {OSNOVNA ŠOLA, srednje}",11,0.9166666666666666
+"{Sum na okužbo}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo, kratko}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {VRTEC}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{srednje}, {Sum na okužbo}, {OSNOVNA ŠOLA, Okužba s Covid-19}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo, srednje}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Sum na okužbo}, {OSNOVNA ŠOLA}, {Okužba s Covid-19}",11,0.9166666666666666
+"{Sum na okužbo, srednje}, {Sum na okužbo}, {Sum na okužbo}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo, srednje}, {Okužba s Covid-19}",12,1.0
+"{OSNOVNA ŠOLA, Sum na okužbo}, {Sum na okužbo}, {OSNOVNA ŠOLA}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo, kratko}, {Okužba s Covid-19}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {Okužba s Covid-19, srednje}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19}, {Sum na okužbo, srednje}",11,0.9166666666666666
+"{Sum na okužbo}, {OSNOVNA ŠOLA, Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{Sum na okužbo}, {Sum na okužbo}, {Okužba s Covid-19, srednje}",11,0.9166666666666666
+"{Sum na okužbo}, {OSNOVNA ŠOLA, Sum na okužbo}, {Okužba s Covid-19}",11,0.9166666666666666
+"{Sum na okužbo, srednje}, {OSNOVNA ŠOLA}, {VRTEC}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {Okužba s Covid-19, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {Sum na okužbo}, {srednje}",12,1.0
+"{Sum na okužbo, srednje}, {OSNOVNA ŠOLA}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA, Sum na okužbo}, {Sum na okužbo}, {VRTEC}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}, {OSNOVNA ŠOLA, Okužba s Covid-19}",12,1.0
+"{OSNOVNA ŠOLA, Sum na okužbo}, {OSNOVNA ŠOLA}, {Sum na okužbo}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}, {OSNOVNA ŠOLA, Sum na okužbo}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}, {Sum na okužbo}, {Okužba s Covid-19}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Sum na okužbo}, {Okužba s Covid-19}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}, {Sum na okužbo}, {srednje}",12,1.0
+"{Okužba s Covid-19, srednje}, {Sum na okužbo}, {VRTEC}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Sum na okužbo}, {Okužba s Covid-19, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo, srednje}, {Sum na okužbo}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA, srednje}, {Sum na okužbo}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, kratko}, {Okužba s Covid-19, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}",12,1.0
+"{Okužba s Covid-19, srednje}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {Sum na okužbo}, {Sum na okužbo}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19, srednje}",12,1.0
+"{Sum na okužbo}, {Sum na okužbo}, {OSNOVNA ŠOLA, Okužba s Covid-19}",11,0.9166666666666666
+"{Okužba s Covid-19, srednje}, {Sum na okužbo, srednje}",11,0.9166666666666666
+"{Sum na okužbo, kratko}, {Okužba s Covid-19, srednje}",11,0.9166666666666666
+"{srednje}, {OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19}",11,0.9166666666666666
+"{Sum na okužbo, srednje}, {Okužba s Covid-19, srednje}",12,1.0
+"{Sum na okužbo, srednje}, {OSNOVNA ŠOLA}, {Sum na okužbo}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Sum na okužbo}, {OSNOVNA ŠOLA, Okužba s Covid-19}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}, {Sum na okužbo}, {Sum na okužbo}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}, {OSNOVNA ŠOLA, Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}, {Sum na okužbo}, {Okužba s Covid-19, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo, srednje}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}, {OSNOVNA ŠOLA, Sum na okužbo}, {Okužba s Covid-19}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo, srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}, {Sum na okužbo}, {OSNOVNA ŠOLA, Okužba s Covid-19}",11,0.9166666666666666
+"{Sum na okužbo, srednje}, {OSNOVNA ŠOLA}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{Sum na okužbo}, {OSNOVNA ŠOLA, Sum na okužbo}, {Okužba s Covid-19, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}, {OSNOVNA ŠOLA}, {Okužba s Covid-19, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo, srednje}, {Okužba s Covid-19, srednje}",12,1.0
+"{OSNOVNA ŠOLA, Sum na okužbo, kratko}, {Okužba s Covid-19, srednje}",11,0.9166666666666666
+"{Sum na okužbo}, {OSNOVNA ŠOLA, Sum na okužbo}, {OSNOVNA ŠOLA, Okužba s Covid-19}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo, srednje}, {OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo, kratko}, {OSNOVNA ŠOLA, Okužba s Covid-19}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Sum na okužbo}, {Okužba s Covid-19, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, Sum na okužbo}, {OSNOVNA ŠOLA, Sum na okužbo}, {Okužba s Covid-19, srednje}",11,0.9166666666666666

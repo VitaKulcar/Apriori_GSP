@@ -23,7 +23,8 @@ def data_cleaning(dataset_name, columns_drop):
     df = df[df['TRAJANJE'] >= pd.Timedelta(0)]
 
     # dodajanje stolpca LETO_MESEC_VNOSA
-    df['LETO_MESEC_VNOSA'] = df['VNOS'].dt.to_period('M')
+    # df['LETO_MESEC_VNOSA'] = df['VNOS'].dt.to_period('M')
+    df['LETO_TEDEN_VNOSA'] = df['VNOS'].dt.isocalendar().year.astype(str) + '_' + df['VNOS'].dt.isocalendar().week.astype(str)
 
     # diskretizacija števila učencev (oddelki)
     if dataset_name == 'oddelki':
@@ -33,7 +34,7 @@ def data_cleaning(dataset_name, columns_drop):
     df['TRAJANJE'] = pd.cut(df['TRAJANJE'], bins=3, labels=['kratko', 'srednje', 'dolgo'])
 
     # posplošitev zapisov regij
-    region_groups = {
+    """region_groups = {
         'Podravska': 'Eastern Slovenia',
         'Savinjska': 'Eastern Slovenia',
         'Pomurska': 'Eastern Slovenia',
@@ -47,7 +48,7 @@ def data_cleaning(dataset_name, columns_drop):
         'Goriška': 'Western Slovenia',
         'Primorsko-notranjska': 'Western Slovenia'
     }
-    df['REGIJA'] = df['REGIJA'].map(region_groups)
+    df['REGIJA'] = df['REGIJA'].map(region_groups)"""
 
     # posplošitev zapisov
     if dataset_name != 'zaposleni':
@@ -58,32 +59,17 @@ def data_cleaning(dataset_name, columns_drop):
         df.loc[df['OBDOBJE'].str.contains('skupina', case=False, na=False), 'OBDOBJE'] = 'OSTALO'
         df = df[df['OBDOBJE'] != 'OSTALO']
 
-    # posplošitev zapisov
-    terms = [
-        'Klarinet', 'Kitara', 'Petje', 'Flavta', 'Pozavna', 'Rog', 'Tolkala', 'Trobenta', 'Viola',
-        'Nauk o glasbi', 'Fagot', 'Tamburica', 'Klavir', 'Saksofon', 'Violina', 'Kontrabas', 'Harmonika',
-        'Plesna pripravnica', 'Sodobni ples', 'Violončelo', 'Kljunasta flavta', 'Tuba', 'Oboa',
-        'Predšolska glasbena vzgoja', 'Diatonična harmonika', 'Citre', 'Orgle', 'Harfa', 'Balet',
-        'Glasbena pripravnica', 'Druga konična trobila'
-    ]
-    pattern = '|'.join(terms)
-    if dataset_name != 'zaposleni':
+        terms = [
+            'Klarinet', 'Kitara', 'Petje', 'Flavta', 'Pozavna', 'Rog', 'Tolkala', 'Trobenta', 'Viola',
+            'Nauk o glasbi', 'Fagot', 'Tamburica', 'Klavir', 'Saksofon', 'Violina', 'Kontrabas', 'Harmonika',
+            'Plesna pripravnica', 'Sodobni ples', 'Violončelo', 'Kljunasta flavta', 'Tuba', 'Oboa',
+            'Predšolska glasbena vzgoja', 'Diatonična harmonika', 'Citre', 'Orgle', 'Harfa', 'Balet',
+            'Glasbena pripravnica', 'Druga konična trobila'
+        ]
+        pattern = '|'.join(terms)
         df.loc[df['OBDOBJE'].str.contains(pattern, case=False, na=False), 'OBDOBJE'] = 'GLASBENA ŠOLA'
 
-    # posplošitev zapisov ...
-    terms = [
-        'Klarinet', 'Kitara', 'Petje', 'Flavta', 'Pozavna', 'Rog', 'Tolkala', 'Trobenta', 'Viola',
-        'Nauk o glasbi', 'Fagot', 'Tamburica', 'Klavir', 'Saksofon', 'Violina', 'Kontrabas', 'Harmonika',
-        'Plesna pripravnica', 'Sodobni ples', 'Violončelo', 'Kljunasta flavta', 'Tuba', 'Oboa',
-        'Predšolska glasbena vzgoja', 'Diatonična harmonika', 'Citre', 'Orgle', 'Harfa', 'Balet',
-        'Glasbena pripravnica', 'Druga konična trobila'
-    ]
-    pattern = '|'.join(terms)
-    if dataset_name == 'odelki':
-        df.loc[df['VZROK'].str.contains(pattern, case=False,
-                                        na=False), 'VZROK'] = 'Okužba pri otroku / učencu / dijaku ali več učencih oddelka'
-
-    if dataset_name == 'oddelki':
+    """if dataset_name == 'oddelki':
         terms = [
             'Okužba s Covid-19 pri otroku ali več otrocih skupine',
             'Okužba s Covid-19 pri učencu ali več učencih oddelka',
@@ -125,7 +111,7 @@ def data_cleaning(dataset_name, columns_drop):
         df.loc[df['VZROK'].str.contains(pattern, case=False,
                                         na=False), 'VZROK'] = 'Sum na okužbo pri zaposlenem'
 
-        df = df[df['VZROK'] != 'Starši zavračajo izvajanje ukrepov']
+        df = df[df['VZROK'] != 'Starši zavračajo izvajanje ukrepov']"""
 
     # odstranitev praznih vrstic
     df.dropna(inplace=True)
@@ -142,7 +128,7 @@ def data_cleaning(dataset_name, columns_drop):
 
 def group_data(dataset_name, attributes):
     df = pd.read_csv(f'datasets/cleaned_data/{dataset_name}.csv')
-    grouped = df.groupby('LETO_MESEC_VNOSA')
+    grouped = df.groupby('LETO_TEDEN_VNOSA')
     for group_name, data in grouped:
         unique_data = data[attributes].drop_duplicates()
         unique_data.to_csv(f'datasets/cleaned_data/{dataset_name}/{group_name}.csv', index=False)

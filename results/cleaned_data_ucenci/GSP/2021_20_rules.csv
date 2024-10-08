@@ -1,0 +1,8 @@
+Rule,Confidence
+{Sum na okužbo} => {Sum na okužbo},0.9166666666666666
+{srednje} => {OSNOVNA ŠOLA},0.9166666666666666
+{srednje} => {srednje},0.9166666666666666
+{srednje} => {Sum na okužbo},1.0
+"{Sum na okužbo, srednje} => {Sum na okužbo}",0.9166666666666666
+"{srednje} => {Sum na okužbo, srednje}",0.9166666666666666
+"{srednje} => {OSNOVNA ŠOLA, Sum na okužbo}",0.9166666666666666

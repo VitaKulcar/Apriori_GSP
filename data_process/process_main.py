@@ -31,9 +31,9 @@ def process_sequential():
     clean_data()
 
     dataset_names = {
-        'zaposleni': ['REGIJA', 'DELOVNO_MESTO', 'VZROK', 'TRAJANJE'],
+        'oddelki': ['REGIJA', 'OBDOBJE', 'STEV_UCENCEV', 'VZROK', 'TRAJANJE'],
         'ucenci': ['REGIJA', 'OBDOBJE', 'VZROK', 'TRAJANJE'],
-        'oddelki': ['REGIJA', 'OBDOBJE', 'STEV_UCENCEV', 'VZROK', 'TRAJANJE']
+        'zaposleni': ['REGIJA', 'DELOVNO_MESTO', 'VZROK', 'TRAJANJE']
     }
 
     for name, columns in dataset_names.items():
@@ -41,10 +41,6 @@ def process_sequential():
         group_data(name, columns)
 
         directory_path = f'datasets/cleaned_data/{name}'
-        if not os.path.exists(directory_path):
-            print(f"Directory {directory_path} does not exist.")
-            continue
-
         files = [f for f in os.listdir(directory_path) if f.endswith('.csv')]
         for filename in files:
             process_file(name, filename)
@@ -52,7 +48,7 @@ def process_sequential():
     print("All datasets processed sequentially.")
 
 
-def process_concurrent():
+"""def process_concurrent():
     clean_data()
 
     dataset_names = {
@@ -84,6 +80,7 @@ def process_concurrent():
             future.result()
 
     print("All datasets processed concurrently.")
+"""
 
 
 def process():

@@ -1,0 +1,3 @@
+Rule,Confidence
+{Okužba s Covid-19} => {Sum na okužbo},0.9166666666666666
+{Sum na okužbo} => {Okužba s Covid-19},0.9166666666666666
