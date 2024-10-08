@@ -1,6 +1,6 @@
 from algorithms.gsp import GeneralizedSequentialPatternMining
 from algorithms.apriori import Apriori
-from data_process.process_main import rule_to_string
+from data_process.data_csv_save import rule_to_string
 
 
 def process_GSP(data, min_support, min_confidence):

@@ -13,6 +13,9 @@ def data_cleaning(dataset_name, columns_drop):
     df['DAT_DO'] = pd.to_datetime(df['DAT_DO'], format='%d.%m.%Y', errors='coerce')
     df['VNOS'] = pd.to_datetime(df['VNOS'], format='%d.%m.%Y', errors='coerce')
 
+    # omejitev na podatke od 2020-10-01 do 2021-10-01 (obdobje 1 leta)
+    df = df[(df['VNOS'] >= '2020-10-01') & (df['VNOS'] < '2021-10-01')]
+
     # dodan stolpec trajanje
     df['TRAJANJE'] = (df['DAT_DO'] - df['DAT_OD'])
 
@@ -53,6 +56,7 @@ def data_cleaning(dataset_name, columns_drop):
         df.loc[df['OBDOBJE'].str.contains('star. obd', case=False, na=False), 'OBDOBJE'] = 'VRTEC'
         df.loc[df['OBDOBJE'].str.contains('stopnja', case=False, na=False), 'OBDOBJE'] = 'OSTALO'
         df.loc[df['OBDOBJE'].str.contains('skupina', case=False, na=False), 'OBDOBJE'] = 'OSTALO'
+        df = df[df['OBDOBJE'] != 'OSTALO']
 
     # posplošitev zapisov
     terms = [
@@ -97,7 +101,7 @@ def data_cleaning(dataset_name, columns_drop):
             'Okužba s Covid-19 pri drugem delavcu'
         ]
         pattern = '|'.join(terms)
-        df.loc[df['VZROK'].str.contains(pattern, case=False, na=False), 'VZROK'] = 'Okužba pri delavcu'
+        df.loc[df['VZROK'].str.contains(pattern, case=False, na=False), 'VZROK'] = 'Okužba pri zaposlenem'
 
         terms = [
             'Sum na okužbo s Covid-19 pri otroku ali več otrocih skupine',
@@ -119,19 +123,15 @@ def data_cleaning(dataset_name, columns_drop):
         ]
         pattern = '|'.join(terms)
         df.loc[df['VZROK'].str.contains(pattern, case=False,
-                                        na=False), 'VZROK'] = 'Sum na okužbo pri delavcu'
+                                        na=False), 'VZROK'] = 'Sum na okužbo pri zaposlenem'
+
+        df = df[df['VZROK'] != 'Starši zavračajo izvajanje ukrepov']
 
     # odstranitev praznih vrstic
     df.dropna(inplace=True)
 
     # odstranitev podvojenih vrstic
     df.drop_duplicates(inplace=True)
-
-    # ureditev podatkov po stolpcu VNOS
-    df = df.sort_values(by='VNOS', ascending=True)
-
-    # omejitev na podatke od 2021-10 do 2022-10 (obdobje 1 leta)
-    df = df[(df['VNOS'] >= '2021-10') & (df['VNOS'] <= '2022-10')]
 
     # ureditev podatkov po stolpcu VNOS
     df = df.sort_values(by='VNOS', ascending=True)

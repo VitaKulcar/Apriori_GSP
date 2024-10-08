@@ -1,0 +1,5 @@
+Feature,Attributes
+REGIJA,"Eastern Slovenia, Western Slovenia, Central Slovenia"
+DELOVNO_MESTO,"Učitelj, Drugi strokovni delavec, Predavatelj, Vzgojitelj, Drugi delavci"
+VZROK,"Sum na okužbo, Okužba s Covid-19"
+TRAJANJE,"srednje, kratko, dolgo"

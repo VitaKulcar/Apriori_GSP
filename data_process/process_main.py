@@ -31,9 +31,9 @@ def process_sequential():
     clean_data()
 
     dataset_names = {
-        'oddelki': ['REGIJA', 'OBDOBJE', 'STEV_UCENCEV', 'VZROK', 'TRAJANJE'],
+        'zaposleni': ['REGIJA', 'DELOVNO_MESTO', 'VZROK', 'TRAJANJE'],
         'ucenci': ['REGIJA', 'OBDOBJE', 'VZROK', 'TRAJANJE'],
-        'zaposleni': ['REGIJA', 'DELOVNO_MESTO', 'VZROK', 'TRAJANJE']
+        'oddelki': ['REGIJA', 'OBDOBJE', 'STEV_UCENCEV', 'VZROK', 'TRAJANJE']
     }
 
     for name, columns in dataset_names.items():
