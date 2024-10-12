@@ -1,5 +1,5 @@
 Rule,Confidence
-{Učitelj} => {srednje},0.8181818181818182
-{srednje} => {Učitelj},0.8181818181818182
 {Okužba s Covid-19} => {srednje},0.9090909090909091
 {srednje} => {Okužba s Covid-19},0.9090909090909091
+{Učitelj} => {srednje},0.8181818181818182
+{srednje} => {Učitelj},0.8181818181818182

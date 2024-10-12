@@ -1,253 +1,253 @@
 Sequence,Support,Relative Frequency
-{srednje},1,1.0
-{Sum na okužbo},1,1.0
-{Posavska},1,1.0
-{Okužba s Covid-19},1,1.0
-{kratko},1,1.0
 {Učitelj},1,1.0
-"{Posavska}, {kratko}",1,1.0
-"{Okužba s Covid-19}, {Sum na okužbo}",1,1.0
-"{Posavska, Sum na okužbo}",1,1.0
-"{Učitelj}, {Sum na okužbo}",1,1.0
-"{srednje}, {Posavska}",1,1.0
-"{Okužba s Covid-19}, {kratko}",1,1.0
-"{Učitelj, kratko}",1,1.0
-"{Učitelj}, {kratko}",1,1.0
-"{Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, srednje}",1,1.0
-"{Posavska, srednje}",1,1.0
-"{Posavska}, {Učitelj}",1,1.0
-"{srednje}, {Sum na okužbo}",1,1.0
-"{Okužba s Covid-19}, {Učitelj}",1,1.0
-"{Posavska, Učitelj}",1,1.0
+{Okužba s Covid-19},1,1.0
+{Posavska},1,1.0
+{srednje},1,1.0
+{kratko},1,1.0
+{Sum na okužbo},1,1.0
+"{Sum na okužbo, kratko}",1,1.0
 "{srednje}, {kratko}",1,1.0
-"{Učitelj, srednje}",1,1.0
-"{Okužba s Covid-19, Učitelj}",1,1.0
+"{srednje}, {Sum na okužbo}",1,1.0
+"{Posavska, kratko}",1,1.0
+"{Posavska, Sum na okužbo}",1,1.0
+"{Okužba s Covid-19}, {Učitelj}",1,1.0
+"{Posavska}, {Učitelj}",1,1.0
 "{Učitelj}, {Učitelj}",1,1.0
+"{srednje}, {Posavska}",1,1.0
+"{Sum na okužbo, Učitelj}",1,1.0
+"{Učitelj, kratko}",1,1.0
+"{Posavska, Učitelj}",1,1.0
+"{Posavska, srednje}",1,1.0
+"{Okužba s Covid-19, Posavska}",1,1.0
+"{Posavska}, {kratko}",1,1.0
+"{Okužba s Covid-19}, {kratko}",1,1.0
+"{Učitelj, srednje}",1,1.0
+"{srednje}, {Učitelj}",1,1.0
+"{Posavska}, {Sum na okužbo}",1,1.0
+"{Okužba s Covid-19}, {Sum na okužbo}",1,1.0
+"{Učitelj}, {kratko}",1,1.0
+"{Učitelj}, {Sum na okužbo}",1,1.0
 "{Posavska}, {Posavska}",1,1.0
 "{Okužba s Covid-19}, {Posavska}",1,1.0
-"{srednje}, {Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska}",1,1.0
+"{Okužba s Covid-19, Učitelj}",1,1.0
 "{Učitelj}, {Posavska}",1,1.0
-"{Posavska}, {Sum na okužbo}",1,1.0
-"{Sum na okužbo, kratko}",1,1.0
-"{Posavska, kratko}",1,1.0
-"{srednje}, {Sum na okužbo, Učitelj}",1,1.0
-"{Posavska, Učitelj}, {Učitelj}",1,1.0
-"{Okužba s Covid-19, Učitelj}, {kratko}",1,1.0
-"{Učitelj}, {Posavska, Učitelj}",1,1.0
-"{Posavska, Sum na okužbo, kratko}",1,1.0
-"{Učitelj, srednje}, {kratko}",1,1.0
-"{Posavska, srednje}, {Posavska}",1,1.0
-"{Okužba s Covid-19, srednje}, {Posavska}",1,1.0
-"{Posavska}, {Posavska, kratko}",1,1.0
-"{Posavska}, {Sum na okužbo, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska}, {Učitelj}",1,1.0
-"{srednje}, {Posavska, Učitelj}",1,1.0
-"{Posavska, srednje}, {Sum na okužbo}",1,1.0
-"{Okužba s Covid-19, Posavska, srednje}",1,1.0
-"{Posavska, Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, srednje}, {Sum na okužbo}",1,1.0
-"{Posavska, Učitelj}, {Posavska}",1,1.0
-"{Okužba s Covid-19}, {Sum na okužbo, kratko}",1,1.0
-"{Okužba s Covid-19, Učitelj}, {Učitelj}",1,1.0
-"{Okužba s Covid-19}, {Posavska, kratko}",1,1.0
-"{Učitelj, srednje}, {Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska}, {kratko}",1,1.0
-"{Posavska}, {Posavska, Sum na okužbo}",1,1.0
-"{Posavska, srednje}, {kratko}",1,1.0
-"{Učitelj}, {Posavska, kratko}",1,1.0
-"{Okužba s Covid-19, srednje}, {kratko}",1,1.0
-"{Posavska}, {Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, srednje}",1,1.0
 "{Učitelj}, {Sum na okužbo, kratko}",1,1.0
-"{Okužba s Covid-19}, {Posavska, Sum na okužbo}",1,1.0
-"{Posavska, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19}, {Učitelj, kratko}",1,1.0
-"{Posavska}, {Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, Učitelj, srednje}",1,1.0
 "{Okužba s Covid-19, Posavska}, {Posavska}",1,1.0
-"{Posavska, Učitelj}, {Sum na okužbo}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj}",1,1.0
-"{Posavska, Učitelj, srednje}",1,1.0
-"{Učitelj}, {Posavska, Sum na okužbo}",1,1.0
-"{Okužba s Covid-19}, {Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, Učitelj}, {Posavska}",1,1.0
-"{Učitelj}, {Učitelj, kratko}",1,1.0
-"{Posavska, Učitelj}, {kratko}",1,1.0
-"{Učitelj, srednje}, {Posavska}",1,1.0
-"{srednje}, {Posavska, kratko}",1,1.0
 "{Posavska, srednje}, {Učitelj}",1,1.0
-"{Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Učitelj, srednje}",1,1.0
+"{Učitelj}, {Posavska, kratko}",1,1.0
+"{Učitelj}, {Posavska, Sum na okužbo}",1,1.0
+"{Posavska}, {Sum na okužbo, Učitelj}",1,1.0
+"{Posavska, Učitelj}, {Učitelj}",1,1.0
+"{Okužba s Covid-19}, {Sum na okužbo, Učitelj}",1,1.0
+"{Posavska}, {Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19}, {Učitelj, kratko}",1,1.0
+"{Posavska}, {Posavska, Učitelj}",1,1.0
+"{Okužba s Covid-19}, {Posavska, Učitelj}",1,1.0
+"{Okužba s Covid-19, Učitelj}, {Učitelj}",1,1.0
 "{Okužba s Covid-19, srednje}, {Učitelj}",1,1.0
 "{Učitelj}, {Sum na okužbo, Učitelj}",1,1.0
+"{Učitelj}, {Učitelj, kratko}",1,1.0
+"{Učitelj, srednje}, {Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Učitelj}",1,1.0
+"{Učitelj}, {Posavska, Učitelj}",1,1.0
+"{Okužba s Covid-19, srednje}, {kratko}",1,1.0
 "{srednje}, {Sum na okužbo, kratko}",1,1.0
-"{Posavska}, {Posavska, Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska}, {Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, srednje}, {Sum na okužbo}",1,1.0
+"{Posavska, Sum na okužbo, kratko}",1,1.0
+"{Posavska, srednje}, {kratko}",1,1.0
+"{srednje}, {Posavska, kratko}",1,1.0
 "{srednje}, {Posavska, Sum na okužbo}",1,1.0
-"{Okužba s Covid-19, Učitelj}, {Sum na okužbo}",1,1.0
+"{Posavska, srednje}, {Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, srednje}, {Posavska}",1,1.0
+"{srednje}, {Sum na okužbo, Učitelj}",1,1.0
+"{Posavska, Učitelj}, {kratko}",1,1.0
+"{Posavska, Učitelj}, {Sum na okužbo}",1,1.0
+"{Posavska, Učitelj, kratko}",1,1.0
+"{Posavska, srednje}, {Posavska}",1,1.0
 "{srednje}, {Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19}, {Posavska, Učitelj}",1,1.0
+"{Okužba s Covid-19, Učitelj}, {kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}",1,1.0
 "{Učitelj, srednje}, {Sum na okužbo}",1,1.0
-"{Okužba s Covid-19, Učitelj, srednje}, {kratko}",1,1.0
-"{Posavska, Učitelj}, {Posavska, Sum na okužbo}",1,1.0
-"{Učitelj}, {Posavska, Učitelj, kratko}",1,1.0
-"{Posavska}, {Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Posavska, Učitelj}, {Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj}, {Posavska}",1,1.0
-"{Posavska, Učitelj, srednje}, {Učitelj}",1,1.0
-"{srednje}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
-"{Posavska, Učitelj}, {Sum na okužbo, kratko}",1,1.0
-"{Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19}, {Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska}, {Posavska, kratko}",1,1.0
-"{Posavska, Učitelj}, {Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska}, {Sum na okužbo, kratko}",1,1.0
-"{Okužba s Covid-19, Učitelj}, {Posavska, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, srednje}, {Učitelj}",1,1.0
-"{Posavska, srednje}, {Posavska, Učitelj}",1,1.0
-"{Okužba s Covid-19, srednje}, {Posavska, Učitelj}",1,1.0
-"{Okužba s Covid-19, Učitelj}, {Sum na okužbo, kratko}",1,1.0
-"{Učitelj}, {Sum na okužbo, Učitelj, kratko}",1,1.0
+"{srednje}, {Posavska, Učitelj}",1,1.0
+"{Učitelj, srednje}, {kratko}",1,1.0
+"{Okužba s Covid-19, Učitelj}, {Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, Posavska}, {kratko}",1,1.0
+"{Posavska, Učitelj}, {Posavska}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Sum na okužbo}",1,1.0
+"{Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19}, {Posavska, Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, Učitelj}, {Posavska}",1,1.0
+"{Učitelj, srednje}, {Posavska}",1,1.0
+"{Posavska}, {Sum na okužbo, kratko}",1,1.0
+"{Okužba s Covid-19}, {Sum na okužbo, kratko}",1,1.0
+"{Posavska, Učitelj, srednje}",1,1.0
+"{Posavska}, {Posavska, kratko}",1,1.0
+"{Okužba s Covid-19}, {Posavska, kratko}",1,1.0
+"{Posavska}, {Posavska, Sum na okužbo}",1,1.0
+"{Posavska, Sum na okužbo, Učitelj}",1,1.0
 "{Učitelj, srednje}, {Sum na okužbo, kratko}",1,1.0
-"{Učitelj, srednje}, {Posavska, kratko}",1,1.0
-"{Posavska}, {Posavska, Sum na okužbo, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Učitelj}",1,1.0
+"{Posavska, srednje}, {Sum na okužbo, Učitelj}",1,1.0
+"{Posavska, Učitelj}, {Posavska, Sum na okužbo}",1,1.0
+"{Posavska, srednje}, {Učitelj, kratko}",1,1.0
+"{Posavska, srednje}, {Posavska, Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj}, {Učitelj}",1,1.0
 "{srednje}, {Posavska, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Učitelj, srednje}, {Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska}, {Posavska, Sum na okužbo}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj}, {Sum na okužbo}",1,1.0
-"{Okužba s Covid-19, Posavska}, {Učitelj, kratko}",1,1.0
 "{Okužba s Covid-19, Učitelj}, {Posavska, Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Sum na okužbo, kratko}",1,1.0
+"{Posavska, Učitelj, srednje}, {kratko}",1,1.0
+"{Okužba s Covid-19, Učitelj}, {Posavska, kratko}",1,1.0
+"{Posavska, Učitelj, srednje}, {Sum na okužbo}",1,1.0
 "{Učitelj, srednje}, {Posavska, Sum na okužbo}",1,1.0
+"{Učitelj, srednje}, {Posavska, kratko}",1,1.0
+"{srednje}, {Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj, srednje}",1,1.0
+"{Posavska, Učitelj}, {Sum na okužbo, Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Posavska, kratko}",1,1.0
+"{Posavska, Učitelj}, {Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Posavska, Sum na okužbo}",1,1.0
+"{Posavska, Učitelj}, {Posavska, Učitelj}",1,1.0
+"{Okužba s Covid-19, Učitelj}, {Sum na okužbo, Učitelj}",1,1.0
+"{Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
 "{Okužba s Covid-19, Učitelj}, {Učitelj, kratko}",1,1.0
+"{Posavska}, {Posavska, Sum na okužbo, kratko}",1,1.0
+"{Okužba s Covid-19}, {Posavska, Sum na okužbo, kratko}",1,1.0
+"{Učitelj, srednje}, {Sum na okužbo, Učitelj}",1,1.0
+"{srednje}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
+"{Okužba s Covid-19, Učitelj, srednje}, {kratko}",1,1.0
+"{Učitelj, srednje}, {Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Učitelj, srednje}, {Sum na okužbo}",1,1.0
 "{Posavska, Učitelj, srednje}, {Posavska}",1,1.0
 "{Okužba s Covid-19, Posavska}, {Sum na okužbo, Učitelj}",1,1.0
-"{Učitelj, srednje}, {Učitelj, kratko}",1,1.0
-"{Posavska, Učitelj}, {Posavska, Učitelj}",1,1.0
-"{Okužba s Covid-19}, {Posavska, Sum na okužbo, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, srednje}, {Posavska}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj}, {kratko}",1,1.0
-"{Učitelj}, {Posavska, Sum na okužbo, kratko}",1,1.0
-"{srednje}, {Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Učitelj}, {Sum na okužbo, Učitelj}",1,1.0
-"{Učitelj, srednje}, {Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj, srednje}",1,1.0
-"{Okužba s Covid-19, Učitelj, srednje}, {Posavska}",1,1.0
-"{Posavska, srednje}, {Posavska, kratko}",1,1.0
-"{Posavska, srednje}, {Sum na okužbo, kratko}",1,1.0
-"{Okužba s Covid-19, srednje}, {Posavska, kratko}",1,1.0
-"{Okužba s Covid-19, srednje}, {Sum na okužbo, kratko}",1,1.0
-"{Posavska}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
-"{Posavska, Učitelj, srednje}, {Sum na okužbo}",1,1.0
-"{Okužba s Covid-19}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska}, {Posavska, Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj}, {Učitelj}",1,1.0
-"{Posavska, srednje}, {Posavska, Sum na okužbo}",1,1.0
-"{Okužba s Covid-19, Posavska, srednje}, {Sum na okužbo}",1,1.0
-"{Okužba s Covid-19, srednje}, {Posavska, Sum na okužbo}",1,1.0
-"{Posavska, srednje}, {Učitelj, kratko}",1,1.0
 "{Okužba s Covid-19, Učitelj}, {Posavska, Učitelj}",1,1.0
-"{Okužba s Covid-19, Učitelj, srednje}, {Sum na okužbo}",1,1.0
-"{Posavska, Učitelj, srednje}, {kratko}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Učitelj, kratko}",1,1.0
 "{Učitelj, srednje}, {Posavska, Učitelj}",1,1.0
-"{Učitelj}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, srednje}, {Učitelj, kratko}",1,1.0
-"{Posavska}, {Posavska, Učitelj, kratko}",1,1.0
+"{Učitelj}, {Posavska, Sum na okužbo, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Posavska, Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj}, {kratko}",1,1.0
 "{Okužba s Covid-19, Posavska, srednje}, {kratko}",1,1.0
-"{srednje}, {Posavska, Sum na okužbo, kratko}",1,1.0
-"{Posavska, Učitelj}, {Posavska, kratko}",1,1.0
-"{Posavska, srednje}, {Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, srednje}, {Sum na okužbo, Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Sum na okužbo}",1,1.0
+"{Posavska}, {Posavska, Učitelj, kratko}",1,1.0
 "{Okužba s Covid-19}, {Posavska, Učitelj, kratko}",1,1.0
-"{srednje}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj}, {Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska}, {Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Posavska, Učitelj, srednje}, {Posavska, kratko}",1,1.0
-"{Posavska, Učitelj, srednje}, {Sum na okužbo, kratko}",1,1.0
-"{Posavska, Učitelj}, {Posavska, Sum na okužbo, kratko}",1,1.0
-"{Posavska, srednje}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, srednje}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska, srednje}, {Posavska, kratko}",1,1.0
-"{Okužba s Covid-19, Učitelj}, {Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Sum na okužbo}",1,1.0
-"{Učitelj, srednje}, {Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, srednje}, {Sum na okužbo, kratko}",1,1.0
-"{Posavska, Učitelj, srednje}, {Posavska, Sum na okužbo}",1,1.0
-"{Okužba s Covid-19, Učitelj, srednje}, {Posavska, kratko}",1,1.0
-"{Okužba s Covid-19, Učitelj, srednje}, {Sum na okužbo, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj, srednje}, {kratko}",1,1.0
-"{Posavska, srednje}, {Posavska, Učitelj, kratko}",1,1.0
-"{Posavska, Učitelj, srednje}, {Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, srednje}, {Posavska, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, srednje}, {Posavska, Sum na okužbo}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj}, {Posavska, Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska, srednje}, {Učitelj, kratko}",1,1.0
-"{Posavska, Učitelj}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska}, {Posavska, Sum na okužbo, kratko}",1,1.0
-"{Okužba s Covid-19, Učitelj, srednje}, {Posavska, Sum na okužbo}",1,1.0
-"{Okužba s Covid-19, Učitelj}, {Posavska, Sum na okužbo, kratko}",1,1.0
-"{Posavska, Učitelj, srednje}, {Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska, srednje}, {Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, Učitelj, srednje}, {Učitelj, kratko}",1,1.0
-"{Učitelj, srednje}, {Posavska, Sum na okužbo, kratko}",1,1.0
-"{Posavska, srednje}, {Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, srednje}, {Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Posavska}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Učitelj, srednje}, {Sum na okužbo, Učitelj}",1,1.0
-"{Posavska, Učitelj}, {Posavska, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Učitelj}",1,1.0
+"{Okužba s Covid-19, Učitelj, srednje}, {Posavska}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj}, {Sum na okužbo}",1,1.0
+"{Učitelj}, {Posavska, Učitelj, kratko}",1,1.0
+"{Posavska}, {Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19}, {Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Posavska, Učitelj, srednje}, {Učitelj}",1,1.0
+"{Okužba s Covid-19, srednje}, {Sum na okužbo, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj}, {Posavska}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Posavska}",1,1.0
+"{Okužba s Covid-19, srednje}, {Posavska, kratko}",1,1.0
+"{Okužba s Covid-19, srednje}, {Posavska, Sum na okužbo}",1,1.0
+"{srednje}, {Posavska, Sum na okužbo, kratko}",1,1.0
+"{Posavska}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
+"{Posavska, srednje}, {Sum na okužbo, kratko}",1,1.0
+"{Posavska, srednje}, {Posavska, kratko}",1,1.0
+"{Učitelj}, {Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Posavska, srednje}, {Posavska, Sum na okužbo}",1,1.0
+"{Okužba s Covid-19}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
+"{Okužba s Covid-19, Učitelj}, {Sum na okužbo, kratko}",1,1.0
+"{Okužba s Covid-19, Učitelj, srednje}, {Učitelj}",1,1.0
+"{Učitelj}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
+"{Posavska, Učitelj}, {Sum na okužbo, kratko}",1,1.0
+"{Okužba s Covid-19, srednje}, {Sum na okužbo, Učitelj}",1,1.0
+"{Posavska, Učitelj}, {Posavska, kratko}",1,1.0
+"{Okužba s Covid-19, srednje}, {Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, srednje}, {Posavska, Učitelj}",1,1.0
 "{Okužba s Covid-19, Posavska}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Posavska, Učitelj, srednje}, {Posavska, Učitelj}",1,1.0
-"{Okužba s Covid-19, Učitelj}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj}, {Sum na okužbo, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj}, {Posavska, kratko}",1,1.0
-"{Učitelj, srednje}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska, srednje}, {Posavska, Učitelj}",1,1.0
-"{Učitelj}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Posavska, Učitelj}, {Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Posavska, srednje}, {Posavska, Sum na okužbo, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska}, {Posavska, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Sum na okužbo, Učitelj}",1,1.0
 "{Okužba s Covid-19, srednje}, {Posavska, Sum na okužbo, kratko}",1,1.0
-"{Okužba s Covid-19, Učitelj, srednje}, {Posavska, Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj}, {Posavska, Sum na okužbo}",1,1.0
 "{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Posavska}",1,1.0
-"{Okužba s Covid-19, Učitelj}, {Posavska, Učitelj, kratko}",1,1.0
-"{Učitelj, srednje}, {Posavska, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj}, {Sum na okužbo, Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Učitelj, kratko}",1,1.0
 "{Okužba s Covid-19, Posavska, Učitelj}, {Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, srednje}, {Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Učitelj, srednje}, {Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Posavska, Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
-"{Posavska, Učitelj, srednje}, {Posavska, Sum na okužbo, kratko}",1,1.0
-"{Posavska, Učitelj}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, srednje}, {Posavska, Sum na okužbo, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj}, {Posavska, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj}, {Posavska, Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Posavska, Učitelj}",1,1.0
+"{Posavska}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Posavska, srednje}, {Posavska, Sum na okužbo, kratko}",1,1.0
+"{Okužba s Covid-19}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Učitelj, srednje}, {Učitelj, kratko}",1,1.0
+"{Učitelj}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, srednje}, {Posavska, Učitelj, kratko}",1,1.0
+"{Posavska, Učitelj}, {Posavska, Sum na okužbo, kratko}",1,1.0
+"{Okužba s Covid-19, Učitelj}, {Posavska, Sum na okužbo, kratko}",1,1.0
+"{Učitelj, srednje}, {Posavska, Sum na okužbo, kratko}",1,1.0
+"{Posavska, srednje}, {Posavska, Učitelj, kratko}",1,1.0
+"{Posavska, Učitelj, srednje}, {Sum na okužbo, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Posavska, Sum na okužbo, kratko}",1,1.0
+"{Okužba s Covid-19, srednje}, {Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Posavska, Učitelj, srednje}, {Posavska, kratko}",1,1.0
+"{Posavska, Učitelj, srednje}, {Posavska, Sum na okužbo}",1,1.0
+"{Posavska, Učitelj}, {Posavska, Učitelj, kratko}",1,1.0
+"{Posavska, srednje}, {Sum na okužbo, Učitelj, kratko}",1,1.0
+"{srednje}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Učitelj, srednje}, {Sum na okužbo, kratko}",1,1.0
+"{Okužba s Covid-19, Učitelj}, {Posavska, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, srednje}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
+"{Učitelj, srednje}, {Posavska, Učitelj, kratko}",1,1.0
+"{Posavska, Učitelj}, {Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Posavska, Učitelj, srednje}, {Sum na okužbo, Učitelj}",1,1.0
+"{Okužba s Covid-19, Učitelj, srednje}, {Posavska, Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, Učitelj, srednje}, {Posavska, kratko}",1,1.0
+"{Posavska, Učitelj, srednje}, {Posavska, Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Posavska, Učitelj, kratko}",1,1.0
+"{Posavska, Učitelj, srednje}, {Učitelj, kratko}",1,1.0
+"{Posavska, srednje}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Sum na okužbo, kratko}",1,1.0
+"{Okužba s Covid-19, Učitelj}, {Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Učitelj, srednje}, {Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj}, {Sum na okužbo, kratko}",1,1.0
+"{Posavska, Učitelj}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj}, {Posavska, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj, srednje}, {kratko}",1,1.0
+"{Okužba s Covid-19, Učitelj, srednje}, {Sum na okužbo, Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, Učitelj}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj}, {Posavska, Sum na okužbo}",1,1.0
+"{Učitelj, srednje}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Posavska, Sum na okužbo}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Posavska, kratko}",1,1.0
+"{Okužba s Covid-19, Učitelj, srednje}, {Posavska, Učitelj}",1,1.0
+"{Posavska, srednje}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
 "{Okužba s Covid-19, Učitelj, srednje}, {Posavska, Sum na okužbo, kratko}",1,1.0
-"{Posavska, Učitelj, srednje}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Posavska, Učitelj, srednje}, {Posavska, Učitelj, kratko}",1,1.0
+"{Posavska, Učitelj}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj}, {Posavska, Sum na okužbo, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Posavska, Sum na okužbo, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Sum na okužbo, kratko}",1,1.0
 "{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Posavska, kratko}",1,1.0
 "{Okužba s Covid-19, Učitelj}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Sum na okužbo, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj}, {Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, srednje}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
-"{Učitelj, srednje}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
 "{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Posavska, Sum na okužbo}",1,1.0
-"{Okužba s Covid-19, Učitelj, srednje}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
-"{Posavska, Učitelj, srednje}, {Posavska, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, srednje}, {Posavska, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Sum na okužbo, Učitelj}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj}, {Posavska, Sum na okužbo, kratko}",1,1.0
+"{Učitelj, srednje}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
 "{Posavska, Učitelj, srednje}, {Sum na okužbo, Učitelj, kratko}",1,1.0
 "{Okužba s Covid-19, Učitelj, srednje}, {Posavska, Učitelj, kratko}",1,1.0
-"{Posavska, srednje}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Posavska, Učitelj, srednje}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Sum na okužbo, Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Posavska, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj}, {Posavska, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Posavska, Učitelj}",1,1.0
+"{Okužba s Covid-19, Učitelj, srednje}, {Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Učitelj, srednje}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj}, {Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
+"{Okužba s Covid-19, Posavska, srednje}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
+"{Posavska, Učitelj, srednje}, {Posavska, Sum na okužbo, kratko}",1,1.0
 "{Okužba s Covid-19, srednje}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Okužba s Covid-19, Učitelj, srednje}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
-"{Posavska, Učitelj, srednje}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
 "{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Sum na okužbo, Učitelj, kratko}",1,1.0
 "{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Posavska, Sum na okužbo, kratko}",1,1.0
-"{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
 "{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Posavska, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
 "{Okužba s Covid-19, Posavska, srednje}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Posavska, Sum na okužbo, Učitelj}",1,1.0
+"{Okužba s Covid-19, Učitelj, srednje}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
+"{Posavska, Učitelj, srednje}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0
 "{Okužba s Covid-19, Posavska, Učitelj, srednje}, {Posavska, Sum na okužbo, Učitelj, kratko}",1,1.0

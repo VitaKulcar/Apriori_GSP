@@ -1,1 +1,10 @@
 Rule,Confidence
+{srednje} => {srednje},0.8181818181818182
+{Okužba s Covid-19} => {srednje},0.9
+{srednje} => {Okužba s Covid-19},0.8181818181818182
+{Okužba s Covid-19} => {Okužba s Covid-19},0.9
+"{Okužba s Covid-19, srednje} => {srednje}",1.0
+"{Okužba s Covid-19} => {Okužba s Covid-19, srednje}",0.9
+"{srednje} => {Okužba s Covid-19, srednje}",0.8181818181818182
+"{Okužba s Covid-19, srednje} => {Okužba s Covid-19}",1.0
+"{Okužba s Covid-19, srednje} => {Okužba s Covid-19, srednje}",1.0

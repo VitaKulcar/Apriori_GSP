@@ -1,320 +1,320 @@
 Sequence,Support,Relative Frequency
+{Učitelj},11,1.0
+{Vzgojitelj},9,0.8181818181818182
+{Okužba s Covid-19},11,1.0
+{Drugi delavci},10,0.9090909090909091
 {srednje},11,1.0
 {Sum na okužbo},11,1.0
-{Okužba s Covid-19},11,1.0
-{Vzgojitelj},9,0.8181818181818182
-{Drugi delavci},10,0.9090909090909091
 {Drugi strokovni delavec},9,0.8181818181818182
-{Učitelj},11,1.0
-"{Okužba s Covid-19}, {Sum na okužbo}",11,1.0
-"{Drugi delavci, srednje}",9,0.8181818181818182
-"{Učitelj}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, Vzgojitelj}",9,0.8181818181818182
-"{Vzgojitelj}, {srednje}",9,0.8181818181818182
-"{srednje}, {Drugi delavci}",9,0.8181818181818182
-"{Okužba s Covid-19}, {srednje}",11,1.0
-"{Sum na okužbo, Učitelj}",11,1.0
-"{Okužba s Covid-19, srednje}",11,1.0
-"{Sum na okužbo}, {Drugi delavci}",9,0.8181818181818182
-"{Vzgojitelj}, {Vzgojitelj}",9,0.8181818181818182
-"{Učitelj}, {srednje}",10,0.9090909090909091
-"{srednje}, {Vzgojitelj}",9,0.8181818181818182
-"{Vzgojitelj, srednje}",9,0.8181818181818182
 "{srednje}, {Sum na okužbo}",11,1.0
-"{Sum na okužbo}, {Sum na okužbo}",10,0.9090909090909091
+"{Okužba s Covid-19, Vzgojitelj}",9,0.8181818181818182
+"{Sum na okužbo}, {srednje}",11,1.0
 "{Okužba s Covid-19}, {Učitelj}",10,0.9090909090909091
 "{Okužba s Covid-19}, {Okužba s Covid-19}",10,0.9090909090909091
-"{Učitelj, srednje}",11,1.0
-"{Okužba s Covid-19, Učitelj}",10,0.9090909090909091
 "{Učitelj}, {Učitelj}",10,0.9090909090909091
 "{Učitelj}, {Okužba s Covid-19}",10,0.9090909090909091
+"{Sum na okužbo, Učitelj}",11,1.0
+"{Sum na okužbo, srednje}",11,1.0
+"{Vzgojitelj}, {Vzgojitelj}",9,0.8181818181818182
 "{srednje}, {srednje}",11,1.0
-"{Sum na okužbo}, {srednje}",11,1.0
-"{srednje}, {Učitelj}",11,1.0
-"{Okužba s Covid-19}, {Drugi delavci}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19}",11,1.0
+"{Okužba s Covid-19}, {Vzgojitelj}",9,0.8181818181818182
 "{Sum na okužbo}, {Učitelj}",10,0.9090909090909091
-"{Drugi strokovni delavec, srednje}",9,0.8181818181818182
+"{Okužba s Covid-19}, {Drugi delavci}",9,0.8181818181818182
 "{Vzgojitelj}, {Sum na okužbo}",9,0.8181818181818182
 "{Sum na okužbo}, {Okužba s Covid-19}",11,1.0
-"{Sum na okužbo, srednje}",11,1.0
-"{Okužba s Covid-19}, {Vzgojitelj}",9,0.8181818181818182
-"{Sum na okužbo}, {Okužba s Covid-19}, {Učitelj}",9,0.8181818181818182
-"{Okužba s Covid-19, Učitelj}, {srednje}",9,0.8181818181818182
-"{Sum na okužbo, srednje}, {Okužba s Covid-19}",11,1.0
-"{Okužba s Covid-19, srednje}, {Vzgojitelj}",9,0.8181818181818182
-"{Okužba s Covid-19}, {Učitelj}, {srednje}",9,0.8181818181818182
-"{Sum na okužbo}, {Učitelj, srednje}",10,0.9090909090909091
-"{Učitelj, srednje}, {Učitelj}",10,0.9090909090909091
-"{Učitelj}, {Učitelj}, {srednje}",9,0.8181818181818182
-"{Sum na okužbo}, {srednje}, {Učitelj}",9,0.8181818181818182
-"{Sum na okužbo}, {Okužba s Covid-19, Učitelj}",9,0.8181818181818182
-"{Okužba s Covid-19}, {Okužba s Covid-19}, {srednje}",10,0.9090909090909091
-"{Okužba s Covid-19}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {srednje}",11,1.0
-"{Okužba s Covid-19}, {Sum na okužbo, Učitelj}",10,0.9090909090909091
-"{Sum na okužbo, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Učitelj, srednje}",11,1.0
+"{srednje}, {Učitelj}",11,1.0
+"{Vzgojitelj, srednje}",9,0.8181818181818182
+"{Okužba s Covid-19}, {Sum na okužbo}",11,1.0
+"{srednje}, {Okužba s Covid-19}",11,1.0
+"{Drugi strokovni delavec, srednje}",9,0.8181818181818182
+"{Učitelj}, {Sum na okužbo}",9,0.8181818181818182
+"{Sum na okužbo}, {Drugi delavci}",9,0.8181818181818182
+"{Vzgojitelj}, {srednje}",9,0.8181818181818182
+"{Drugi delavci, srednje}",9,0.8181818181818182
+"{srednje}, {Vzgojitelj}",9,0.8181818181818182
+"{Okužba s Covid-19}, {srednje}",11,1.0
+"{Okužba s Covid-19, Učitelj}",10,0.9090909090909091
+"{Sum na okužbo}, {Sum na okužbo}",10,0.9090909090909091
+"{srednje}, {Drugi delavci}",9,0.8181818181818182
+"{Učitelj}, {srednje}",10,0.9090909090909091
+"{Okužba s Covid-19, srednje}",11,1.0
 "{Sum na okužbo, Učitelj}, {Učitelj}",9,0.8181818181818182
-"{Sum na okužbo}, {Okužba s Covid-19}, {srednje}",11,1.0
-"{Sum na okužbo, Učitelj, srednje}",11,1.0
-"{Vzgojitelj, srednje}, {Vzgojitelj}",9,0.8181818181818182
-"{Sum na okužbo, Učitelj}, {Okužba s Covid-19}",9,0.8181818181818182
-"{Sum na okužbo}, {Sum na okužbo, srednje}",9,0.8181818181818182
-"{srednje}, {srednje}, {Vzgojitelj}",9,0.8181818181818182
-"{Učitelj, srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Učitelj}, {srednje}, {Okužba s Covid-19}",9,0.8181818181818182
-"{srednje}, {Sum na okužbo, Učitelj}",10,0.9090909090909091
-"{Učitelj}, {Učitelj, srednje}",10,0.9090909090909091
-"{Učitelj}, {Okužba s Covid-19, Učitelj}",9,0.8181818181818182
-"{Okužba s Covid-19, Vzgojitelj}, {srednje}",9,0.8181818181818182
-"{Sum na okužbo}, {Okužba s Covid-19, srednje}",11,1.0
-"{Sum na okužbo}, {srednje}, {srednje}",11,1.0
-"{Sum na okužbo, srednje}, {Učitelj}",9,0.8181818181818182
-"{srednje}, {srednje}, {srednje}",11,1.0
-"{srednje}, {Učitelj, srednje}",11,1.0
-"{Sum na okužbo, Učitelj}, {Sum na okužbo}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19, Učitelj}",10,0.9090909090909091
-"{Okužba s Covid-19}, {srednje}, {Vzgojitelj}",9,0.8181818181818182
-"{srednje}, {Sum na okužbo}, {Okužba s Covid-19}",9,0.8181818181818182
-"{Okužba s Covid-19}, {srednje}, {srednje}",10,0.9090909090909091
-"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}",10,0.9090909090909091
-"{Sum na okužbo, srednje}, {srednje}",10,0.9090909090909091
-"{srednje}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19}, {Sum na okužbo}, {Okužba s Covid-19}",9,0.8181818181818182
-"{Učitelj}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Drugi delavci}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19}, {Učitelj}",10,0.9090909090909091
-"{Učitelj, srednje}, {srednje}",10,0.9090909090909091
-"{srednje}, {Učitelj}, {Okužba s Covid-19}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19}, {Okužba s Covid-19}",10,0.9090909090909091
 "{Okužba s Covid-19}, {Sum na okužbo, srednje}",10,0.9090909090909091
-"{srednje}, {srednje}, {Okužba s Covid-19}",10,0.9090909090909091
-"{Okužba s Covid-19}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
-"{Učitelj}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Sum na okužbo, Učitelj}, {srednje}",10,0.9090909090909091
-"{Okužba s Covid-19, Učitelj, srednje}",10,0.9090909090909091
-"{Okužba s Covid-19}, {Okužba s Covid-19}, {Učitelj}",10,0.9090909090909091
-"{srednje}, {Učitelj}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19}, {Učitelj}, {Okužba s Covid-19}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Vzgojitelj}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19, Učitelj}",10,0.9090909090909091
+"{srednje}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
+"{Učitelj, srednje}, {Učitelj}",10,0.9090909090909091
+"{srednje}, {Sum na okužbo}, {srednje}",9,0.8181818181818182
+"{Učitelj}, {Učitelj, srednje}",10,0.9090909090909091
+"{srednje}, {Učitelj}, {Učitelj}",9,0.8181818181818182
+"{srednje}, {Sum na okužbo, srednje}",10,0.9090909090909091
+"{Okužba s Covid-19}, {Učitelj}, {srednje}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19}, {Vzgojitelj}",9,0.8181818181818182
 "{Okužba s Covid-19}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{Okužba s Covid-19}, {Okužba s Covid-19}, {Učitelj}",10,0.9090909090909091
+"{Učitelj}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
+"{Vzgojitelj, srednje}, {srednje}",9,0.8181818181818182
+"{Učitelj}, {srednje}, {Okužba s Covid-19}",9,0.8181818181818182
+"{srednje}, {Učitelj, srednje}",11,1.0
+"{srednje}, {srednje}, {Učitelj}",10,0.9090909090909091
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}",10,0.9090909090909091
+"{Sum na okužbo, srednje}, {Okužba s Covid-19}",11,1.0
+"{Učitelj}, {Okužba s Covid-19}, {srednje}",10,0.9090909090909091
+"{Sum na okužbo}, {Okužba s Covid-19, Učitelj}",9,0.8181818181818182
+"{Okužba s Covid-19, Vzgojitelj, srednje}",9,0.8181818181818182
+"{Sum na okužbo}, {Okužba s Covid-19}, {Učitelj}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Drugi delavci}",9,0.8181818181818182
+"{Okužba s Covid-19}, {srednje}, {Učitelj}",10,0.9090909090909091
+"{Učitelj}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Sum na okužbo}",11,1.0
+"{Sum na okužbo, Učitelj}, {Sum na okužbo}",9,0.8181818181818182
+"{Sum na okužbo, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19}, {Okužba s Covid-19}",10,0.9090909090909091
+"{Učitelj}, {srednje}, {srednje}",10,0.9090909090909091
+"{Okužba s Covid-19, srednje}, {srednje}",11,1.0
+"{Okužba s Covid-19, Učitelj}, {Sum na okužbo}",9,0.8181818181818182
+"{Sum na okužbo, srednje}, {srednje}",10,0.9090909090909091
+"{Učitelj, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Sum na okužbo}, {Učitelj, srednje}",10,0.9090909090909091
+"{Učitelj}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{Okužba s Covid-19, Učitelj}, {srednje}",9,0.8181818181818182
 "{srednje}, {Okužba s Covid-19}, {Sum na okužbo}",10,0.9090909090909091
+"{Sum na okužbo}, {srednje}, {Okužba s Covid-19}",9,0.8181818181818182
+"{Učitelj}, {Učitelj}, {Sum na okužbo}",9,0.8181818181818182
+"{Sum na okužbo, Učitelj}, {Okužba s Covid-19}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19}, {srednje}",11,1.0
+"{Učitelj}, {Učitelj}, {srednje}",9,0.8181818181818182
+"{srednje}, {srednje}, {Vzgojitelj}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19, srednje}",11,1.0
+"{Učitelj, srednje}, {Okužba s Covid-19}",10,0.9090909090909091
+"{Vzgojitelj, srednje}, {Vzgojitelj}",9,0.8181818181818182
+"{Sum na okužbo}, {srednje}, {Sum na okužbo}",10,0.9090909090909091
+"{Okužba s Covid-19, Vzgojitelj}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19}, {srednje}, {Vzgojitelj}",9,0.8181818181818182
+"{Sum na okužbo}, {Sum na okužbo, srednje}",9,0.8181818181818182
+"{Sum na okužbo}, {srednje}, {srednje}",11,1.0
+"{srednje}, {Učitelj}, {Okužba s Covid-19}",9,0.8181818181818182
+"{Sum na okužbo, Učitelj}, {srednje}",10,0.9090909090909091
 "{Okužba s Covid-19}, {Okužba s Covid-19}, {Okužba s Covid-19}",10,0.9090909090909091
 "{Okužba s Covid-19, srednje}, {Učitelj}",10,0.9090909090909091
-"{Vzgojitelj, srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{srednje}, {srednje}, {Drugi delavci}",9,0.8181818181818182
-"{srednje}, {Sum na okužbo, srednje}",10,0.9090909090909091
-"{Učitelj}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
-"{Okužba s Covid-19, Učitelj}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19}, {srednje}, {Okužba s Covid-19}",10,0.9090909090909091
-"{Sum na okužbo}, {Okužba s Covid-19}, {Okužba s Covid-19}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19, srednje}",11,1.0
-"{srednje}, {Učitelj}, {Učitelj}",9,0.8181818181818182
-"{Učitelj}, {Učitelj}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19}, {Sum na okužbo}, {Okužba s Covid-19}",9,0.8181818181818182
+"{Učitelj, srednje}, {srednje}",10,0.9090909090909091
+"{Sum na okužbo, srednje}, {Učitelj}",9,0.8181818181818182
+"{srednje}, {srednje}, {Okužba s Covid-19}",10,0.9090909090909091
+"{srednje}, {Učitelj}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, Učitelj, srednje}",10,0.9090909090909091
+"{Sum na okužbo}, {Okužba s Covid-19, srednje}",11,1.0
+"{Sum na okužbo, Učitelj, srednje}",11,1.0
+"{Okužba s Covid-19}, {Sum na okužbo, Učitelj}",10,0.9090909090909091
 "{Okužba s Covid-19}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
-"{srednje}, {Sum na okužbo}, {srednje}",9,0.8181818181818182
-"{Učitelj}, {Okužba s Covid-19}, {srednje}",10,0.9090909090909091
-"{Okužba s Covid-19, srednje}, {Sum na okužbo}",11,1.0
-"{srednje}, {srednje}, {Učitelj}",10,0.9090909090909091
-"{Učitelj, srednje}, {Okužba s Covid-19}",10,0.9090909090909091
-"{Sum na okužbo}, {srednje}, {Okužba s Covid-19}",9,0.8181818181818182
-"{Sum na okužbo}, {Okužba s Covid-19}, {Sum na okužbo}",10,0.9090909090909091
-"{Okužba s Covid-19}, {Sum na okužbo}, {srednje}",9,0.8181818181818182
-"{Okužba s Covid-19, Vzgojitelj, srednje}",9,0.8181818181818182
-"{Učitelj}, {srednje}, {srednje}",10,0.9090909090909091
-"{srednje}, {Okužba s Covid-19}, {Vzgojitelj}",9,0.8181818181818182
-"{Okužba s Covid-19, Vzgojitelj}, {Sum na okužbo}",9,0.8181818181818182
+"{srednje}, {srednje}, {Drugi delavci}",9,0.8181818181818182
+"{Sum na okužbo}, {Okužba s Covid-19}, {Okužba s Covid-19}",9,0.8181818181818182
 "{srednje}, {Učitelj}, {srednje}",10,0.9090909090909091
-"{Okužba s Covid-19}, {srednje}, {Učitelj}",10,0.9090909090909091
-"{Sum na okužbo}, {srednje}, {Sum na okužbo}",10,0.9090909090909091
-"{srednje}, {Okužba s Covid-19}, {srednje}",11,1.0
+"{Okužba s Covid-19}, {srednje}, {Okužba s Covid-19}",10,0.9090909090909091
+"{Okužba s Covid-19}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
 "{srednje}, {srednje}, {Sum na okužbo}",10,0.9090909090909091
-"{Vzgojitelj, srednje}, {srednje}",9,0.8181818181818182
-"{Sum na okužbo, Učitelj}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
-"{Sum na okužbo, srednje}, {srednje}, {srednje}",10,0.9090909090909091
+"{srednje}, {Okužba s Covid-19}, {Učitelj}",10,0.9090909090909091
+"{Okužba s Covid-19}, {Okužba s Covid-19}, {srednje}",10,0.9090909090909091
+"{Vzgojitelj, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{srednje}, {Sum na okužbo, Učitelj}",10,0.9090909090909091
+"{Okužba s Covid-19}, {Sum na okužbo}, {srednje}",9,0.8181818181818182
+"{srednje}, {srednje}, {srednje}",11,1.0
+"{Sum na okužbo}, {Okužba s Covid-19}, {Sum na okužbo}",10,0.9090909090909091
+"{Okužba s Covid-19, Vzgojitelj}, {srednje}",9,0.8181818181818182
+"{Okužba s Covid-19}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{srednje}, {Sum na okužbo}, {Okužba s Covid-19}",9,0.8181818181818182
+"{Učitelj}, {Okužba s Covid-19, Učitelj}",9,0.8181818181818182
+"{Sum na okužbo}, {srednje}, {Učitelj}",9,0.8181818181818182
+"{Sum na okužbo}, {Okužba s Covid-19}, {srednje}",11,1.0
+"{Okužba s Covid-19}, {srednje}, {srednje}",10,0.9090909090909091
+"{Okužba s Covid-19}, {Učitelj}, {Okužba s Covid-19}",9,0.8181818181818182
+"{srednje}, {Sum na okužbo}, {Okužba s Covid-19}, {srednje}",9,0.8181818181818182
 "{Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {srednje}",10,0.9090909090909091
-"{Okužba s Covid-19, srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Sum na okužbo}, {Okužba s Covid-19, srednje}, {srednje}",11,1.0
+"{Sum na okužbo, srednje}, {srednje}, {srednje}",10,0.9090909090909091
 "{srednje}, {Okužba s Covid-19, srednje}, {srednje}",11,1.0
-"{Okužba s Covid-19, Vzgojitelj, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Učitelj}, {srednje}",9,0.8181818181818182
+"{Okužba s Covid-19}, {srednje}, {srednje}, {srednje}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {srednje}, {Vzgojitelj}",9,0.8181818181818182
+"{Sum na okužbo, Učitelj}, {Učitelj, srednje}",9,0.8181818181818182
 "{Učitelj, srednje}, {Učitelj}, {Sum na okužbo}",9,0.8181818181818182
-"{Učitelj}, {Učitelj, srednje}, {srednje}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19}, {Sum na okužbo, srednje}, {Okužba s Covid-19}",9,0.8181818181818182
-"{Okužba s Covid-19}, {Okužba s Covid-19}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19}, {srednje}, {Okužba s Covid-19}, {srednje}",9,0.8181818181818182
+"{Okužba s Covid-19}, {Sum na okužbo}, {srednje}, {srednje}",9,0.8181818181818182
 "{srednje}, {Okužba s Covid-19, Učitelj, srednje}",10,0.9090909090909091
-"{Sum na okužbo, srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
-"{srednje}, {srednje}, {Okužba s Covid-19}, {srednje}",10,0.9090909090909091
+"{srednje}, {srednje}, {Okužba s Covid-19}, {Okužba s Covid-19}",9,0.8181818181818182
+"{Učitelj, srednje}, {Učitelj, srednje}",10,0.9090909090909091
+"{Učitelj, srednje}, {Učitelj}, {srednje}",9,0.8181818181818182
+"{srednje}, {Učitelj, srednje}, {Učitelj}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{Učitelj}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, Učitelj, srednje}, {srednje}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Sum na okužbo}, {Okužba s Covid-19}",9,0.8181818181818182
+"{Okužba s Covid-19}, {Okužba s Covid-19}, {Sum na okužbo, Učitelj}",9,0.8181818181818182
+"{Učitelj}, {Okužba s Covid-19, srednje}, {srednje}",10,0.9090909090909091
+"{Sum na okužbo}, {srednje}, {Sum na okužbo, srednje}",9,0.8181818181818182
+"{Učitelj, srednje}, {Okužba s Covid-19, Učitelj}",9,0.8181818181818182
+"{srednje}, {srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
 "{Učitelj, srednje}, {srednje}, {srednje}",10,0.9090909090909091
 "{srednje}, {srednje}, {Sum na okužbo, Učitelj}",9,0.8181818181818182
-"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {srednje}",10,0.9090909090909091
-"{srednje}, {srednje}, {srednje}, {srednje}",10,0.9090909090909091
-"{Učitelj}, {Okužba s Covid-19, srednje}, {srednje}",10,0.9090909090909091
-"{srednje}, {Sum na okužbo}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
-"{srednje}, {Učitelj, srednje}, {srednje}",10,0.9090909090909091
-"{Okužba s Covid-19, srednje}, {Učitelj}, {srednje}",9,0.8181818181818182
-"{Okužba s Covid-19}, {srednje}, {srednje}, {Okužba s Covid-19}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {srednje}, {Vzgojitelj}",9,0.8181818181818182
-"{Sum na okužbo, Učitelj, srednje}, {srednje}",9,0.8181818181818182
-"{Okužba s Covid-19}, {srednje}, {Sum na okužbo, Učitelj}",9,0.8181818181818182
-"{Okužba s Covid-19, Učitelj, srednje}, {srednje}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19}, {Sum na okužbo, srednje}",9,0.8181818181818182
-"{Okužba s Covid-19}, {Sum na okužbo}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
-"{srednje}, {Sum na okužbo}, {Okužba s Covid-19}, {srednje}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {srednje}, {srednje}",10,0.9090909090909091
-"{Okužba s Covid-19, Vzgojitelj, srednje}, {srednje}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19}",10,0.9090909090909091
-"{srednje}, {Okužba s Covid-19}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
-"{Učitelj, srednje}, {Učitelj}, {srednje}",9,0.8181818181818182
-"{Okužba s Covid-19}, {srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19, Učitelj}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Sum na okužbo}, {Okužba s Covid-19}",9,0.8181818181818182
-"{srednje}, {Sum na okužbo}, {srednje}, {srednje}",9,0.8181818181818182
-"{srednje}, {srednje}, {Okužba s Covid-19}, {Okužba s Covid-19}",9,0.8181818181818182
-"{Sum na okužbo, Učitelj}, {Okužba s Covid-19}, {srednje}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Sum na okužbo, srednje}",10,0.9090909090909091
-"{Učitelj, srednje}, {srednje}, {Okužba s Covid-19}",9,0.8181818181818182
-"{Učitelj, srednje}, {Učitelj, srednje}",10,0.9090909090909091
-"{srednje}, {Okužba s Covid-19}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19}",10,0.9090909090909091
-"{Okužba s Covid-19}, {Okužba s Covid-19}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
-"{Okužba s Covid-19}, {srednje}, {srednje}, {Učitelj}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
-"{Sum na okužbo, Učitelj}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
-"{Učitelj, srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19}, {Sum na okužbo}, {Okužba s Covid-19}, {srednje}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Učitelj}",10,0.9090909090909091
-"{Okužba s Covid-19, srednje}, {Učitelj}, {Okužba s Covid-19}",9,0.8181818181818182
-"{Sum na okužbo, Učitelj, srednje}, {Okužba s Covid-19}",9,0.8181818181818182
-"{Sum na okužbo}, {srednje}, {Sum na okužbo, srednje}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19, srednje}, {Učitelj}",10,0.9090909090909091
-"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Okužba s Covid-19}",10,0.9090909090909091
-"{Okužba s Covid-19}, {Okužba s Covid-19}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
-"{srednje}, {srednje}, {Sum na okužbo, srednje}",9,0.8181818181818182
-"{Sum na okužbo}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19}",9,0.8181818181818182
-"{srednje}, {Učitelj}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
-"{Sum na okužbo, srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
-"{srednje}, {srednje}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
 "{Okužba s Covid-19, srednje}, {srednje}, {Okužba s Covid-19}",10,0.9090909090909091
-"{Okužba s Covid-19}, {Sum na okužbo}, {srednje}, {srednje}",9,0.8181818181818182
-"{srednje}, {srednje}, {Okužba s Covid-19}, {Učitelj}",9,0.8181818181818182
-"{srednje}, {srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
-"{Okužba s Covid-19}, {srednje}, {srednje}, {srednje}",9,0.8181818181818182
-"{Sum na okužbo, srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19, Učitelj}, {srednje}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {Učitelj}",10,0.9090909090909091
-"{Sum na okužbo}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",10,0.9090909090909091
-"{Okužba s Covid-19}, {Učitelj}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",10,0.9090909090909091
-"{Učitelj, srednje}, {Okužba s Covid-19, Učitelj}",9,0.8181818181818182
-"{srednje}, {srednje}, {srednje}, {Okužba s Covid-19}",10,0.9090909090909091
-"{Sum na okužbo}, {Okužba s Covid-19}, {Sum na okužbo, srednje}",9,0.8181818181818182
-"{Učitelj}, {Učitelj, srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19}, {Okužba s Covid-19}, {srednje}",9,0.8181818181818182
-"{srednje}, {Učitelj, srednje}, {Učitelj}",9,0.8181818181818182
-"{Okužba s Covid-19}, {srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19}, {srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
-"{srednje}, {Učitelj, srednje}, {Okužba s Covid-19}",9,0.8181818181818182
-"{srednje}, {srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
-"{Sum na okužbo, Učitelj}, {Učitelj, srednje}",9,0.8181818181818182
-"{Sum na okužbo, Učitelj}, {srednje}, {srednje}",10,0.9090909090909091
-"{Okužba s Covid-19, srednje}, {Sum na okužbo}, {srednje}",9,0.8181818181818182
-"{Sum na okužbo}, {Okužba s Covid-19, srednje}, {Učitelj}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19}, {Sum na okužbo, Učitelj}",9,0.8181818181818182
-"{Učitelj, srednje}, {Okužba s Covid-19}, {srednje}",10,0.9090909090909091
-"{Učitelj, srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{srednje}, {srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Učitelj}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19}, {srednje}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19}, {srednje}, {srednje}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {srednje}, {Učitelj}",10,0.9090909090909091
-"{Okužba s Covid-19}, {srednje}, {Okužba s Covid-19}, {Učitelj}",9,0.8181818181818182
-"{Sum na okužbo, srednje}, {Okužba s Covid-19}, {srednje}",10,0.9090909090909091
-"{Učitelj, srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
-"{srednje}, {Učitelj, srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Sum na okužbo}, {srednje}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
-"{srednje}, {Sum na okužbo, srednje}, {Okužba s Covid-19}",9,0.8181818181818182
-"{Okužba s Covid-19}, {Okužba s Covid-19}, {Sum na okužbo, Učitelj}",9,0.8181818181818182
-"{Okužba s Covid-19, Učitelj, srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19, srednje}, {Vzgojitelj}",9,0.8181818181818182
+"{Učitelj}, {Učitelj, srednje}, {srednje}",9,0.8181818181818182
 "{srednje}, {srednje}, {srednje}, {Učitelj}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
+"{srednje}, {srednje}, {Okužba s Covid-19}, {srednje}",10,0.9090909090909091
+"{Sum na okužbo, srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
+"{Sum na okužbo}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19}",9,0.8181818181818182
+"{Okužba s Covid-19}, {srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19}, {srednje}, {Sum na okužbo, Učitelj}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Sum na okužbo}, {srednje}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Učitelj}",10,0.9090909090909091
+"{srednje}, {Okužba s Covid-19}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
+"{Sum na okužbo, srednje}, {Okužba s Covid-19}, {srednje}",10,0.9090909090909091
+"{Sum na okužbo, Učitelj}, {Okužba s Covid-19}, {srednje}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19, srednje}, {Učitelj}",10,0.9090909090909091
+"{Okužba s Covid-19}, {srednje}, {srednje}, {Učitelj}",9,0.8181818181818182
+"{Okužba s Covid-19}, {srednje}, {Okužba s Covid-19}, {srednje}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19}, {Sum na okužbo, srednje}",9,0.8181818181818182
+"{srednje}, {Sum na okužbo}, {srednje}, {srednje}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19}, {Okužba s Covid-19}, {srednje}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {srednje}, {srednje}",10,0.9090909090909091
+"{Sum na okužbo, srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{Sum na okužbo, Učitelj}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
+"{Sum na okužbo}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",10,0.9090909090909091
+"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19}",10,0.9090909090909091
+"{srednje}, {Okužba s Covid-19}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Učitelj, srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{Sum na okužbo}, {Okužba s Covid-19, srednje}, {srednje}",11,1.0
+"{srednje}, {srednje}, {Sum na okužbo, srednje}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19}, {srednje}, {srednje}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Sum na okužbo, Učitelj, srednje}, {Okužba s Covid-19}",9,0.8181818181818182
+"{srednje}, {Sum na okužbo, srednje}, {Okužba s Covid-19}",9,0.8181818181818182
+"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {srednje}",10,0.9090909090909091
+"{Okužba s Covid-19}, {Okužba s Covid-19}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
+"{srednje}, {srednje}, {Okužba s Covid-19}, {Učitelj}",9,0.8181818181818182
+"{Sum na okužbo}, {srednje}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
+"{srednje}, {srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{srednje}, {Učitelj, srednje}, {Okužba s Covid-19}",9,0.8181818181818182
 "{Okužba s Covid-19}, {Okužba s Covid-19}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19, srednje}, {Vzgojitelj}",9,0.8181818181818182
+"{Sum na okužbo, Učitelj}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19}, {srednje}, {Okužba s Covid-19}, {Učitelj}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {srednje}, {Učitelj}",10,0.9090909090909091
 "{Okužba s Covid-19, srednje}, {Sum na okužbo, Učitelj}",10,0.9090909090909091
-"{Okužba s Covid-19, srednje}, {srednje}, {srednje}, {Okužba s Covid-19}",9,0.8181818181818182
-"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {Sum na okužbo, Učitelj}",9,0.8181818181818182
-"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{srednje}, {srednje}, {srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Sum na okužbo}, {Okužba s Covid-19}, {srednje}",9,0.8181818181818182
-"{srednje}, {srednje}, {srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
-"{Sum na okužbo, Učitelj}, {Okužba s Covid-19, srednje}, {srednje}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Sum na okužbo}, {Okužba s Covid-19, srednje}, {Sum na okužbo, srednje}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo, srednje}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {srednje}, {Okužba s Covid-19}, {srednje}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {srednje}",10,0.9090909090909091
+"{Sum na okužbo, Učitelj}, {srednje}, {srednje}",10,0.9090909090909091
+"{srednje}, {Okužba s Covid-19, Učitelj}, {Sum na okužbo}",9,0.8181818181818182
+"{Sum na okužbo, Učitelj, srednje}, {srednje}",9,0.8181818181818182
+"{srednje}, {Učitelj, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19}, {Okužba s Covid-19}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{srednje}, {srednje}, {srednje}, {Okužba s Covid-19}",10,0.9090909090909091
+"{Učitelj, srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
+"{Sum na okužbo}, {Okužba s Covid-19, srednje}, {Učitelj}",9,0.8181818181818182
+"{Učitelj, srednje}, {srednje}, {Okužba s Covid-19}",9,0.8181818181818182
+"{srednje}, {srednje}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
+"{srednje}, {Učitelj}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19, Učitelj}, {srednje}",9,0.8181818181818182
+"{srednje}, {Učitelj, srednje}, {srednje}",10,0.9090909090909091
+"{Sum na okužbo}, {Okužba s Covid-19}, {Sum na okužbo, srednje}",9,0.8181818181818182
+"{Okužba s Covid-19, Učitelj, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Okužba s Covid-19}",10,0.9090909090909091
+"{Okužba s Covid-19, Vzgojitelj, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{srednje}, {Sum na okužbo}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
+"{Učitelj, srednje}, {Okužba s Covid-19}, {srednje}",10,0.9090909090909091
+"{srednje}, {Okužba s Covid-19}, {Sum na okužbo, Učitelj}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19}",10,0.9090909090909091
+"{Okužba s Covid-19, srednje}, {Učitelj}, {Okužba s Covid-19}",9,0.8181818181818182
+"{Okužba s Covid-19}, {srednje}, {srednje}, {Okužba s Covid-19}",9,0.8181818181818182
+"{srednje}, {srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19}, {Učitelj}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
+"{Okužba s Covid-19}, {srednje}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19}, {Sum na okužbo}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
+"{Okužba s Covid-19, Vzgojitelj, srednje}, {srednje}",9,0.8181818181818182
+"{Učitelj, srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {Učitelj}",10,0.9090909090909091
+"{Okužba s Covid-19}, {Sum na okužbo, srednje}, {Okužba s Covid-19}",9,0.8181818181818182
+"{Učitelj}, {Učitelj, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{srednje}, {srednje}, {srednje}, {srednje}",10,0.9090909090909091
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
+"{Sum na okužbo, srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",10,0.9090909090909091
+"{Okužba s Covid-19}, {Okužba s Covid-19}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19}, {srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19}, {srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{Okužba s Covid-19}, {Sum na okužbo}, {Okužba s Covid-19}, {srednje}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Sum na okužbo, srednje}",10,0.9090909090909091
 "{srednje}, {srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {srednje}, {srednje}, {srednje}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{Sum na okužbo, srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {srednje}",10,0.9090909090909091
+"{Učitelj, srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Učitelj}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19, srednje}, {srednje}, {srednje}",9,0.8181818181818182
+"{srednje}, {Sum na okužbo}, {Okužba s Covid-19, srednje}, {srednje}",9,0.8181818181818182
+"{Sum na okužbo}, {Okužba s Covid-19, srednje}, {Sum na okužbo, srednje}",9,0.8181818181818182
+"{srednje}, {srednje}, {Okužba s Covid-19, srednje}, {srednje}",10,0.9090909090909091
 "{srednje}, {Učitelj, srednje}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
+"{Okužba s Covid-19}, {srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Sum na okužbo}, {srednje}, {srednje}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Sum na okužbo}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Sum na okužbo, srednje}, {Okužba s Covid-19, srednje}, {srednje}",10,0.9090909090909091
+"{srednje}, {srednje}, {srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {srednje}, {srednje}, {Učitelj}",9,0.8181818181818182
+"{Učitelj, srednje}, {Okužba s Covid-19, srednje}, {srednje}",10,0.9090909090909091
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Sum na okužbo, Učitelj}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {srednje}, {srednje}, {Okužba s Covid-19}",9,0.8181818181818182
+"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {Učitelj}",10,0.9090909090909091
+"{srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo, Učitelj}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19}",10,0.9090909090909091
+"{srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo, srednje}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Sum na okužbo, srednje}, {Okužba s Covid-19}",9,0.8181818181818182
+"{Sum na okužbo, Učitelj}, {Okužba s Covid-19, srednje}, {srednje}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19}, {srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19}, {srednje}, {Okužba s Covid-19, srednje}, {srednje}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {srednje}",9,0.8181818181818182
+"{srednje}, {srednje}, {Okužba s Covid-19, srednje}, {Učitelj}",9,0.8181818181818182
+"{srednje}, {srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {srednje}, {Okužba s Covid-19}, {srednje}",9,0.8181818181818182
 "{Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
 "{Okužba s Covid-19, srednje}, {srednje}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
 "{srednje}, {Okužba s Covid-19, Učitelj, srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19}, {srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Učitelj, srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Učitelj}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Sum na okužbo, Učitelj}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo, Učitelj}",9,0.8181818181818182
+"{srednje}, {srednje}, {srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
 "{srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {srednje}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {srednje}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Sum na okužbo}, {srednje}, {srednje}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19, srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {srednje}, {Okužba s Covid-19}, {Učitelj}",9,0.8181818181818182
-"{srednje}, {Sum na okužbo}, {Okužba s Covid-19, srednje}, {srednje}",9,0.8181818181818182
-"{srednje}, {srednje}, {Okužba s Covid-19, srednje}, {srednje}",10,0.9090909090909091
-"{srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
-"{srednje}, {Okužba s Covid-19}, {srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {Učitelj}",10,0.9090909090909091
-"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19, Učitelj, srednje}, {srednje}",9,0.8181818181818182
+"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {Sum na okužbo, Učitelj}",9,0.8181818181818182
 "{Okužba s Covid-19}, {Sum na okužbo}, {Okužba s Covid-19, srednje}, {srednje}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19}",10,0.9090909090909091
-"{Okužba s Covid-19, srednje}, {srednje}, {Sum na okužbo, Učitelj}",9,0.8181818181818182
-"{Okužba s Covid-19}, {srednje}, {Okužba s Covid-19, srednje}, {srednje}",9,0.8181818181818182
-"{Učitelj, srednje}, {Okužba s Covid-19, srednje}, {srednje}",10,0.9090909090909091
-"{Okužba s Covid-19, srednje}, {srednje}, {srednje}, {srednje}",9,0.8181818181818182
-"{Sum na okužbo, srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
-"{srednje}, {Okužba s Covid-19, srednje}, {srednje}, {srednje}",9,0.8181818181818182
-"{srednje}, {srednje}, {srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Sum na okužbo}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
-"{srednje}, {srednje}, {Okužba s Covid-19, srednje}, {Učitelj}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Sum na okužbo, srednje}, {Okužba s Covid-19}",9,0.8181818181818182
-"{srednje}, {srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
 "{Okužba s Covid-19}, {srednje}, {Okužba s Covid-19, srednje}, {Učitelj}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {srednje}, {srednje}, {Učitelj}",9,0.8181818181818182
-"{Sum na okužbo, srednje}, {Okužba s Covid-19, srednje}, {srednje}",10,0.9090909090909091
-"{Okužba s Covid-19, srednje}, {Sum na okužbo}, {Okužba s Covid-19, srednje}, {srednje}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo, Učitelj}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19, srednje}, {srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {srednje}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {srednje}, {Okužba s Covid-19, srednje}, {Učitelj}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Sum na okužbo}, {Okužba s Covid-19}, {srednje}",9,0.8181818181818182
+"{srednje}, {srednje}, {srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {srednje}, {Okužba s Covid-19}, {Učitelj}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19, Učitelj, srednje}, {srednje}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19, srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {srednje}, {Sum na okužbo, Učitelj}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
 "{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {srednje}, {Okužba s Covid-19, srednje}, {srednje}",9,0.8181818181818182
-"{Okužba s Covid-19, srednje}, {srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {srednje}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Sum na okužbo}, {Okužba s Covid-19, srednje}, {srednje}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19, srednje}, {srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
 "{srednje}, {srednje}, {srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {srednje}, {Okužba s Covid-19, srednje}, {srednje}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {srednje}, {Sum na okužbo}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {Sum na okužbo, Učitelj}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {srednje}, {Okužba s Covid-19, srednje}, {Učitelj}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182

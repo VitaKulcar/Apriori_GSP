@@ -1,2 +1,5 @@
 Rule,Confidence
+{VRTEC} => {srednje},0.8181818181818182
 {srednje} => {srednje},0.8333333333333334
+"{srednje} => {srednje}, {srednje}",0.75
+"{srednje}, {srednje} => {srednje}",0.9

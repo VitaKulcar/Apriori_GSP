@@ -1,13 +1,16 @@
 Sequence,Support,Relative Frequency
-{srednje},12,1.0
 {OSNOVNA ŠOLA},12,1.0
-{Sum na okužbo},11,0.9166666666666666
+{kratko},9,0.75
 {Okužba s Covid-19},12,1.0
 {SREDNJA ŠOLA},10,0.8333333333333334
-"{Okužba s Covid-19}, {Sum na okužbo}",10,0.8333333333333334
+{srednje},12,1.0
+{VRTEC},9,0.75
+{Sum na okužbo},11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
 "{OSNOVNA ŠOLA}, {Sum na okužbo}",10,0.8333333333333334
 "{Okužba s Covid-19}, {SREDNJA ŠOLA}",10,0.8333333333333334
-"{OSNOVNA ŠOLA}, {SREDNJA ŠOLA}",10,0.8333333333333334
 "{Okužba s Covid-19}, {srednje}",11,0.9166666666666666
-"{OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
 "{OSNOVNA ŠOLA}, {Okužba s Covid-19}",10,0.8333333333333334
+"{Okužba s Covid-19}, {Sum na okužbo}",10,0.8333333333333334
+"{OSNOVNA ŠOLA}, {kratko}",9,0.75
+"{OSNOVNA ŠOLA}, {SREDNJA ŠOLA}",10,0.8333333333333334

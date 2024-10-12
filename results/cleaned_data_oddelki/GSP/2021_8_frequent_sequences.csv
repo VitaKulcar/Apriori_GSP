@@ -1,8 +1,48 @@
 Sequence,Support,Relative Frequency
-{VRTEC},11,0.9166666666666666
+{OSNOVNA ŠOLA},9,0.75
 {Okužba s Covid-19 pri učencu ali več učencih oddelka},10,0.8333333333333334
+{Okužba s Covid-19 pri otroku ali več otrocih skupine},9,0.75
 {srednje},12,1.0
-"{VRTEC, srednje}",11,0.9166666666666666
-"{srednje}, {VRTEC}",10,0.8333333333333334
+{malo},9,0.75
+{VRTEC},11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {srednje}",9,0.75
+"{Okužba s Covid-19 pri otroku ali več otrocih skupine, VRTEC}",9,0.75
 "{srednje}, {srednje}",11,0.9166666666666666
+"{srednje}, {VRTEC}",10,0.8333333333333334
+"{Okužba s Covid-19 pri otroku ali več otrocih skupine, srednje}",9,0.75
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",9,0.75
+"{srednje}, {malo}",9,0.75
+"{malo}, {VRTEC}",9,0.75
+"{malo}, {srednje}",9,0.75
+"{OSNOVNA ŠOLA, srednje}",9,0.75
+"{VRTEC}, {VRTEC}",9,0.75
+"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",9,0.75
+"{VRTEC}, {srednje}",9,0.75
+"{malo, srednje}",9,0.75
+"{VRTEC, malo}",9,0.75
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",9,0.75
+"{VRTEC, srednje}",11,0.9166666666666666
+"{srednje}, {malo, srednje}",9,0.75
+"{Okužba s Covid-19 pri otroku ali več otrocih skupine, VRTEC, srednje}",9,0.75
 "{srednje}, {VRTEC, srednje}",10,0.8333333333333334
+"{VRTEC}, {VRTEC, srednje}",9,0.75
+"{malo}, {VRTEC, srednje}",9,0.75
+"{VRTEC, srednje}, {VRTEC}",9,0.75
+"{srednje}, {VRTEC}, {srednje}",9,0.75
+"{srednje}, {VRTEC}, {VRTEC}",9,0.75
+"{VRTEC, malo}, {VRTEC}",9,0.75
+"{srednje}, {srednje}, {srednje}",9,0.75
+"{srednje}, {srednje}, {VRTEC}",9,0.75
+"{VRTEC, srednje}, {srednje}",9,0.75
+"{VRTEC, malo}, {srednje}",9,0.75
+"{OSNOVNA ŠOLA, srednje}, {srednje}",9,0.75
+"{malo, srednje}, {srednje}",9,0.75
+"{malo, srednje}, {VRTEC}",9,0.75
+"{srednje}, {VRTEC, srednje}, {srednje}",9,0.75
+"{srednje}, {VRTEC, srednje}, {VRTEC}",9,0.75
+"{VRTEC, srednje}, {VRTEC, srednje}",9,0.75
+"{srednje}, {srednje}, {VRTEC, srednje}",9,0.75
+"{srednje}, {VRTEC}, {VRTEC, srednje}",9,0.75
+"{VRTEC, malo}, {VRTEC, srednje}",9,0.75
+"{malo, srednje}, {VRTEC, srednje}",9,0.75
+"{srednje}, {VRTEC, srednje}, {VRTEC, srednje}",9,0.75

@@ -1,9 +1,9 @@
 Rule,Confidence
-{Okužba s Covid-19 pri vzgojitelju} => {malo},0.8888888888888888
-{malo} => {Okužba s Covid-19 pri vzgojitelju},0.8888888888888888
+{OSNOVNA ŠOLA} => {srednje},1.0
+{srednje} => {OSNOVNA ŠOLA},0.9
 {OSNOVNA ŠOLA} => {VRTEC},1.0
 {VRTEC} => {OSNOVNA ŠOLA},0.9
 {VRTEC} => {malo},0.8
 {malo} => {VRTEC},0.8888888888888888
-{OSNOVNA ŠOLA} => {srednje},1.0
-{srednje} => {OSNOVNA ŠOLA},0.9
+{Okužba s Covid-19 pri vzgojitelju} => {malo},0.8888888888888888
+{malo} => {Okužba s Covid-19 pri vzgojitelju},0.8888888888888888

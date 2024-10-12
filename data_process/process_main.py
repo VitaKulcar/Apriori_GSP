@@ -24,7 +24,7 @@ def process_file(name, filename):
     if filename.endswith('.csv'):
         group_name = filename.split('.')[0]
         sequences = generate_sequences(name, group_name)
-        process_month(name, group_name, sequences, 0.5, 0.7, len(sequences))
+        process_month(name, group_name, sequences, 0.75, 0.75, len(sequences))
 
 
 def process_sequential():

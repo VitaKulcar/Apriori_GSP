@@ -1,7 +1,7 @@
 Rule,Confidence
-{srednje} => {srednje},1.0
-{srednje} => {VRTEC},0.8888888888888888
 {OSNOVNA ŠOLA} => {srednje},0.8888888888888888
+{srednje} => {srednje},1.0
 {OSNOVNA ŠOLA} => {OSNOVNA ŠOLA},0.8888888888888888
+{srednje} => {VRTEC},0.8888888888888888
 "{srednje} => {VRTEC, srednje}",0.8888888888888888
 "{OSNOVNA ŠOLA, srednje} => {srednje}",1.0
