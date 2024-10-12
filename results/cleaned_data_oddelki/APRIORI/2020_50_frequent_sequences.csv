@@ -1,5 +1,5 @@
 Sequence,Support,Relative Frequency
-{malo},7,1.0
-{srednje},6,0.8571428571428571
-{VRTEC},7,1.0
-"{VRTEC}, {malo}",6,0.8571428571428571
+{srednje},6,0.75
+{Okužba pri delavcu},6,0.75
+{VRTEC},7,0.875
+{malo},8,1.0

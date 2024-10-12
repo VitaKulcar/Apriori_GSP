@@ -1,16 +1,16 @@
 Sequence,Support,Relative Frequency
 {srednje},1,1.0
+{Okužba pri delavcu},1,1.0
 {Savinjska},1,1.0
 {VRTEC},1,1.0
-{Okužba s Covid-19 pri drugem strokovnem delavcu},1,1.0
-"{Savinjska, srednje}",1,1.0
-"{Okužba s Covid-19 pri drugem strokovnem delavcu, VRTEC}",1,1.0
-"{Okužba s Covid-19 pri drugem strokovnem delavcu, Savinjska}",1,1.0
-"{Okužba s Covid-19 pri drugem strokovnem delavcu, srednje}",1,1.0
-"{VRTEC, srednje}",1,1.0
+"{Okužba pri delavcu, Savinjska}",1,1.0
+"{Okužba pri delavcu, VRTEC}",1,1.0
 "{Savinjska, VRTEC}",1,1.0
-"{Okužba s Covid-19 pri drugem strokovnem delavcu, Savinjska, VRTEC}",1,1.0
+"{Okužba pri delavcu, srednje}",1,1.0
+"{Savinjska, srednje}",1,1.0
+"{VRTEC, srednje}",1,1.0
+"{Okužba pri delavcu, Savinjska, VRTEC}",1,1.0
+"{Okužba pri delavcu, Savinjska, srednje}",1,1.0
+"{Okužba pri delavcu, VRTEC, srednje}",1,1.0
 "{Savinjska, VRTEC, srednje}",1,1.0
-"{Okužba s Covid-19 pri drugem strokovnem delavcu, VRTEC, srednje}",1,1.0
-"{Okužba s Covid-19 pri drugem strokovnem delavcu, Savinjska, srednje}",1,1.0
-"{Okužba s Covid-19 pri drugem strokovnem delavcu, Savinjska, VRTEC, srednje}",1,1.0
+"{Okužba pri delavcu, Savinjska, VRTEC, srednje}",1,1.0

@@ -1,2 +1,16 @@
 Rule,Confidence
-{srednje} => {srednje},0.75
+{Sum na okužbo} => {Sum na okužbo},0.7777777777777778
+{Sum na okužbo} => {srednje},0.8888888888888888
+{srednje} => {Sum na okužbo},0.875
+{srednje} => {srednje},1.0
+{VRTEC} => {srednje},1.0
+{VRTEC} => {Sum na okužbo},1.0
+"{Sum na okužbo} => {Sum na okužbo, srednje}",0.7777777777777778
+"{VRTEC, srednje} => {Sum na okužbo}",1.0
+"{VRTEC, srednje} => {srednje}",1.0
+"{srednje} => {Sum na okužbo, srednje}",0.875
+"{VRTEC} => {Sum na okužbo, srednje}",1.0
+"{Sum na okužbo, srednje} => {Sum na okužbo}",0.875
+"{Sum na okužbo, srednje} => {srednje}",1.0
+"{Sum na okužbo, srednje} => {Sum na okužbo, srednje}",0.875
+"{VRTEC, srednje} => {Sum na okužbo, srednje}",1.0

@@ -1,6 +1,6 @@
 Feature,Attributes
-REGIJA,"Podravska, Osrednjeslovenska, Savinjska, Goriška, Gorenjska, Pomurska, Jugovzhodna Slovenija, Obalno-kraška, Zasavska, Primorsko-notranjska, Koroška, Posavska"
-OBDOBJE,"SREDNJA ŠOLA, OSNOVNA ŠOLA, VRTEC, GLASBENA ŠOLA"
-STEV_UCENCEV,"veliko, malo, srednje"
-VZROK,"Okužba s Covid-19 pri dijaku ali več dijakih oddelka, Okužba s Covid-19 pri učencu ali več učencih oddelka, Okužba s Covid-19 pri učitelju, Sum na okužbo s Covid-19 pri dijaku ali več dijakih oddelka, Okužba s Covid-19 pri vzgojitelju, Okužba s Covid-19 pri otroku ali več otrocih skupine, Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka, Okužba s Covid-19 pri drugem delavcu, Okužba s Covid-19 pri drugem strokovnem delavcu, Sum na okužbo s Covid-19 pri učitelju, Sum na okužbo s Covid-19 pri otroku / učencu / dijaku ali več učencih oddelka, Sum na okužbo s Covid-19 pri drugem strokovnem delavcu, Okužba s Covid-19 pri otroku / učencu / dijaku ali več učencih oddelka, Sum na okužbo s Covid-19 pri otroku ali več otrocih skupine, Sum na okužbo s Covid-19 pri drugem delavcu, Okužba s Covid-19 pri predavatelju"
+REGIJA,"Podravska, Osrednjeslovenska, Gorenjska, Goriška, Savinjska, Pomurska, Jugovzhodna Slovenija, Obalno-kraška, Zasavska, Koroška, Primorsko-notranjska, Posavska"
+OBDOBJE,"SREDNJA ŠOLA, OSNOVNA ŠOLA, VRTEC, OSTALO, GLASBENA ŠOLA"
+STEV_UCENCEV,"veliko, srednje, malo"
+VZROK,"Okužba s Covid-19 pri dijaku ali več dijakih oddelka, Okužba s Covid-19 pri učencu ali več učencih oddelka, Sum na okužbo s Covid-19 pri dijaku ali več dijakih oddelka, Okužba s Covid-19 pri učitelju, Okužba s Covid-19 pri vzgojitelju, Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka, Okužba s Covid-19 pri otroku ali več otrocih skupine, Okužba pri delavcu, Sum na okužbo s Covid-19 pri učitelju, Sum na okužbo pri delavcu, Sum na okužbo s Covid-19 pri otroku / učencu / dijaku ali več učencih oddelka, Okužba s Covid-19 pri otroku / učencu / dijaku ali več učencih oddelka, Sum na okužbo s Covid-19 pri otroku ali več otrocih skupine, Okužba s Covid-19 pri predavatelju"
 TRAJANJE,"kratko, srednje, dolgo"

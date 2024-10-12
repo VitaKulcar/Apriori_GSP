@@ -1,87 +1,92 @@
 REGIJA,OBDOBJE,STEV_UCENCEV,VZROK,TRAJANJE
-Savinjska,VRTEC,malo,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Osrednjeslovenska,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje
-Gorenjska,VRTEC,srednje,Sum na okužbo s Covid-19 pri drugem strokovnem delavcu,srednje
-Gorenjska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,srednje
-Jugovzhodna Slovenija,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje
-Jugovzhodna Slovenija,VRTEC,malo,Okužba s Covid-19 pri drugem strokovnem delavcu,srednje
-Gorenjska,VRTEC,srednje,Sum na okužbo s Covid-19 pri drugem strokovnem delavcu,kratko
-Koroška,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učitelju,srednje
-Osrednjeslovenska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,srednje
-Podravska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učitelju,srednje
-Osrednjeslovenska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Gorenjska,OSNOVNA ŠOLA,veliko,Sum na okužbo s Covid-19 pri učitelju,kratko
-Gorenjska,OSNOVNA ŠOLA,srednje,Sum na okužbo s Covid-19 pri učitelju,kratko
-Gorenjska,OSNOVNA ŠOLA,srednje,Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka,srednje
-Osrednjeslovenska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
+Gorenjska,VRTEC,srednje,Sum na okužbo pri delavcu,kratko
 Pomurska,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje
-Gorenjska,VRTEC,srednje,Okužba s Covid-19 pri drugem strokovnem delavcu,srednje
-Osrednjeslovenska,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,kratko
-Podravska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,srednje
+Podravska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učitelju,srednje
+Gorenjska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,srednje
+Gorenjska,VRTEC,srednje,Okužba pri delavcu,srednje
 Osrednjeslovenska,VRTEC,srednje,Okužba s Covid-19 pri otroku ali več otrocih skupine,srednje
+Gorenjska,OSNOVNA ŠOLA,srednje,Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka,srednje
+Osrednjeslovenska,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje
+Osrednjeslovenska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,srednje
+Osrednjeslovenska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
+Koroška,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učitelju,srednje
+Jugovzhodna Slovenija,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje
+Podravska,OSTALO,srednje,Okužba pri delavcu,srednje
+Jugovzhodna Slovenija,VRTEC,malo,Okužba pri delavcu,srednje
+Osrednjeslovenska,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,kratko
+Podravska,VRTEC,srednje,Okužba pri delavcu,srednje
+Savinjska,VRTEC,malo,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
+Gorenjska,VRTEC,srednje,Sum na okužbo pri delavcu,srednje
 Osrednjeslovenska,VRTEC,malo,Okužba s Covid-19 pri otroku ali več otrocih skupine,srednje
-Gorenjska,VRTEC,malo,Okužba s Covid-19 pri drugem strokovnem delavcu,srednje
-Podravska,VRTEC,srednje,Okužba s Covid-19 pri drugem strokovnem delavcu,srednje
-Jugovzhodna Slovenija,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri drugem strokovnem delavcu,srednje
+Gorenjska,OSNOVNA ŠOLA,srednje,Sum na okužbo s Covid-19 pri učitelju,kratko
+Gorenjska,OSNOVNA ŠOLA,veliko,Sum na okužbo s Covid-19 pri učitelju,kratko
+Gorenjska,VRTEC,malo,Okužba pri delavcu,srednje
 Savinjska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
+Podravska,OSTALO,malo,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
 Pomurska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,srednje
-Osrednjeslovenska,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učitelju,srednje
-Osrednjeslovenska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,kratko
-Osrednjeslovenska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
-Savinjska,VRTEC,srednje,Sum na okužbo s Covid-19 pri učitelju,srednje
-Goriška,VRTEC,malo,Sum na okužbo s Covid-19 pri učitelju,kratko
-Osrednjeslovenska,VRTEC,srednje,Sum na okužbo s Covid-19 pri drugem strokovnem delavcu,srednje
-Savinjska,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje
-Osrednjeslovenska,VRTEC,malo,Okužba s Covid-19 pri otroku ali več otrocih skupine,kratko
-Osrednjeslovenska,VRTEC,malo,Okužba s Covid-19 pri drugem strokovnem delavcu,srednje
-Osrednjeslovenska,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje
-Savinjska,VRTEC,srednje,Okužba s Covid-19 pri drugem strokovnem delavcu,srednje
-Goriška,VRTEC,malo,Sum na okužbo s Covid-19 pri otroku ali več otrocih skupine,srednje
-Gorenjska,VRTEC,srednje,Sum na okužbo s Covid-19 pri učitelju,srednje
-Gorenjska,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri drugem strokovnem delavcu,srednje
-Gorenjska,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učitelju,srednje
+Jugovzhodna Slovenija,OSTALO,malo,Okužba pri delavcu,srednje
+Jugovzhodna Slovenija,OSNOVNA ŠOLA,malo,Okužba pri delavcu,srednje
+Podravska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,srednje
+Osrednjeslovenska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
 Podravska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
 Osrednjeslovenska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
+Savinjska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,srednje
+Osrednjeslovenska,VRTEC,malo,Okužba s Covid-19 pri otroku ali več otrocih skupine,kratko
+Osrednjeslovenska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,kratko
+Osrednjeslovenska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
+Savinjska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
+Goriška,VRTEC,malo,Sum na okužbo s Covid-19 pri otroku ali več otrocih skupine,srednje
+Pomurska,VRTEC,srednje,Okužba pri delavcu,srednje
+Osrednjeslovenska,VRTEC,srednje,Sum na okužbo pri delavcu,srednje
+Gorenjska,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učitelju,srednje
+Gorenjska,OSNOVNA ŠOLA,malo,Okužba pri delavcu,srednje
+Gorenjska,VRTEC,srednje,Sum na okužbo s Covid-19 pri učitelju,srednje
+Goriška,VRTEC,malo,Sum na okužbo s Covid-19 pri učitelju,kratko
+Gorenjska,OSNOVNA ŠOLA,srednje,Sum na okužbo s Covid-19 pri učitelju,srednje
+Osrednjeslovenska,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učitelju,srednje
+Savinjska,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje
+Savinjska,VRTEC,srednje,Okužba pri delavcu,srednje
+Osrednjeslovenska,VRTEC,malo,Okužba pri delavcu,srednje
 Primorsko-notranjska,VRTEC,malo,Okužba s Covid-19 pri učitelju,srednje
 Gorenjska,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje
 Gorenjska,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje
-Savinjska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Gorenjska,OSNOVNA ŠOLA,srednje,Sum na okužbo s Covid-19 pri učitelju,srednje
-Pomurska,VRTEC,srednje,Okužba s Covid-19 pri drugem strokovnem delavcu,srednje
-Savinjska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,srednje
+Savinjska,VRTEC,srednje,Sum na okužbo s Covid-19 pri učitelju,srednje
+Osrednjeslovenska,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje
+Osrednjeslovenska,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,kratko
+Savinjska,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učitelju,srednje
 Gorenjska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
 Koroška,OSNOVNA ŠOLA,srednje,Sum na okužbo s Covid-19 pri učitelju,kratko
-Savinjska,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učitelju,srednje
+Podravska,OSTALO,malo,Okužba pri delavcu,srednje
 Gorenjska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,kratko
-Osrednjeslovenska,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,kratko
+Osrednjeslovenska,VRTEC,srednje,Okužba pri delavcu,srednje
+Osrednjeslovenska,OSNOVNA ŠOLA,srednje,Okužba pri delavcu,srednje
 Osrednjeslovenska,VRTEC,srednje,Sum na okužbo s Covid-19 pri otroku ali več otrocih skupine,srednje
-Gorenjska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri drugem delavcu,srednje
-Podravska,VRTEC,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
 Primorsko-notranjska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Jugovzhodna Slovenija,OSNOVNA ŠOLA,malo,Sum na okužbo s Covid-19 pri učitelju,kratko
-Jugovzhodna Slovenija,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učitelju,srednje
-Gorenjska,VRTEC,malo,Okužba s Covid-19 pri učitelju,srednje
-Osrednjeslovenska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri drugem delavcu,srednje
-Gorenjska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Pomurska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
 Osrednjeslovenska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učitelju,srednje
-Osrednjeslovenska,VRTEC,srednje,Okužba s Covid-19 pri drugem strokovnem delavcu,srednje
+Podravska,VRTEC,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
+Jugovzhodna Slovenija,OSNOVNA ŠOLA,malo,Sum na okužbo s Covid-19 pri učitelju,kratko
+Gorenjska,OSNOVNA ŠOLA,veliko,Okužba pri delavcu,srednje
+Gorenjska,VRTEC,malo,Okužba s Covid-19 pri učitelju,srednje
+Pomurska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
+Jugovzhodna Slovenija,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učitelju,srednje
+Gorenjska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
 Osrednjeslovenska,OSNOVNA ŠOLA,veliko,Sum na okužbo s Covid-19 pri učitelju,kratko
-Podravska,VRTEC,malo,Sum na okužbo s Covid-19 pri otroku / učencu / dijaku ali več učencih oddelka,kratko
 Podravska,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri otroku / učencu / dijaku ali več učencih oddelka,kratko
 Pomurska,VRTEC,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Primorsko-notranjska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učitelju,srednje
-Jugovzhodna Slovenija,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
+Osrednjeslovenska,VRTEC,malo,Sum na okužbo s Covid-19 pri otroku ali več otrocih skupine,srednje
+Osrednjeslovenska,OSTALO,malo,Okužba s Covid-19 pri učitelju,srednje
+Podravska,VRTEC,srednje,Okužba s Covid-19 pri otroku ali več otrocih skupine,srednje
+Savinjska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
+Gorenjska,OSNOVNA ŠOLA,srednje,Sum na okužbo pri delavcu,srednje
+Jugovzhodna Slovenija,VRTEC,malo,Okužba s Covid-19 pri otroku ali več otrocih skupine,srednje
+Podravska,VRTEC,malo,Sum na okužbo s Covid-19 pri otroku / učencu / dijaku ali več učencih oddelka,kratko
 Jugovzhodna Slovenija,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje
+Jugovzhodna Slovenija,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
 Jugovzhodna Slovenija,OSNOVNA ŠOLA,malo,Sum na okužbo s Covid-19 pri učitelju,srednje
 Pomurska,VRTEC,srednje,Okužba s Covid-19 pri učitelju,srednje
+Primorsko-notranjska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učitelju,srednje
 Podravska,VRTEC,srednje,Sum na okužbo s Covid-19 pri učitelju,kratko
-Savinjska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Jugovzhodna Slovenija,VRTEC,malo,Okužba s Covid-19 pri otroku ali več otrocih skupine,srednje
-Osrednjeslovenska,VRTEC,malo,Sum na okužbo s Covid-19 pri otroku ali več otrocih skupine,srednje
-Gorenjska,OSNOVNA ŠOLA,srednje,Sum na okužbo s Covid-19 pri drugem strokovnem delavcu,srednje
-Podravska,VRTEC,srednje,Okužba s Covid-19 pri otroku ali več otrocih skupine,srednje
+Osrednjeslovenska,OSNOVNA ŠOLA,srednje,Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka,srednje
 Savinjska,VRTEC,srednje,Okužba s Covid-19 pri otroku ali več otrocih skupine,srednje
 Pomurska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
-Osrednjeslovenska,OSNOVNA ŠOLA,srednje,Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka,srednje
 Osrednjeslovenska,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učitelju,kratko

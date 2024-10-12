@@ -1,1 +1,3 @@
 Rule,Confidence
+{malo} => {srednje},0.9090909090909091
+{srednje} => {malo},0.9090909090909091

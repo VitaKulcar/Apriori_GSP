@@ -1,16 +1,16 @@
 Sequence,Support,Relative Frequency
+{Zasavska},1,1.0
 {srednje},1,1.0
 {VRTEC},1,1.0
-{Zasavska},1,1.0
 {Okužba s Covid-19 pri otroku ali več otrocih skupine},1,1.0
 "{Okužba s Covid-19 pri otroku ali več otrocih skupine, VRTEC}",1,1.0
 "{Okužba s Covid-19 pri otroku ali več otrocih skupine, Zasavska}",1,1.0
 "{Okužba s Covid-19 pri otroku ali več otrocih skupine, srednje}",1,1.0
+"{VRTEC, Zasavska}",1,1.0
 "{Zasavska, srednje}",1,1.0
 "{VRTEC, srednje}",1,1.0
-"{VRTEC, Zasavska}",1,1.0
-"{VRTEC, Zasavska, srednje}",1,1.0
-"{Okužba s Covid-19 pri otroku ali več otrocih skupine, VRTEC, srednje}",1,1.0
-"{Okužba s Covid-19 pri otroku ali več otrocih skupine, Zasavska, srednje}",1,1.0
 "{Okužba s Covid-19 pri otroku ali več otrocih skupine, VRTEC, Zasavska}",1,1.0
+"{Okužba s Covid-19 pri otroku ali več otrocih skupine, VRTEC, srednje}",1,1.0
+"{VRTEC, Zasavska, srednje}",1,1.0
+"{Okužba s Covid-19 pri otroku ali več otrocih skupine, Zasavska, srednje}",1,1.0
 "{Okužba s Covid-19 pri otroku ali več otrocih skupine, VRTEC, Zasavska, srednje}",1,1.0

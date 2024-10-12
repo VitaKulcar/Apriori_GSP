@@ -2,16 +2,16 @@ Sequence,Support,Relative Frequency
 {srednje},4,1.0
 {Vzgojitelj},4,1.0
 {Okužba s Covid-19},4,1.0
-"{srednje}, {srednje}",3,0.75
-"{Okužba s Covid-19}, {srednje}",3,0.75
+"{Okužba s Covid-19, Vzgojitelj}",4,1.0
 "{Okužba s Covid-19, srednje}",4,1.0
 "{Vzgojitelj, srednje}",4,1.0
-"{Okužba s Covid-19, Vzgojitelj}",4,1.0
 "{srednje}, {Okužba s Covid-19}",3,0.75
+"{Okužba s Covid-19}, {srednje}",3,0.75
+"{srednje}, {srednje}",3,0.75
 "{Okužba s Covid-19}, {Okužba s Covid-19}",3,0.75
-"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}",3,0.75
-"{srednje}, {Okužba s Covid-19, srednje}",3,0.75
 "{Okužba s Covid-19, Vzgojitelj, srednje}",4,1.0
 "{Okužba s Covid-19, srednje}, {srednje}",3,0.75
 "{Okužba s Covid-19, srednje}, {Okužba s Covid-19}",3,0.75
+"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}",3,0.75
+"{srednje}, {Okužba s Covid-19, srednje}",3,0.75
 "{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}",3,0.75

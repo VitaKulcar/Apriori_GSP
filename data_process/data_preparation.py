@@ -23,32 +23,19 @@ def data_cleaning(dataset_name, columns_drop):
     df = df[df['TRAJANJE'] >= pd.Timedelta(0)]
 
     # dodajanje stolpca LETO_MESEC_VNOSA
-    # df['LETO_MESEC_VNOSA'] = df['VNOS'].dt.to_period('M')
-    df['LETO_TEDEN_VNOSA'] = df['VNOS'].dt.isocalendar().year.astype(str) + '_' + df['VNOS'].dt.isocalendar().week.astype(str)
+    df['LETO_TEDEN_VNOSA'] = df['VNOS'].dt.isocalendar().year.astype(str) + '_' + df[
+        'VNOS'].dt.isocalendar().week.astype(str)
 
     # diskretizacija števila učencev (oddelki)
     if dataset_name == 'oddelki':
-        df['STEV_UCENCEV'] = pd.cut(df['STEV_UCENCEV'], bins=3, labels=['malo', 'srednje', 'veliko'])
+        df['STEV_UCENCEV'], bin_edges = pd.cut(df['STEV_UCENCEV'], bins=5,
+                                               labels=['zelo malo', 'malo', 'srednje', 'veliko', 'zelo veliko'])
+        print(bin_edges)
 
     # diskretizacija trajanja okužbe
-    df['TRAJANJE'] = pd.cut(df['TRAJANJE'], bins=3, labels=['kratko', 'srednje', 'dolgo'])
-
-    # posplošitev zapisov regij
-    """region_groups = {
-        'Podravska': 'Eastern Slovenia',
-        'Savinjska': 'Eastern Slovenia',
-        'Pomurska': 'Eastern Slovenia',
-        'Koroška': 'Eastern Slovenia',
-        'Posavska': 'Eastern Slovenia',
-        'Zasavska': 'Eastern Slovenia',
-        'Jugovzhodna Slovenija': 'Eastern Slovenia',
-        'Osrednjeslovenska': 'Central Slovenia',
-        'Obalno-kraška': 'Western Slovenia',
-        'Gorenjska': 'Western Slovenia',
-        'Goriška': 'Western Slovenia',
-        'Primorsko-notranjska': 'Western Slovenia'
-    }
-    df['REGIJA'] = df['REGIJA'].map(region_groups)"""
+    df['TRAJANJE'], bin_edges = pd.cut(df['TRAJANJE'], bins=3,
+                                       labels=['kratko trajanje', 'srednje trajanje', 'dolgo trajanje'])
+    print(bin_edges)
 
     # posplošitev zapisov
     if dataset_name != 'zaposleni':
@@ -57,7 +44,6 @@ def data_cleaning(dataset_name, columns_drop):
         df.loc[df['OBDOBJE'].str.contains('star. obd', case=False, na=False), 'OBDOBJE'] = 'VRTEC'
         df.loc[df['OBDOBJE'].str.contains('stopnja', case=False, na=False), 'OBDOBJE'] = 'OSTALO'
         df.loc[df['OBDOBJE'].str.contains('skupina', case=False, na=False), 'OBDOBJE'] = 'OSTALO'
-        df = df[df['OBDOBJE'] != 'OSTALO']
 
         terms = [
             'Klarinet', 'Kitara', 'Petje', 'Flavta', 'Pozavna', 'Rog', 'Tolkala', 'Trobenta', 'Viola',
@@ -69,27 +55,25 @@ def data_cleaning(dataset_name, columns_drop):
         pattern = '|'.join(terms)
         df.loc[df['OBDOBJE'].str.contains(pattern, case=False, na=False), 'OBDOBJE'] = 'GLASBENA ŠOLA'
 
-    """if dataset_name == 'oddelki':
-        terms = [
+    if dataset_name == 'oddelki':
+        """terms = [
             'Okužba s Covid-19 pri otroku ali več otrocih skupine',
             'Okužba s Covid-19 pri učencu ali več učencih oddelka',
             'Okužba s Covid-19 pri dijaku ali več dijakih oddelka',
             'Okužba s Covid-19 pri otroku / učencu / dijaku ali več učencih oddelka'
         ]
         pattern = '|'.join(terms)
-        df.loc[df['VZROK'].str.contains(pattern, case=False, na=False), 'VZROK'] = 'Okužba pri otroku / učencu / dijaku'
+        df.loc[df['VZROK'].str.contains(pattern, case=False, na=False), 'VZROK'] = 'Okužba pri otroku / učencu / dijaku'"""
 
         terms = [
-            'Okužba s Covid-19 pri vzgojitelju',
-            'Okužba s Covid-19 pri učitelju',
-            'Okužba s Covid-19 pri predavatelju',
             'Okužba s Covid-19 pri drugem strokovnem delavcu',
-            'Okužba s Covid-19 pri drugem delavcu'
+            'Okužba s Covid-19 pri drugem delavcu',
+            'Okužba s Covid-19 pri slušatelju ali več slušateljih oddelka'
         ]
         pattern = '|'.join(terms)
-        df.loc[df['VZROK'].str.contains(pattern, case=False, na=False), 'VZROK'] = 'Okužba pri zaposlenem'
+        df.loc[df['VZROK'].str.contains(pattern, case=False, na=False), 'VZROK'] = 'Okužba pri delavcu'
 
-        terms = [
+        """terms = [
             'Sum na okužbo s Covid-19 pri otroku ali več otrocih skupine',
             'Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka',
             'Sum na okužbo s Covid-19 pri dijaku ali več dijakih oddelka',
@@ -97,21 +81,18 @@ def data_cleaning(dataset_name, columns_drop):
         ]
         pattern = '|'.join(terms)
         df.loc[df['VZROK'].str.contains(pattern, case=False,
-                                        na=False), 'VZROK'] = 'Sum na okužbo pri otroku / učencu / dijaku'
+                                        na=False), 'VZROK'] = 'Sum na okužbo pri otroku / učencu / dijaku'"""
 
         terms = [
-            'Sum na okužbo s Covid-19 pri vzgojitelju',
-            'Sum na okužbo s Covid-19 pri učitelju',
-            'Sum na okužbo s Covid-19 pri predavatelju',
             'Sum na okužbo s Covid-19 pri drugem strokovnem delavcu',
             'Sum na okužbo s Covid-19 pri drugem delavcu',
-            'Okužba s Covid-19 pri slušatelju ali več slušateljih oddelka'
+            'Sum na okužbo s Covid-19 pri slušatelju ali več slušateljih oddelka'
         ]
         pattern = '|'.join(terms)
         df.loc[df['VZROK'].str.contains(pattern, case=False,
-                                        na=False), 'VZROK'] = 'Sum na okužbo pri zaposlenem'
+                                        na=False), 'VZROK'] = 'Sum na okužbo pri delavcu'
 
-        df = df[df['VZROK'] != 'Starši zavračajo izvajanje ukrepov']"""
+        df = df[df['VZROK'] != 'Starši zavračajo izvajanje ukrepov']
 
     # odstranitev praznih vrstic
     df.dropna(inplace=True)

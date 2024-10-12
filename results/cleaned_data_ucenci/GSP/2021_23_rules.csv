@@ -1,12 +1,8 @@
 Rule,Confidence
-{OSNOVNA ŠOLA} => {srednje},0.8181818181818182
+{srednje} => {OSNOVNA ŠOLA},0.8181818181818182
+{srednje} => {Okužba s Covid-19},0.8181818181818182
+{srednje} => {Sum na okužbo},0.8181818181818182
 {srednje} => {srednje},0.9090909090909091
-{Sum na okužbo} => {srednje},0.9
-{srednje} => {Okužba s Covid-19},0.9090909090909091
-{Sum na okužbo} => {Okužba s Covid-19},0.9
-"{OSNOVNA ŠOLA, srednje} => {srednje}",0.8181818181818182
-"{srednje} => {Okužba s Covid-19, srednje}",0.9090909090909091
-"{Sum na okužbo, srednje} => {Okužba s Covid-19}",0.9
-"{Sum na okužbo} => {Okužba s Covid-19, srednje}",0.9
-"{Sum na okužbo, srednje} => {srednje}",0.9
-"{Sum na okužbo, srednje} => {Okužba s Covid-19, srednje}",0.9
+"{srednje} => {Sum na okužbo, srednje}",0.8181818181818182
+"{srednje} => {OSNOVNA ŠOLA, srednje}",0.8181818181818182
+"{srednje} => {Okužba s Covid-19, srednje}",0.8181818181818182

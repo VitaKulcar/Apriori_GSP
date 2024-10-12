@@ -1,16 +1,16 @@
 Sequence,Support,Relative Frequency
+{kratko},8,0.8
 {Učitelj},10,1.0
 {srednje},9,0.9
-{kratko},8,0.8
 {Sum na okužbo},10,1.0
-"{Sum na okužbo, Učitelj}",10,1.0
-"{Sum na okužbo, kratko}",8,0.8
 "{Sum na okužbo, srednje}",9,0.9
-"{srednje}, {Sum na okužbo}",8,0.8
-"{Učitelj, srednje}",9,0.9
 "{Sum na okužbo}, {Sum na okužbo}",9,0.9
+"{Sum na okužbo, Učitelj}",10,1.0
+"{srednje}, {Sum na okužbo}",8,0.8
+"{Sum na okužbo, kratko}",8,0.8
+"{Učitelj, srednje}",9,0.9
 "{Učitelj}, {Sum na okužbo}",8,0.8
+"{Sum na okužbo, srednje}, {Sum na okužbo}",8,0.8
 "{Učitelj, srednje}, {Sum na okužbo}",8,0.8
 "{Sum na okužbo, Učitelj}, {Sum na okužbo}",8,0.8
-"{Sum na okužbo, srednje}, {Sum na okužbo}",8,0.8
 "{Sum na okužbo, Učitelj, srednje}",8,0.8

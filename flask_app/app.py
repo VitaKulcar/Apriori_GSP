@@ -27,7 +27,6 @@ def graphs():
 def attributes():
     return render_template('attributes.html')
 
-
 @app.route('/get_attributes', methods=['GET'])
 def get_attributes():
     dataset_name = request.args.get('dataset')
@@ -89,7 +88,7 @@ def get_csv_dates():
         if not os.path.exists(dir_path):
             return []
         return [
-            file.split('_')[0]
+            f"{file.split('_')[0]}_{file.split('_')[1]}"
             for file in os.listdir(dir_path)
             if file.endswith('.csv')
         ]

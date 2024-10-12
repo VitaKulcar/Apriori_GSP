@@ -1,20 +1,25 @@
 REGIJA,OBDOBJE,VZROK,TRAJANJE
 Jugovzhodna Slovenija,VRTEC,Sum na okužbo,srednje
+Gorenjska,VRTEC,Sum na okužbo,srednje
 Osrednjeslovenska,OSNOVNA ŠOLA,Sum na okužbo,srednje
 Pomurska,VRTEC,Sum na okužbo,srednje
-Gorenjska,VRTEC,Sum na okužbo,srednje
-Gorenjska,OSNOVNA ŠOLA,Sum na okužbo,dolgo
 Zasavska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje
 Posavska,VRTEC,Sum na okužbo,srednje
 Podravska,VRTEC,Okužba s Covid-19,srednje
+Gorenjska,OSNOVNA ŠOLA,Sum na okužbo,dolgo
 Jugovzhodna Slovenija,VRTEC,Okužba s Covid-19,srednje
-Savinjska,VRTEC,Sum na okužbo,srednje
-Obalno-kraška,VRTEC,Sum na okužbo,kratko
 Osrednjeslovenska,VRTEC,Sum na okužbo,srednje
 Primorsko-notranjska,VRTEC,Okužba s Covid-19,srednje
-Obalno-kraška,VRTEC,Okužba s Covid-19,srednje
+Obalno-kraška,VRTEC,Sum na okužbo,kratko
+Savinjska,VRTEC,Sum na okužbo,srednje
 Podravska,VRTEC,Sum na okužbo,kratko
+Pomurska,OSTALO,Okužba s Covid-19,srednje
+Obalno-kraška,VRTEC,Okužba s Covid-19,srednje
+Posavska,OSTALO,Okužba s Covid-19,dolgo
 Osrednjeslovenska,VRTEC,Sum na okužbo,kratko
-Goriška,OSNOVNA ŠOLA,Sum na okužbo,srednje
+Podravska,OSTALO,Sum na okužbo,dolgo
+Goriška,OSTALO,Okužba s Covid-19,srednje
 Goriška,VRTEC,Okužba s Covid-19,srednje
+Goriška,OSNOVNA ŠOLA,Sum na okužbo,srednje
+Osrednjeslovenska,OSTALO,Okužba s Covid-19,srednje
 Posavska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje

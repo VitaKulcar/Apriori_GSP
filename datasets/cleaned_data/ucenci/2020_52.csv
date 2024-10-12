@@ -1,13 +1,15 @@
 REGIJA,OBDOBJE,VZROK,TRAJANJE
-Obalno-kraška,VRTEC,Sum na okužbo,srednje
-Pomurska,VRTEC,Sum na okužbo,srednje
-Jugovzhodna Slovenija,VRTEC,Okužba s Covid-19,srednje
-Jugovzhodna Slovenija,VRTEC,Sum na okužbo,srednje
-Osrednjeslovenska,VRTEC,Sum na okužbo,srednje
-Osrednjeslovenska,SREDNJA ŠOLA,Okužba s Covid-19,srednje
-Osrednjeslovenska,VRTEC,Okužba s Covid-19,srednje
 Osrednjeslovenska,SREDNJA ŠOLA,Sum na okužbo,kratko
-Savinjska,OSNOVNA ŠOLA,Sum na okužbo,srednje
+Osrednjeslovenska,VRTEC,Sum na okužbo,srednje
+Obalno-kraška,VRTEC,Sum na okužbo,srednje
+Jugovzhodna Slovenija,VRTEC,Sum na okužbo,srednje
+Osrednjeslovenska,VRTEC,Okužba s Covid-19,srednje
+Pomurska,VRTEC,Sum na okužbo,srednje
+Podravska,OSTALO,Okužba s Covid-19,dolgo
+Osrednjeslovenska,SREDNJA ŠOLA,Okužba s Covid-19,srednje
+Jugovzhodna Slovenija,VRTEC,Okužba s Covid-19,srednje
 Podravska,VRTEC,Sum na okužbo,srednje
+Savinjska,OSNOVNA ŠOLA,Sum na okužbo,srednje
 Jugovzhodna Slovenija,OSNOVNA ŠOLA,Okužba s Covid-19,srednje
+Koroška,OSTALO,Sum na okužbo,srednje
 Podravska,VRTEC,Okužba s Covid-19,srednje

@@ -1,29 +1,11 @@
 Sequence,Support,Relative Frequency
-{malo},7,1.0
-{srednje},6,0.8571428571428571
-{VRTEC},7,1.0
-"{VRTEC}, {malo}",6,0.8571428571428571
-"{malo}, {malo}",6,0.8571428571428571
-"{srednje}, {VRTEC}",6,0.8571428571428571
-"{srednje}, {malo}",6,0.8571428571428571
-"{VRTEC}, {VRTEC}",6,0.8571428571428571
-"{malo}, {VRTEC}",6,0.8571428571428571
-"{malo, srednje}",6,0.8571428571428571
-"{VRTEC, malo}",7,1.0
-"{VRTEC, srednje}",6,0.8571428571428571
-"{srednje}, {VRTEC, malo}",6,0.8571428571428571
-"{VRTEC}, {VRTEC, malo}",6,0.8571428571428571
-"{malo}, {VRTEC, malo}",6,0.8571428571428571
-"{VRTEC, malo, srednje}",6,0.8571428571428571
-"{VRTEC, malo}, {malo}",6,0.8571428571428571
-"{VRTEC, srednje}, {VRTEC}",6,0.8571428571428571
-"{malo, srednje}, {malo}",6,0.8571428571428571
-"{VRTEC, srednje}, {malo}",6,0.8571428571428571
-"{VRTEC, malo}, {VRTEC}",6,0.8571428571428571
-"{malo, srednje}, {VRTEC}",6,0.8571428571428571
-"{VRTEC, malo, srednje}, {VRTEC}",6,0.8571428571428571
-"{malo, srednje}, {VRTEC, malo}",6,0.8571428571428571
-"{VRTEC, malo}, {VRTEC, malo}",6,0.8571428571428571
-"{VRTEC, srednje}, {VRTEC, malo}",6,0.8571428571428571
-"{VRTEC, malo, srednje}, {malo}",6,0.8571428571428571
-"{VRTEC, malo, srednje}, {VRTEC, malo}",6,0.8571428571428571
+{srednje},6,0.75
+{Okužba pri delavcu},6,0.75
+{VRTEC},7,0.875
+{malo},8,1.0
+"{VRTEC, malo}",7,0.875
+"{malo}, {malo}",6,0.75
+"{Okužba pri delavcu, malo}",6,0.75
+"{malo, srednje}",6,0.75
+"{VRTEC, srednje}",6,0.75
+"{VRTEC, malo, srednje}",6,0.75

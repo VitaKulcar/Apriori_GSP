@@ -1,3 +1,5 @@
 Rule,Confidence
+{malo} => {srednje},0.8888888888888888
+{srednje} => {malo},0.8888888888888888
 {OSNOVNA ŠOLA} => {srednje},0.8888888888888888
 {srednje} => {OSNOVNA ŠOLA},0.8888888888888888

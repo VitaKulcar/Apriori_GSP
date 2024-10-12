@@ -1,5 +1,5 @@
 Feature,Attributes
-REGIJA,"Savinjska, Podravska, Zasavska, Osrednjeslovenska, Koroška, Gorenjska, Jugovzhodna Slovenija, Obalno-kraška, Goriška, Posavska, Pomurska, Primorsko-notranjska"
-OBDOBJE,"OSNOVNA ŠOLA, VRTEC, SREDNJA ŠOLA, GLASBENA ŠOLA"
-VZROK,"Okužba s Covid-19, Sum na okužbo"
-TRAJANJE,"dolgo, srednje, kratko"
+REGIJA,"Savinjska, Podravska, Goriška, Osrednjeslovenska, Zasavska, Gorenjska, Jugovzhodna Slovenija, Obalno-kraška, Koroška, Posavska, Pomurska, Primorsko-notranjska"
+OBDOBJE,"VRTEC, GLASBENA ŠOLA, OSNOVNA ŠOLA, OSTALO, SREDNJA ŠOLA"
+VZROK,"Sum na okužbo, Okužba s Covid-19"
+TRAJANJE,"srednje, kratko, dolgo"

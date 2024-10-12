@@ -1,53 +1,54 @@
 Sequence,Support,Relative Frequency
-{OSNOVNA ŠOLA},9,0.9
-{srednje},10,1.0
+{kratko},8,0.8
 {malo},9,0.9
 {VRTEC},10,1.0
 {Okužba s Covid-19 pri vzgojitelju},9,0.9
-"{OSNOVNA ŠOLA}, {srednje}",9,0.9
-"{OSNOVNA ŠOLA}, {VRTEC}",9,0.9
-"{Okužba s Covid-19 pri vzgojitelju}, {OSNOVNA ŠOLA}",8,0.8
-"{VRTEC}, {malo}",8,0.8
-"{srednje}, {srednje}",10,1.0
-"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",8,0.8
-"{srednje}, {VRTEC}",10,1.0
+{srednje},10,1.0
+{OSNOVNA ŠOLA},9,0.9
 "{srednje}, {malo}",8,0.8
-"{srednje}, {Okužba s Covid-19 pri vzgojitelju}",8,0.8
-"{OSNOVNA ŠOLA, srednje}",9,0.9
+"{OSNOVNA ŠOLA}, {VRTEC}",9,0.9
 "{srednje}, {OSNOVNA ŠOLA}",8,0.8
+"{OSNOVNA ŠOLA}, {srednje}",9,0.9
+"{Okužba s Covid-19 pri vzgojitelju}, {OSNOVNA ŠOLA}",8,0.8
 "{VRTEC}, {OSNOVNA ŠOLA}",8,0.8
-"{malo, srednje}",8,0.8
-"{Okužba s Covid-19 pri vzgojitelju, VRTEC}",9,0.9
+"{srednje}, {VRTEC}",10,1.0
 "{Okužba s Covid-19 pri vzgojitelju}, {malo}",8,0.8
+"{VRTEC}, {malo}",8,0.8
+"{OSNOVNA ŠOLA, srednje}",9,0.9
+"{srednje}, {Okužba s Covid-19 pri vzgojitelju}",8,0.8
+"{srednje}, {srednje}",10,1.0
+"{Okužba s Covid-19 pri vzgojitelju, VRTEC}",9,0.9
+"{malo, srednje}",8,0.8
 "{Okužba s Covid-19 pri vzgojitelju, srednje}",9,0.9
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",8,0.8
 "{VRTEC, srednje}",10,1.0
-"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",8,0.8
-"{OSNOVNA ŠOLA}, {VRTEC, srednje}",9,0.9
-"{srednje}, {VRTEC, srednje}",10,1.0
-"{Okužba s Covid-19 pri vzgojitelju, VRTEC}, {OSNOVNA ŠOLA}",8,0.8
-"{srednje}, {VRTEC}, {malo}",8,0.8
+"{srednje}, {Okužba s Covid-19 pri vzgojitelju, srednje}",8,0.8
+"{Okužba s Covid-19 pri vzgojitelju, srednje}, {OSNOVNA ŠOLA}",8,0.8
 "{Okužba s Covid-19 pri vzgojitelju, srednje}, {malo}",8,0.8
+"{OSNOVNA ŠOLA}, {srednje}, {OSNOVNA ŠOLA}",8,0.8
 "{Okužba s Covid-19 pri vzgojitelju, VRTEC, srednje}",9,0.9
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",8,0.8
+"{OSNOVNA ŠOLA, srednje}, {VRTEC}",9,0.9
+"{Okužba s Covid-19 pri vzgojitelju, VRTEC}, {malo}",8,0.8
+"{Okužba s Covid-19 pri vzgojitelju, VRTEC}, {OSNOVNA ŠOLA}",8,0.8
+"{OSNOVNA ŠOLA, srednje}, {srednje}",9,0.9
+"{srednje}, {VRTEC}, {malo}",8,0.8
+"{OSNOVNA ŠOLA}, {VRTEC, srednje}",9,0.9
+"{srednje}, {VRTEC}, {OSNOVNA ŠOLA}",8,0.8
+"{OSNOVNA ŠOLA}, {VRTEC}, {OSNOVNA ŠOLA}",8,0.8
+"{VRTEC, srednje}, {malo}",8,0.8
 "{srednje}, {srednje}, {OSNOVNA ŠOLA}",8,0.8
 "{VRTEC, srednje}, {OSNOVNA ŠOLA}",8,0.8
-"{OSNOVNA ŠOLA, srednje}, {srednje}",9,0.9
-"{srednje}, {VRTEC}, {OSNOVNA ŠOLA}",8,0.8
-"{Okužba s Covid-19 pri vzgojitelju, srednje}, {OSNOVNA ŠOLA}",8,0.8
-"{OSNOVNA ŠOLA}, {srednje}, {OSNOVNA ŠOLA}",8,0.8
-"{OSNOVNA ŠOLA, srednje}, {VRTEC}",9,0.9
-"{srednje}, {Okužba s Covid-19 pri vzgojitelju, VRTEC}",8,0.8
-"{Okužba s Covid-19 pri vzgojitelju, VRTEC}, {malo}",8,0.8
-"{srednje}, {Okužba s Covid-19 pri vzgojitelju, srednje}",8,0.8
 "{srednje}, {srednje}, {malo}",8,0.8
-"{VRTEC, srednje}, {malo}",8,0.8
-"{OSNOVNA ŠOLA}, {VRTEC}, {OSNOVNA ŠOLA}",8,0.8
-"{srednje}, {VRTEC, srednje}, {malo}",8,0.8
-"{OSNOVNA ŠOLA, srednje}, {srednje}, {OSNOVNA ŠOLA}",8,0.8
-"{srednje}, {Okužba s Covid-19 pri vzgojitelju, VRTEC, srednje}",8,0.8
-"{OSNOVNA ŠOLA}, {VRTEC, srednje}, {OSNOVNA ŠOLA}",8,0.8
-"{Okužba s Covid-19 pri vzgojitelju, VRTEC, srednje}, {malo}",8,0.8
-"{OSNOVNA ŠOLA, srednje}, {VRTEC}, {OSNOVNA ŠOLA}",8,0.8
+"{srednje}, {VRTEC, srednje}",10,1.0
+"{srednje}, {Okužba s Covid-19 pri vzgojitelju, VRTEC}",8,0.8
 "{srednje}, {VRTEC, srednje}, {OSNOVNA ŠOLA}",8,0.8
+"{OSNOVNA ŠOLA}, {VRTEC, srednje}, {OSNOVNA ŠOLA}",8,0.8
+"{srednje}, {VRTEC, srednje}, {malo}",8,0.8
+"{Okužba s Covid-19 pri vzgojitelju, VRTEC, srednje}, {malo}",8,0.8
 "{Okužba s Covid-19 pri vzgojitelju, VRTEC, srednje}, {OSNOVNA ŠOLA}",8,0.8
+"{OSNOVNA ŠOLA, srednje}, {VRTEC}, {OSNOVNA ŠOLA}",8,0.8
 "{OSNOVNA ŠOLA, srednje}, {VRTEC, srednje}",9,0.9
+"{srednje}, {Okužba s Covid-19 pri vzgojitelju, VRTEC, srednje}",8,0.8
+"{OSNOVNA ŠOLA, srednje}, {srednje}, {OSNOVNA ŠOLA}",8,0.8
 "{OSNOVNA ŠOLA, srednje}, {VRTEC, srednje}, {OSNOVNA ŠOLA}",8,0.8

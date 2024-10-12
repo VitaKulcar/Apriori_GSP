@@ -1,16 +1,249 @@
 Sequence,Support,Relative Frequency
 {SREDNJA ŠOLA},1,1.0
-{srednje},1,1.0
 {Primorsko-notranjska},1,1.0
 {Okužba s Covid-19},1,1.0
+{srednje},1,1.0
+{OSTALO},1,1.0
+"{Primorsko-notranjska}, {Primorsko-notranjska}",1,1.0
+"{Okužba s Covid-19}, {SREDNJA ŠOLA}",1,1.0
+"{Primorsko-notranjska}, {Okužba s Covid-19}",1,1.0
+"{Okužba s Covid-19}, {srednje}",1,1.0
 "{SREDNJA ŠOLA, srednje}",1,1.0
-"{Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
-"{Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
-"{Okužba s Covid-19, Primorsko-notranjska}",1,1.0
-"{Primorsko-notranjska, srednje}",1,1.0
+"{Primorsko-notranjska}, {SREDNJA ŠOLA}",1,1.0
+"{OSTALO}, {Primorsko-notranjska}",1,1.0
+"{Primorsko-notranjska}, {srednje}",1,1.0
+"{OSTALO}, {Okužba s Covid-19}",1,1.0
 "{Okužba s Covid-19, srednje}",1,1.0
-"{Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
-"{Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
-"{Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska}",1,1.0
+"{OSTALO}, {SREDNJA ŠOLA}",1,1.0
+"{srednje}, {Primorsko-notranjska}",1,1.0
+"{OSTALO}, {srednje}",1,1.0
+"{Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
+"{srednje}, {Okužba s Covid-19}",1,1.0
+"{OSTALO, Primorsko-notranjska}",1,1.0
+"{Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, srednje}",1,1.0
+"{Primorsko-notranjska, srednje}",1,1.0
+"{srednje}, {SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Okužba s Covid-19}",1,1.0
+"{Okužba s Covid-19}, {Primorsko-notranjska}",1,1.0
+"{srednje}, {srednje}",1,1.0
+"{Okužba s Covid-19}, {Okužba s Covid-19}",1,1.0
+"{Okužba s Covid-19, srednje}, {SREDNJA ŠOLA}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska}, {srednje}",1,1.0
+"{OSTALO, Primorsko-notranjska, srednje}",1,1.0
+"{Okužba s Covid-19, srednje}, {srednje}",1,1.0
 "{Okužba s Covid-19, Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19}, {srednje}",1,1.0
+"{Primorsko-notranjska}, {SREDNJA ŠOLA, srednje}",1,1.0
+"{srednje}, {Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
+"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}",1,1.0
+"{Okužba s Covid-19}, {Okužba s Covid-19, Primorsko-notranjska}",1,1.0
+"{srednje}, {Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{srednje}, {Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, srednje}, {Primorsko-notranjska}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{Primorsko-notranjska}, {Okužba s Covid-19, srednje}",1,1.0
+"{Primorsko-notranjska}, {Okužba s Covid-19, Primorsko-notranjska}",1,1.0
+"{OSTALO, Primorsko-notranjska}, {Primorsko-notranjska}",1,1.0
+"{OSTALO, srednje}, {Okužba s Covid-19}",1,1.0
+"{Okužba s Covid-19}, {Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
+"{OSTALO}, {SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Primorsko-notranjska}, {Okužba s Covid-19}",1,1.0
+"{Okužba s Covid-19}, {Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{Primorsko-notranjska, srednje}, {Primorsko-notranjska}",1,1.0
+"{Okužba s Covid-19}, {Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska}",1,1.0
+"{OSTALO, srednje}, {SREDNJA ŠOLA}",1,1.0
+"{Primorsko-notranjska, srednje}, {Okužba s Covid-19}",1,1.0
+"{Primorsko-notranjska}, {Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
+"{OSTALO}, {Okužba s Covid-19, srednje}",1,1.0
+"{OSTALO}, {Okužba s Covid-19, Primorsko-notranjska}",1,1.0
+"{OSTALO, Primorsko-notranjska}, {SREDNJA ŠOLA}",1,1.0
+"{OSTALO, srednje}, {srednje}",1,1.0
+"{Primorsko-notranjska}, {Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{Primorsko-notranjska, srednje}, {SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Primorsko-notranjska}, {srednje}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska}, {Primorsko-notranjska}",1,1.0
+"{Primorsko-notranjska}, {Primorsko-notranjska, srednje}",1,1.0
+"{srednje}, {SREDNJA ŠOLA, srednje}",1,1.0
+"{Primorsko-notranjska, srednje}, {srednje}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska}, {Okužba s Covid-19}",1,1.0
+"{OSTALO, Okužba s Covid-19}, {Primorsko-notranjska}",1,1.0
+"{OSTALO}, {Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
+"{Okužba s Covid-19, srednje}, {Primorsko-notranjska}",1,1.0
+"{Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19}, {Okužba s Covid-19}",1,1.0
+"{OSTALO, Okužba s Covid-19, srednje}",1,1.0
+"{Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}",1,1.0
+"{OSTALO}, {Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{srednje}, {Okužba s Covid-19, Primorsko-notranjska}",1,1.0
+"{srednje}, {Okužba s Covid-19, srednje}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska}, {SREDNJA ŠOLA}",1,1.0
+"{Okužba s Covid-19}, {SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19}, {SREDNJA ŠOLA}",1,1.0
+"{OSTALO}, {Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, Primorsko-notranjska}, {Primorsko-notranjska, srednje}",1,1.0
+"{Primorsko-notranjska}, {Okužba s Covid-19, Primorsko-notranjska, srednje}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska}, {Okužba s Covid-19, srednje}",1,1.0
+"{OSTALO, Primorsko-notranjska, srednje}, {SREDNJA ŠOLA}",1,1.0
+"{Primorsko-notranjska, srednje}, {Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska}, {Okužba s Covid-19, Primorsko-notranjska}",1,1.0
+"{OSTALO}, {Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
+"{Primorsko-notranjska, srednje}, {Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19}, {Okužba s Covid-19, Primorsko-notranjska}",1,1.0
+"{OSTALO, Okužba s Covid-19}, {Okužba s Covid-19, srednje}",1,1.0
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}",1,1.0
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, Primorsko-notranjska}",1,1.0
+"{OSTALO, Okužba s Covid-19, srednje}, {Primorsko-notranjska}",1,1.0
+"{Okužba s Covid-19}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Primorsko-notranjska, srednje}, {srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, srednje}, {Okužba s Covid-19}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska}, {Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
+"{Primorsko-notranjska}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO}, {Okužba s Covid-19, Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, srednje}, {SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Okužba s Covid-19}, {Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska}, {Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{srednje}, {Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19}, {Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska}, {Primorsko-notranjska, srednje}",1,1.0
+"{srednje}, {Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{Okužba s Covid-19, srednje}, {Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Okužba s Covid-19, srednje}, {srednje}",1,1.0
+"{OSTALO, srednje}, {SREDNJA ŠOLA, srednje}",1,1.0
+"{Okužba s Covid-19, srednje}, {Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19}, {Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, Primorsko-notranjska}, {SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska}, {Primorsko-notranjska}",1,1.0
+"{Primorsko-notranjska, srednje}, {SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, srednje}, {Okužba s Covid-19, Primorsko-notranjska}",1,1.0
+"{OSTALO}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{srednje}, {Okužba s Covid-19, Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, srednje}, {Okužba s Covid-19, srednje}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska, srednje}, {Primorsko-notranjska}",1,1.0
+"{Okužba s Covid-19}, {Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{Okužba s Covid-19}, {Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Primorsko-notranjska}, {Okužba s Covid-19, Primorsko-notranjska}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska}, {Okužba s Covid-19}",1,1.0
+"{OSTALO, Primorsko-notranjska}, {Okužba s Covid-19, srednje}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska, srednje}, {Okužba s Covid-19}",1,1.0
+"{Primorsko-notranjska, srednje}, {Okužba s Covid-19, srednje}",1,1.0
+"{Primorsko-notranjska, srednje}, {Okužba s Covid-19, Primorsko-notranjska}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska}, {SREDNJA ŠOLA}",1,1.0
+"{OSTALO}, {Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, Primorsko-notranjska, srednje}, {Okužba s Covid-19}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska, srednje}, {SREDNJA ŠOLA}",1,1.0
+"{OSTALO, srednje}, {Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
+"{Primorsko-notranjska}, {Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
+"{Primorsko-notranjska}, {Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
 "{Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{srednje}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Primorsko-notranjska, srednje}, {Primorsko-notranjska}",1,1.0
+"{Okužba s Covid-19}, {Okužba s Covid-19, Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, srednje}, {Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska}, {srednje}",1,1.0
+"{OSTALO, Primorsko-notranjska}, {Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska}, {SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19}, {SREDNJA ŠOLA, srednje}",1,1.0
+"{Okužba s Covid-19, srednje}, {SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Primorsko-notranjska}, {Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, srednje}, {Primorsko-notranjska, srednje}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska, srednje}, {srednje}",1,1.0
+"{Primorsko-notranjska, srednje}, {Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska, srednje}, {SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Okužba s Covid-19}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, srednje}, {Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska}, {Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, srednje}, {Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska, srednje}, {srednje}",1,1.0
+"{OSTALO, Primorsko-notranjska}, {Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Primorsko-notranjska, srednje}, {Okužba s Covid-19, srednje}",1,1.0
+"{OSTALO, Primorsko-notranjska, srednje}, {Okužba s Covid-19, Primorsko-notranjska}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska}, {Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska, srednje}, {Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Primorsko-notranjska}, {Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska}, {Primorsko-notranjska, srednje}",1,1.0
+"{Primorsko-notranjska, srednje}, {Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska, srednje}, {Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Okužba s Covid-19, srednje}, {SREDNJA ŠOLA, srednje}",1,1.0
+"{Primorsko-notranjska, srednje}, {Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska, srednje}, {Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, srednje}, {Okužba s Covid-19, Primorsko-notranjska, srednje}",1,1.0
+"{srednje}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Primorsko-notranjska, srednje}, {Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Primorsko-notranjska}, {Okužba s Covid-19, Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, srednje}, {Okužba s Covid-19, Primorsko-notranjska}",1,1.0
+"{OSTALO, Primorsko-notranjska, srednje}, {Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{Primorsko-notranjska, srednje}, {Okužba s Covid-19, Primorsko-notranjska, srednje}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska}, {Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska}, {Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, srednje}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Primorsko-notranjska, srednje}, {Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19}, {Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
+"{Okužba s Covid-19, srednje}, {Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19}, {Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
+"{Okužba s Covid-19}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Primorsko-notranjska}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Okužba s Covid-19, srednje}, {Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska}, {SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, srednje}, {Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska, srednje}, {SREDNJA ŠOLA, srednje}",1,1.0
+"{Primorsko-notranjska, srednje}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Okužba s Covid-19, srednje}, {Primorsko-notranjska, srednje}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska}, {Okužba s Covid-19, Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska, srednje}, {Primorsko-notranjska}",1,1.0
+"{OSTALO, Okužba s Covid-19}, {Okužba s Covid-19, Primorsko-notranjska, srednje}",1,1.0
+"{Primorsko-notranjska}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska, srednje}, {Okužba s Covid-19}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska}, {Okužba s Covid-19, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska}, {Okužba s Covid-19, Primorsko-notranjska}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska, srednje}, {Okužba s Covid-19, srednje}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska, srednje}, {Okužba s Covid-19, Primorsko-notranjska}",1,1.0
+"{OSTALO, Primorsko-notranjska, srednje}, {SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, srednje}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska, srednje}, {Okužba s Covid-19, Primorsko-notranjska}",1,1.0
+"{OSTALO, Primorsko-notranjska}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska, srednje}, {Okužba s Covid-19, srednje}",1,1.0
+"{OSTALO, Primorsko-notranjska, srednje}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Okužba s Covid-19, srednje}, {Okužba s Covid-19, Primorsko-notranjska, srednje}",1,1.0
+"{Primorsko-notranjska, srednje}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska}, {Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska, srednje}, {Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska}, {Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska, srednje}, {Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Okužba s Covid-19, srednje}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska, srednje}, {Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska, srednje}, {Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska, srednje}, {Primorsko-notranjska, srednje}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska}, {Okužba s Covid-19, Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, Primorsko-notranjska, srednje}, {Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska, srednje}, {Okužba s Covid-19, Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, Primorsko-notranjska, srednje}, {Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Primorsko-notranjska, srednje}, {Okužba s Covid-19, Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, srednje}, {Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska, srednje}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Okužba s Covid-19, srednje}, {Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska, srednje}, {SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska, srednje}, {Okužba s Covid-19, Primorsko-notranjska, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska, srednje}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska, srednje}, {Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska, srednje}, {Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Primorsko-notranjska, srednje}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska, srednje}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, srednje}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{OSTALO, Okužba s Covid-19, Primorsko-notranjska, srednje}, {Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0

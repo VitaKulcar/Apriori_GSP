@@ -1,7 +1,8 @@
 Sequence,Support,Relative Frequency
-{OSNOVNA ŠOLA},9,0.9
-{Okužba s Covid-19 pri učencu ali več učencih oddelka},8,0.8
-{srednje},9,0.9
-{malo},8,0.8
+{malo},9,0.9
 {VRTEC},8,0.8
+{srednje},9,0.9
+{Okužba s Covid-19 pri učencu ali več učencih oddelka},8,0.8
+{OSNOVNA ŠOLA},9,0.9
+"{malo}, {srednje}",8,0.8
 "{OSNOVNA ŠOLA}, {srednje}",8,0.8

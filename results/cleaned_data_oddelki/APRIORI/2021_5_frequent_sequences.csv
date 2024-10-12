@@ -1,15 +1,15 @@
 Sequence,Support,Relative Frequency
-{OSNOVNA ŠOLA},8,0.8888888888888888
-{Okužba s Covid-19 pri učitelju},8,0.8888888888888888
-{Okužba s Covid-19 pri učencu ali več učencih oddelka},7,0.7777777777777778
 {kratko},8,0.8888888888888888
-{Sum na okužbo s Covid-19 pri učitelju},7,0.7777777777777778
 {malo},7,0.7777777777777778
-{srednje},9,1.0
 {VRTEC},8,0.8888888888888888
+{OSNOVNA ŠOLA},8,0.8888888888888888
+{srednje},9,1.0
+{Okužba s Covid-19 pri učencu ali več učencih oddelka},7,0.7777777777777778
+{Okužba s Covid-19 pri učitelju},8,0.8888888888888888
+{Sum na okužbo s Covid-19 pri učitelju},7,0.7777777777777778
 "{OSNOVNA ŠOLA}, {srednje}",8,0.8888888888888888
+"{Okužba s Covid-19 pri učitelju}, {srednje}",8,0.8888888888888888
+"{VRTEC}, {kratko}",7,0.7777777777777778
 "{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",7,0.7777777777777778
 "{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učitelju}",7,0.7777777777777778
-"{VRTEC}, {srednje}",8,0.8888888888888888
-"{malo}, {srednje}",7,0.7777777777777778
-"{Okužba s Covid-19 pri učitelju}, {srednje}",8,0.8888888888888888
+"{VRTEC}, {srednje}",7,0.7777777777777778

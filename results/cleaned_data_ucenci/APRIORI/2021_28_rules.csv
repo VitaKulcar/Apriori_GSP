@@ -1,1 +1,19 @@
 Rule,Confidence
+{OSTALO} => {SREDNJA ŠOLA},1.0
+{SREDNJA ŠOLA} => {OSTALO},1.0
+{OSTALO} => {Primorsko-notranjska},1.0
+{Primorsko-notranjska} => {OSTALO},1.0
+{Okužba s Covid-19} => {SREDNJA ŠOLA},1.0
+{SREDNJA ŠOLA} => {Okužba s Covid-19},1.0
+{OSTALO} => {srednje},1.0
+{srednje} => {OSTALO},1.0
+{Okužba s Covid-19} => {Primorsko-notranjska},1.0
+{Primorsko-notranjska} => {Okužba s Covid-19},1.0
+{Primorsko-notranjska} => {srednje},1.0
+{srednje} => {Primorsko-notranjska},1.0
+{OSTALO} => {Okužba s Covid-19},1.0
+{Okužba s Covid-19} => {OSTALO},1.0
+{Okužba s Covid-19} => {srednje},1.0
+{srednje} => {Okužba s Covid-19},1.0
+{Primorsko-notranjska} => {SREDNJA ŠOLA},1.0
+{SREDNJA ŠOLA} => {Primorsko-notranjska},1.0

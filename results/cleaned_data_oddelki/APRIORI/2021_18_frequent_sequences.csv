@@ -1,4 +1,6 @@
 Sequence,Support,Relative Frequency
 {srednje},12,1.0
+{malo},9,0.75
 {VRTEC},11,0.9166666666666666
+"{malo}, {srednje}",9,0.75
 "{VRTEC}, {srednje}",9,0.75

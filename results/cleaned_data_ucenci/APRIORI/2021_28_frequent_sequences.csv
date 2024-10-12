@@ -1,5 +1,15 @@
 Sequence,Support,Relative Frequency
 {SREDNJA ŠOLA},1,1.0
-{srednje},1,1.0
 {Primorsko-notranjska},1,1.0
 {Okužba s Covid-19},1,1.0
+{srednje},1,1.0
+{OSTALO},1,1.0
+"{OSTALO}, {SREDNJA ŠOLA}",1,1.0
+"{OSTALO}, {Primorsko-notranjska}",1,1.0
+"{Okužba s Covid-19}, {SREDNJA ŠOLA}",1,1.0
+"{OSTALO}, {srednje}",1,1.0
+"{Okužba s Covid-19}, {Primorsko-notranjska}",1,1.0
+"{Primorsko-notranjska}, {srednje}",1,1.0
+"{OSTALO}, {Okužba s Covid-19}",1,1.0
+"{Okužba s Covid-19}, {srednje}",1,1.0
+"{Primorsko-notranjska}, {SREDNJA ŠOLA}",1,1.0
