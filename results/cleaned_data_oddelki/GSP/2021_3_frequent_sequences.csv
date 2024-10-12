@@ -1,4 +1,5 @@
 Sequence,Support,Relative Frequency
-{malo},11,1.0
 {srednje},11,1.0
+{malo},11,1.0
+"{malo}, {malo}",9,0.8181818181818182
 "{malo, srednje}",11,1.0

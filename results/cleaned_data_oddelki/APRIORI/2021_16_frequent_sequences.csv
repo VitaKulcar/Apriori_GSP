@@ -1,10 +1,17 @@
 Sequence,Support,Relative Frequency
-{OSNOVNA ŠOLA},11,0.9166666666666666
-{Okužba s Covid-19 pri učencu ali več učencih oddelka},11,0.9166666666666666
 {srednje},12,1.0
+{Okužba s Covid-19 pri učencu ali več učencih oddelka},11,0.9166666666666666
+{OSNOVNA ŠOLA},11,0.9166666666666666
 {veliko},11,0.9166666666666666
-"{OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
-"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
-"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",11,0.9166666666666666
+{kratko},10,0.8333333333333334
 "{srednje}, {veliko}",11,0.9166666666666666
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
 "{OSNOVNA ŠOLA}, {veliko}",11,0.9166666666666666
+"{kratko}, {veliko}",10,0.8333333333333334
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",10,0.8333333333333334
+"{kratko}, {srednje}",10,0.8333333333333334
+"{OSNOVNA ŠOLA}, {srednje}, {veliko}",10,0.8333333333333334
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",10,0.8333333333333334
+"{kratko}, {srednje}, {veliko}",10,0.8333333333333334

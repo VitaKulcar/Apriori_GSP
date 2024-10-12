@@ -1,15 +1,15 @@
 Sequence,Support,Relative Frequency
+{srednje},1,1.0
+{Sum na okužbo},1,1.0
+{Posavska},1,1.0
 {Okužba s Covid-19},1,1.0
 {kratko},1,1.0
-{Sum na okužbo},1,1.0
 {Učitelj},1,1.0
-{Posavska},1,1.0
-{srednje},1,1.0
-"{Okužba s Covid-19}, {Sum na okužbo}",1,1.0
-"{Posavska}, {Učitelj}",1,1.0
-"{Učitelj}, {kratko}",1,1.0
-"{Posavska}, {Sum na okužbo}",1,1.0
 "{Posavska}, {kratko}",1,1.0
-"{Okužba s Covid-19}, {Učitelj}",1,1.0
+"{Okužba s Covid-19}, {Sum na okužbo}",1,1.0
 "{Okužba s Covid-19}, {Posavska}",1,1.0
+"{Posavska}, {Učitelj}",1,1.0
 "{Okužba s Covid-19}, {kratko}",1,1.0
+"{Posavska}, {Sum na okužbo}",1,1.0
+"{Okužba s Covid-19}, {Učitelj}",1,1.0
+"{Učitelj}, {kratko}",1,1.0

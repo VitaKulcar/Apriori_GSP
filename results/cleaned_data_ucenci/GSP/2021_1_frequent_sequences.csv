@@ -1,4 +1,8 @@
 Sequence,Support,Relative Frequency
 {VRTEC},8,1.0
 {srednje},8,1.0
+{Sum na okužbo},7,0.875
 "{VRTEC, srednje}",8,1.0
+"{Sum na okužbo, VRTEC}",7,0.875
+"{Sum na okužbo, srednje}",7,0.875
+"{Sum na okužbo, VRTEC, srednje}",7,0.875

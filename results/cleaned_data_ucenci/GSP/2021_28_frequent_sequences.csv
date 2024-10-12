@@ -1,16 +1,16 @@
 Sequence,Support,Relative Frequency
-{SREDNJA ŠOLA},1,1.0
-{Okužba s Covid-19},1,1.0
-{Primorsko-notranjska},1,1.0
 {srednje},1,1.0
+{Okužba s Covid-19},1,1.0
+{SREDNJA ŠOLA},1,1.0
+{Primorsko-notranjska},1,1.0
+"{Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
 "{Okužba s Covid-19, srednje}",1,1.0
-"{Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
+"{Okužba s Covid-19, Primorsko-notranjska}",1,1.0
 "{SREDNJA ŠOLA, srednje}",1,1.0
 "{Primorsko-notranjska, srednje}",1,1.0
-"{Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
-"{Okužba s Covid-19, Primorsko-notranjska}",1,1.0
-"{Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
+"{Okužba s Covid-19, SREDNJA ŠOLA}",1,1.0
+"{Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
 "{Okužba s Covid-19, Primorsko-notranjska, srednje}",1,1.0
 "{Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA}",1,1.0
-"{Okužba s Covid-19, SREDNJA ŠOLA, srednje}",1,1.0
+"{Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0
 "{Okužba s Covid-19, Primorsko-notranjska, SREDNJA ŠOLA, srednje}",1,1.0

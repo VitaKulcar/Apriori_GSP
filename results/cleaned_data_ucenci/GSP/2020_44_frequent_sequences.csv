@@ -1,8 +1,11 @@
 Sequence,Support,Relative Frequency
+{srednje},9,0.9
+{OSNOVNA ŠOLA},8,0.8
 {Sum na okužbo},10,1.0
 {VRTEC},10,1.0
-{srednje},9,0.9
-"{Sum na okužbo, srednje}",9,0.9
-"{Sum na okužbo, VRTEC}",10,1.0
+{Okužba s Covid-19},8,0.8
 "{VRTEC, srednje}",9,0.9
+"{Sum na okužbo, VRTEC}",10,1.0
+"{Sum na okužbo, srednje}",9,0.9
+"{OSNOVNA ŠOLA, Okužba s Covid-19}",8,0.8
 "{Sum na okužbo, VRTEC, srednje}",9,0.9

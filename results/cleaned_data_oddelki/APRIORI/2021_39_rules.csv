@@ -1,3 +1,9 @@
 Rule,Confidence
 {OSNOVNA ŠOLA} => {srednje},0.9166666666666666
 {srednje} => {OSNOVNA ŠOLA},0.9166666666666666
+{Okužba s Covid-19 pri dijaku ali več dijakih oddelka} => {srednje},1.0
+{srednje} => {Okužba s Covid-19 pri dijaku ali več dijakih oddelka},0.8333333333333334
+{Okužba s Covid-19 pri učencu ali več učencih oddelka} => {srednje},0.9090909090909091
+{srednje} => {Okužba s Covid-19 pri učencu ali več učencih oddelka},0.8333333333333334
+{SREDNJA ŠOLA} => {srednje},1.0
+{srednje} => {SREDNJA ŠOLA},0.8333333333333334

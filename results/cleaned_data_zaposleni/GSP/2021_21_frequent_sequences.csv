@@ -1,12 +1,24 @@
 Sequence,Support,Relative Frequency
+{srednje},11,1.0
 {Okužba s Covid-19},10,0.9090909090909091
 {Učitelj},11,1.0
-{srednje},11,1.0
+{Sum na okužbo},9,0.8181818181818182
+"{Učitelj, srednje}",10,0.9090909090909091
+"{Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{Sum na okužbo, srednje}",9,0.8181818181818182
+"{Okužba s Covid-19, Učitelj}",9,0.8181818181818182
 "{Učitelj}, {srednje}",10,0.9090909090909091
 "{Učitelj}, {Okužba s Covid-19}",10,0.9090909090909091
-"{Okužba s Covid-19, srednje}",10,0.9090909090909091
-"{Učitelj, srednje}",10,0.9090909090909091
 "{srednje}, {srednje}",10,0.9090909090909091
 "{srednje}, {Okužba s Covid-19}",10,0.9090909090909091
-"{srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{Okužba s Covid-19}, {srednje}",9,0.8181818181818182
+"{Okužba s Covid-19}, {Okužba s Covid-19}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {srednje}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}",9,0.8181818181818182
 "{Učitelj}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{srednje}, {Okužba s Covid-19, srednje}",10,0.9090909090909091
+"{Učitelj, srednje}, {srednje}",9,0.8181818181818182
+"{Učitelj, srednje}, {Okužba s Covid-19}",9,0.8181818181818182
+"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
+"{Učitelj, srednje}, {Okužba s Covid-19, srednje}",9,0.8181818181818182
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}",9,0.8181818181818182

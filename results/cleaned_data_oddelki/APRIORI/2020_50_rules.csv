@@ -1,1 +1,3 @@
 Rule,Confidence
+{VRTEC} => {malo},0.8571428571428571
+{malo} => {VRTEC},0.8571428571428571

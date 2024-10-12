@@ -1,3 +1,5 @@
 Rule,Confidence
+{Drugi delavci} => {srednje},0.9090909090909091
+{srednje} => {Drugi delavci},0.8333333333333334
 {Okužba s Covid-19} => {srednje},1.0
 {srednje} => {Okužba s Covid-19},0.9166666666666666

@@ -1,2 +1,27 @@
 Sequence,Support,Relative Frequency
 {srednje},9,1.0
+{OSNOVNA ŠOLA},8,0.8888888888888888
+{VRTEC},8,0.8888888888888888
+{Okužba s Covid-19 pri učitelju},8,0.8888888888888888
+{kratko},8,0.8888888888888888
+"{Okužba s Covid-19 pri učitelju}, {srednje}",8,0.8888888888888888
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",8,0.8888888888888888
+"{VRTEC}, {srednje}",8,0.8888888888888888
+"{Okužba s Covid-19 pri učitelju}, {OSNOVNA ŠOLA}",8,0.8888888888888888
+"{srednje}, {srednje}",8,0.8888888888888888
+"{Okužba s Covid-19 pri učitelju, srednje}",8,0.8888888888888888
+"{srednje}, {OSNOVNA ŠOLA}",8,0.8888888888888888
+"{OSNOVNA ŠOLA, srednje}",8,0.8888888888888888
+"{VRTEC, srednje}",8,0.8888888888888888
+"{OSNOVNA ŠOLA}, {srednje}",8,0.8888888888888888
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",8,0.8888888888888888
+"{Okužba s Covid-19 pri učitelju, srednje}, {srednje}",8,0.8888888888888888
+"{Okužba s Covid-19 pri učitelju, srednje}, {OSNOVNA ŠOLA}",8,0.8888888888888888
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje}",8,0.8888888888888888
+"{OSNOVNA ŠOLA, srednje}, {srednje}",8,0.8888888888888888
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju, srednje}",8,0.8888888888888888
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",8,0.8888888888888888
+"{Okužba s Covid-19 pri učitelju}, {OSNOVNA ŠOLA, srednje}",8,0.8888888888888888
+"{srednje}, {OSNOVNA ŠOLA, srednje}",8,0.8888888888888888
+"{Okužba s Covid-19 pri učitelju, srednje}, {OSNOVNA ŠOLA, srednje}",8,0.8888888888888888
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA, srednje}",8,0.8888888888888888

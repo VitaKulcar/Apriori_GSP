@@ -1,5 +1,31 @@
 Sequence,Support,Relative Frequency
-{Okužba s Covid-19},11,0.9166666666666666
-{Učitelj},11,0.9166666666666666
 {srednje},11,0.9166666666666666
+{Okužba s Covid-19},11,0.9166666666666666
+{Vzgojitelj},10,0.8333333333333334
+{Učitelj},11,0.9166666666666666
 "{Okužba s Covid-19, srednje}",11,0.9166666666666666
+"{Učitelj}, {srednje}",10,0.8333333333333334
+"{Okužba s Covid-19, Učitelj}",10,0.8333333333333334
+"{Učitelj}, {Okužba s Covid-19}",10,0.8333333333333334
+"{srednje}, {srednje}",10,0.8333333333333334
+"{srednje}, {Okužba s Covid-19}",10,0.8333333333333334
+"{Vzgojitelj, srednje}",10,0.8333333333333334
+"{Okužba s Covid-19}, {srednje}",10,0.8333333333333334
+"{Okužba s Covid-19}, {Okužba s Covid-19}",10,0.8333333333333334
+"{srednje}, {Okužba s Covid-19}, {Okužba s Covid-19}",10,0.8333333333333334
+"{Okužba s Covid-19, srednje}, {srednje}",10,0.8333333333333334
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19}",10,0.8333333333333334
+"{srednje}, {Okužba s Covid-19}, {srednje}",10,0.8333333333333334
+"{Učitelj}, {Okužba s Covid-19, srednje}",10,0.8333333333333334
+"{srednje}, {Okužba s Covid-19, srednje}",10,0.8333333333333334
+"{Okužba s Covid-19, Učitelj}, {srednje}",10,0.8333333333333334
+"{Okužba s Covid-19, Učitelj}, {Okužba s Covid-19}",10,0.8333333333333334
+"{srednje}, {srednje}, {srednje}",10,0.8333333333333334
+"{srednje}, {srednje}, {Okužba s Covid-19}",10,0.8333333333333334
+"{Okužba s Covid-19}, {Okužba s Covid-19, srednje}",10,0.8333333333333334
+"{Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}",10,0.8333333333333334
+"{srednje}, {Okužba s Covid-19, srednje}, {srednje}",10,0.8333333333333334
+"{srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19}",10,0.8333333333333334
+"{srednje}, {srednje}, {Okužba s Covid-19, srednje}",10,0.8333333333333334
+"{srednje}, {Okužba s Covid-19}, {Okužba s Covid-19, srednje}",10,0.8333333333333334
+"{srednje}, {Okužba s Covid-19, srednje}, {Okužba s Covid-19, srednje}",10,0.8333333333333334

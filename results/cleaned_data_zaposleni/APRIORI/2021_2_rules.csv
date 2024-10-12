@@ -3,5 +3,9 @@ Rule,Confidence
 {Sum na okužbo} => {Okužba s Covid-19},0.9166666666666666
 {Učitelj} => {srednje},0.9166666666666666
 {srednje} => {Učitelj},0.9166666666666666
+{Okužba s Covid-19} => {Učitelj},0.8333333333333334
+{Učitelj} => {Okužba s Covid-19},0.8333333333333334
 {Okužba s Covid-19} => {srednje},0.9166666666666666
 {srednje} => {Okužba s Covid-19},0.9166666666666666
+{Okužba s Covid-19} => {Vzgojitelj},0.8333333333333334
+{Vzgojitelj} => {Okužba s Covid-19},1.0

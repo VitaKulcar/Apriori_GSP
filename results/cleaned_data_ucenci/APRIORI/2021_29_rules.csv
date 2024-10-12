@@ -1,17 +1,17 @@
 Rule,Confidence
 {Okužba s Covid-19} => {Sum na okužbo},1.0
 {Sum na okužbo} => {Okužba s Covid-19},1.0
-{Posavska} => {srednje},1.0
-{srednje} => {Posavska},1.0
+{Okužba s Covid-19} => {Posavska},1.0
+{Posavska} => {Okužba s Covid-19},1.0
 {Okužba s Covid-19} => {VRTEC},1.0
 {VRTEC} => {Okužba s Covid-19},1.0
 {VRTEC} => {srednje},1.0
 {srednje} => {VRTEC},1.0
+{Posavska} => {srednje},1.0
+{srednje} => {Posavska},1.0
 {Posavska} => {Sum na okužbo},1.0
 {Sum na okužbo} => {Posavska},1.0
-{Okužba s Covid-19} => {Posavska},1.0
-{Posavska} => {Okužba s Covid-19},1.0
-{Okužba s Covid-19} => {srednje},1.0
-{srednje} => {Okužba s Covid-19},1.0
 {Posavska} => {VRTEC},1.0
 {VRTEC} => {Posavska},1.0
+{Okužba s Covid-19} => {srednje},1.0
+{srednje} => {Okužba s Covid-19},1.0

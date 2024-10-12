@@ -1,1 +1,5 @@
 Rule,Confidence
+{Sum na okužbo} => {srednje},0.8333333333333334
+{srednje} => {Sum na okužbo},0.8333333333333334
+{Okužba s Covid-19} => {Sum na okužbo},0.9090909090909091
+{Sum na okužbo} => {Okužba s Covid-19},0.8333333333333334

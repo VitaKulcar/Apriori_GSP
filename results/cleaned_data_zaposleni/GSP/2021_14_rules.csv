@@ -1,10 +1,22 @@
 Rule,Confidence
-{srednje} => {srednje},0.9166666666666666
 {Okužba s Covid-19} => {srednje},1.0
+{Drugi delavci} => {srednje},0.9090909090909091
+{srednje} => {srednje},0.9166666666666666
 {srednje} => {Okužba s Covid-19},0.9166666666666666
 {Okužba s Covid-19} => {Okužba s Covid-19},1.0
-"{srednje} => {Okužba s Covid-19, srednje}",0.9166666666666666
-"{Okužba s Covid-19} => {Okužba s Covid-19, srednje}",1.0
 "{Okužba s Covid-19, srednje} => {srednje}",1.0
 "{Okužba s Covid-19, srednje} => {Okužba s Covid-19}",1.0
+"{srednje} => {Okužba s Covid-19, srednje}",0.9166666666666666
+"{Drugi delavci, srednje} => {srednje}",0.9090909090909091
+"{srednje} => {srednje}, {srednje}",0.8333333333333334
+"{srednje}, {srednje} => {srednje}",0.9090909090909091
+"{srednje} => {Okužba s Covid-19}, {srednje}",0.8333333333333334
+"{srednje}, {Okužba s Covid-19} => {srednje}",0.9090909090909091
+"{Drugi delavci} => {srednje}, {srednje}",0.9090909090909091
+"{Drugi delavci}, {srednje} => {srednje}",1.0
+"{Okužba s Covid-19} => {Okužba s Covid-19, srednje}",1.0
+"{Drugi delavci, srednje} => {srednje}, {srednje}",0.9090909090909091
+"{Drugi delavci, srednje}, {srednje} => {srednje}",1.0
+"{srednje} => {Okužba s Covid-19, srednje}, {srednje}",0.8333333333333334
+"{srednje}, {Okužba s Covid-19, srednje} => {srednje}",0.9090909090909091
 "{Okužba s Covid-19, srednje} => {Okužba s Covid-19, srednje}",1.0

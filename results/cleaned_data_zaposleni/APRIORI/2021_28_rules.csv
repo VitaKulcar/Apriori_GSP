@@ -1,17 +1,17 @@
 Rule,Confidence
-{Okužba s Covid-19} => {Sum na okužbo},1.0
-{Sum na okužbo} => {Okužba s Covid-19},1.0
-{Posavska} => {Učitelj},1.0
-{Učitelj} => {Posavska},1.0
-{Učitelj} => {kratko},1.0
-{kratko} => {Učitelj},1.0
-{Posavska} => {Sum na okužbo},1.0
-{Sum na okužbo} => {Posavska},1.0
 {Posavska} => {kratko},1.0
 {kratko} => {Posavska},1.0
-{Okužba s Covid-19} => {Učitelj},1.0
-{Učitelj} => {Okužba s Covid-19},1.0
+{Okužba s Covid-19} => {Sum na okužbo},1.0
+{Sum na okužbo} => {Okužba s Covid-19},1.0
 {Okužba s Covid-19} => {Posavska},1.0
 {Posavska} => {Okužba s Covid-19},1.0
+{Posavska} => {Učitelj},1.0
+{Učitelj} => {Posavska},1.0
 {Okužba s Covid-19} => {kratko},1.0
 {kratko} => {Okužba s Covid-19},1.0
+{Posavska} => {Sum na okužbo},1.0
+{Sum na okužbo} => {Posavska},1.0
+{Okužba s Covid-19} => {Učitelj},1.0
+{Učitelj} => {Okužba s Covid-19},1.0
+{Učitelj} => {kratko},1.0
+{kratko} => {Učitelj},1.0

@@ -1,28 +1,50 @@
 Sequence,Support,Relative Frequency
-{kratko},12,1.0
-{OSNOVNA ŠOLA},12,1.0
 {Okužba s Covid-19 pri učencu ali več učencih oddelka},12,1.0
-{veliko},12,1.0
+{malo},10,0.8333333333333334
+{OSNOVNA ŠOLA},12,1.0
 {srednje},12,1.0
-"{kratko}, {srednje}",12,1.0
-"{kratko}, {veliko}",12,1.0
-"{OSNOVNA ŠOLA}, {srednje}",12,1.0
+{VRTEC},10,0.8333333333333334
+{Okužba s Covid-19 pri učitelju},10,0.8333333333333334
+{SREDNJA ŠOLA},10,0.8333333333333334
+{veliko},12,1.0
+{kratko},12,1.0
 "{OSNOVNA ŠOLA}, {kratko}",12,1.0
-"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
-"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",12,1.0
-"{srednje}, {veliko}",12,1.0
+"{SREDNJA ŠOLA}, {veliko}",10,0.8333333333333334
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {SREDNJA ŠOLA}",10,0.8333333333333334
 "{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",12,1.0
+"{OSNOVNA ŠOLA}, {srednje}",12,1.0
 "{OSNOVNA ŠOLA}, {veliko}",12,1.0
 "{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}",12,1.0
-"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}, {srednje}",12,1.0
-"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}, {veliko}",11,0.9166666666666666
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {malo}",10,0.8333333333333334
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{kratko}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {malo}",10,0.8333333333333334
+"{kratko}, {veliko}",12,1.0
+"{kratko}, {malo}",10,0.8333333333333334
+"{Okužba s Covid-19 pri učitelju}, {srednje}",10,0.8333333333333334
+"{srednje}, {veliko}",12,1.0
+"{SREDNJA ŠOLA}, {kratko}",10,0.8333333333333334
+"{OSNOVNA ŠOLA}, {SREDNJA ŠOLA}",10,0.8333333333333334
+"{SREDNJA ŠOLA}, {srednje}",10,0.8333333333333334
+"{Okužba s Covid-19 pri učitelju}, {veliko}",10,0.8333333333333334
+"{kratko}, {srednje}, {veliko}",11,0.9166666666666666
 "{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",11,0.9166666666666666
 "{OSNOVNA ŠOLA}, {kratko}, {veliko}",11,0.9166666666666666
-"{OSNOVNA ŠOLA}, {srednje}, {veliko}",12,1.0
-"{OSNOVNA ŠOLA}, {kratko}, {srednje}",12,1.0
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",12,1.0
-"{kratko}, {srednje}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {SREDNJA ŠOLA}, {veliko}",10,0.8333333333333334
 "{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}",12,1.0
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {kratko}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {SREDNJA ŠOLA}, {srednje}",10,0.8333333333333334
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",12,1.0
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",12,1.0
+"{Okužba s Covid-19 pri učitelju}, {srednje}, {veliko}",10,0.8333333333333334
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {srednje}, {veliko}",12,1.0
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {SREDNJA ŠOLA}, {veliko}",10,0.8333333333333334
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {SREDNJA ŠOLA}, {srednje}",10,0.8333333333333334
+"{OSNOVNA ŠOLA}, {kratko}, {srednje}, {veliko}",10,0.8333333333333334
 "{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}, {veliko}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}, {srednje}",12,1.0
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",10,0.8333333333333334
+"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {kratko}, {srednje}, {veliko}",10,0.8333333333333334

@@ -1,15 +1,37 @@
 Sequence,Support,Relative Frequency
-{Sum na okužbo},12,1.0
+{srednje},12,1.0
 {Okužba s Covid-19},11,0.9166666666666666
 {OSNOVNA ŠOLA},12,1.0
-{srednje},12,1.0
+{Sum na okužbo},12,1.0
+"{Okužba s Covid-19, srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Sum na okužbo}",10,0.8333333333333334
+"{srednje}, {srednje}",11,0.9166666666666666
+"{srednje}, {Okužba s Covid-19}",10,0.8333333333333334
+"{srednje}, {OSNOVNA ŠOLA}",10,0.8333333333333334
+"{OSNOVNA ŠOLA, srednje}",12,1.0
+"{srednje}, {Sum na okužbo}",10,0.8333333333333334
+"{Sum na okužbo}, {srednje}",11,0.9166666666666666
+"{Sum na okužbo}, {OSNOVNA ŠOLA}",10,0.8333333333333334
+"{OSNOVNA ŠOLA, Sum na okužbo}",12,1.0
+"{Sum na okužbo}, {Sum na okužbo}",10,0.8333333333333334
+"{OSNOVNA ŠOLA, Okužba s Covid-19}",10,0.8333333333333334
+"{Sum na okužbo}, {Okužba s Covid-19}",10,0.8333333333333334
 "{Sum na okužbo, srednje}",12,1.0
 "{OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
-"{Sum na okužbo}, {srednje}",11,0.9166666666666666
-"{OSNOVNA ŠOLA, srednje}",12,1.0
-"{Okužba s Covid-19, srednje}",11,0.9166666666666666
-"{srednje}, {srednje}",11,0.9166666666666666
-"{OSNOVNA ŠOLA, Sum na okužbo}",12,1.0
-"{Sum na okužbo, srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19}",10,0.8333333333333334
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",10,0.8333333333333334
 "{OSNOVNA ŠOLA, Sum na okužbo, srednje}",12,1.0
+"{srednje}, {Okužba s Covid-19, srednje}",10,0.8333333333333334
+"{Sum na okužbo, srednje}, {Okužba s Covid-19}",10,0.8333333333333334
 "{OSNOVNA ŠOLA, srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",10,0.8333333333333334
+"{OSNOVNA ŠOLA, srednje}, {Sum na okužbo}",10,0.8333333333333334
+"{OSNOVNA ŠOLA, Sum na okužbo}, {srednje}",10,0.8333333333333334
+"{Sum na okužbo, srednje}, {srednje}",11,0.9166666666666666
+"{OSNOVNA ŠOLA, srednje}, {Okužba s Covid-19}",10,0.8333333333333334
+"{OSNOVNA ŠOLA, Sum na okužbo}, {Sum na okužbo}",10,0.8333333333333334
+"{Sum na okužbo, srednje}, {Sum na okužbo}",10,0.8333333333333334
+"{OSNOVNA ŠOLA, Sum na okužbo}, {Okužba s Covid-19}",10,0.8333333333333334
+"{OSNOVNA ŠOLA, Sum na okužbo}, {OSNOVNA ŠOLA}",10,0.8333333333333334
+"{Sum na okužbo, srednje}, {OSNOVNA ŠOLA}",10,0.8333333333333334
+"{OSNOVNA ŠOLA, Sum na okužbo, srednje}, {Okužba s Covid-19}",10,0.8333333333333334

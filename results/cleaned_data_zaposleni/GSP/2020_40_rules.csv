@@ -1,2 +1,7 @@
 Rule,Confidence
+{Učitelj} => {Sum na okužbo},0.8
+{srednje} => {Sum na okužbo},0.8888888888888888
 {Sum na okužbo} => {Sum na okužbo},0.9
+"{Sum na okužbo, srednje} => {Sum na okužbo}",0.8888888888888888
+"{Učitelj, srednje} => {Sum na okužbo}",0.8888888888888888
+"{Sum na okužbo, Učitelj} => {Sum na okužbo}",0.8

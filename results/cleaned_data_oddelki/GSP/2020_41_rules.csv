@@ -1,1 +1,4 @@
 Rule,Confidence
+{kratko} => {OSNOVNA ŠOLA},0.9090909090909091
+{srednje} => {OSNOVNA ŠOLA},0.8333333333333334
+"{kratko, srednje} => {OSNOVNA ŠOLA}",0.9090909090909091

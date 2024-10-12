@@ -1,1 +1,3 @@
 Rule,Confidence
+{OSNOVNA ŠOLA} => {Sum na okužbo},0.8333333333333334
+{Sum na okužbo} => {OSNOVNA ŠOLA},0.8333333333333334

@@ -1,3 +1,6 @@
 Sequence,Support,Relative Frequency
-{Okužba s Covid-19},12,1.0
 {srednje},12,1.0
+{Okužba s Covid-19},12,1.0
+{Vzgojitelj},10,0.8333333333333334
+{Učitelj},10,0.8333333333333334
+"{Okužba s Covid-19}, {srednje}",10,0.8333333333333334
