@@ -1,3 +1,174 @@
 Sequence,Support,Relative Frequency
-{srednje},2,1.0
-{Sum na okužbo},2,1.0
+{srednje trajanje},3,1.0
+{Sum na okužbo},2,0.6666666666666666
+{Posavska},1,0.3333333333333333
+{Drugi delavci},2,0.6666666666666666
+{Jugovzhodna Slovenija},2,0.6666666666666666
+{Vzgojitelj},1,0.3333333333333333
+{Okužba s Covid-19},1,0.3333333333333333
+"{Sum na okužbo}, {srednje trajanje}",2,0.6666666666666666
+"{Drugi delavci}, {Okužba s Covid-19}",1,0.3333333333333333
+"{srednje trajanje}, {Vzgojitelj}",1,0.3333333333333333
+"{Sum na okužbo}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {srednje trajanje}",2,0.6666666666666666
+"{Posavska}, {Sum na okužbo}",1,0.3333333333333333
+"{Drugi delavci}, {Sum na okužbo}",1,0.3333333333333333
+"{Vzgojitelj}, {srednje trajanje}",1,0.3333333333333333
+"{srednje trajanje}, {Jugovzhodna Slovenija}",2,0.6666666666666666
+"{Okužba s Covid-19}, {srednje trajanje}",1,0.3333333333333333
+"{Sum na okužbo}, {Posavska}",1,0.3333333333333333
+"{Sum na okužbo}, {Drugi delavci}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {Okužba s Covid-19}",1,0.3333333333333333
+"{srednje trajanje}, {Okužba s Covid-19}",1,0.3333333333333333
+"{Okužba s Covid-19}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{srednje trajanje}, {Posavska}",1,0.3333333333333333
+"{Posavska}, {Vzgojitelj}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {Drugi delavci}",2,0.6666666666666666
+"{srednje trajanje}, {Drugi delavci}",2,0.6666666666666666
+"{Vzgojitelj}, {Posavska}",1,0.3333333333333333
+"{Posavska}, {srednje trajanje}",1,0.3333333333333333
+"{srednje trajanje}, {Sum na okužbo}",2,0.6666666666666666
+"{Jugovzhodna Slovenija}, {Sum na okužbo}",1,0.3333333333333333
+"{Okužba s Covid-19}, {Drugi delavci}",1,0.3333333333333333
+"{Drugi delavci}, {srednje trajanje}",2,0.6666666666666666
+"{Sum na okužbo}, {Vzgojitelj}",1,0.3333333333333333
+"{Vzgojitelj}, {Sum na okužbo}",1,0.3333333333333333
+"{Drugi delavci}, {Jugovzhodna Slovenija}",2,0.6666666666666666
+"{Sum na okužbo}, {Jugovzhodna Slovenija}, {Drugi delavci}",1,0.3333333333333333
+"{srednje trajanje}, {Sum na okužbo}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{Okužba s Covid-19}, {Drugi delavci}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{Sum na okužbo}, {Drugi delavci}, {srednje trajanje}",1,0.3333333333333333
+"{Drugi delavci}, {Sum na okužbo}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {Drugi delavci}, {Sum na okužbo}",1,0.3333333333333333
+"{srednje trajanje}, {Drugi delavci}, {Sum na okužbo}",1,0.3333333333333333
+"{Posavska}, {Sum na okužbo}, {Vzgojitelj}",1,0.3333333333333333
+"{Posavska}, {Vzgojitelj}, {Sum na okužbo}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {Sum na okužbo}, {srednje trajanje}",1,0.3333333333333333
+"{Sum na okužbo}, {Posavska}, {srednje trajanje}",1,0.3333333333333333
+"{Sum na okužbo}, {Vzgojitelj}, {Posavska}",1,0.3333333333333333
+"{Sum na okužbo}, {Drugi delavci}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{srednje trajanje}, {Sum na okužbo}, {Posavska}",1,0.3333333333333333
+"{Posavska}, {Sum na okužbo}, {srednje trajanje}",1,0.3333333333333333
+"{Drugi delavci}, {srednje trajanje}, {Jugovzhodna Slovenija}",2,0.6666666666666666
+"{srednje trajanje}, {Posavska}, {Sum na okužbo}",1,0.3333333333333333
+"{Drugi delavci}, {Jugovzhodna Slovenija}, {srednje trajanje}",2,0.6666666666666666
+"{srednje trajanje}, {Sum na okužbo}, {Drugi delavci}",1,0.3333333333333333
+"{Drugi delavci}, {Okužba s Covid-19}, {srednje trajanje}",1,0.3333333333333333
+"{Posavska}, {srednje trajanje}, {Vzgojitelj}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {Okužba s Covid-19}, {srednje trajanje}",1,0.3333333333333333
+"{Drugi delavci}, {srednje trajanje}, {Okužba s Covid-19}",1,0.3333333333333333
+"{Vzgojitelj}, {Sum na okužbo}, {Posavska}",1,0.3333333333333333
+"{Sum na okužbo}, {srednje trajanje}, {Vzgojitelj}",1,0.3333333333333333
+"{srednje trajanje}, {Okužba s Covid-19}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{Drugi delavci}, {Okužba s Covid-19}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{Vzgojitelj}, {Posavska}, {Sum na okužbo}",1,0.3333333333333333
+"{srednje trajanje}, {Jugovzhodna Slovenija}, {Okužba s Covid-19}",1,0.3333333333333333
+"{Vzgojitelj}, {Posavska}, {srednje trajanje}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {srednje trajanje}, {Okužba s Covid-19}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {Sum na okužbo}, {Drugi delavci}",1,0.3333333333333333
+"{Drugi delavci}, {Jugovzhodna Slovenija}, {Okužba s Covid-19}",1,0.3333333333333333
+"{Okužba s Covid-19}, {Jugovzhodna Slovenija}, {srednje trajanje}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {Drugi delavci}, {srednje trajanje}",2,0.6666666666666666
+"{Posavska}, {Vzgojitelj}, {srednje trajanje}",1,0.3333333333333333
+"{Sum na okužbo}, {srednje trajanje}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{srednje trajanje}, {Posavska}, {Vzgojitelj}",1,0.3333333333333333
+"{srednje trajanje}, {Drugi delavci}, {Jugovzhodna Slovenija}",2,0.6666666666666666
+"{Drugi delavci}, {srednje trajanje}, {Sum na okužbo}",1,0.3333333333333333
+"{srednje trajanje}, {Jugovzhodna Slovenija}, {Drugi delavci}",2,0.6666666666666666
+"{Sum na okužbo}, {Jugovzhodna Slovenija}, {srednje trajanje}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {srednje trajanje}, {Drugi delavci}",2,0.6666666666666666
+"{Okužba s Covid-19}, {srednje trajanje}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{srednje trajanje}, {Okužba s Covid-19}, {Drugi delavci}",1,0.3333333333333333
+"{srednje trajanje}, {Vzgojitelj}, {Posavska}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {Okužba s Covid-19}, {Drugi delavci}",1,0.3333333333333333
+"{srednje trajanje}, {Jugovzhodna Slovenija}, {Sum na okužbo}",1,0.3333333333333333
+"{srednje trajanje}, {Drugi delavci}, {Okužba s Covid-19}",1,0.3333333333333333
+"{srednje trajanje}, {Sum na okužbo}, {Vzgojitelj}",1,0.3333333333333333
+"{Sum na okužbo}, {Vzgojitelj}, {srednje trajanje}",1,0.3333333333333333
+"{Vzgojitelj}, {srednje trajanje}, {Posavska}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {Drugi delavci}, {Okužba s Covid-19}",1,0.3333333333333333
+"{Drugi delavci}, {Jugovzhodna Slovenija}, {Sum na okužbo}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {srednje trajanje}, {Sum na okužbo}",1,0.3333333333333333
+"{Sum na okužbo}, {srednje trajanje}, {Posavska}",1,0.3333333333333333
+"{srednje trajanje}, {Vzgojitelj}, {Sum na okužbo}",1,0.3333333333333333
+"{Sum na okužbo}, {srednje trajanje}, {Drugi delavci}",1,0.3333333333333333
+"{Okužba s Covid-19}, {srednje trajanje}, {Drugi delavci}",1,0.3333333333333333
+"{Okužba s Covid-19}, {Jugovzhodna Slovenija}, {Drugi delavci}",1,0.3333333333333333
+"{Okužba s Covid-19}, {Drugi delavci}, {srednje trajanje}",1,0.3333333333333333
+"{Posavska}, {srednje trajanje}, {Sum na okužbo}",1,0.3333333333333333
+"{Drugi delavci}, {Sum na okužbo}, {srednje trajanje}",1,0.3333333333333333
+"{Vzgojitelj}, {Sum na okužbo}, {srednje trajanje}",1,0.3333333333333333
+"{Sum na okužbo}, {Posavska}, {Vzgojitelj}",1,0.3333333333333333
+"{Vzgojitelj}, {srednje trajanje}, {Sum na okužbo}",1,0.3333333333333333
+"{Sum na okužbo}, {srednje trajanje}, {Drugi delavci}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{Drugi delavci}, {srednje trajanje}, {Jugovzhodna Slovenija}, {Okužba s Covid-19}",1,0.3333333333333333
+"{Posavska}, {Vzgojitelj}, {Sum na okužbo}, {srednje trajanje}",1,0.3333333333333333
+"{Vzgojitelj}, {Posavska}, {Sum na okužbo}, {srednje trajanje}",1,0.3333333333333333
+"{Vzgojitelj}, {srednje trajanje}, {Posavska}, {Sum na okužbo}",1,0.3333333333333333
+"{Vzgojitelj}, {srednje trajanje}, {Sum na okužbo}, {Posavska}",1,0.3333333333333333
+"{Drugi delavci}, {Jugovzhodna Slovenija}, {srednje trajanje}, {Sum na okužbo}",1,0.3333333333333333
+"{Sum na okužbo}, {srednje trajanje}, {Vzgojitelj}, {Posavska}",1,0.3333333333333333
+"{srednje trajanje}, {Drugi delavci}, {Jugovzhodna Slovenija}, {Sum na okužbo}",1,0.3333333333333333
+"{Drugi delavci}, {srednje trajanje}, {Okužba s Covid-19}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {Drugi delavci}, {srednje trajanje}, {Sum na okužbo}",1,0.3333333333333333
+"{srednje trajanje}, {Jugovzhodna Slovenija}, {Drugi delavci}, {Okužba s Covid-19}",1,0.3333333333333333
+"{Posavska}, {srednje trajanje}, {Sum na okužbo}, {Vzgojitelj}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {srednje trajanje}, {Okužba s Covid-19}, {Drugi delavci}",1,0.3333333333333333
+"{Drugi delavci}, {Jugovzhodna Slovenija}, {Sum na okužbo}, {srednje trajanje}",1,0.3333333333333333
+"{Sum na okužbo}, {Posavska}, {srednje trajanje}, {Vzgojitelj}",1,0.3333333333333333
+"{srednje trajanje}, {Drugi delavci}, {Sum na okužbo}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{Drugi delavci}, {Sum na okužbo}, {Jugovzhodna Slovenija}, {srednje trajanje}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {srednje trajanje}, {Drugi delavci}, {Okužba s Covid-19}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {Sum na okužbo}, {srednje trajanje}, {Drugi delavci}",1,0.3333333333333333
+"{srednje trajanje}, {Posavska}, {Vzgojitelj}, {Sum na okužbo}",1,0.3333333333333333
+"{srednje trajanje}, {Posavska}, {Sum na okužbo}, {Vzgojitelj}",1,0.3333333333333333
+"{Drugi delavci}, {Sum na okužbo}, {srednje trajanje}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{Drugi delavci}, {srednje trajanje}, {Jugovzhodna Slovenija}, {Sum na okužbo}",1,0.3333333333333333
+"{Posavska}, {Sum na okužbo}, {srednje trajanje}, {Vzgojitelj}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {Sum na okužbo}, {Drugi delavci}, {srednje trajanje}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {Drugi delavci}, {Sum na okužbo}, {srednje trajanje}",1,0.3333333333333333
+"{srednje trajanje}, {Jugovzhodna Slovenija}, {Drugi delavci}, {Sum na okužbo}",1,0.3333333333333333
+"{Sum na okužbo}, {Vzgojitelj}, {srednje trajanje}, {Posavska}",1,0.3333333333333333
+"{Sum na okužbo}, {Posavska}, {Vzgojitelj}, {srednje trajanje}",1,0.3333333333333333
+"{Sum na okužbo}, {Drugi delavci}, {Jugovzhodna Slovenija}, {srednje trajanje}",1,0.3333333333333333
+"{Drugi delavci}, {Okužba s Covid-19}, {srednje trajanje}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{Drugi delavci}, {Okužba s Covid-19}, {Jugovzhodna Slovenija}, {srednje trajanje}",1,0.3333333333333333
+"{Sum na okužbo}, {Jugovzhodna Slovenija}, {Drugi delavci}, {srednje trajanje}",1,0.3333333333333333
+"{Sum na okužbo}, {Jugovzhodna Slovenija}, {srednje trajanje}, {Drugi delavci}",1,0.3333333333333333
+"{Okužba s Covid-19}, {srednje trajanje}, {Jugovzhodna Slovenija}, {Drugi delavci}",1,0.3333333333333333
+"{Sum na okužbo}, {Vzgojitelj}, {Posavska}, {srednje trajanje}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {srednje trajanje}, {Drugi delavci}, {Sum na okužbo}",1,0.3333333333333333
+"{Sum na okužbo}, {Drugi delavci}, {srednje trajanje}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{Drugi delavci}, {Jugovzhodna Slovenija}, {Okužba s Covid-19}, {srednje trajanje}",1,0.3333333333333333
+"{srednje trajanje}, {Sum na okužbo}, {Posavska}, {Vzgojitelj}",1,0.3333333333333333
+"{srednje trajanje}, {Vzgojitelj}, {Posavska}, {Sum na okužbo}",1,0.3333333333333333
+"{srednje trajanje}, {Vzgojitelj}, {Sum na okužbo}, {Posavska}",1,0.3333333333333333
+"{srednje trajanje}, {Jugovzhodna Slovenija}, {Sum na okužbo}, {Drugi delavci}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {srednje trajanje}, {Sum na okužbo}, {Drugi delavci}",1,0.3333333333333333
+"{srednje trajanje}, {Sum na okužbo}, {Jugovzhodna Slovenija}, {Drugi delavci}",1,0.3333333333333333
+"{Vzgojitelj}, {Posavska}, {srednje trajanje}, {Sum na okužbo}",1,0.3333333333333333
+"{Okužba s Covid-19}, {srednje trajanje}, {Drugi delavci}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{Drugi delavci}, {srednje trajanje}, {Sum na okužbo}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{Posavska}, {Vzgojitelj}, {srednje trajanje}, {Sum na okužbo}",1,0.3333333333333333
+"{srednje trajanje}, {Drugi delavci}, {Okužba s Covid-19}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{srednje trajanje}, {Okužba s Covid-19}, {Jugovzhodna Slovenija}, {Drugi delavci}",1,0.3333333333333333
+"{Drugi delavci}, {Jugovzhodna Slovenija}, {srednje trajanje}, {Okužba s Covid-19}",1,0.3333333333333333
+"{srednje trajanje}, {Sum na okužbo}, {Vzgojitelj}, {Posavska}",1,0.3333333333333333
+"{srednje trajanje}, {Drugi delavci}, {Jugovzhodna Slovenija}, {Okužba s Covid-19}",1,0.3333333333333333
+"{Okužba s Covid-19}, {Drugi delavci}, {Jugovzhodna Slovenija}, {srednje trajanje}",1,0.3333333333333333
+"{Okužba s Covid-19}, {Jugovzhodna Slovenija}, {srednje trajanje}, {Drugi delavci}",1,0.3333333333333333
+"{srednje trajanje}, {Sum na okužbo}, {Drugi delavci}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{srednje trajanje}, {Okužba s Covid-19}, {Drugi delavci}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {Drugi delavci}, {Okužba s Covid-19}, {srednje trajanje}",1,0.3333333333333333
+"{Sum na okužbo}, {srednje trajanje}, {Posavska}, {Vzgojitelj}",1,0.3333333333333333
+"{Posavska}, {Sum na okužbo}, {Vzgojitelj}, {srednje trajanje}",1,0.3333333333333333
+"{Okužba s Covid-19}, {Jugovzhodna Slovenija}, {Drugi delavci}, {srednje trajanje}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {Drugi delavci}, {srednje trajanje}, {Okužba s Covid-19}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {Okužba s Covid-19}, {Drugi delavci}, {srednje trajanje}",1,0.3333333333333333
+"{Vzgojitelj}, {Sum na okužbo}, {srednje trajanje}, {Posavska}",1,0.3333333333333333
+"{srednje trajanje}, {Jugovzhodna Slovenija}, {Okužba s Covid-19}, {Drugi delavci}",1,0.3333333333333333
+"{Posavska}, {srednje trajanje}, {Vzgojitelj}, {Sum na okužbo}",1,0.3333333333333333
+"{Vzgojitelj}, {Sum na okužbo}, {Posavska}, {srednje trajanje}",1,0.3333333333333333
+"{Okužba s Covid-19}, {Drugi delavci}, {srednje trajanje}, {Jugovzhodna Slovenija}",1,0.3333333333333333
+"{Jugovzhodna Slovenija}, {Okužba s Covid-19}, {srednje trajanje}, {Drugi delavci}",1,0.3333333333333333
+"{Sum na okužbo}, {srednje trajanje}, {Jugovzhodna Slovenija}, {Drugi delavci}",1,0.3333333333333333

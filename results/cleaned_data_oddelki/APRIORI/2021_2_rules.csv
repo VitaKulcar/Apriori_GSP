@@ -1,1 +1,14 @@
 Rule,Confidence
+{srednje trajanje} => {VRTEC},0.6666666666666666
+{VRTEC} => {srednje trajanje},0.9230769230769231
+{VRTEC} => {zelo malo},0.5
+{Osrednjeslovenska} => {srednje trajanje},0.7894736842105263
+{zelo malo} => {srednje trajanje},0.8518518518518519
+{srednje trajanje} => {zelo malo},0.6388888888888888
+"{VRTEC} => {srednje trajanje}, {zelo malo}",0.5
+"{VRTEC}, {srednje trajanje} => {zelo malo}",0.5416666666666666
+"{VRTEC}, {zelo malo} => {srednje trajanje}",1.0
+"{srednje trajanje}, {zelo malo} => {VRTEC}",0.5652173913043478
+"{zelo malo}, {srednje trajanje} => {VRTEC}",0.5652173913043478
+"{zelo malo}, {VRTEC} => {srednje trajanje}",1.0
+"{srednje trajanje}, {VRTEC} => {zelo malo}",0.5416666666666666

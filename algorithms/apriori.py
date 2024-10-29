@@ -11,9 +11,8 @@ def generate_candidates(previous_level, items, sequence_list, min_support):
                 candidates.add(candidate)
     else:  # new candidates from previous level
         for seq in previous_level:
-            last_item = seq[-1][-1]
             for item in items:
-                if item > last_item:
+                if (item,) not in seq:
                     new_seq = seq + ((item,),)
                     if calc_support(new_seq, sequence_list) >= min_support:
                         candidates.add(new_seq)
@@ -38,8 +37,16 @@ def calc_support(candidate_sequence, sequence_list):
 
 
 def is_subsequence(candidate, sequence):
-    it = iter(sequence)
-    return all(any(set(subseq).issubset(itemset) for itemset in it) for subseq in candidate)
+    # Flatten the sequence into a single set of items for easier searching
+    sequence_items = {item for itemset in sequence for item in itemset}
+
+    # Check if each item in the candidate is found in the sequence
+    for candidate_itemset in candidate:
+        for item in candidate_itemset:
+            if item not in sequence_items:
+                return False  # Return False if any item is not found
+
+    return True  # All items in candidate found in the sequence
 
 
 def get_unique_items(sequences):
@@ -65,16 +72,14 @@ class Apriori:
     def mine_frequent_itemsets(self):
         current_level = set()
         frequent_sequences = {}
-        k = 1
         # 1-item sequences
         candidates = generate_candidates(current_level, self.unique_items, self.dataset, self.min_support_count)
+        # n-item sequences (2, 3, 4 ..)
         while candidates:
             valid_candidates = filter_candidates(candidates, self.dataset, self.min_support_count)
             frequent_sequences.update(valid_candidates)
-            k += 1
             current_level = set(valid_candidates.keys())
             candidates = generate_candidates(current_level, self.unique_items, self.dataset, self.min_support_count)
-
         return frequent_sequences
 
     def generate_association_rules(self, frequent_itemsets):

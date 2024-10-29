@@ -1,4 +1,13 @@
 Sequence,Support,Relative Frequency
-{srednje},10,1.0
-{malo},8,0.8
-{VRTEC},9,0.9
+{zelo malo},32,0.43243243243243246
+{srednje trajanje},57,0.7702702702702703
+{VRTEC},30,0.40540540540540543
+{OSNOVNA ŠOLA},39,0.527027027027027
+{Osrednjeslovenska},31,0.4189189189189189
+{Okužba pri otroku / učencu / dijaku},24,0.32432432432432434
+"{srednje trajanje}, {VRTEC}",26,0.35135135135135137
+"{VRTEC}, {srednje trajanje}",26,0.35135135135135137
+"{OSNOVNA ŠOLA}, {srednje trajanje}",27,0.36486486486486486
+"{srednje trajanje}, {OSNOVNA ŠOLA}",27,0.36486486486486486
+"{srednje trajanje}, {zelo malo}",23,0.3108108108108108
+"{zelo malo}, {srednje trajanje}",23,0.3108108108108108

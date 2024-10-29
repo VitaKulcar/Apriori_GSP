@@ -1,22 +1,32 @@
-REGIJA,OBDOBJE,VZROK,TRAJANJE
-Osrednjeslovenska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje
-Osrednjeslovenska,OSTALO,Okužba s Covid-19,srednje
-Jugovzhodna Slovenija,VRTEC,Sum na okužbo,srednje
-Koroška,VRTEC,Sum na okužbo,srednje
-Zasavska,VRTEC,Sum na okužbo,srednje
-Pomurska,OSTALO,Okužba s Covid-19,srednje
-Gorenjska,OSNOVNA ŠOLA,Sum na okužbo,srednje
-Podravska,OSTALO,Okužba s Covid-19,srednje
-Osrednjeslovenska,OSNOVNA ŠOLA,Sum na okužbo,srednje
-Osrednjeslovenska,OSTALO,Sum na okužbo,srednje
-Osrednjeslovenska,VRTEC,Sum na okužbo,srednje
-Posavska,VRTEC,Sum na okužbo,srednje
-Obalno-kraška,VRTEC,Okužba s Covid-19,srednje
-Jugovzhodna Slovenija,OSTALO,Sum na okužbo,srednje
-Jugovzhodna Slovenija,OSNOVNA ŠOLA,Sum na okužbo,srednje
-Jugovzhodna Slovenija,OSNOVNA ŠOLA,Okužba s Covid-19,srednje
-Osrednjeslovenska,SREDNJA ŠOLA,Okužba s Covid-19,srednje
-Jugovzhodna Slovenija,VRTEC,Okužba s Covid-19,srednje
-Osrednjeslovenska,SREDNJA ŠOLA,Sum na okužbo,srednje
-Savinjska,VRTEC,Sum na okužbo,srednje
-Gorenjska,VRTEC,Sum na okužbo,srednje
+VNOS,REGIJA,OBDOBJE,VZROK,TRAJANJE
+2021-01-04,Osrednjeslovenska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-01-04,Osrednjeslovenska,OSTALO,Okužba s Covid-19,srednje trajanje
+2021-01-04,Jugovzhodna Slovenija,VRTEC,Sum na okužbo,srednje trajanje
+2021-01-04,Koroška,VRTEC,Sum na okužbo,srednje trajanje
+2021-01-04,Zasavska,VRTEC,Sum na okužbo,srednje trajanje
+2021-01-04,Pomurska,OSTALO,Okužba s Covid-19,srednje trajanje
+2021-01-05,Gorenjska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-01-05,Podravska,OSTALO,Okužba s Covid-19,srednje trajanje
+2021-01-05,Osrednjeslovenska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-01-05,Osrednjeslovenska,OSTALO,Sum na okužbo,srednje trajanje
+2021-01-05,Osrednjeslovenska,VRTEC,Sum na okužbo,srednje trajanje
+2021-01-06,Osrednjeslovenska,VRTEC,Sum na okužbo,srednje trajanje
+2021-01-06,Posavska,VRTEC,Sum na okužbo,srednje trajanje
+2021-01-06,Osrednjeslovenska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-01-06,Obalno-kraška,VRTEC,Okužba s Covid-19,srednje trajanje
+2021-01-06,Podravska,OSTALO,Okužba s Covid-19,srednje trajanje
+2021-01-06,Jugovzhodna Slovenija,OSTALO,Sum na okužbo,srednje trajanje
+2021-01-06,Jugovzhodna Slovenija,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-01-06,Osrednjeslovenska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-01-06,Jugovzhodna Slovenija,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-01-07,Osrednjeslovenska,SREDNJA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-01-07,Jugovzhodna Slovenija,VRTEC,Okužba s Covid-19,srednje trajanje
+2021-01-07,Jugovzhodna Slovenija,VRTEC,Sum na okužbo,srednje trajanje
+2021-01-07,Osrednjeslovenska,SREDNJA ŠOLA,Sum na okužbo,srednje trajanje
+2021-01-07,Osrednjeslovenska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-01-07,Osrednjeslovenska,VRTEC,Sum na okužbo,srednje trajanje
+2021-01-07,Osrednjeslovenska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-01-08,Savinjska,VRTEC,Sum na okužbo,srednje trajanje
+2021-01-08,Gorenjska,VRTEC,Sum na okužbo,srednje trajanje
+2021-01-08,Osrednjeslovenska,OSTALO,Sum na okužbo,srednje trajanje
+2021-01-08,Osrednjeslovenska,VRTEC,Sum na okužbo,srednje trajanje

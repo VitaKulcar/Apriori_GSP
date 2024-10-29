@@ -1,57 +1,97 @@
-REGIJA,OBDOBJE,VZROK,TRAJANJE
-Gorenjska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje
-Gorenjska,OSNOVNA ŠOLA,Sum na okužbo,srednje
-Osrednjeslovenska,SREDNJA ŠOLA,Okužba s Covid-19,srednje
-Osrednjeslovenska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje
-Savinjska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje
-Podravska,SREDNJA ŠOLA,Okužba s Covid-19,srednje
-Osrednjeslovenska,SREDNJA ŠOLA,Sum na okužbo,srednje
-Podravska,OSNOVNA ŠOLA,Sum na okužbo,srednje
-Savinjska,OSNOVNA ŠOLA,Sum na okužbo,srednje
-Gorenjska,GLASBENA ŠOLA,Sum na okužbo,dolgo
-Jugovzhodna Slovenija,OSNOVNA ŠOLA,Sum na okužbo,srednje
-Savinjska,GLASBENA ŠOLA,Sum na okužbo,srednje
-Gorenjska,OSNOVNA ŠOLA,Sum na okužbo,kratko
-Osrednjeslovenska,OSNOVNA ŠOLA,Sum na okužbo,srednje
-Savinjska,SREDNJA ŠOLA,Okužba s Covid-19,srednje
-Osrednjeslovenska,OSNOVNA ŠOLA,Sum na okužbo,kratko
-Savinjska,OSTALO,Okužba s Covid-19,srednje
-Osrednjeslovenska,OSNOVNA ŠOLA,Okužba s Covid-19,dolgo
-Zasavska,SREDNJA ŠOLA,Okužba s Covid-19,srednje
-Gorenjska,GLASBENA ŠOLA,Sum na okužbo,kratko
-Zasavska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje
-Gorenjska,GLASBENA ŠOLA,Sum na okužbo,srednje
-Savinjska,OSNOVNA ŠOLA,Sum na okužbo,kratko
-Gorenjska,SREDNJA ŠOLA,Okužba s Covid-19,kratko
-Osrednjeslovenska,OSNOVNA ŠOLA,Sum na okužbo,dolgo
-Pomurska,OSNOVNA ŠOLA,Sum na okužbo,srednje
-Jugovzhodna Slovenija,VRTEC,Sum na okužbo,srednje
-Jugovzhodna Slovenija,OSNOVNA ŠOLA,Okužba s Covid-19,srednje
-Jugovzhodna Slovenija,OSNOVNA ŠOLA,Sum na okužbo,kratko
-Primorsko-notranjska,SREDNJA ŠOLA,Okužba s Covid-19,srednje
-Goriška,VRTEC,Sum na okužbo,srednje
-Pomurska,VRTEC,Sum na okužbo,srednje
-Primorsko-notranjska,OSNOVNA ŠOLA,Sum na okužbo,srednje
-Osrednjeslovenska,OSTALO,Okužba s Covid-19,srednje
-Podravska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje
-Pomurska,VRTEC,Okužba s Covid-19,srednje
-Osrednjeslovenska,VRTEC,Sum na okužbo,srednje
-Podravska,VRTEC,Sum na okužbo,srednje
-Obalno-kraška,OSNOVNA ŠOLA,Okužba s Covid-19,srednje
-Posavska,OSNOVNA ŠOLA,Sum na okužbo,srednje
-Goriška,OSNOVNA ŠOLA,Sum na okužbo,srednje
-Podravska,SREDNJA ŠOLA,Sum na okužbo,srednje
-Podravska,SREDNJA ŠOLA,Okužba s Covid-19,kratko
-Osrednjeslovenska,SREDNJA ŠOLA,Okužba s Covid-19,kratko
-Goriška,OSNOVNA ŠOLA,Okužba s Covid-19,srednje
-Obalno-kraška,SREDNJA ŠOLA,Sum na okužbo,srednje
-Gorenjska,SREDNJA ŠOLA,Okužba s Covid-19,srednje
-Obalno-kraška,SREDNJA ŠOLA,Okužba s Covid-19,srednje
-Osrednjeslovenska,SREDNJA ŠOLA,Sum na okužbo,dolgo
-Pomurska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje
-Gorenjska,SREDNJA ŠOLA,Sum na okužbo,kratko
-Podravska,GLASBENA ŠOLA,Okužba s Covid-19,srednje
-Podravska,OSNOVNA ŠOLA,Sum na okužbo,kratko
-Pomurska,SREDNJA ŠOLA,Okužba s Covid-19,srednje
-Osrednjeslovenska,SREDNJA ŠOLA,Sum na okužbo,kratko
-Jugovzhodna Slovenija,OSNOVNA ŠOLA,Okužba s Covid-19,kratko
+VNOS,REGIJA,OBDOBJE,VZROK,TRAJANJE
+2021-06-07,Gorenjska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-07,Gorenjska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-07,Osrednjeslovenska,SREDNJA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-07,Osrednjeslovenska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-07,Savinjska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-07,Podravska,SREDNJA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-07,Osrednjeslovenska,SREDNJA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-07,Podravska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-07,Savinjska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-07,Gorenjska,GLASBENA ŠOLA,Sum na okužbo,dolgo trajanje
+2021-06-07,Jugovzhodna Slovenija,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-07,Savinjska,GLASBENA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-07,Gorenjska,OSNOVNA ŠOLA,Sum na okužbo,kratko trajanje
+2021-06-07,Osrednjeslovenska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-07,Savinjska,SREDNJA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-07,Osrednjeslovenska,OSNOVNA ŠOLA,Sum na okužbo,kratko trajanje
+2021-06-07,Savinjska,OSTALO,Okužba s Covid-19,srednje trajanje
+2021-06-07,Osrednjeslovenska,OSNOVNA ŠOLA,Okužba s Covid-19,dolgo trajanje
+2021-06-07,Zasavska,SREDNJA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-07,Gorenjska,GLASBENA ŠOLA,Sum na okužbo,kratko trajanje
+2021-06-07,Zasavska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-07,Gorenjska,GLASBENA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-07,Savinjska,OSNOVNA ŠOLA,Sum na okužbo,kratko trajanje
+2021-06-07,Gorenjska,SREDNJA ŠOLA,Okužba s Covid-19,kratko trajanje
+2021-06-07,Osrednjeslovenska,OSNOVNA ŠOLA,Sum na okužbo,dolgo trajanje
+2021-06-08,Podravska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-08,Podravska,SREDNJA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-08,Pomurska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-08,Savinjska,GLASBENA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-08,Osrednjeslovenska,SREDNJA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-08,Gorenjska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-08,Jugovzhodna Slovenija,VRTEC,Sum na okužbo,srednje trajanje
+2021-06-08,Osrednjeslovenska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-08,Osrednjeslovenska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-08,Jugovzhodna Slovenija,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-08,Jugovzhodna Slovenija,OSNOVNA ŠOLA,Sum na okužbo,kratko trajanje
+2021-06-08,Jugovzhodna Slovenija,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-08,Primorsko-notranjska,SREDNJA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-08,Gorenjska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-08,Gorenjska,SREDNJA ŠOLA,Okužba s Covid-19,kratko trajanje
+2021-06-08,Goriška,VRTEC,Sum na okužbo,srednje trajanje
+2021-06-08,Pomurska,VRTEC,Sum na okužbo,srednje trajanje
+2021-06-08,Gorenjska,OSNOVNA ŠOLA,Sum na okužbo,kratko trajanje
+2021-06-08,Primorsko-notranjska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-08,Osrednjeslovenska,OSTALO,Okužba s Covid-19,srednje trajanje
+2021-06-08,Podravska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-08,Pomurska,VRTEC,Okužba s Covid-19,srednje trajanje
+2021-06-08,Osrednjeslovenska,VRTEC,Sum na okužbo,srednje trajanje
+2021-06-09,Podravska,VRTEC,Sum na okužbo,srednje trajanje
+2021-06-09,Savinjska,OSTALO,Okužba s Covid-19,srednje trajanje
+2021-06-09,Obalno-kraška,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-09,Posavska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-09,Osrednjeslovenska,OSNOVNA ŠOLA,Sum na okužbo,kratko trajanje
+2021-06-09,Goriška,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-09,Osrednjeslovenska,SREDNJA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-09,Podravska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-09,Gorenjska,GLASBENA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-09,Osrednjeslovenska,OSTALO,Okužba s Covid-19,srednje trajanje
+2021-06-09,Savinjska,GLASBENA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-09,Podravska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-09,Savinjska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-09,Gorenjska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-09,Savinjska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-09,Podravska,SREDNJA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-09,Podravska,SREDNJA ŠOLA,Okužba s Covid-19,kratko trajanje
+2021-06-09,Osrednjeslovenska,SREDNJA ŠOLA,Okužba s Covid-19,kratko trajanje
+2021-06-09,Osrednjeslovenska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-09,Goriška,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-09,Jugovzhodna Slovenija,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-10,Podravska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-10,Osrednjeslovenska,SREDNJA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-10,Obalno-kraška,SREDNJA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-10,Osrednjeslovenska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-10,Osrednjeslovenska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-10,Gorenjska,SREDNJA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-10,Obalno-kraška,SREDNJA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-10,Savinjska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-10,Podravska,SREDNJA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-10,Osrednjeslovenska,SREDNJA ŠOLA,Sum na okužbo,dolgo trajanje
+2021-06-10,Pomurska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-10,Podravska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-10,Savinjska,OSNOVNA ŠOLA,Sum na okužbo,kratko trajanje
+2021-06-10,Podravska,VRTEC,Sum na okužbo,srednje trajanje
+2021-06-11,Osrednjeslovenska,SREDNJA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-11,Gorenjska,SREDNJA ŠOLA,Sum na okužbo,kratko trajanje
+2021-06-11,Osrednjeslovenska,OSNOVNA ŠOLA,Sum na okužbo,kratko trajanje
+2021-06-11,Goriška,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-11,Gorenjska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-11,Osrednjeslovenska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-11,Osrednjeslovenska,SREDNJA ŠOLA,Sum na okužbo,srednje trajanje
+2021-06-11,Podravska,GLASBENA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-11,Podravska,OSNOVNA ŠOLA,Sum na okužbo,kratko trajanje
+2021-06-11,Pomurska,SREDNJA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-11,Osrednjeslovenska,SREDNJA ŠOLA,Sum na okužbo,kratko trajanje
+2021-06-11,Podravska,SREDNJA ŠOLA,Okužba s Covid-19,srednje trajanje
+2021-06-13,Jugovzhodna Slovenija,OSNOVNA ŠOLA,Okužba s Covid-19,kratko trajanje

@@ -1,3 +1,27 @@
 Sequence,Support,Relative Frequency
-{srednje},3,1.0
-{Okužba s Covid-19},3,1.0
+{Drugi strokovni delavec},2,0.5
+{srednje trajanje},4,1.0
+{Savinjska},2,0.5
+{Okužba s Covid-19},4,1.0
+"{srednje trajanje}, {Drugi strokovni delavec}",2,0.5
+"{Savinjska}, {srednje trajanje}",2,0.5
+"{Drugi strokovni delavec}, {Okužba s Covid-19}",2,0.5
+"{Drugi strokovni delavec}, {srednje trajanje}",2,0.5
+"{Okužba s Covid-19}, {Savinjska}",2,0.5
+"{srednje trajanje}, {Savinjska}",2,0.5
+"{Okužba s Covid-19}, {srednje trajanje}",4,1.0
+"{Okužba s Covid-19}, {Drugi strokovni delavec}",2,0.5
+"{srednje trajanje}, {Okužba s Covid-19}",4,1.0
+"{Savinjska}, {Okužba s Covid-19}",2,0.5
+"{srednje trajanje}, {Okužba s Covid-19}, {Drugi strokovni delavec}",2,0.5
+"{Drugi strokovni delavec}, {srednje trajanje}, {Okužba s Covid-19}",2,0.5
+"{Savinjska}, {Okužba s Covid-19}, {srednje trajanje}",2,0.5
+"{Okužba s Covid-19}, {Savinjska}, {srednje trajanje}",2,0.5
+"{Savinjska}, {srednje trajanje}, {Okužba s Covid-19}",2,0.5
+"{Drugi strokovni delavec}, {Okužba s Covid-19}, {srednje trajanje}",2,0.5
+"{srednje trajanje}, {Drugi strokovni delavec}, {Okužba s Covid-19}",2,0.5
+"{srednje trajanje}, {Okužba s Covid-19}, {Savinjska}",2,0.5
+"{Okužba s Covid-19}, {srednje trajanje}, {Savinjska}",2,0.5
+"{Okužba s Covid-19}, {Drugi strokovni delavec}, {srednje trajanje}",2,0.5
+"{Okužba s Covid-19}, {srednje trajanje}, {Drugi strokovni delavec}",2,0.5
+"{srednje trajanje}, {Savinjska}, {Okužba s Covid-19}",2,0.5

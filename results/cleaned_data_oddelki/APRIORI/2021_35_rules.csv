@@ -1,1 +1,16 @@
 Rule,Confidence
+{OSNOVNA ŠOLA} => {Okužba pri otroku / učencu / dijaku},0.782608695652174
+{Okužba pri otroku / učencu / dijaku} => {OSNOVNA ŠOLA},0.5625
+{OSNOVNA ŠOLA} => {srednje trajanje},0.782608695652174
+{Okužba pri otroku / učencu / dijaku} => {srednje trajanje},0.84375
+{srednje trajanje} => {Okužba pri otroku / učencu / dijaku},0.675
+{veliko} => {Okužba pri otroku / učencu / dijaku},0.7894736842105263
+{veliko} => {srednje trajanje},0.7894736842105263
+{Osrednjeslovenska} => {srednje trajanje},0.8421052631578947
+"{OSNOVNA ŠOLA} => {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",0.6521739130434783
+"{srednje trajanje}, {OSNOVNA ŠOLA} => {Okužba pri otroku / učencu / dijaku}",0.8333333333333334
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku} => {OSNOVNA ŠOLA}",0.5555555555555556
+"{OSNOVNA ŠOLA}, {Okužba pri otroku / učencu / dijaku} => {srednje trajanje}",0.8333333333333334
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje} => {OSNOVNA ŠOLA}",0.5555555555555556
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA} => {srednje trajanje}",0.8333333333333334
+"{OSNOVNA ŠOLA}, {srednje trajanje} => {Okužba pri otroku / učencu / dijaku}",0.8333333333333334

@@ -1,6 +1,7 @@
 from algorithms.gsp import GeneralizedSequentialPatternMining
 from algorithms.apriori import Apriori
 from data_process.data_csv_save import rule_to_string
+from data_process.process_algorithms import sequences_to_transactions
 
 
 def process_GSP(data, min_support, min_confidence):
@@ -34,13 +35,30 @@ def print_results(frequent_items, rules):
         print(f"Rule: {r}, Confidence: {conf}")
 
 
+"""
 # test GSP algoritma po viru: https://simpledatamining.blogspot.com/2015/03/generalized-sequential-pattern-gsp.html
 sequences = [
-    [('a'), ('b'), ('f', 'g'), ('c'), ('d')],
-    [('b'), ('g'), ('d')],
-    [('b'), ('f'), ('g'), ('a', 'b')],
-    [('f'), ('a', 'b'), ('c'), ('d')],
-    [('a'), ('b', 'c'), ('g'), ('f'), ('d', 'e')]
+    [("2022-01-01", ('a')),
+     ("2022-01-01", ('b')),
+     ("2022-01-01", ('f', 'g'),),
+     ("2022-01-01", ('c')),
+     ("2022-01-01", ('d'))],
+    [("2022-01-02", ('b')),
+     ("2022-01-02", ('g')),
+     ("2022-01-02", ('d'))],
+    [("2022-01-03", ('b')),
+     ("2022-01-03", ('f')),
+     ("2022-01-03", ('g')),
+     ("2022-01-03", ('a', 'b'))],
+    [("2022-01-04", ('f')),
+     ("2022-01-04", ('a', 'b')),
+     ("2022-01-04", ('c')),
+     ("2022-01-04", ('d'))],
+    [("2022-01-05", ('a')),
+     ("2022-01-05", ('b', 'c')),
+     ("2022-01-05", ('g')),
+     ("2022-01-05", ('f')),
+     ("2022-01-05", ('d', 'e'))]
 ]
 GSP_frequent_sequences, GSP_rules = process_GSP(sequences, 0.25, 0.5)
 print_results(GSP_frequent_sequences, GSP_rules)
@@ -81,3 +99,36 @@ transactions_a = [
 ]
 apriori_frequent_sequences_a, apriori_rules_a = process_Apriori(transactions_a, 0.2, 0.5)
 print_results(apriori_frequent_sequences_a, apriori_rules_a)
+"""
+"""
+sequences_b = [
+    [("2022-01-01", ("Mleko", "Kruh", "Jajca"))],
+    [("2022-01-02", ("Mleko", "Jabolka", "Banana", "Pomaranča"))],
+    [("2022-01-01", ("Mleko", "Kruh", "Maslo", "Jabolka"))],
+    [("2022-01-02", ("Jabolka", "Banana", "Mleko"))],
+    [("2022-01-01", ("Kruh", "Mleko", "Jajca"))],
+    [("2022-01-01", ("Mleko", "Jabolka", "Banana", "Kruh"))],
+    [("2022-01-01", ("Kruh", "Maslo"))],
+    [("2022-01-02", ("Kruh", "Jabolka"))],
+    [("2022-01-02", ("Mleko", "Kruh", "Pomaranča"))],
+    [("2022-01-02", ("Jabolka", "Kruh", "Banana"))]
+]"""
+
+sequences_b = [
+    [("2022-01-01", ("Mleko", "Kruh", "Jajca")),
+     ("2022-01-01", ("Mleko", "Kruh", "Maslo", "Jabolka")),
+     ("2022-01-01", ("Kruh", "Mleko", "Jajca"))],
+    [("2022-01-02", ("Mleko", "Jabolka", "Banana", "Kruh")),
+     ("2022-01-02", ("Kruh", "Maslo"))],
+    [("2022-01-03", ("Mleko", "Jabolka", "Banana", "Pomaranča")),
+     ("2022-01-03", ("Jabolka", "Banana", "Mleko")),
+     ("2022-01-03", ("Kruh", "Jabolka"))],
+    [("2022-01-04", ("Mleko", "Kruh", "Pomaranča")),
+     ("2022-01-04", ("Jabolka", "Kruh", "Banana"))]
+]
+
+apriori_frequent_sequences_b, apriori_rules_b = process_Apriori(sequences_to_transactions(sequences_b), 0.5, 0.5)
+print_results(apriori_frequent_sequences_b, apriori_rules_b)
+GSP_frequent_sequences_b, GSP_rules_b = process_GSP(sequences_b, 0.5, 0.5)
+print_results(GSP_frequent_sequences_b, GSP_rules_b)
+

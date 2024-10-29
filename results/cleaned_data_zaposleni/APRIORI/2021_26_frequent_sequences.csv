@@ -1,3 +1,38 @@
 Sequence,Support,Relative Frequency
-{srednje},3,1.0
-{Okužba s Covid-19},3,1.0
+{Učitelj},2,0.4
+{srednje trajanje},5,1.0
+{Drugi delavci},2,0.4
+{Jugovzhodna Slovenija},3,0.6
+{Okužba s Covid-19},4,0.8
+"{Jugovzhodna Slovenija}, {Učitelj}",2,0.4
+"{srednje trajanje}, {Učitelj}",2,0.4
+"{Učitelj}, {srednje trajanje}",2,0.4
+"{Jugovzhodna Slovenija}, {srednje trajanje}",3,0.6
+"{Okužba s Covid-19}, {Drugi delavci}",2,0.4
+"{Drugi delavci}, {Okužba s Covid-19}",2,0.4
+"{Drugi delavci}, {srednje trajanje}",2,0.4
+"{Okužba s Covid-19}, {Jugovzhodna Slovenija}",2,0.4
+"{srednje trajanje}, {Jugovzhodna Slovenija}",3,0.6
+"{Učitelj}, {Jugovzhodna Slovenija}",2,0.4
+"{Okužba s Covid-19}, {srednje trajanje}",4,0.8
+"{srednje trajanje}, {Drugi delavci}",2,0.4
+"{Jugovzhodna Slovenija}, {Okužba s Covid-19}",2,0.4
+"{srednje trajanje}, {Okužba s Covid-19}",4,0.8
+"{Jugovzhodna Slovenija}, {srednje trajanje}, {Učitelj}",2,0.4
+"{Učitelj}, {srednje trajanje}, {Jugovzhodna Slovenija}",2,0.4
+"{Okužba s Covid-19}, {Jugovzhodna Slovenija}, {srednje trajanje}",2,0.4
+"{Drugi delavci}, {Okužba s Covid-19}, {srednje trajanje}",2,0.4
+"{Drugi delavci}, {srednje trajanje}, {Okužba s Covid-19}",2,0.4
+"{Jugovzhodna Slovenija}, {Okužba s Covid-19}, {srednje trajanje}",2,0.4
+"{srednje trajanje}, {Okužba s Covid-19}, {Jugovzhodna Slovenija}",2,0.4
+"{Jugovzhodna Slovenija}, {Učitelj}, {srednje trajanje}",2,0.4
+"{Učitelj}, {Jugovzhodna Slovenija}, {srednje trajanje}",2,0.4
+"{Okužba s Covid-19}, {srednje trajanje}, {Drugi delavci}",2,0.4
+"{Okužba s Covid-19}, {srednje trajanje}, {Jugovzhodna Slovenija}",2,0.4
+"{Okužba s Covid-19}, {Drugi delavci}, {srednje trajanje}",2,0.4
+"{srednje trajanje}, {Okužba s Covid-19}, {Drugi delavci}",2,0.4
+"{srednje trajanje}, {Učitelj}, {Jugovzhodna Slovenija}",2,0.4
+"{srednje trajanje}, {Jugovzhodna Slovenija}, {Okužba s Covid-19}",2,0.4
+"{srednje trajanje}, {Drugi delavci}, {Okužba s Covid-19}",2,0.4
+"{srednje trajanje}, {Jugovzhodna Slovenija}, {Učitelj}",2,0.4
+"{Jugovzhodna Slovenija}, {srednje trajanje}, {Okužba s Covid-19}",2,0.4

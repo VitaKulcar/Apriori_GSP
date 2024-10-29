@@ -1,3 +1,7 @@
 Rule,Confidence
-{malo} => {srednje},0.9090909090909091
-{srednje} => {malo},0.9090909090909091
+{srednje trajanje} => {VRTEC},0.6341463414634146
+{VRTEC} => {srednje trajanje},0.8125
+{srednje trajanje} => {zelo malo},0.6585365853658537
+{zelo malo} => {srednje trajanje},0.7105263157894737
+{zelo malo} => {VRTEC},0.5526315789473685
+{VRTEC} => {zelo malo},0.65625

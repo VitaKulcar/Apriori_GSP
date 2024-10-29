@@ -1,8 +1,10 @@
-REGIJA,OBDOBJE,VZROK,TRAJANJE
-Podravska,VRTEC,Sum na okužbo,srednje
-Osrednjeslovenska,VRTEC,Sum na okužbo,srednje
-Goriška,VRTEC,Sum na okužbo,srednje
-Goriška,VRTEC,Okužba s Covid-19,srednje
-Osrednjeslovenska,VRTEC,Okužba s Covid-19,srednje
-Zasavska,VRTEC,Sum na okužbo,srednje
-Gorenjska,VRTEC,Sum na okužbo,srednje
+VNOS,REGIJA,OBDOBJE,VZROK,TRAJANJE
+2020-12-28,Podravska,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-28,Osrednjeslovenska,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-28,Goriška,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-28,Goriška,VRTEC,Okužba s Covid-19,srednje trajanje
+2020-12-28,Osrednjeslovenska,VRTEC,Okužba s Covid-19,srednje trajanje
+2020-12-28,Zasavska,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-29,Podravska,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-30,Osrednjeslovenska,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-30,Gorenjska,VRTEC,Sum na okužbo,srednje trajanje

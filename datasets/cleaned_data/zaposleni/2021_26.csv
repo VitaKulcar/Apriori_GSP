@@ -1,6 +1,6 @@
-REGIJA,DELOVNO_MESTO,VZROK,TRAJANJE
-Jugovzhodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje
-Jugovzhodna Slovenija,Učitelj,Sum na okužbo,srednje
-Posavska,Drugi delavci,Okužba s Covid-19,srednje
-Obalno-kraška,Vzgojitelj,Okužba s Covid-19,srednje
-Jugovzhodna Slovenija,Učitelj,Okužba s Covid-19,srednje
+VNOS,REGIJA,DELOVNO_MESTO,VZROK,TRAJANJE
+2021-06-29,Jugovzhodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-07-01,Jugovzhodna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2021-07-01,Posavska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-07-02,Obalno-kraška,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-07-02,Jugovzhodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje

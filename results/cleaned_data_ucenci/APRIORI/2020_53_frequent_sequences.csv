@@ -1,4 +1,27 @@
 Sequence,Support,Relative Frequency
-{srednje},5,1.0
-{VRTEC},5,1.0
-{Sum na okužbo},5,1.0
+{Sum na okužbo},7,0.7777777777777778
+{VRTEC},9,1.0
+{srednje trajanje},9,1.0
+{Osrednjeslovenska},3,0.3333333333333333
+"{srednje trajanje}, {VRTEC}",9,1.0
+"{srednje trajanje}, {Sum na okužbo}",7,0.7777777777777778
+"{VRTEC}, {srednje trajanje}",9,1.0
+"{VRTEC}, {Sum na okužbo}",7,0.7777777777777778
+"{Sum na okužbo}, {srednje trajanje}",7,0.7777777777777778
+"{Sum na okužbo}, {VRTEC}",7,0.7777777777777778
+"{srednje trajanje}, {Osrednjeslovenska}",3,0.3333333333333333
+"{Osrednjeslovenska}, {srednje trajanje}",3,0.3333333333333333
+"{Osrednjeslovenska}, {VRTEC}",3,0.3333333333333333
+"{VRTEC}, {Osrednjeslovenska}",3,0.3333333333333333
+"{VRTEC}, {Osrednjeslovenska}, {srednje trajanje}",3,0.3333333333333333
+"{srednje trajanje}, {VRTEC}, {Sum na okužbo}",7,0.7777777777777778
+"{Osrednjeslovenska}, {srednje trajanje}, {VRTEC}",3,0.3333333333333333
+"{Osrednjeslovenska}, {VRTEC}, {srednje trajanje}",3,0.3333333333333333
+"{srednje trajanje}, {Sum na okužbo}, {VRTEC}",7,0.7777777777777778
+"{VRTEC}, {srednje trajanje}, {Sum na okužbo}",7,0.7777777777777778
+"{srednje trajanje}, {Osrednjeslovenska}, {VRTEC}",3,0.3333333333333333
+"{Sum na okužbo}, {VRTEC}, {srednje trajanje}",7,0.7777777777777778
+"{srednje trajanje}, {VRTEC}, {Osrednjeslovenska}",3,0.3333333333333333
+"{VRTEC}, {Sum na okužbo}, {srednje trajanje}",7,0.7777777777777778
+"{Sum na okužbo}, {srednje trajanje}, {VRTEC}",7,0.7777777777777778
+"{VRTEC}, {srednje trajanje}, {Osrednjeslovenska}",3,0.3333333333333333

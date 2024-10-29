@@ -1,6 +1,1 @@
 Rule,Confidence
-{malo} => {srednje},0.9090909090909091
-{srednje} => {malo},0.8181818181818182
-{malo} => {malo},1.0
-"{malo} => {malo, srednje}",0.9090909090909091
-"{malo, srednje} => {malo}",0.8181818181818182

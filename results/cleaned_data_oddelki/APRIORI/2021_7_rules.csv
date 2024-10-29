@@ -1,9 +1,4 @@
 Rule,Confidence
-{OSNOVNA ŠOLA} => {srednje},1.0
-{srednje} => {OSNOVNA ŠOLA},0.9
-{OSNOVNA ŠOLA} => {VRTEC},1.0
-{VRTEC} => {OSNOVNA ŠOLA},0.9
-{Okužba s Covid-19 pri vzgojitelju} => {malo},0.8888888888888888
-{malo} => {Okužba s Covid-19 pri vzgojitelju},0.8888888888888888
-{VRTEC} => {malo},0.8
-{malo} => {VRTEC},0.8888888888888888
+{srednje trajanje} => {VRTEC},0.5529411764705883
+{VRTEC} => {srednje trajanje},0.8867924528301887
+{Okužba pri otroku / učencu / dijaku} => {srednje trajanje},0.6842105263157895

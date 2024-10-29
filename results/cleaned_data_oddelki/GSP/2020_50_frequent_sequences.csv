@@ -1,11 +1,21 @@
 Sequence,Support,Relative Frequency
-{srednje},6,0.75
-{Okužba pri delavcu},6,0.75
-{VRTEC},7,0.875
-{malo},8,1.0
-"{VRTEC, malo}",7,0.875
-"{malo}, {malo}",6,0.75
-"{Okužba pri delavcu, malo}",6,0.75
-"{malo, srednje}",6,0.75
-"{VRTEC, srednje}",6,0.75
-"{VRTEC, malo, srednje}",6,0.75
+{Okužba s Covid-19 pri vzgojitelju},5,1.0
+{Osrednja Slovenija},5,1.0
+{srednje trajanje},5,1.0
+{VRTEC},5,1.0
+{zelo malo},5,1.0
+"{VRTEC, srednje trajanje}",5,1.0
+"{srednje trajanje, zelo malo}",5,1.0
+"{VRTEC, zelo malo}",5,1.0
+"{VRTEC}, {VRTEC}",5,1.0
+"{Okužba s Covid-19 pri vzgojitelju, Osrednja Slovenija}",5,1.0
+"{srednje trajanje}, {VRTEC}",5,1.0
+"{zelo malo}, {VRTEC}",5,1.0
+"{Okužba s Covid-19 pri vzgojitelju, VRTEC}",5,1.0
+"{Osrednja Slovenija, VRTEC}",5,1.0
+"{VRTEC, srednje trajanje, zelo malo}",5,1.0
+"{VRTEC, srednje trajanje}, {VRTEC}",5,1.0
+"{Okužba s Covid-19 pri vzgojitelju, Osrednja Slovenija, VRTEC}",5,1.0
+"{VRTEC, zelo malo}, {VRTEC}",5,1.0
+"{srednje trajanje, zelo malo}, {VRTEC}",5,1.0
+"{VRTEC, srednje trajanje, zelo malo}, {VRTEC}",5,1.0

@@ -1,6 +1,6 @@
 Sequence,Support,Relative Frequency
-{srednje},8,0.8888888888888888
-{malo},7,0.7777777777777778
-{VRTEC},9,1.0
-"{VRTEC, malo}",7,0.7777777777777778
-"{VRTEC, srednje}",8,0.8888888888888888
+{VRTEC},7,1.0
+{Okužba s Covid-19 pri vzgojitelju},7,1.0
+{srednje trajanje},7,1.0
+"{VRTEC, srednje trajanje}",7,1.0
+"{Okužba s Covid-19 pri vzgojitelju, VRTEC}",7,1.0

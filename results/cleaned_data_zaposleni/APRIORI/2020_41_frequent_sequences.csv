@@ -1,30 +1,10 @@
 Sequence,Support,Relative Frequency
-{kratko},11,0.9166666666666666
-{Učitelj},12,1.0
-{Drugi delavci},11,0.9166666666666666
-{Okužba s Covid-19},12,1.0
-{Sum na okužbo},12,1.0
-{dolgo},9,0.75
-{srednje},12,1.0
-{Drugi strokovni delavec},9,0.75
-{Vzgojitelj},9,0.75
-"{Sum na okužbo}, {Učitelj}",11,0.9166666666666666
-"{kratko}, {srednje}",10,0.8333333333333334
-"{Vzgojitelj}, {srednje}",9,0.75
-"{Okužba s Covid-19}, {Učitelj}",9,0.75
-"{Sum na okužbo}, {dolgo}",9,0.75
-"{Učitelj}, {Vzgojitelj}",9,0.75
-"{Sum na okužbo}, {srednje}",10,0.8333333333333334
-"{Učitelj}, {kratko}",9,0.75
-"{Drugi strokovni delavec}, {srednje}",9,0.75
-"{Okužba s Covid-19}, {Sum na okužbo}",9,0.75
-"{Okužba s Covid-19}, {srednje}",10,0.8333333333333334
-"{Drugi delavci}, {Okužba s Covid-19}",10,0.8333333333333334
-"{Sum na okužbo}, {Vzgojitelj}",9,0.75
-"{Drugi delavci}, {srednje}",10,0.8333333333333334
-"{Sum na okužbo}, {kratko}",9,0.75
-"{Učitelj}, {dolgo}",9,0.75
-"{Učitelj}, {srednje}",11,0.9166666666666666
-"{Sum na okužbo}, {Vzgojitelj}, {srednje}",9,0.75
-"{Sum na okužbo}, {Učitelj}, {srednje}",10,0.8333333333333334
-"{Učitelj}, {Vzgojitelj}, {srednje}",9,0.75
+{kratko trajanje},66,0.3113207547169811
+{Učitelj},108,0.5094339622641509
+{srednje trajanje},131,0.6179245283018868
+{Sum na okužbo},145,0.6839622641509434
+{Okužba s Covid-19},67,0.3160377358490566
+"{srednje trajanje}, {Sum na okužbo}",83,0.3915094339622642
+"{Učitelj}, {Sum na okužbo}",74,0.3490566037735849
+"{Sum na okužbo}, {Učitelj}",74,0.3490566037735849
+"{Sum na okužbo}, {srednje trajanje}",83,0.3915094339622642

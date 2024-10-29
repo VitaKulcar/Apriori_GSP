@@ -1,125 +1,294 @@
-REGIJA,DELOVNO_MESTO,VZROK,TRAJANJE
-Obalno-kraška,Učitelj,Sum na okužbo,srednje
-Podravska,Učitelj,Okužba s Covid-19,srednje
-Podravska,Drugi strokovni delavec,Sum na okužbo,srednje
-Posavska,Drugi strokovni delavec,Okužba s Covid-19,srednje
-Savinjska,Učitelj,Okužba s Covid-19,srednje
-Podravska,Drugi delavci,Okužba s Covid-19,srednje
-Jugovzhodna Slovenija,Vzgojitelj,Sum na okužbo,srednje
-Jugovzhodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje
-Podravska,Drugi strokovni delavec,Okužba s Covid-19,srednje
-Goriška,Drugi delavci,Okužba s Covid-19,srednje
-Zasavska,Učitelj,Okužba s Covid-19,srednje
-Primorsko-notranjska,Učitelj,Okužba s Covid-19,kratko
-Goriška,Učitelj,Sum na okužbo,srednje
-Savinjska,Drugi delavci,Sum na okužbo,srednje
-Obalno-kraška,Učitelj,Okužba s Covid-19,srednje
-Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,srednje
-Osrednjeslovenska,Učitelj,Okužba s Covid-19,srednje
-Osrednjeslovenska,Drugi delavci,Sum na okužbo,kratko
-Osrednjeslovenska,Učitelj,Sum na okužbo,kratko
-Gorenjska,Vzgojitelj,Okužba s Covid-19,kratko
-Goriška,Drugi strokovni delavec,Okužba s Covid-19,srednje
-Primorsko-notranjska,Učitelj,Sum na okužbo,kratko
-Osrednjeslovenska,Vzgojitelj,Sum na okužbo,srednje
-Gorenjska,Učitelj,Okužba s Covid-19,srednje
-Posavska,Učitelj,Sum na okužbo,kratko
-Podravska,Drugi delavci,Sum na okužbo,srednje
-Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,srednje
-Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,srednje
-Jugovzhodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje
-Savinjska,Učitelj,Okužba s Covid-19,kratko
-Goriška,Učitelj,Sum na okužbo,kratko
-Pomurska,Drugi delavci,Sum na okužbo,srednje
-Goriška,Učitelj,Okužba s Covid-19,srednje
-Jugovzhodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje
-Podravska,Vzgojitelj,Okužba s Covid-19,srednje
-Podravska,Učitelj,Sum na okužbo,kratko
-Obalno-kraška,Učitelj,Sum na okužbo,kratko
-Jugovzhodna Slovenija,Učitelj,Okužba s Covid-19,srednje
-Pomurska,Učitelj,Okužba s Covid-19,srednje
-Savinjska,Učitelj,Sum na okužbo,srednje
-Savinjska,Drugi delavci,Okužba s Covid-19,srednje
-Pomurska,Drugi strokovni delavec,Sum na okužbo,srednje
-Pomurska,Drugi strokovni delavec,Okužba s Covid-19,srednje
-Zasavska,Drugi strokovni delavec,Okužba s Covid-19,srednje
-Podravska,Učitelj,Sum na okužbo,srednje
-Obalno-kraška,Vzgojitelj,Okužba s Covid-19,srednje
-Jugovzhodna Slovenija,Učitelj,Sum na okužbo,kratko
-Pomurska,Učitelj,Sum na okužbo,srednje
-Goriška,Vzgojitelj,Okužba s Covid-19,srednje
-Pomurska,Vzgojitelj,Okužba s Covid-19,srednje
-Koroška,Učitelj,Okužba s Covid-19,srednje
-Koroška,Učitelj,Sum na okužbo,srednje
-Obalno-kraška,Vzgojitelj,Sum na okužbo,srednje
-Zasavska,Drugi delavci,Okužba s Covid-19,srednje
-Gorenjska,Vzgojitelj,Okužba s Covid-19,srednje
-Savinjska,Drugi strokovni delavec,Okužba s Covid-19,srednje
-Osrednjeslovenska,Učitelj,Okužba s Covid-19,kratko
-Obalno-kraška,Drugi strokovni delavec,Okužba s Covid-19,srednje
-Podravska,Učitelj,Okužba s Covid-19,kratko
-Goriška,Drugi strokovni delavec,Sum na okužbo,srednje
-Savinjska,Vzgojitelj,Sum na okužbo,kratko
-Savinjska,Učitelj,Sum na okužbo,kratko
-Jugovzhodna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje
-Pomurska,Drugi delavci,Okužba s Covid-19,srednje
-Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,srednje
-Pomurska,Drugi strokovni delavec,Sum na okužbo,kratko
-Zasavska,Drugi strokovni delavec,Sum na okužbo,kratko
-Osrednjeslovenska,Drugi delavci,Sum na okužbo,srednje
-Pomurska,Vzgojitelj,Sum na okužbo,srednje
-Osrednjeslovenska,Učitelj,Sum na okužbo,srednje
-Zasavska,Vzgojitelj,Okužba s Covid-19,srednje
-Primorsko-notranjska,Vzgojitelj,Sum na okužbo,srednje
-Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,kratko
-Zasavska,Drugi strokovni delavec,Sum na okužbo,srednje
-Obalno-kraška,Učitelj,Sum na okužbo,dolgo
-Obalno-kraška,Drugi delavci,Sum na okužbo,srednje
-Zasavska,Vzgojitelj,Sum na okužbo,srednje
-Savinjska,Vzgojitelj,Okužba s Covid-19,srednje
-Posavska,Učitelj,Okužba s Covid-19,srednje
-Jugovzhodna Slovenija,Učitelj,Sum na okužbo,srednje
-Obalno-kraška,Drugi delavci,Okužba s Covid-19,srednje
-Podravska,Vzgojitelj,Sum na okužbo,srednje
-Osrednjeslovenska,Učitelj,Okužba s Covid-19,dolgo
-Gorenjska,Drugi delavci,Okužba s Covid-19,srednje
-Jugovzhodna Slovenija,Učitelj,Okužba s Covid-19,kratko
-Gorenjska,Drugi strokovni delavec,Okužba s Covid-19,srednje
-Koroška,Učitelj,Sum na okužbo,kratko
-Obalno-kraška,Učitelj,Okužba s Covid-19,dolgo
-Posavska,Učitelj,Sum na okužbo,srednje
-Gorenjska,Drugi strokovni delavec,Sum na okužbo,kratko
-Jugovzhodna Slovenija,Drugi delavci,Sum na okužbo,srednje
-Goriška,Drugi delavci,Sum na okužbo,srednje
-Jugovzhodna Slovenija,Vzgojitelj,Okužba s Covid-19,kratko
-Obalno-kraška,Drugi strokovni delavec,Sum na okužbo,kratko
-Koroška,Drugi delavci,Sum na okužbo,kratko
-Obalno-kraška,Drugi delavci,Okužba s Covid-19,kratko
-Koroška,Drugi delavci,Okužba s Covid-19,srednje
-Koroška,Vzgojitelj,Okužba s Covid-19,srednje
-Jugovzhodna Slovenija,Predavatelj,Sum na okužbo,srednje
-Savinjska,Vzgojitelj,Sum na okužbo,srednje
-Gorenjska,Vzgojitelj,Sum na okužbo,srednje
-Gorenjska,Učitelj,Sum na okužbo,kratko
-Goriška,Vzgojitelj,Sum na okužbo,srednje
-Goriška,Drugi delavci,Sum na okužbo,kratko
-Podravska,Drugi strokovni delavec,Okužba s Covid-19,dolgo
-Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,kratko
-Zasavska,Učitelj,Sum na okužbo,srednje
-Jugovzhodna Slovenija,Drugi delavci,Sum na okužbo,kratko
-Gorenjska,Učitelj,Sum na okužbo,srednje
-Primorsko-notranjska,Učitelj,Sum na okužbo,srednje
-Pomurska,Drugi delavci,Okužba s Covid-19,dolgo
-Posavska,Vzgojitelj,Sum na okužbo,srednje
-Jugovzhodna Slovenija,Učitelj,Okužba s Covid-19,dolgo
-Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,dolgo
-Koroška,Drugi delavci,Okužba s Covid-19,dolgo
-Osrednjeslovenska,Vzgojitelj,Sum na okužbo,kratko
-Koroška,Učitelj,Okužba s Covid-19,dolgo
-Posavska,Drugi delavci,Okužba s Covid-19,srednje
-Goriška,Učitelj,Okužba s Covid-19,dolgo
-Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,kratko
-Pomurska,Učitelj,Sum na okužbo,kratko
-Gorenjska,Drugi delavci,Sum na okužbo,srednje
-Zasavska,Drugi delavci,Okužba s Covid-19,dolgo
-Zasavska,Učitelj,Okužba s Covid-19,kratko
+VNOS,REGIJA,DELOVNO_MESTO,VZROK,TRAJANJE
+2021-03-15,Obalno-kraška,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-15,Podravska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-15,Podravska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2021-03-15,Posavska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-15,Savinjska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-15,Podravska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-15,Jugovzhodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-15,Jugovzhodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-15,Podravska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-15,Goriška,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-15,Zasavska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-15,Primorsko-notranjska,Učitelj,Okužba s Covid-19,kratko trajanje
+2021-03-15,Goriška,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-15,Savinjska,Drugi delavci,Sum na okužbo,srednje trajanje
+2021-03-15,Obalno-kraška,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-15,Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-15,Osrednjeslovenska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-15,Osrednjeslovenska,Drugi delavci,Sum na okužbo,kratko trajanje
+2021-03-15,Osrednjeslovenska,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-15,Gorenjska,Vzgojitelj,Okužba s Covid-19,kratko trajanje
+2021-03-15,Goriška,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-15,Primorsko-notranjska,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-15,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-15,Gorenjska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-15,Posavska,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-15,Podravska,Drugi delavci,Sum na okužbo,srednje trajanje
+2021-03-15,Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-15,Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-15,Jugovzhodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-15,Savinjska,Učitelj,Okužba s Covid-19,kratko trajanje
+2021-03-15,Goriška,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-15,Pomurska,Drugi delavci,Sum na okužbo,srednje trajanje
+2021-03-16,Goriška,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-16,Osrednjeslovenska,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-16,Jugovzhodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-16,Podravska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-16,Podravska,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-16,Obalno-kraška,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-16,Osrednjeslovenska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-16,Jugovzhodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-16,Jugovzhodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-16,Pomurska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-16,Savinjska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-16,Savinjska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-16,Savinjska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-16,Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-16,Podravska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-16,Pomurska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2021-03-16,Podravska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-16,Pomurska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-16,Zasavska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-16,Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-16,Podravska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-16,Obalno-kraška,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-16,Obalno-kraška,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-16,Jugovzhodna Slovenija,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-16,Pomurska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-16,Goriška,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-16,Pomurska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-16,Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-16,Podravska,Drugi delavci,Sum na okužbo,srednje trajanje
+2021-03-16,Koroška,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-16,Savinjska,Drugi delavci,Sum na okužbo,srednje trajanje
+2021-03-16,Koroška,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-16,Obalno-kraška,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-16,Pomurska,Drugi delavci,Sum na okužbo,srednje trajanje
+2021-03-16,Zasavska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-16,Gorenjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-16,Posavska,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-16,Obalno-kraška,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-16,Savinjska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-16,Osrednjeslovenska,Učitelj,Okužba s Covid-19,kratko trajanje
+2021-03-16,Obalno-kraška,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-16,Primorsko-notranjska,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-16,Podravska,Učitelj,Okužba s Covid-19,kratko trajanje
+2021-03-16,Goriška,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2021-03-16,Savinjska,Vzgojitelj,Sum na okužbo,kratko trajanje
+2021-03-16,Savinjska,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-16,Gorenjska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-16,Jugovzhodna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2021-03-16,Pomurska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-16,Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2021-03-16,Pomurska,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
+2021-03-16,Zasavska,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
+2021-03-17,Savinjska,Drugi delavci,Sum na okužbo,srednje trajanje
+2021-03-17,Savinjska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-17,Savinjska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-17,Obalno-kraška,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-17,Osrednjeslovenska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-17,Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-17,Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-17,Osrednjeslovenska,Drugi delavci,Sum na okužbo,srednje trajanje
+2021-03-17,Zasavska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-17,Osrednjeslovenska,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-17,Goriška,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2021-03-17,Obalno-kraška,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-17,Goriška,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-17,Zasavska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-17,Pomurska,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-17,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-17,Osrednjeslovenska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-17,Podravska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-17,Gorenjska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-17,Zasavska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-17,Savinjska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-17,Primorsko-notranjska,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-17,Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,kratko trajanje
+2021-03-17,Zasavska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2021-03-17,Obalno-kraška,Učitelj,Sum na okužbo,dolgo trajanje
+2021-03-17,Podravska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-17,Obalno-kraška,Drugi delavci,Sum na okužbo,srednje trajanje
+2021-03-17,Pomurska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-17,Zasavska,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-17,Savinjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-17,Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2021-03-17,Pomurska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-17,Podravska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2021-03-17,Podravska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-17,Goriška,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-17,Savinjska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-17,Podravska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-17,Koroška,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-17,Posavska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-17,Jugovzhodna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-17,Obalno-kraška,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-17,Podravska,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-17,Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-17,Jugovzhodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-17,Osrednjeslovenska,Učitelj,Okužba s Covid-19,dolgo trajanje
+2021-03-17,Pomurska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-17,Gorenjska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-17,Goriška,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-17,Jugovzhodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-17,Jugovzhodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-17,Jugovzhodna Slovenija,Učitelj,Okužba s Covid-19,kratko trajanje
+2021-03-17,Podravska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-17,Gorenjska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-17,Obalno-kraška,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-17,Savinjska,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-17,Obalno-kraška,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-17,Jugovzhodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-17,Obalno-kraška,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-17,Jugovzhodna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2021-03-17,Koroška,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-18,Gorenjska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-18,Obalno-kraška,Učitelj,Okužba s Covid-19,dolgo trajanje
+2021-03-18,Podravska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-18,Savinjska,Drugi delavci,Sum na okužbo,srednje trajanje
+2021-03-18,Podravska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-18,Jugovzhodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-18,Osrednjeslovenska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-18,Savinjska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-18,Goriška,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-18,Osrednjeslovenska,Drugi delavci,Sum na okužbo,srednje trajanje
+2021-03-18,Posavska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-18,Goriška,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-18,Obalno-kraška,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-18,Obalno-kraška,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-18,Podravska,Učitelj,Okužba s Covid-19,kratko trajanje
+2021-03-18,Gorenjska,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
+2021-03-18,Obalno-kraška,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-18,Jugovzhodna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2021-03-18,Obalno-kraška,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-18,Goriška,Drugi delavci,Sum na okužbo,srednje trajanje
+2021-03-18,Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-18,Jugovzhodna Slovenija,Vzgojitelj,Okužba s Covid-19,kratko trajanje
+2021-03-18,Podravska,Drugi delavci,Sum na okužbo,srednje trajanje
+2021-03-18,Obalno-kraška,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
+2021-03-18,Goriška,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-18,Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-18,Savinjska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-18,Obalno-kraška,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-18,Savinjska,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-18,Podravska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-18,Koroška,Drugi delavci,Sum na okužbo,kratko trajanje
+2021-03-18,Obalno-kraška,Drugi delavci,Okužba s Covid-19,kratko trajanje
+2021-03-18,Obalno-kraška,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-18,Koroška,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-18,Podravska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-18,Koroška,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-19,Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-19,Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-19,Obalno-kraška,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-19,Osrednjeslovenska,Drugi delavci,Sum na okužbo,srednje trajanje
+2021-03-19,Goriška,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-19,Podravska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-19,Pomurska,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Pomurska,Drugi delavci,Sum na okužbo,srednje trajanje
+2021-03-19,Jugovzhodna Slovenija,Predavatelj,Sum na okužbo,srednje trajanje
+2021-03-19,Jugovzhodna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Osrednjeslovenska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-19,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Podravska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Savinjska,Vzgojitelj,Sum na okužbo,kratko trajanje
+2021-03-19,Savinjska,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Gorenjska,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Gorenjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-19,Pomurska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2021-03-19,Posavska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-19,Gorenjska,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-19,Savinjska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Goriška,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Gorenjska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-19,Koroška,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Podravska,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Savinjska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-19,Osrednjeslovenska,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-19,Savinjska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-19,Goriška,Drugi delavci,Sum na okužbo,kratko trajanje
+2021-03-19,Zasavska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2021-03-19,Savinjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-19,Gorenjska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-19,Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2021-03-19,Podravska,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
+2021-03-19,Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-19,Obalno-kraška,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-19,Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
+2021-03-19,Pomurska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Jugovzhodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-19,Goriška,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-19,Obalno-kraška,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
+2021-03-19,Zasavska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Obalno-kraška,Drugi delavci,Sum na okužbo,srednje trajanje
+2021-03-19,Jugovzhodna Slovenija,Drugi delavci,Sum na okužbo,kratko trajanje
+2021-03-19,Gorenjska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Primorsko-notranjska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Osrednjeslovenska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Primorsko-notranjska,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Pomurska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-19,Obalno-kraška,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-19,Pomurska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-19,Jugovzhodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Jugovzhodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-19,Savinjska,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-19,Podravska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-19,Pomurska,Drugi delavci,Okužba s Covid-19,dolgo trajanje
+2021-03-19,Posavska,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Jugovzhodna Slovenija,Učitelj,Okužba s Covid-19,dolgo trajanje
+2021-03-19,Koroška,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-19,Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
+2021-03-19,Koroška,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-19,Koroška,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-19,Osrednjeslovenska,Drugi delavci,Sum na okužbo,kratko trajanje
+2021-03-19,Koroška,Drugi delavci,Okužba s Covid-19,dolgo trajanje
+2021-03-19,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,kratko trajanje
+2021-03-19,Koroška,Učitelj,Okužba s Covid-19,dolgo trajanje
+2021-03-19,Posavska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-19,Podravska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-19,Obalno-kraška,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-19,Obalno-kraška,Učitelj,Okužba s Covid-19,dolgo trajanje
+2021-03-20,Goriška,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-20,Goriška,Učitelj,Okužba s Covid-19,dolgo trajanje
+2021-03-20,Osrednjeslovenska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-20,Goriška,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-20,Goriška,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-20,Jugovzhodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-20,Podravska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-20,Goriška,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2021-03-20,Osrednjeslovenska,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-20,Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,kratko trajanje
+2021-03-20,Jugovzhodna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2021-03-20,Savinjska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-20,Pomurska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-20,Pomurska,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-20,Podravska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-20,Jugovzhodna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-20,Savinjska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-20,Posavska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-20,Gorenjska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-20,Koroška,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-20,Pomurska,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-20,Obalno-kraška,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-20,Gorenjska,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-20,Pomurska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-21,Savinjska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-21,Osrednjeslovenska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-21,Jugovzhodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-21,Savinjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2021-03-21,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,kratko trajanje
+2021-03-21,Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-21,Koroška,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-21,Pomurska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-21,Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2021-03-21,Zasavska,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2021-03-21,Gorenjska,Drugi delavci,Sum na okužbo,srednje trajanje
+2021-03-21,Osrednjeslovenska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-21,Podravska,Učitelj,Sum na okužbo,srednje trajanje
+2021-03-21,Savinjska,Učitelj,Sum na okužbo,kratko trajanje
+2021-03-21,Jugovzhodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-21,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,srednje trajanje
+2021-03-21,Zasavska,Učitelj,Okužba s Covid-19,srednje trajanje
+2021-03-21,Zasavska,Drugi delavci,Okužba s Covid-19,dolgo trajanje
+2021-03-21,Zasavska,Učitelj,Okužba s Covid-19,kratko trajanje

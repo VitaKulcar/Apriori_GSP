@@ -1,23 +1,12 @@
 Sequence,Support,Relative Frequency
-{kratko},10,0.8333333333333334
-{VRTEC},9,0.75
-{SREDNJA ŠOLA},9,0.75
-{veliko},11,0.9166666666666666
-{srednje},12,1.0
-{Okužba s Covid-19 pri učencu ali več učencih oddelka},11,0.9166666666666666
-{Okužba s Covid-19 pri dijaku ali več dijakih oddelka},9,0.75
-{OSNOVNA ŠOLA},11,0.9166666666666666
-"{kratko}, {veliko}",10,0.8333333333333334
-"{kratko}, {srednje}",10,0.8333333333333334
-"{OSNOVNA ŠOLA}, {veliko}",11,0.9166666666666666
-"{OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
-"{srednje}, {veliko}",11,0.9166666666666666
-"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",10,0.8333333333333334
-"{SREDNJA ŠOLA}, {srednje}",9,0.75
-"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",11,0.9166666666666666
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",10,0.8333333333333334
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {veliko}",9,0.75
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",10,0.8333333333333334
-"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}, {veliko}",9,0.75
-"{kratko}, {srednje}, {veliko}",10,0.8333333333333334
-"{OSNOVNA ŠOLA}, {srednje}, {veliko}",10,0.8333333333333334
+{veliko},52,0.3270440251572327
+{srednje trajanje},118,0.7421383647798742
+{OSNOVNA ŠOLA},78,0.49056603773584906
+{Okužba pri otroku / učencu / dijaku},112,0.7044025157232704
+{srednje},58,0.36477987421383645
+"{OSNOVNA ŠOLA}, {Okužba pri otroku / učencu / dijaku}",59,0.3710691823899371
+"{OSNOVNA ŠOLA}, {srednje trajanje}",51,0.32075471698113206
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",86,0.5408805031446541
+"{srednje trajanje}, {OSNOVNA ŠOLA}",51,0.32075471698113206
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA}",59,0.3710691823899371
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",86,0.5408805031446541

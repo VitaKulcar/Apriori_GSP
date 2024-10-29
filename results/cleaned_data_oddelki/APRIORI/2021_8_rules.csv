@@ -1,13 +1,4 @@
 Rule,Confidence
-{malo} => {srednje},1.0
-{srednje} => {malo},0.75
-{VRTEC} => {srednje},0.8181818181818182
-{srednje} => {VRTEC},0.75
-{VRTEC} => {malo},0.8181818181818182
-{malo} => {VRTEC},1.0
-"{VRTEC} => {malo}, {srednje}",0.8181818181818182
-"{malo} => {VRTEC}, {srednje}",1.0
-"{srednje} => {VRTEC}, {malo}",0.75
-"{VRTEC}, {malo} => {srednje}",1.0
-"{VRTEC}, {srednje} => {malo}",1.0
-"{malo}, {srednje} => {VRTEC}",1.0
+{srednje trajanje} => {VRTEC},0.6222222222222222
+{VRTEC} => {srednje trajanje},0.8615384615384616
+{Okužba pri otroku / učencu / dijaku} => {srednje trajanje},0.7407407407407407

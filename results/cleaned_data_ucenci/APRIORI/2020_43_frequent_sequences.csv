@@ -1,36 +1,11 @@
 Sequence,Support,Relative Frequency
-{kratko},12,1.0
-{VRTEC},11,0.9166666666666666
-{Okužba s Covid-19},12,1.0
-{Sum na okužbo},12,1.0
-{dolgo},9,0.75
-{srednje},12,1.0
-{OSNOVNA ŠOLA},12,1.0
-"{Okužba s Covid-19}, {kratko}",9,0.75
-"{OSNOVNA ŠOLA}, {VRTEC}",11,0.9166666666666666
-"{kratko}, {srednje}",12,1.0
-"{OSNOVNA ŠOLA}, {Sum na okužbo}",12,1.0
-"{Okužba s Covid-19}, {VRTEC}",9,0.75
-"{OSNOVNA ŠOLA}, {srednje}",12,1.0
-"{Sum na okužbo}, {srednje}",12,1.0
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19}",12,1.0
-"{VRTEC}, {srednje}",9,0.75
-"{OSNOVNA ŠOLA}, {dolgo}",9,0.75
-"{Okužba s Covid-19}, {Sum na okužbo}",9,0.75
-"{Okužba s Covid-19}, {srednje}",11,0.9166666666666666
-"{Sum na okužbo}, {kratko}",11,0.9166666666666666
-"{VRTEC}, {dolgo}",9,0.75
-"{OSNOVNA ŠOLA}, {kratko}",11,0.9166666666666666
-"{Sum na okužbo}, {VRTEC}",11,0.9166666666666666
-"{OSNOVNA ŠOLA}, {Sum na okužbo}, {kratko}",9,0.75
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19}, {VRTEC}",9,0.75
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19}, {srednje}",11,0.9166666666666666
-"{OSNOVNA ŠOLA}, {Sum na okužbo}, {VRTEC}",11,0.9166666666666666
-"{Sum na okužbo}, {VRTEC}, {srednje}",9,0.75
-"{OSNOVNA ŠOLA}, {Sum na okužbo}, {srednje}",12,1.0
-"{OSNOVNA ŠOLA}, {VRTEC}, {srednje}",9,0.75
-"{Sum na okužbo}, {kratko}, {srednje}",11,0.9166666666666666
-"{Okužba s Covid-19}, {kratko}, {srednje}",9,0.75
-"{OSNOVNA ŠOLA}, {kratko}, {srednje}",11,0.9166666666666666
-"{Okužba s Covid-19}, {Sum na okužbo}, {srednje}",9,0.75
-"{OSNOVNA ŠOLA}, {Sum na okužbo}, {VRTEC}, {srednje}",9,0.75
+{Sum na okužbo},150,0.6302521008403361
+{srednje trajanje},147,0.6176470588235294
+{Okužba s Covid-19},88,0.3697478991596639
+{OSNOVNA ŠOLA},136,0.5714285714285714
+"{srednje trajanje}, {Sum na okužbo}",95,0.39915966386554624
+"{OSNOVNA ŠOLA}, {srednje trajanje}",74,0.31092436974789917
+"{Sum na okužbo}, {srednje trajanje}",95,0.39915966386554624
+"{srednje trajanje}, {OSNOVNA ŠOLA}",74,0.31092436974789917
+"{OSNOVNA ŠOLA}, {Sum na okužbo}",86,0.36134453781512604
+"{Sum na okužbo}, {OSNOVNA ŠOLA}",86,0.36134453781512604

@@ -1,5 +1,326 @@
 Sequence,Support,Relative Frequency
-{Zasavska},1,1.0
-{srednje},1,1.0
+{srednje trajanje},1,1.0
 {VRTEC},1,1.0
-{Okužba s Covid-19 pri otroku ali več otrocih skupine},1,1.0
+{Zasavska},1,1.0
+{Okužba pri otroku / učencu / dijaku},1,1.0
+{srednje},1,1.0
+"{Zasavska}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{VRTEC}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {VRTEC}",1,1.0
+"{Zasavska}, {srednje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje}",1,1.0
+"{srednje}, {Zasavska}",1,1.0
+"{VRTEC}, {Zasavska}",1,1.0
+"{srednje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Zasavska}, {srednje trajanje}",1,1.0
+"{Zasavska}, {VRTEC}",1,1.0
+"{VRTEC}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Zasavska}",1,1.0
+"{VRTEC}, {srednje}",1,1.0
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Zasavska}",1,1.0
+"{srednje}, {srednje trajanje}",1,1.0
+"{srednje}, {VRTEC}",1,1.0
+"{srednje trajanje}, {srednje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {VRTEC}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje trajanje}, {Zasavska}, {srednje}",1,1.0
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {srednje}",1,1.0
+"{VRTEC}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}",1,1.0
+"{Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",1,1.0
+"{Zasavska}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}",1,1.0
+"{srednje trajanje}, {srednje}, {Zasavska}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje trajanje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Zasavska}, {VRTEC}",1,1.0
+"{VRTEC}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Zasavska}",1,1.0
+"{srednje}, {srednje trajanje}, {VRTEC}",1,1.0
+"{Zasavska}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje trajanje}, {srednje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{VRTEC}, {srednje}, {srednje trajanje}",1,1.0
+"{VRTEC}, {srednje trajanje}, {srednje}",1,1.0
+"{srednje}, {Zasavska}, {srednje trajanje}",1,1.0
+"{srednje}, {Zasavska}, {VRTEC}",1,1.0
+"{srednje}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",1,1.0
+"{srednje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Zasavska}, {VRTEC}",1,1.0
+"{srednje}, {VRTEC}, {Zasavska}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {Zasavska}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Zasavska}",1,1.0
+"{VRTEC}, {Zasavska}, {srednje}",1,1.0
+"{Zasavska}, {VRTEC}, {srednje}",1,1.0
+"{Zasavska}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}",1,1.0
+"{VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje}",1,1.0
+"{Zasavska}, {srednje}, {srednje trajanje}",1,1.0
+"{Zasavska}, {srednje}, {VRTEC}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje}, {srednje trajanje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje}, {VRTEC}",1,1.0
+"{srednje}, {srednje trajanje}, {Zasavska}",1,1.0
+"{VRTEC}, {srednje}, {Zasavska}",1,1.0
+"{VRTEC}, {Zasavska}, {srednje trajanje}",1,1.0
+"{Zasavska}, {srednje trajanje}, {srednje}",1,1.0
+"{srednje}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje trajanje}, {VRTEC}, {srednje}",1,1.0
+"{VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",1,1.0
+"{Zasavska}, {VRTEC}, {srednje trajanje}",1,1.0
+"{VRTEC}, {srednje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje trajanje}, {srednje}, {VRTEC}",1,1.0
+"{srednje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje}",1,1.0
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}",1,1.0
+"{Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Zasavska}",1,1.0
+"{Zasavska}, {srednje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Zasavska}, {srednje trajanje}, {VRTEC}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje}, {Zasavska}",1,1.0
+"{srednje}, {VRTEC}, {srednje trajanje}",1,1.0
+"{Zasavska}, {srednje trajanje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Zasavska}, {VRTEC}, {srednje trajanje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {VRTEC}, {Zasavska}",1,1.0
+"{VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje}",1,1.0
+"{Zasavska}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",1,1.0
+"{Zasavska}, {srednje}, {srednje trajanje}, {VRTEC}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje}, {VRTEC}, {srednje trajanje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Zasavska}, {srednje trajanje}",1,1.0
+"{Zasavska}, {VRTEC}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {VRTEC}",1,1.0
+"{srednje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",1,1.0
+"{Zasavska}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {srednje}",1,1.0
+"{srednje}, {VRTEC}, {srednje trajanje}, {Zasavska}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje}, {Zasavska}, {srednje trajanje}",1,1.0
+"{Zasavska}, {srednje}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Zasavska}, {srednje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}",1,1.0
+"{VRTEC}, {Zasavska}, {srednje}, {srednje trajanje}",1,1.0
+"{srednje}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {Zasavska}",1,1.0
+"{Zasavska}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}",1,1.0
+"{srednje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}",1,1.0
+"{VRTEC}, {srednje trajanje}, {srednje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje}, {VRTEC}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Zasavska}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje}",1,1.0
+"{srednje trajanje}, {Zasavska}, {srednje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{VRTEC}, {Zasavska}, {srednje trajanje}, {srednje}",1,1.0
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Zasavska}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Zasavska}, {srednje}",1,1.0
+"{Zasavska}, {VRTEC}, {srednje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{VRTEC}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje}",1,1.0
+"{VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje}, {Zasavska}",1,1.0
+"{Zasavska}, {srednje trajanje}, {srednje}, {VRTEC}",1,1.0
+"{srednje trajanje}, {srednje}, {Zasavska}, {VRTEC}",1,1.0
+"{srednje}, {Zasavska}, {srednje trajanje}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje}",1,1.0
+"{srednje trajanje}, {srednje}, {VRTEC}, {Zasavska}",1,1.0
+"{VRTEC}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje trajanje}",1,1.0
+"{srednje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Zasavska}, {srednje}",1,1.0
+"{srednje}, {Zasavska}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Zasavska}, {srednje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje}, {Zasavska}, {VRTEC}",1,1.0
+"{Zasavska}, {srednje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje}, {VRTEC}, {Zasavska}",1,1.0
+"{VRTEC}, {Zasavska}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Zasavska}, {VRTEC}, {srednje}",1,1.0
+"{srednje}, {VRTEC}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}, {srednje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}, {VRTEC}",1,1.0
+"{srednje}, {srednje trajanje}, {Zasavska}, {VRTEC}",1,1.0
+"{srednje}, {srednje trajanje}, {VRTEC}, {Zasavska}",1,1.0
+"{VRTEC}, {srednje}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",1,1.0
+"{srednje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}",1,1.0
+"{VRTEC}, {srednje}, {srednje trajanje}, {Zasavska}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje trajanje}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Zasavska}, {VRTEC}, {srednje}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje trajanje}, {srednje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}",1,1.0
+"{srednje}, {VRTEC}, {Zasavska}, {srednje trajanje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje}, {VRTEC}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}",1,1.0
+"{VRTEC}, {srednje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje trajanje}, {srednje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {srednje}, {VRTEC}",1,1.0
+"{srednje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje trajanje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje}, {srednje trajanje}, {VRTEC}",1,1.0
+"{Zasavska}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}, {Zasavska}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {srednje}",1,1.0
+"{Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {srednje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}",1,1.0
+"{Zasavska}, {srednje trajanje}, {srednje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje}",1,1.0
+"{srednje trajanje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje}, {Zasavska}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {srednje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje}, {Zasavska}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {srednje}, {Zasavska}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje}, {srednje trajanje}, {Zasavska}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje trajanje}, {srednje}",1,1.0
+"{Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Zasavska}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}",1,1.0
+"{srednje}, {Zasavska}, {VRTEC}, {srednje trajanje}",1,1.0
+"{VRTEC}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje}",1,1.0
+"{srednje}, {srednje trajanje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Zasavska}, {srednje}, {VRTEC}, {srednje trajanje}",1,1.0
+"{Zasavska}, {srednje trajanje}, {VRTEC}, {srednje}",1,1.0
+"{VRTEC}, {Zasavska}, {srednje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje}, {Zasavska}",1,1.0
+"{VRTEC}, {srednje}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {VRTEC}, {srednje}",1,1.0
+"{VRTEC}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}",1,1.0
+"{srednje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {Zasavska}, {srednje}, {VRTEC}",1,1.0
+"{srednje}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}",1,1.0
+"{VRTEC}, {srednje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}",1,1.0
+"{srednje}, {srednje trajanje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}, {VRTEC}",1,1.0
+"{srednje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Zasavska}",1,1.0
+"{Zasavska}, {VRTEC}, {srednje trajanje}, {srednje}",1,1.0
+"{Zasavska}, {VRTEC}, {srednje}, {srednje trajanje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {Zasavska}, {srednje}",1,1.0
+"{VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {Zasavska}",1,1.0
+"{Zasavska}, {srednje}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",1,1.0
+"{Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje}, {VRTEC}",1,1.0
+"{VRTEC}, {srednje trajanje}, {srednje}, {Zasavska}",1,1.0
+"{Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje}, {VRTEC}",1,1.0
+"{srednje trajanje}, {VRTEC}, {srednje}, {Zasavska}",1,1.0
+"{VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {VRTEC}, {srednje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Zasavska}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}",1,1.0
+"{VRTEC}, {srednje}, {Zasavska}, {srednje trajanje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {Zasavska}, {VRTEC}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje}, {VRTEC}, {Zasavska}, {srednje trajanje}",1,1.0
+"{Zasavska}, {srednje}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Zasavska}, {srednje}",1,1.0
+"{srednje}, {VRTEC}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje}, {srednje trajanje}, {VRTEC}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Zasavska}, {VRTEC}, {srednje}, {srednje trajanje}",1,1.0
+"{Zasavska}, {srednje trajanje}, {srednje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}",1,1.0
+"{srednje}, {VRTEC}, {Zasavska}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {VRTEC}, {srednje}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Zasavska}, {srednje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Zasavska}, {VRTEC}, {srednje trajanje}, {srednje}",1,1.0
+"{Zasavska}, {VRTEC}, {srednje}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",1,1.0
+"{srednje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje trajanje}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}, {VRTEC}, {srednje}",1,1.0
+"{Zasavska}, {srednje trajanje}, {VRTEC}, {srednje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje trajanje}, {srednje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}, {VRTEC}",1,1.0
+"{srednje trajanje}, {srednje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Zasavska}",1,1.0
+"{Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje}, {srednje trajanje}, {VRTEC}",1,1.0
+"{VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje}, {Zasavska}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {VRTEC}, {srednje}, {Zasavska}",1,1.0
+"{srednje trajanje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje}, {Zasavska}",1,1.0
+"{srednje}, {srednje trajanje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje trajanje}, {srednje}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Zasavska}, {VRTEC}, {srednje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Zasavska}, {srednje}, {srednje trajanje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje}, {srednje trajanje}, {VRTEC}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Zasavska}, {srednje}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {VRTEC}",1,1.0
+"{VRTEC}, {srednje}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje}",1,1.0
+"{Zasavska}, {srednje}, {VRTEC}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje}, {Zasavska}, {srednje trajanje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {VRTEC}, {Zasavska}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje}, {VRTEC}, {srednje trajanje}, {Zasavska}",1,1.0
+"{Zasavska}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje}, {srednje trajanje}, {Zasavska}",1,1.0
+"{srednje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {VRTEC}",1,1.0
+"{VRTEC}, {Zasavska}, {srednje}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",1,1.0
+"{srednje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Zasavska}, {srednje trajanje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {Zasavska}, {srednje}, {VRTEC}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje}, {VRTEC}, {srednje trajanje}",1,1.0
+"{VRTEC}, {srednje}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {Zasavska}",1,1.0
+"{srednje}, {srednje trajanje}, {Zasavska}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Zasavska}, {srednje}, {srednje trajanje}",1,1.0
+"{VRTEC}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje}, {Zasavska}, {srednje trajanje}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Zasavska}, {srednje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}",1,1.0
+"{VRTEC}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {srednje}, {Zasavska}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Zasavska}, {srednje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {srednje}, {VRTEC}, {Zasavska}",1,1.0
+"{srednje trajanje}, {srednje}, {VRTEC}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje}, {Zasavska}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje}, {Zasavska}",1,1.0
+"{Zasavska}, {VRTEC}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {srednje}",1,1.0
+"{VRTEC}, {srednje trajanje}, {srednje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}",1,1.0
+"{srednje}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {Zasavska}, {VRTEC}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje}",1,1.0
+"{srednje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {Zasavska}",1,1.0
+"{srednje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}, {VRTEC}, {srednje trajanje}",1,1.0
+"{VRTEC}, {srednje trajanje}, {srednje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{VRTEC}, {srednje}, {Zasavska}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {srednje}, {Zasavska}",1,1.0
+"{srednje}, {Zasavska}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",1,1.0
+"{Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje}, {VRTEC}, {srednje trajanje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {VRTEC}, {Zasavska}, {srednje}",1,1.0
+"{srednje}, {Zasavska}, {VRTEC}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{VRTEC}, {Zasavska}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {srednje}",1,1.0
+"{Zasavska}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje}, {srednje trajanje}",1,1.0
+"{VRTEC}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje}, {srednje trajanje}",1,1.0
+"{VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje}, {Zasavska}, {srednje trajanje}",1,1.0
+"{srednje}, {srednje trajanje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}",1,1.0
+"{VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {Zasavska}, {srednje}",1,1.0
+"{Zasavska}, {srednje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje}, {VRTEC}",1,1.0
+"{Zasavska}, {srednje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Zasavska}, {srednje trajanje}, {srednje}",1,1.0
+"{Zasavska}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}, {srednje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje trajanje}, {VRTEC}, {srednje}",1,1.0
+"{VRTEC}, {srednje}, {srednje trajanje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}, {srednje}, {Zasavska}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje}, {Zasavska}, {srednje trajanje}",1,1.0
+"{srednje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}",1,1.0
+"{srednje}, {VRTEC}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}",1,1.0
+"{srednje trajanje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje}, {VRTEC}",1,1.0
+"{srednje}, {VRTEC}, {srednje trajanje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje trajanje}, {srednje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}",1,1.0
+"{Zasavska}, {VRTEC}, {srednje trajanje}, {srednje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje}, {Zasavska}, {VRTEC}",1,1.0
+"{Zasavska}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {srednje}, {VRTEC}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje}, {VRTEC}, {Zasavska}",1,1.0
+"{Zasavska}, {srednje trajanje}, {srednje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {Zasavska}, {VRTEC}, {srednje}",1,1.0
+"{Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje}, {VRTEC}",1,1.0
+"{VRTEC}, {srednje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje trajanje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}, {Zasavska}, {srednje}",1,1.0
+"{Zasavska}, {srednje trajanje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje}, {srednje trajanje}, {Zasavska}, {VRTEC}",1,1.0
+"{Zasavska}, {VRTEC}, {srednje}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje}, {Zasavska}, {VRTEC}, {srednje trajanje}",1,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje}, {srednje trajanje}, {VRTEC}, {Zasavska}",1,1.0
+"{srednje}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}, {VRTEC}",1,1.0
+"{VRTEC}, {Zasavska}, {srednje trajanje}, {srednje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{Zasavska}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje}",1,1.0
+"{Zasavska}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje}, {srednje trajanje}",1,1.0
+"{srednje}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Zasavska}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Zasavska}, {srednje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}, {Zasavska}",1,1.0
+"{srednje trajanje}, {VRTEC}, {srednje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{VRTEC}, {Zasavska}, {srednje}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje trajanje}, {srednje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}, {VRTEC}",1,1.0
+"{VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje}, {srednje trajanje}, {Zasavska}",1,1.0
+"{VRTEC}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje trajanje}, {srednje}",1,1.0
+"{srednje trajanje}, {VRTEC}, {srednje}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}",1,1.0
+"{VRTEC}, {srednje}, {Zasavska}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {srednje}, {Zasavska}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}",1,1.0
+"{srednje}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}, {Zasavska}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {Zasavska}, {VRTEC}, {Okužba pri otroku / učencu / dijaku}, {srednje}",1,1.0

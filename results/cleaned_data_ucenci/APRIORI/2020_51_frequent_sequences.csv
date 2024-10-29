@@ -1,4 +1,19 @@
 Sequence,Support,Relative Frequency
-{srednje},9,1.0
-{VRTEC},8,0.8888888888888888
-{Sum na okužbo},8,0.8888888888888888
+{Sum na okužbo},16,0.6666666666666666
+{srednje trajanje},24,1.0
+{Okužba s Covid-19},8,0.3333333333333333
+{VRTEC},18,0.75
+"{srednje trajanje}, {VRTEC}",18,0.75
+"{srednje trajanje}, {Sum na okužbo}",16,0.6666666666666666
+"{VRTEC}, {srednje trajanje}",18,0.75
+"{VRTEC}, {Sum na okužbo}",15,0.625
+"{Sum na okužbo}, {srednje trajanje}",16,0.6666666666666666
+"{Sum na okužbo}, {VRTEC}",15,0.625
+"{Okužba s Covid-19}, {srednje trajanje}",8,0.3333333333333333
+"{srednje trajanje}, {Okužba s Covid-19}",8,0.3333333333333333
+"{srednje trajanje}, {VRTEC}, {Sum na okužbo}",15,0.625
+"{srednje trajanje}, {Sum na okužbo}, {VRTEC}",15,0.625
+"{VRTEC}, {srednje trajanje}, {Sum na okužbo}",15,0.625
+"{Sum na okužbo}, {VRTEC}, {srednje trajanje}",15,0.625
+"{VRTEC}, {Sum na okužbo}, {srednje trajanje}",15,0.625
+"{Sum na okužbo}, {srednje trajanje}, {VRTEC}",15,0.625

@@ -1,70 +1,486 @@
 Sequence,Support,Relative Frequency
-{kratko},11,1.0
-{malo},10,0.9090909090909091
-{veliko},9,0.8181818181818182
-{srednje},11,1.0
-{Okužba s Covid-19 pri učencu ali več učencih oddelka},9,0.8181818181818182
-{OSNOVNA ŠOLA},11,1.0
-"{srednje}, {kratko}",9,0.8181818181818182
-"{malo}, {srednje}",10,0.9090909090909091
-"{srednje}, {veliko}",9,0.8181818181818182
-"{OSNOVNA ŠOLA, srednje}",10,0.9090909090909091
-"{malo}, {kratko}",10,0.9090909090909091
-"{malo, srednje}",9,0.8181818181818182
-"{srednje}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",9,0.8181818181818182
-"{Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",9,0.8181818181818182
-"{OSNOVNA ŠOLA, kratko}",10,0.9090909090909091
-"{srednje}, {malo}",9,0.8181818181818182
-"{srednje}, {OSNOVNA ŠOLA}",10,0.9090909090909091
-"{OSNOVNA ŠOLA, veliko}",9,0.8181818181818182
-"{malo}, {malo}",9,0.8181818181818182
-"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",9,0.8181818181818182
-"{malo}, {OSNOVNA ŠOLA}",9,0.8181818181818182
-"{OSNOVNA ŠOLA, malo}",9,0.8181818181818182
-"{kratko}, {srednje}",10,0.9090909090909091
-"{OSNOVNA ŠOLA}, {srednje}",10,0.9090909090909091
-"{kratko, srednje}",10,0.9090909090909091
-"{kratko}, {kratko}",9,0.8181818181818182
-"{kratko, malo}",9,0.8181818181818182
-"{OSNOVNA ŠOLA}, {kratko}",10,0.9090909090909091
-"{kratko}, {malo}",9,0.8181818181818182
-"{kratko}, {OSNOVNA ŠOLA}",10,0.9090909090909091
-"{srednje}, {srednje}",11,1.0
-"{OSNOVNA ŠOLA}, {malo}",10,0.9090909090909091
-"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",10,0.9090909090909091
-"{malo, srednje}, {srednje}",9,0.8181818181818182
-"{OSNOVNA ŠOLA, malo}, {kratko}",9,0.8181818181818182
-"{kratko, malo}, {kratko}",9,0.8181818181818182
-"{kratko}, {kratko}, {srednje}",9,0.8181818181818182
-"{kratko, srednje}, {srednje}",9,0.8181818181818182
-"{OSNOVNA ŠOLA, kratko}, {srednje}",9,0.8181818181818182
-"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka, srednje}",9,0.8181818181818182
-"{OSNOVNA ŠOLA}, {malo}, {srednje}",9,0.8181818181818182
-"{malo}, {kratko, srednje}",9,0.8181818181818182
-"{OSNOVNA ŠOLA, srednje}, {malo}",9,0.8181818181818182
-"{OSNOVNA ŠOLA, kratko}, {kratko}",9,0.8181818181818182
-"{OSNOVNA ŠOLA}, {malo}, {kratko}",9,0.8181818181818182
-"{kratko}, {OSNOVNA ŠOLA, kratko}",9,0.8181818181818182
-"{OSNOVNA ŠOLA}, {malo, srednje}",9,0.8181818181818182
-"{kratko}, {srednje}, {srednje}",9,0.8181818181818182
-"{OSNOVNA ŠOLA}, {kratko}, {srednje}",9,0.8181818181818182
-"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, kratko}",10,0.9090909090909091
-"{kratko, srednje}, {OSNOVNA ŠOLA}",9,0.8181818181818182
-"{OSNOVNA ŠOLA, kratko}, {malo}",9,0.8181818181818182
-"{srednje}, {srednje}, {srednje}",9,0.8181818181818182
-"{OSNOVNA ŠOLA, kratko}, {OSNOVNA ŠOLA}",9,0.8181818181818182
-"{OSNOVNA ŠOLA, srednje}, {srednje}",9,0.8181818181818182
-"{srednje}, {OSNOVNA ŠOLA, srednje}",9,0.8181818181818182
-"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}, {kratko}",9,0.8181818181818182
-"{kratko}, {kratko, srednje}",9,0.8181818181818182
-"{OSNOVNA ŠOLA}, {kratko, srednje}",9,0.8181818181818182
-"{kratko}, {malo}, {srednje}",9,0.8181818181818182
-"{kratko, malo}, {srednje}",9,0.8181818181818182
-"{srednje}, {srednje}, {OSNOVNA ŠOLA}",9,0.8181818181818182
-"{srednje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učencu ali več učencih oddelka}",9,0.8181818181818182
-"{OSNOVNA ŠOLA, srednje}, {OSNOVNA ŠOLA}",9,0.8181818181818182
-"{OSNOVNA ŠOLA, kratko}, {kratko, srednje}",9,0.8181818181818182
-"{OSNOVNA ŠOLA, kratko}, {kratko}, {srednje}",9,0.8181818181818182
-"{OSNOVNA ŠOLA, kratko}, {OSNOVNA ŠOLA, kratko}",9,0.8181818181818182
-"{OSNOVNA ŠOLA, kratko}, {malo}, {srednje}",9,0.8181818181818182
-"{kratko, malo}, {kratko, srednje}",9,0.8181818181818182
+{Okužba s Covid-19 pri učitelju},7,1.0
+{Okužba pri otroku / učencu / dijaku},7,1.0
+{kratko trajanje},7,1.0
+{srednje trajanje},7,1.0
+{VRTEC},7,1.0
+{Vzhodna Slovenija},7,1.0
+{OSNOVNA ŠOLA},7,1.0
+{malo},7,1.0
+{veliko},7,1.0
+"{VRTEC, srednje trajanje}",7,1.0
+"{malo, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, kratko trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",7,1.0
+"{malo}, {malo}",7,1.0
+"{Vzhodna Slovenija}, {OSNOVNA ŠOLA}",7,1.0
+"{OSNOVNA ŠOLA, veliko}",7,1.0
+"{Vzhodna Slovenija}, {Vzhodna Slovenija}",7,1.0
+"{malo}, {veliko}",7,1.0
+"{srednje trajanje}, {VRTEC}",7,1.0
+"{kratko trajanje}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}",7,1.0
+"{VRTEC}, {veliko}",7,1.0
+"{OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{malo}, {OSNOVNA ŠOLA}",7,1.0
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{kratko trajanje}, {srednje trajanje}",7,1.0
+"{malo}, {Vzhodna Slovenija}",7,1.0
+"{srednje trajanje}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}",7,1.0
+"{VRTEC}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {veliko}",7,1.0
+"{OSNOVNA ŠOLA, malo}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}",7,1.0
+"{VRTEC}, {Vzhodna Slovenija}",7,1.0
+"{OSNOVNA ŠOLA}, {srednje trajanje}",7,1.0
+"{srednje trajanje}, {srednje trajanje}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}",7,1.0
+"{Vzhodna Slovenija}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA}",7,1.0
+"{srednje trajanje, veliko}",7,1.0
+"{malo}, {VRTEC}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}",7,1.0
+"{Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{Vzhodna Slovenija}, {srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{kratko trajanje}, {veliko}",7,1.0
+"{malo}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{OSNOVNA ŠOLA}, {veliko}",7,1.0
+"{srednje trajanje}, {veliko}",7,1.0
+"{kratko trajanje, malo}",7,1.0
+"{kratko trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{VRTEC}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}",7,1.0
+"{malo}, {srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{Vzhodna Slovenija}, {veliko}",7,1.0
+"{OSNOVNA ŠOLA, malo}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{srednje trajanje}, {Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{malo}, {srednje trajanje}, {veliko}",7,1.0
+"{srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{srednje trajanje}, {VRTEC}, {OSNOVNA ŠOLA}",7,1.0
+"{VRTEC}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{kratko trajanje, malo}, {srednje trajanje}",7,1.0
+"{Vzhodna Slovenija}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{malo}, {malo}, {srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Vzhodna Slovenija}",7,1.0
+"{VRTEC, srednje trajanje}, {srednje trajanje}",7,1.0
+"{malo, srednje trajanje}, {veliko}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {veliko}",7,1.0
+"{malo}, {VRTEC}, {veliko}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{VRTEC}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{kratko trajanje, malo}, {OSNOVNA ŠOLA}",7,1.0
+"{malo}, {malo}, {OSNOVNA ŠOLA}",7,1.0
+"{kratko trajanje}, {srednje trajanje, veliko}",7,1.0
+"{malo, srednje trajanje}, {VRTEC}",7,1.0
+"{VRTEC, srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{kratko trajanje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{srednje trajanje}, {VRTEC}, {Vzhodna Slovenija}",7,1.0
+"{Vzhodna Slovenija}, {Vzhodna Slovenija}, {srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA}",7,1.0
+"{malo, srednje trajanje}, {srednje trajanje}",7,1.0
+"{VRTEC}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{OSNOVNA ŠOLA}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{malo}, {VRTEC}, {srednje trajanje}",7,1.0
+"{Vzhodna Slovenija}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {veliko}",7,1.0
+"{Vzhodna Slovenija}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {veliko}",7,1.0
+"{malo}, {srednje trajanje, veliko}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {Vzhodna Slovenija}",7,1.0
+"{kratko trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{malo}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{kratko trajanje}, {srednje trajanje}, {veliko}",7,1.0
+"{Vzhodna Slovenija}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA}",7,1.0
+"{malo}, {srednje trajanje}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{malo, srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{malo}, {VRTEC}, {OSNOVNA ŠOLA}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, malo}, {veliko}",7,1.0
+"{Vzhodna Slovenija}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{srednje trajanje}, {VRTEC}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{kratko trajanje}, {Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{malo}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{VRTEC, srednje trajanje}, {Vzhodna Slovenija}",7,1.0
+"{OSNOVNA ŠOLA}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{srednje trajanje}, {srednje trajanje}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {Vzhodna Slovenija}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA}",7,1.0
+"{Vzhodna Slovenija}, {srednje trajanje}, {veliko}",7,1.0
+"{malo}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {veliko}",7,1.0
+"{VRTEC}, {Vzhodna Slovenija}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{OSNOVNA ŠOLA, malo}, {srednje trajanje}",7,1.0
+"{Vzhodna Slovenija}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {OSNOVNA ŠOLA}",7,1.0
+"{OSNOVNA ŠOLA, kratko trajanje}, {veliko}",7,1.0
+"{OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{malo}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{srednje trajanje}, {srednje trajanje}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{malo}, {malo}, {veliko}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{srednje trajanje}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{VRTEC}, {Vzhodna Slovenija}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {veliko}",7,1.0
+"{Vzhodna Slovenija}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, kratko trajanje}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{malo}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, kratko trajanje}, {srednje trajanje}",7,1.0
+"{kratko trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{kratko trajanje}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{Vzhodna Slovenija}, {Vzhodna Slovenija}, {veliko}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{VRTEC}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA}",7,1.0
+"{srednje trajanje}, {VRTEC}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {Vzhodna Slovenija}",7,1.0
+"{OSNOVNA ŠOLA}, {srednje trajanje}, {veliko}",7,1.0
+"{VRTEC}, {Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {srednje trajanje}",7,1.0
+"{srednje trajanje}, {VRTEC}, {srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}",7,1.0
+"{VRTEC}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{OSNOVNA ŠOLA, kratko trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje, veliko}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}",7,1.0
+"{malo, srednje trajanje}, {Vzhodna Slovenija}",7,1.0
+"{kratko trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{kratko trajanje, malo}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{VRTEC, srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {srednje trajanje}, {veliko}",7,1.0
+"{kratko trajanje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {srednje trajanje}, {veliko}",7,1.0
+"{kratko trajanje}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC, srednje trajanje}, {Vzhodna Slovenija}",7,1.0
+"{malo}, {VRTEC}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{malo}, {malo}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Vzhodna Slovenija}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Vzhodna Slovenija}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}, {Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}, {srednje trajanje, veliko}",7,1.0
+"{malo, srednje trajanje}, {srednje trajanje}, {veliko}",7,1.0
+"{malo, srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Vzhodna Slovenija}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{malo}, {malo}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{malo}, {VRTEC}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Vzhodna Slovenija}, {srednje trajanje}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje trajanje}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {srednje trajanje}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{malo, srednje trajanje}, {Vzhodna Slovenija}, {Vzhodna Slovenija}",7,1.0
+"{malo}, {malo}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo, srednje trajanje}, {Vzhodna Slovenija}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{VRTEC, srednje trajanje}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{OSNOVNA ŠOLA, kratko trajanje}, {srednje trajanje}, {veliko}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {Vzhodna Slovenija}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA}",7,1.0
+"{Vzhodna Slovenija}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{malo}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{malo, srednje trajanje}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{malo}, {VRTEC}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, malo}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}, {srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}",7,1.0
+"{OSNOVNA ŠOLA}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {srednje trajanje}, {veliko}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {Vzhodna Slovenija}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{srednje trajanje}, {VRTEC}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {Vzhodna Slovenija}, {veliko}",7,1.0
+"{kratko trajanje, malo}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{kratko trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{srednje trajanje}, {srednje trajanje}, {Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{srednje trajanje}, {srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{OSNOVNA ŠOLA, malo}, {srednje trajanje}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}",7,1.0
+"{malo, srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{OSNOVNA ŠOLA, kratko trajanje}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {srednje trajanje, veliko}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC, srednje trajanje}, {srednje trajanje}",7,1.0
+"{malo}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, malo}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje, veliko}",7,1.0
+"{malo, srednje trajanje}, {VRTEC}, {srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{VRTEC}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{srednje trajanje}, {VRTEC}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{OSNOVNA ŠOLA, kratko trajanje}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {Vzhodna Slovenija}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{kratko trajanje}, {srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{malo}, {VRTEC}, {srednje trajanje}, {veliko}",7,1.0
+"{OSNOVNA ŠOLA, kratko trajanje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{malo}, {malo}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {Vzhodna Slovenija}, {srednje trajanje}",7,1.0
+"{srednje trajanje}, {VRTEC}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{OSNOVNA ŠOLA, kratko trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{malo}, {srednje trajanje}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{Vzhodna Slovenija}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC, srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, malo}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{malo, srednje trajanje}, {VRTEC}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{VRTEC}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {srednje trajanje, veliko}",7,1.0
+"{srednje trajanje}, {VRTEC}, {Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{malo, srednje trajanje}, {Vzhodna Slovenija}, {srednje trajanje}",7,1.0
+"{srednje trajanje}, {VRTEC}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{OSNOVNA ŠOLA, kratko trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}, {veliko}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{malo, srednje trajanje}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{VRTEC}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{malo}, {malo}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{OSNOVNA ŠOLA, malo}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}, {Okužba s Covid-19 pri učitelju}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo, srednje trajanje}, {veliko}",7,1.0
+"{VRTEC}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{malo, srednje trajanje}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}, {srednje trajanje}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA}, {srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{VRTEC}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}",7,1.0
+"{OSNOVNA ŠOLA, kratko trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{kratko trajanje, malo}, {srednje trajanje, veliko}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}, {veliko}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {veliko}",7,1.0
+"{malo}, {malo}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA}",7,1.0
+"{kratko trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo, srednje trajanje}, {srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{OSNOVNA ŠOLA, malo}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{srednje trajanje}, {VRTEC}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{malo}, {srednje trajanje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{kratko trajanje, malo}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{malo}, {VRTEC}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{Vzhodna Slovenija}, {Vzhodna Slovenija}, {srednje trajanje, veliko}",7,1.0
+"{malo}, {malo}, {srednje trajanje}, {veliko}",7,1.0
+"{kratko trajanje, malo}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{Vzhodna Slovenija}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo, srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Vzhodna Slovenija}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{malo}, {VRTEC}, {srednje trajanje, veliko}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo, srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, kratko trajanje}, {srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo, srednje trajanje}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA}",7,1.0
+"{srednje trajanje}, {VRTEC}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{malo, srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {Vzhodna Slovenija}, {srednje trajanje, veliko}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, kratko trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{OSNOVNA ŠOLA, malo}, {srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{VRTEC}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}, {veliko}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, kratko trajanje}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}, {srednje trajanje}",7,1.0
+"{kratko trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{malo}, {malo}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, malo}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{malo, srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC, srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}, {srednje trajanje}",7,1.0
+"{Vzhodna Slovenija}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{malo}, {VRTEC}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{OSNOVNA ŠOLA, malo}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}, {srednje trajanje}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{OSNOVNA ŠOLA, kratko trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo, srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{malo, srednje trajanje}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo, srednje trajanje}, {srednje trajanje}, {veliko}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Vzhodna Slovenija}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC, srednje trajanje}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Vzhodna Slovenija}, {srednje trajanje, veliko}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju}",7,1.0
+"{malo}, {Vzhodna Slovenija}, {srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo, srednje trajanje}, {srednje trajanje}, {srednje trajanje}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{malo}, {VRTEC}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{malo}, {malo}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {OSNOVNA ŠOLA, Okužba s Covid-19 pri učitelju, srednje trajanje}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo, srednje trajanje}, {OSNOVNA ŠOLA, Vzhodna Slovenija}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo, srednje trajanje}, {Vzhodna Slovenija}, {srednje trajanje}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {VRTEC}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}, {srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{OSNOVNA ŠOLA, kratko trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{malo}, {Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {malo, srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, veliko}",7,1.0
+"{Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {Vzhodna Slovenija}, {srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Vzhodna Slovenija, srednje trajanje}, {srednje trajanje}, {OSNOVNA ŠOLA, srednje trajanje, veliko}",7,1.0

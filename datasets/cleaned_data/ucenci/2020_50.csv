@@ -1,21 +1,31 @@
-REGIJA,OBDOBJE,VZROK,TRAJANJE
-Primorsko-notranjska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje
-Posavska,VRTEC,Sum na okužbo,srednje
-Jugovzhodna Slovenija,VRTEC,Sum na okužbo,srednje
-Podravska,OSNOVNA ŠOLA,Sum na okužbo,srednje
-Jugovzhodna Slovenija,OSNOVNA ŠOLA,Okužba s Covid-19,srednje
-Podravska,VRTEC,Sum na okužbo,srednje
-Posavska,OSTALO,Okužba s Covid-19,dolgo
-Osrednjeslovenska,VRTEC,Sum na okužbo,srednje
-Koroška,VRTEC,Sum na okužbo,srednje
-Goriška,OSNOVNA ŠOLA,Okužba s Covid-19,dolgo
-Pomurska,VRTEC,Sum na okužbo,srednje
-Goriška,VRTEC,Sum na okužbo,srednje
-Osrednjeslovenska,SREDNJA ŠOLA,Sum na okužbo,srednje
-Osrednjeslovenska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje
-Savinjska,OSNOVNA ŠOLA,Okužba s Covid-19,dolgo
-Jugovzhodna Slovenija,VRTEC,Okužba s Covid-19,srednje
-Savinjska,OSNOVNA ŠOLA,Sum na okužbo,srednje
-Osrednjeslovenska,OSNOVNA ŠOLA,Sum na okužbo,srednje
-Osrednjeslovenska,VRTEC,Okužba s Covid-19,srednje
-Pomurska,VRTEC,Okužba s Covid-19,srednje
+VNOS,REGIJA,OBDOBJE,VZROK,TRAJANJE
+2020-12-07,Primorsko-notranjska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2020-12-07,Posavska,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-07,Jugovzhodna Slovenija,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-07,Podravska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2020-12-07,Jugovzhodna Slovenija,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2020-12-07,Podravska,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-07,Posavska,OSTALO,Okužba s Covid-19,dolgo trajanje
+2020-12-07,Osrednjeslovenska,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-07,Koroška,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-07,Goriška,OSNOVNA ŠOLA,Okužba s Covid-19,dolgo trajanje
+2020-12-08,Pomurska,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-08,Goriška,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-08,Osrednjeslovenska,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-08,Podravska,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-08,Osrednjeslovenska,SREDNJA ŠOLA,Sum na okužbo,srednje trajanje
+2020-12-09,Osrednjeslovenska,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-09,Osrednjeslovenska,OSNOVNA ŠOLA,Okužba s Covid-19,srednje trajanje
+2020-12-09,Jugovzhodna Slovenija,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-09,Savinjska,OSNOVNA ŠOLA,Okužba s Covid-19,dolgo trajanje
+2020-12-10,Jugovzhodna Slovenija,VRTEC,Okužba s Covid-19,srednje trajanje
+2020-12-10,Jugovzhodna Slovenija,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-10,Savinjska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2020-12-10,Podravska,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-10,Osrednjeslovenska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2020-12-10,Osrednjeslovenska,VRTEC,Okužba s Covid-19,srednje trajanje
+2020-12-10,Osrednjeslovenska,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-10,Podravska,OSNOVNA ŠOLA,Sum na okužbo,srednje trajanje
+2020-12-11,Jugovzhodna Slovenija,VRTEC,Sum na okužbo,srednje trajanje
+2020-12-11,Jugovzhodna Slovenija,VRTEC,Okužba s Covid-19,srednje trajanje
+2020-12-12,Pomurska,VRTEC,Okužba s Covid-19,srednje trajanje

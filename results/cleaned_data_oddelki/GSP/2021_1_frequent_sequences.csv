@@ -1,8 +1,3 @@
 Sequence,Support,Relative Frequency
-{srednje},8,1.0
-{malo},8,1.0
-{VRTEC},7,0.875
-"{malo, srednje}",8,1.0
-"{VRTEC, malo}",7,0.875
-"{VRTEC, srednje}",7,0.875
-"{VRTEC, malo, srednje}",7,0.875
+{VRTEC},6,1.0
+{zelo malo},6,1.0

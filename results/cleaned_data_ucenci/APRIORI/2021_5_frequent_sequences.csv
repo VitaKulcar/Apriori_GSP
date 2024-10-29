@@ -1,9 +1,11 @@
 Sequence,Support,Relative Frequency
-{kratko},10,0.9090909090909091
-{srednje},10,0.9090909090909091
-{Sum na okužbo},11,1.0
-{OSNOVNA ŠOLA},11,1.0
-"{OSNOVNA ŠOLA}, {srednje}",10,0.9090909090909091
-"{Sum na okužbo}, {kratko}",9,0.8181818181818182
-"{Sum na okužbo}, {srednje}",10,0.9090909090909091
-"{OSNOVNA ŠOLA}, {Sum na okužbo}",9,0.8181818181818182
+{Sum na okužbo},93,0.6549295774647887
+{srednje trajanje},98,0.6901408450704225
+{Okužba s Covid-19},49,0.34507042253521125
+{OSNOVNA ŠOLA},94,0.6619718309859155
+"{srednje trajanje}, {Sum na okužbo}",59,0.4154929577464789
+"{OSNOVNA ŠOLA}, {srednje trajanje}",61,0.4295774647887324
+"{Sum na okužbo}, {srednje trajanje}",59,0.4154929577464789
+"{srednje trajanje}, {OSNOVNA ŠOLA}",61,0.4295774647887324
+"{OSNOVNA ŠOLA}, {Sum na okužbo}",63,0.44366197183098594
+"{Sum na okužbo}, {OSNOVNA ŠOLA}",63,0.44366197183098594

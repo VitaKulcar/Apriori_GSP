@@ -1,3 +1,36 @@
 Sequence,Support,Relative Frequency
-{srednje},8,1.0
-{OSNOVNA ŠOLA},6,0.75
+{veliko},11,0.3793103448275862
+{srednje trajanje},29,1.0
+{VRTEC},11,0.3793103448275862
+{OSNOVNA ŠOLA},16,0.5517241379310345
+{Okužba pri otroku / učencu / dijaku},19,0.6551724137931034
+{Osrednjeslovenska},11,0.3793103448275862
+{srednje},14,0.4827586206896552
+"{srednje trajanje}, {VRTEC}",11,0.3793103448275862
+"{VRTEC}, {srednje trajanje}",11,0.3793103448275862
+"{OSNOVNA ŠOLA}, {Okužba pri otroku / učencu / dijaku}",13,0.4482758620689655
+"{OSNOVNA ŠOLA}, {srednje trajanje}",16,0.5517241379310345
+"{srednje trajanje}, {OSNOVNA ŠOLA}",16,0.5517241379310345
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",19,0.6551724137931034
+"{Okužba pri otroku / učencu / dijaku}, {veliko}",10,0.3448275862068966
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA}",13,0.4482758620689655
+"{veliko}, {Okužba pri otroku / učencu / dijaku}",10,0.3448275862068966
+"{veliko}, {srednje trajanje}",11,0.3793103448275862
+"{srednje trajanje}, {srednje}",14,0.4827586206896552
+"{srednje trajanje}, {Osrednjeslovenska}",11,0.3793103448275862
+"{srednje}, {srednje trajanje}",14,0.4827586206896552
+"{Osrednjeslovenska}, {srednje trajanje}",11,0.3793103448275862
+"{srednje trajanje}, {veliko}",11,0.3793103448275862
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",19,0.6551724137931034
+"{srednje trajanje}, {OSNOVNA ŠOLA}, {Okužba pri otroku / učencu / dijaku}",13,0.4482758620689655
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {OSNOVNA ŠOLA}",13,0.4482758620689655
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {veliko}",10,0.3448275862068966
+"{Okužba pri otroku / učencu / dijaku}, {veliko}, {srednje trajanje}",10,0.3448275862068966
+"{OSNOVNA ŠOLA}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",13,0.4482758620689655
+"{srednje trajanje}, {veliko}, {Okužba pri otroku / učencu / dijaku}",10,0.3448275862068966
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA}, {srednje trajanje}",13,0.4482758620689655
+"{veliko}, {Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",10,0.3448275862068966
+"{OSNOVNA ŠOLA}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",13,0.4482758620689655
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}, {veliko}",10,0.3448275862068966
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA}",13,0.4482758620689655
+"{veliko}, {srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",10,0.3448275862068966

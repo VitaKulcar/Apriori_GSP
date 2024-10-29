@@ -1,8 +1,11 @@
 Sequence,Support,Relative Frequency
-{malo},9,0.9
-{VRTEC},8,0.8
-{srednje},9,0.9
-{Okužba s Covid-19 pri učencu ali več učencih oddelka},8,0.8
-{OSNOVNA ŠOLA},9,0.9
-"{malo}, {srednje}",8,0.8
-"{OSNOVNA ŠOLA}, {srednje}",8,0.8
+{srednje trajanje},84,0.7706422018348624
+{VRTEC},45,0.41284403669724773
+{OSNOVNA ŠOLA},51,0.46788990825688076
+{Okužba pri otroku / učencu / dijaku},38,0.3486238532110092
+{Osrednjeslovenska},41,0.3761467889908257
+{srednje},39,0.3577981651376147
+"{srednje trajanje}, {VRTEC}",39,0.3577981651376147
+"{VRTEC}, {srednje trajanje}",39,0.3577981651376147
+"{OSNOVNA ŠOLA}, {srednje trajanje}",35,0.3211009174311927
+"{srednje trajanje}, {OSNOVNA ŠOLA}",35,0.3211009174311927

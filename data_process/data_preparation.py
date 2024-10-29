@@ -1,3 +1,4 @@
+from collections import defaultdict
 import pandas as pd
 
 
@@ -22,20 +23,16 @@ def data_cleaning(dataset_name, columns_drop):
     # odstranitev negativnih dni trajanja (napake pri vnosu)
     df = df[df['TRAJANJE'] >= pd.Timedelta(0)]
 
-    # dodajanje stolpca LETO_MESEC_VNOSA
+    # dodajanje stolpca LETO_TEDEN_VNOSA
     df['LETO_TEDEN_VNOSA'] = df['VNOS'].dt.isocalendar().year.astype(str) + '_' + df[
         'VNOS'].dt.isocalendar().week.astype(str)
 
     # diskretizacija števila učencev (oddelki)
     if dataset_name == 'oddelki':
-        df['STEV_UCENCEV'], bin_edges = pd.cut(df['STEV_UCENCEV'], bins=5,
-                                               labels=['zelo malo', 'malo', 'srednje', 'veliko', 'zelo veliko'])
-        print(bin_edges)
+        df['STEV_UCENCEV'] = pd.cut(df['STEV_UCENCEV'], bins=5, labels=['zelo malo', 'malo', 'srednje', 'veliko', 'zelo veliko'])
 
     # diskretizacija trajanja okužbe
-    df['TRAJANJE'], bin_edges = pd.cut(df['TRAJANJE'], bins=3,
-                                       labels=['kratko trajanje', 'srednje trajanje', 'dolgo trajanje'])
-    print(bin_edges)
+    df['TRAJANJE'] = pd.cut(df['TRAJANJE'], bins=3, labels=['kratko trajanje', 'srednje trajanje', 'dolgo trajanje'])
 
     # posplošitev zapisov
     if dataset_name != 'zaposleni':
@@ -56,14 +53,14 @@ def data_cleaning(dataset_name, columns_drop):
         df.loc[df['OBDOBJE'].str.contains(pattern, case=False, na=False), 'OBDOBJE'] = 'GLASBENA ŠOLA'
 
     if dataset_name == 'oddelki':
-        """terms = [
+        terms = [
             'Okužba s Covid-19 pri otroku ali več otrocih skupine',
             'Okužba s Covid-19 pri učencu ali več učencih oddelka',
             'Okužba s Covid-19 pri dijaku ali več dijakih oddelka',
             'Okužba s Covid-19 pri otroku / učencu / dijaku ali več učencih oddelka'
         ]
         pattern = '|'.join(terms)
-        df.loc[df['VZROK'].str.contains(pattern, case=False, na=False), 'VZROK'] = 'Okužba pri otroku / učencu / dijaku'"""
+        df.loc[df['VZROK'].str.contains(pattern, case=False, na=False), 'VZROK'] = 'Okužba pri otroku / učencu / dijaku'
 
         terms = [
             'Okužba s Covid-19 pri drugem strokovnem delavcu',
@@ -73,7 +70,7 @@ def data_cleaning(dataset_name, columns_drop):
         pattern = '|'.join(terms)
         df.loc[df['VZROK'].str.contains(pattern, case=False, na=False), 'VZROK'] = 'Okužba pri delavcu'
 
-        """terms = [
+        terms = [
             'Sum na okužbo s Covid-19 pri otroku ali več otrocih skupine',
             'Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka',
             'Sum na okužbo s Covid-19 pri dijaku ali več dijakih oddelka',
@@ -81,7 +78,7 @@ def data_cleaning(dataset_name, columns_drop):
         ]
         pattern = '|'.join(terms)
         df.loc[df['VZROK'].str.contains(pattern, case=False,
-                                        na=False), 'VZROK'] = 'Sum na okužbo pri otroku / učencu / dijaku'"""
+                                        na=False), 'VZROK'] = 'Sum na okužbo pri otroku / učencu / dijaku'
 
         terms = [
             'Sum na okužbo s Covid-19 pri drugem strokovnem delavcu',
@@ -93,6 +90,22 @@ def data_cleaning(dataset_name, columns_drop):
                                         na=False), 'VZROK'] = 'Sum na okužbo pri delavcu'
 
         df = df[df['VZROK'] != 'Starši zavračajo izvajanje ukrepov']
+
+    terms = ['Gorenjska', 'Goriška', 'Primorsko-notranjska', 'Obalno-kraška']
+    pattern = '|'.join(terms)
+    df.loc[df['REGIJA'].str.contains(pattern, case=False, na=False), 'REGIJA'] = 'Zahodna Slovenija'
+
+    terms = ['Osrednjeslovenska', 'Zasavska', 'Posavska']
+    pattern = '|'.join(terms)
+    df.loc[df['REGIJA'].str.contains(pattern, case=False, na=False), 'REGIJA'] = 'Osrednja Slovenija'
+
+    terms = ['Koroška', 'Savinjska']
+    pattern = '|'.join(terms)
+    df.loc[df['REGIJA'].str.contains(pattern, case=False, na=False), 'REGIJA'] = 'Severna Slovenija'
+
+    terms = ['Pomurska', 'Podravska', 'Jugovzhodna Slovenija']
+    pattern = '|'.join(terms)
+    df.loc[df['REGIJA'].str.contains(pattern, case=False, na=False), 'REGIJA'] = 'Vzhodna Slovenija'
 
     # odstranitev praznih vrstic
     df.dropna(inplace=True)
@@ -115,7 +128,7 @@ def group_data(dataset_name, attributes):
         unique_data.to_csv(f'datasets/cleaned_data/{dataset_name}/{group_name}.csv', index=False)
 
 
-def generate_sequences(dataset_name, group_name):
+"""def generate_sequences(dataset_name, group_name):
     df = pd.read_csv(f'datasets/cleaned_data/{dataset_name}/{group_name}.csv')
 
     sequences = {}
@@ -128,5 +141,34 @@ def generate_sequences(dataset_name, group_name):
     consolidated_sequences = []
     for region, data in sequences.items():
         consolidated_sequences.append(data)
+
+    return consolidated_sequences"""
+
+
+def generate_sequences(dataset_name, group_name):
+    # Preberemo podatke iz datoteke
+    df = pd.read_csv(f'datasets/cleaned_data/{dataset_name}/{group_name}.csv')
+
+    # Uporabimo defaultdict, da shranimo seznam transakcij za vsak datum
+    date_item_map = defaultdict(list)
+
+    # Obdelava vsake vrstice
+    for _, row in df.iterrows():
+        # Pridobimo datum ('VNOS')
+        date = row['VNOS']
+
+        # Preostali elementi vrstice predstavljajo izdelke (transakcijo)
+        items = tuple(row.drop(['VNOS']))  # odstrani stolpec 'VNOS' iz elementov
+
+        # Shranimo transakcijo kot tuple v seznam za določen datum
+        date_item_map[date].append(items)
+
+    # Zdaj ustvarimo končno strukturo sekvenc
+    consolidated_sequences = []
+
+    # Gremo skozi vsako skupino po datumih in njihove transakcije
+    for date, transactions in date_item_map.items():
+        # Za vsak datum dodamo seznam transakcij (brez združevanja izdelkov)
+        consolidated_sequences.append([(date, transaction) for transaction in transactions])
 
     return consolidated_sequences

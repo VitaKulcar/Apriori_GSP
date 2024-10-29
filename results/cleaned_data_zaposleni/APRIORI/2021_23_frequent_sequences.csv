@@ -1,4 +1,20 @@
 Sequence,Support,Relative Frequency
-{srednje},11,1.0
-{Okužba s Covid-19},10,0.9090909090909091
-{Učitelj},11,1.0
+{Učitelj},34,0.5483870967741935
+{srednje trajanje},54,0.8709677419354839
+{Sum na okužbo},25,0.4032258064516129
+{Osrednjeslovenska},20,0.3225806451612903
+{Okužba s Covid-19},37,0.5967741935483871
+"{srednje trajanje}, {Sum na okužbo}",19,0.3064516129032258
+"{Učitelj}, {srednje trajanje}",28,0.45161290322580644
+"{srednje trajanje}, {Učitelj}",28,0.45161290322580644
+"{Sum na okužbo}, {srednje trajanje}",19,0.3064516129032258
+"{Okužba s Covid-19}, {srednje trajanje}",35,0.5645161290322581
+"{Okužba s Covid-19}, {Učitelj}",22,0.3548387096774194
+"{Učitelj}, {Okužba s Covid-19}",22,0.3548387096774194
+"{srednje trajanje}, {Okužba s Covid-19}",35,0.5645161290322581
+"{srednje trajanje}, {Okužba s Covid-19}, {Učitelj}",20,0.3225806451612903
+"{Učitelj}, {Okužba s Covid-19}, {srednje trajanje}",20,0.3225806451612903
+"{srednje trajanje}, {Učitelj}, {Okužba s Covid-19}",20,0.3225806451612903
+"{Učitelj}, {srednje trajanje}, {Okužba s Covid-19}",20,0.3225806451612903
+"{Okužba s Covid-19}, {Učitelj}, {srednje trajanje}",20,0.3225806451612903
+"{Okužba s Covid-19}, {srednje trajanje}, {Učitelj}",20,0.3225806451612903

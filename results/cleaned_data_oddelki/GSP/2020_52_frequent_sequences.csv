@@ -1,8 +1,16 @@
 Sequence,Support,Relative Frequency
-{srednje},3,1.0
-{malo},3,1.0
-{VRTEC},3,1.0
-"{malo, srednje}",3,1.0
-"{VRTEC, malo}",3,1.0
-"{VRTEC, srednje}",3,1.0
-"{VRTEC, malo, srednje}",3,1.0
+{VRTEC},5,1.0
+{srednje trajanje},5,1.0
+{zelo malo},5,1.0
+{Osrednja Slovenija},5,1.0
+"{VRTEC, srednje trajanje}",5,1.0
+"{Osrednja Slovenija, zelo malo}",5,1.0
+"{VRTEC, zelo malo}",5,1.0
+"{srednje trajanje, zelo malo}",5,1.0
+"{Osrednja Slovenija, srednje trajanje}",5,1.0
+"{Osrednja Slovenija, VRTEC}",5,1.0
+"{Osrednja Slovenija, VRTEC, zelo malo}",5,1.0
+"{VRTEC, srednje trajanje, zelo malo}",5,1.0
+"{Osrednja Slovenija, srednje trajanje, zelo malo}",5,1.0
+"{Osrednja Slovenija, VRTEC, srednje trajanje}",5,1.0
+"{Osrednja Slovenija, VRTEC, srednje trajanje, zelo malo}",5,1.0

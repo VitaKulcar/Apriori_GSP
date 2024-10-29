@@ -1,4 +1,19 @@
 Sequence,Support,Relative Frequency
-{srednje},7,0.875
-{malo},7,0.875
-{VRTEC},6,0.75
+{zelo malo},27,0.6428571428571429
+{VRTEC},26,0.6190476190476191
+{srednje trajanje},36,0.8571428571428571
+{Osrednjeslovenska},19,0.4523809523809524
+"{srednje trajanje}, {VRTEC}",24,0.5714285714285714
+"{VRTEC}, {srednje trajanje}",24,0.5714285714285714
+"{VRTEC}, {zelo malo}",13,0.30952380952380953
+"{srednje trajanje}, {Osrednjeslovenska}",15,0.35714285714285715
+"{Osrednjeslovenska}, {srednje trajanje}",15,0.35714285714285715
+"{zelo malo}, {srednje trajanje}",23,0.5476190476190477
+"{zelo malo}, {VRTEC}",13,0.30952380952380953
+"{srednje trajanje}, {zelo malo}",23,0.5476190476190477
+"{VRTEC}, {srednje trajanje}, {zelo malo}",13,0.30952380952380953
+"{VRTEC}, {zelo malo}, {srednje trajanje}",13,0.30952380952380953
+"{zelo malo}, {srednje trajanje}, {VRTEC}",13,0.30952380952380953
+"{zelo malo}, {VRTEC}, {srednje trajanje}",13,0.30952380952380953
+"{srednje trajanje}, {zelo malo}, {VRTEC}",13,0.30952380952380953
+"{srednje trajanje}, {VRTEC}, {zelo malo}",13,0.30952380952380953

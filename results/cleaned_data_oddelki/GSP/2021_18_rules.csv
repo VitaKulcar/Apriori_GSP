@@ -1,9 +1,1 @@
 Rule,Confidence
-{malo} => {srednje},1.0
-{VRTEC} => {srednje},0.8181818181818182
-{srednje} => {srednje},0.8333333333333334
-"{srednje} => {srednje}, {srednje}",0.75
-"{srednje}, {srednje} => {srednje}",0.9
-"{srednje} => {srednje}, {srednje}, {srednje}",0.75
-"{srednje}, {srednje} => {srednje}, {srednje}",0.9
-"{srednje}, {srednje}, {srednje} => {srednje}",1.0

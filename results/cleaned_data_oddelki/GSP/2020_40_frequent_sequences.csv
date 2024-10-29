@@ -1,3 +1,70 @@
 Sequence,Support,Relative Frequency
-{srednje},6,0.8571428571428571
-{OSNOVNA ŠOLA},6,0.8571428571428571
+{Okužba pri otroku / učencu / dijaku},4,1.0
+{Osrednja Slovenija},4,1.0
+{kratko trajanje},4,1.0
+{Vzhodna Slovenija},4,1.0
+{OSNOVNA ŠOLA},4,1.0
+{veliko},4,1.0
+"{Osrednja Slovenija, veliko}",4,1.0
+"{OSNOVNA ŠOLA, kratko trajanje}",4,1.0
+"{OSNOVNA ŠOLA, veliko}",4,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Okužba pri otroku / učencu / dijaku}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {kratko trajanje}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}",4,1.0
+"{Okužba pri otroku / učencu / dijaku, veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA}",4,1.0
+"{kratko trajanje}, {kratko trajanje}",4,1.0
+"{kratko trajanje}, {veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Osrednja Slovenija}",4,1.0
+"{kratko trajanje}, {OSNOVNA ŠOLA}",4,1.0
+"{kratko trajanje, veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku, Osrednja Slovenija}",4,1.0
+"{Osrednja Slovenija, kratko trajanje}",4,1.0
+"{kratko trajanje}, {Osrednja Slovenija}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Okužba pri otroku / učencu / dijaku, Osrednja Slovenija}",4,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {OSNOVNA ŠOLA}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Osrednja Slovenija, kratko trajanje}",4,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje, veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA, kratko trajanje}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Osrednja Slovenija, veliko}",4,1.0
+"{kratko trajanje}, {kratko trajanje, veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {Osrednja Slovenija}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA, veliko}",4,1.0
+"{Osrednja Slovenija, kratko trajanje, veliko}",4,1.0
+"{kratko trajanje}, {Osrednja Slovenija, kratko trajanje}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}",4,1.0
+"{kratko trajanje}, {OSNOVNA ŠOLA, kratko trajanje}",4,1.0
+"{kratko trajanje}, {Osrednja Slovenija, veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku, Osrednja Slovenija, kratko trajanje}",4,1.0
+"{Okužba pri otroku / učencu / dijaku, Osrednja Slovenija, veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Okužba pri otroku / učencu / dijaku, kratko trajanje}",4,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}",4,1.0
+"{kratko trajanje}, {OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}",4,1.0
+"{OSNOVNA ŠOLA, kratko trajanje, veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Okužba pri otroku / učencu / dijaku, veliko}",4,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {kratko trajanje}",4,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {kratko trajanje, veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {OSNOVNA ŠOLA, kratko trajanje}",4,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {Osrednja Slovenija, veliko}",4,1.0
+"{OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje, veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Okužba pri otroku / učencu / dijaku, Osrednja Slovenija, veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {kratko trajanje, veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Osrednja Slovenija, kratko trajanje, veliko}",4,1.0
+"{kratko trajanje}, {Osrednja Slovenija, kratko trajanje, veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Okužba pri otroku / učencu / dijaku, kratko trajanje, veliko}",4,1.0
+"{kratko trajanje}, {OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA, kratko trajanje, veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {Osrednja Slovenija, kratko trajanje}",4,1.0
+"{Okužba pri otroku / učencu / dijaku, Osrednja Slovenija, kratko trajanje, veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Okužba pri otroku / učencu / dijaku, Osrednja Slovenija, kratko trajanje}",4,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA, Okužba pri otroku / učencu / dijaku, kratko trajanje, veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku, kratko trajanje}, {Osrednja Slovenija, kratko trajanje, veliko}",4,1.0
+"{Okužba pri otroku / učencu / dijaku}, {Okužba pri otroku / učencu / dijaku, Osrednja Slovenija, kratko trajanje, veliko}",4,1.0

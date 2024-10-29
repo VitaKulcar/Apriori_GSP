@@ -1,1 +1,15 @@
 Rule,Confidence
+{VRTEC} => {srednje trajanje},0.9285714285714286
+{srednje trajanje} => {Sum na okužbo},0.6428571428571429
+{Sum na okužbo} => {srednje trajanje},0.9473684210526315
+{VRTEC} => {Sum na okužbo},0.8571428571428571
+{Sum na okužbo} => {VRTEC},0.631578947368421
+{Okužba s Covid-19} => {srednje trajanje},0.9090909090909091
+"{VRTEC} => {Sum na okužbo}, {srednje trajanje}",0.8571428571428571
+"{Sum na okužbo} => {VRTEC}, {srednje trajanje}",0.631578947368421
+"{srednje trajanje}, {VRTEC} => {Sum na okužbo}",0.9230769230769231
+"{srednje trajanje}, {Sum na okužbo} => {VRTEC}",0.6666666666666666
+"{VRTEC}, {Sum na okužbo} => {srednje trajanje}",1.0
+"{Sum na okužbo}, {VRTEC} => {srednje trajanje}",1.0
+"{VRTEC}, {srednje trajanje} => {Sum na okužbo}",0.9230769230769231
+"{Sum na okužbo}, {srednje trajanje} => {VRTEC}",0.6666666666666666

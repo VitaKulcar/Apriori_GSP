@@ -1,118 +1,183 @@
-REGIJA,OBDOBJE,STEV_UCENCEV,VZROK,TRAJANJE
-Jugovzhodna Slovenija,SREDNJA ŠOLA,veliko,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,kratko
-Podravska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
-Osrednjeslovenska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Podravska,SREDNJA ŠOLA,veliko,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,kratko
-Jugovzhodna Slovenija,OSNOVNA ŠOLA,srednje,Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka,srednje
-Podravska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Goriška,SREDNJA ŠOLA,veliko,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,srednje
-Osrednjeslovenska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
-Gorenjska,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje
-Savinjska,OSNOVNA ŠOLA,veliko,Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka,kratko
-Podravska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
-Jugovzhodna Slovenija,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje
-Podravska,SREDNJA ŠOLA,veliko,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,srednje
-Gorenjska,GLASBENA ŠOLA,malo,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Pomurska,SREDNJA ŠOLA,veliko,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,srednje
-Podravska,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
-Gorenjska,OSTALO,malo,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Jugovzhodna Slovenija,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
-Obalno-kraška,OSNOVNA ŠOLA,srednje,Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka,kratko
-Gorenjska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Goriška,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Podravska,VRTEC,malo,Okužba pri delavcu,srednje
-Koroška,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,srednje
-Osrednjeslovenska,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje
-Savinjska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Osrednjeslovenska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učitelju,srednje
-Gorenjska,VRTEC,malo,Okužba pri delavcu,srednje
-Obalno-kraška,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Osrednjeslovenska,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje
-Osrednjeslovenska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,srednje
-Obalno-kraška,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učitelju,srednje
-Osrednjeslovenska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Osrednjeslovenska,SREDNJA ŠOLA,veliko,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,srednje
-Osrednjeslovenska,SREDNJA ŠOLA,veliko,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,kratko
-Goriška,SREDNJA ŠOLA,srednje,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,kratko
-Podravska,SREDNJA ŠOLA,srednje,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,srednje
-Pomurska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
-Osrednjeslovenska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
-Pomurska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Pomurska,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Savinjska,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje
-Podravska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Posavska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Goriška,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje
-Goriška,VRTEC,srednje,Okužba pri delavcu,srednje
-Goriška,VRTEC,srednje,Okužba s Covid-19 pri otroku ali več otrocih skupine,srednje
-Pomurska,VRTEC,srednje,Okužba s Covid-19 pri otroku ali več otrocih skupine,kratko
-Obalno-kraška,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
-Osrednjeslovenska,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Posavska,OSNOVNA ŠOLA,srednje,Okužba pri delavcu,srednje
-Savinjska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
-Osrednjeslovenska,OSNOVNA ŠOLA,veliko,Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka,kratko
-Gorenjska,OSNOVNA ŠOLA,srednje,Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka,srednje
-Zasavska,SREDNJA ŠOLA,veliko,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,srednje
-Koroška,SREDNJA ŠOLA,srednje,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,srednje
-Goriška,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Osrednjeslovenska,SREDNJA ŠOLA,veliko,Sum na okužbo s Covid-19 pri dijaku ali več dijakih oddelka,srednje
-Gorenjska,SREDNJA ŠOLA,veliko,Sum na okužbo s Covid-19 pri dijaku ali več dijakih oddelka,srednje
-Gorenjska,SREDNJA ŠOLA,veliko,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,srednje
-Podravska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učitelju,srednje
-Obalno-kraška,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje
-Savinjska,SREDNJA ŠOLA,veliko,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,srednje
-Osrednjeslovenska,SREDNJA ŠOLA,srednje,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,kratko
-Savinjska,SREDNJA ŠOLA,veliko,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,kratko
-Osrednjeslovenska,VRTEC,malo,Okužba pri delavcu,srednje
-Osrednjeslovenska,VRTEC,srednje,Okužba pri delavcu,srednje
-Obalno-kraška,SREDNJA ŠOLA,srednje,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,kratko
-Savinjska,VRTEC,srednje,Okužba pri delavcu,srednje
-Osrednjeslovenska,OSNOVNA ŠOLA,veliko,Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka,srednje
-Koroška,SREDNJA ŠOLA,srednje,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,kratko
-Osrednjeslovenska,VRTEC,srednje,Okužba s Covid-19 pri otroku ali več otrocih skupine,srednje
-Savinjska,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
-Savinjska,OSTALO,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
-Savinjska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učitelju,srednje
-Obalno-kraška,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Posavska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,srednje
-Goriška,SREDNJA ŠOLA,veliko,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,kratko
-Pomurska,GLASBENA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Savinjska,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Podravska,VRTEC,malo,Okužba pri delavcu,kratko
-Pomurska,GLASBENA ŠOLA,malo,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Podravska,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje
-Zasavska,SREDNJA ŠOLA,veliko,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,kratko
-Goriška,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
-Goriška,OSNOVNA ŠOLA,srednje,Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka,srednje
-Jugovzhodna Slovenija,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Gorenjska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Podravska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,kratko
-Jugovzhodna Slovenija,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Gorenjska,OSNOVNA ŠOLA,veliko,Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka,srednje
-Primorsko-notranjska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
-Obalno-kraška,VRTEC,malo,Okužba pri delavcu,srednje
-Savinjska,SREDNJA ŠOLA,malo,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,srednje
-Savinjska,SREDNJA ŠOLA,srednje,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,srednje
-Osrednjeslovenska,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,kratko
-Osrednjeslovenska,OSNOVNA ŠOLA,srednje,Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka,kratko
-Obalno-kraška,SREDNJA ŠOLA,veliko,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,kratko
-Podravska,OSNOVNA ŠOLA,srednje,Sum na okužbo s Covid-19 pri učencu ali več učencih oddelka,srednje
-Primorsko-notranjska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Gorenjska,VRTEC,srednje,Okužba s Covid-19 pri otroku ali več otrocih skupine,srednje
-Gorenjska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,srednje
-Osrednjeslovenska,OSTALO,veliko,Okužba s Covid-19 pri učitelju,srednje
-Posavska,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učitelju,srednje
-Podravska,VRTEC,srednje,Sum na okužbo pri delavcu,srednje
-Jugovzhodna Slovenija,SREDNJA ŠOLA,srednje,Okužba s Covid-19 pri dijaku ali več dijakih oddelka,srednje
-Podravska,VRTEC,srednje,Okužba pri delavcu,srednje
-Zasavska,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
-Gorenjska,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Goriška,VRTEC,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,srednje
-Osrednjeslovenska,VRTEC,srednje,Sum na okužbo s Covid-19 pri učitelju,srednje
-Osrednjeslovenska,VRTEC,malo,Okužba s Covid-19 pri učencu ali več učencih oddelka,kratko
-Jugovzhodna Slovenija,VRTEC,srednje,Okužba s Covid-19 pri otroku ali več otrocih skupine,srednje
-Savinjska,VRTEC,srednje,Okužba s Covid-19 pri učitelju,srednje
-Savinjska,VRTEC,malo,Okužba pri delavcu,srednje
-Jugovzhodna Slovenija,VRTEC,srednje,Okužba s Covid-19 pri učitelju,srednje
-Jugovzhodna Slovenija,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učencu ali več učencih oddelka,dolgo
-Savinjska,VRTEC,srednje,Okužba s Covid-19 pri otroku ali več otrocih skupine,srednje
+VNOS,REGIJA,OBDOBJE,STEV_UCENCEV,VZROK,TRAJANJE
+2021-09-27,Vzhodna Slovenija,SREDNJA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-27,Vzhodna Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-27,Vzhodna Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-27,Zahodna Slovenija,GLASBENA ŠOLA,malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-27,Vzhodna Slovenija,OSNOVNA ŠOLA,zelo malo,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-27,Osrednja Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-27,Vzhodna Slovenija,SREDNJA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-27,Vzhodna Slovenija,SREDNJA ŠOLA,zelo veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-27,Osrednja Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-27,Zahodna Slovenija,OSTALO,zelo malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-27,Osrednja Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-27,Severna Slovenija,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-27,Vzhodna Slovenija,SREDNJA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-27,Vzhodna Slovenija,VRTEC,malo,Okužba pri delavcu,srednje trajanje
+2021-09-27,Vzhodna Slovenija,VRTEC,zelo malo,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-27,Severna Slovenija,OSNOVNA ŠOLA,veliko,Sum na okužbo pri otroku / učencu / dijaku,kratko trajanje
+2021-09-27,Osrednja Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-27,Vzhodna Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-27,Severna Slovenija,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,srednje trajanje
+2021-09-27,Zahodna Slovenija,SREDNJA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-27,Osrednja Slovenija,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učitelju,srednje trajanje
+2021-09-27,Osrednja Slovenija,VRTEC,veliko,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-27,Osrednja Slovenija,SREDNJA ŠOLA,zelo veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-27,Zahodna Slovenija,OSNOVNA ŠOLA,srednje,Sum na okužbo pri otroku / učencu / dijaku,kratko trajanje
+2021-09-27,Zahodna Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-27,Osrednja Slovenija,VRTEC,zelo malo,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-27,Zahodna Slovenija,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učitelju,srednje trajanje
+2021-09-27,Zahodna Slovenija,VRTEC,malo,Okužba pri delavcu,srednje trajanje
+2021-09-27,Vzhodna Slovenija,SREDNJA ŠOLA,zelo veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-27,Severna Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-27,Osrednja Slovenija,SREDNJA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-27,Osrednja Slovenija,SREDNJA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-27,Osrednja Slovenija,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,srednje trajanje
+2021-09-27,Zahodna Slovenija,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-27,Zahodna Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-27,Severna Slovenija,OSNOVNA ŠOLA,malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-27,Vzhodna Slovenija,OSNOVNA ŠOLA,malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-27,Vzhodna Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-27,Zahodna Slovenija,SREDNJA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-27,Vzhodna Slovenija,OSNOVNA ŠOLA,veliko,Sum na okužbo pri otroku / učencu / dijaku,srednje trajanje
+2021-09-28,Vzhodna Slovenija,SREDNJA ŠOLA,zelo veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-28,Vzhodna Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-28,Vzhodna Slovenija,SREDNJA ŠOLA,zelo veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-28,Osrednja Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri delavcu,srednje trajanje
+2021-09-28,Severna Slovenija,VRTEC,malo,Okužba pri delavcu,srednje trajanje
+2021-09-28,Severna Slovenija,SREDNJA ŠOLA,zelo veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-28,Severna Slovenija,SREDNJA ŠOLA,zelo veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-28,Vzhodna Slovenija,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učitelju,srednje trajanje
+2021-09-28,Zahodna Slovenija,SREDNJA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-28,Osrednja Slovenija,OSNOVNA ŠOLA,veliko,Sum na okužbo pri otroku / učencu / dijaku,srednje trajanje
+2021-09-28,Vzhodna Slovenija,VRTEC,srednje,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-28,Osrednja Slovenija,OSNOVNA ŠOLA,veliko,Sum na okužbo pri otroku / učencu / dijaku,kratko trajanje
+2021-09-28,Zahodna Slovenija,SREDNJA ŠOLA,zelo veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-28,Severna Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-28,Osrednja Slovenija,VRTEC,zelo malo,Okužba pri delavcu,srednje trajanje
+2021-09-28,Osrednja Slovenija,OSNOVNA ŠOLA,zelo malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-28,Osrednja Slovenija,OSNOVNA ŠOLA,malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-28,Zahodna Slovenija,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-28,Zahodna Slovenija,SREDNJA ŠOLA,zelo veliko,Sum na okužbo pri otroku / učencu / dijaku,srednje trajanje
+2021-09-28,Osrednja Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-28,Osrednja Slovenija,SREDNJA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-28,Osrednja Slovenija,VRTEC,malo,Okužba pri delavcu,srednje trajanje
+2021-09-28,Zahodna Slovenija,OSNOVNA ŠOLA,srednje,Sum na okužbo pri otroku / učencu / dijaku,srednje trajanje
+2021-09-28,Zahodna Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-28,Zahodna Slovenija,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-28,Zahodna Slovenija,OSNOVNA ŠOLA,zelo malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-28,Osrednja Slovenija,SREDNJA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-28,Osrednja Slovenija,SREDNJA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-28,Severna Slovenija,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-28,Severna Slovenija,SREDNJA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-28,Osrednja Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-28,Zahodna Slovenija,VRTEC,malo,Okužba pri delavcu,srednje trajanje
+2021-09-28,Osrednja Slovenija,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-28,Osrednja Slovenija,SREDNJA ŠOLA,zelo veliko,Sum na okužbo pri otroku / učencu / dijaku,srednje trajanje
+2021-09-28,Zahodna Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-28,Severna Slovenija,VRTEC,veliko,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-28,Zahodna Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-28,Zahodna Slovenija,VRTEC,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-28,Severna Slovenija,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-29,Osrednja Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Vzhodna Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-29,Osrednja Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Zahodna Slovenija,VRTEC,malo,Okužba pri delavcu,srednje trajanje
+2021-09-29,Zahodna Slovenija,SREDNJA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Zahodna Slovenija,OSNOVNA ŠOLA,srednje,Sum na okužbo pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Osrednja Slovenija,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,kratko trajanje
+2021-09-29,Osrednja Slovenija,VRTEC,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Vzhodna Slovenija,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-29,Osrednja Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-29,Zahodna Slovenija,SREDNJA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-29,Osrednja Slovenija,SREDNJA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-29,Zahodna Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-29,Zahodna Slovenija,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-29,Zahodna Slovenija,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-29,Vzhodna Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Osrednja Slovenija,VRTEC,malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Vzhodna Slovenija,OSNOVNA ŠOLA,malo,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-29,Osrednja Slovenija,VRTEC,zelo malo,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-29,Severna Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Vzhodna Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Vzhodna Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-29,Zahodna Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Zahodna Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Zahodna Slovenija,OSNOVNA ŠOLA,veliko,Sum na okužbo pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Vzhodna Slovenija,GLASBENA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Vzhodna Slovenija,GLASBENA ŠOLA,zelo malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Osrednja Slovenija,SREDNJA ŠOLA,zelo veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Severna Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Zahodna Slovenija,VRTEC,malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Severna Slovenija,OSNOVNA ŠOLA,veliko,Okužba s Covid-19 pri učitelju,srednje trajanje
+2021-09-29,Osrednja Slovenija,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,srednje trajanje
+2021-09-29,Severna Slovenija,SREDNJA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-29,Osrednja Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-29,Osrednja Slovenija,OSNOVNA ŠOLA,malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Severna Slovenija,OSNOVNA ŠOLA,zelo malo,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-29,Severna Slovenija,OSTALO,malo,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-29,Severna Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-29,Zahodna Slovenija,SREDNJA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-29,Severna Slovenija,OSNOVNA ŠOLA,malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Severna Slovenija,SREDNJA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Severna Slovenija,SREDNJA ŠOLA,malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Severna Slovenija,SREDNJA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Vzhodna Slovenija,OSNOVNA ŠOLA,malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Zahodna Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-29,Vzhodna Slovenija,OSNOVNA ŠOLA,malo,Sum na okužbo pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Severna Slovenija,SREDNJA ŠOLA,zelo veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-29,Vzhodna Slovenija,VRTEC,zelo malo,Okužba pri delavcu,srednje trajanje
+2021-09-29,Vzhodna Slovenija,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,kratko trajanje
+2021-09-29,Zahodna Slovenija,SREDNJA ŠOLA,zelo veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-29,Osrednja Slovenija,OSNOVNA ŠOLA,veliko,Sum na okužbo pri otroku / učencu / dijaku,kratko trajanje
+2021-09-29,Osrednja Slovenija,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-29,Vzhodna Slovenija,VRTEC,malo,Okužba pri delavcu,kratko trajanje
+2021-09-30,Vzhodna Slovenija,SREDNJA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-30,Osrednja Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-30,Osrednja Slovenija,SREDNJA ŠOLA,veliko,Sum na okužbo pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Severna Slovenija,SREDNJA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Vzhodna Slovenija,VRTEC,srednje,Okužba pri delavcu,srednje trajanje
+2021-09-30,Osrednja Slovenija,VRTEC,malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Osrednja Slovenija,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-30,Zahodna Slovenija,VRTEC,malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Osrednja Slovenija,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,kratko trajanje
+2021-09-30,Vzhodna Slovenija,VRTEC,malo,Okužba pri delavcu,srednje trajanje
+2021-09-30,Vzhodna Slovenija,VRTEC,zelo malo,Okužba pri delavcu,srednje trajanje
+2021-09-30,Zahodna Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Vzhodna Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-30,Severna Slovenija,VRTEC,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Zahodna Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Osrednja Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Vzhodna Slovenija,VRTEC,veliko,Okužba pri delavcu,srednje trajanje
+2021-09-30,Zahodna Slovenija,OSNOVNA ŠOLA,malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Vzhodna Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,dolgo trajanje
+2021-09-30,Vzhodna Slovenija,VRTEC,malo,Sum na okužbo pri delavcu,srednje trajanje
+2021-09-30,Osrednja Slovenija,OSNOVNA ŠOLA,veliko,Sum na okužbo pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Osrednja Slovenija,VRTEC,srednje,Okužba pri delavcu,srednje trajanje
+2021-09-30,Osrednja Slovenija,OSTALO,veliko,Okužba s Covid-19 pri učitelju,srednje trajanje
+2021-09-30,Vzhodna Slovenija,VRTEC,malo,Okužba s Covid-19 pri učitelju,srednje trajanje
+2021-09-30,Osrednja Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Osrednja Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-30,Zahodna Slovenija,OSNOVNA ŠOLA,zelo malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Osrednja Slovenija,VRTEC,zelo malo,Okužba pri delavcu,srednje trajanje
+2021-09-30,Severna Slovenija,VRTEC,zelo malo,Okužba pri delavcu,srednje trajanje
+2021-09-30,Vzhodna Slovenija,VRTEC,srednje,Sum na okužbo pri delavcu,srednje trajanje
+2021-09-30,Vzhodna Slovenija,VRTEC,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Osrednja Slovenija,VRTEC,srednje,Sum na okužbo s Covid-19 pri učitelju,srednje trajanje
+2021-09-30,Osrednja Slovenija,VRTEC,malo,Sum na okužbo s Covid-19 pri učitelju,srednje trajanje
+2021-09-30,Vzhodna Slovenija,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-30,Zahodna Slovenija,OSNOVNA ŠOLA,veliko,Sum na okužbo pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Zahodna Slovenija,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,srednje trajanje
+2021-09-30,Osrednja Slovenija,OSNOVNA ŠOLA,malo,Okužba s Covid-19 pri učitelju,srednje trajanje
+2021-09-30,Osrednja Slovenija,OSNOVNA ŠOLA,srednje,Okužba s Covid-19 pri učitelju,srednje trajanje
+2021-09-30,Vzhodna Slovenija,SREDNJA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Severna Slovenija,OSNOVNA ŠOLA,malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Osrednja Slovenija,VRTEC,veliko,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-09-30,Severna Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Osrednja Slovenija,SREDNJA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Severna Slovenija,OSNOVNA ŠOLA,veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-09-30,Severna Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-30,Severna Slovenija,VRTEC,veliko,Okužba s Covid-19 pri učitelju,srednje trajanje
+2021-09-30,Severna Slovenija,VRTEC,malo,Okužba s Covid-19 pri učitelju,srednje trajanje
+2021-09-30,Osrednja Slovenija,VRTEC,malo,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-30,Vzhodna Slovenija,OSNOVNA ŠOLA,srednje,Okužba pri otroku / učencu / dijaku,kratko trajanje
+2021-09-30,Osrednja Slovenija,SREDNJA ŠOLA,zelo veliko,Okužba pri otroku / učencu / dijaku,srednje trajanje

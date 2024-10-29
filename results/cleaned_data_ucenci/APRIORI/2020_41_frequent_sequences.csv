@@ -1,44 +1,6 @@
 Sequence,Support,Relative Frequency
-{kratko},12,1.0
-{SREDNJA ŠOLA},12,1.0
-{VRTEC},10,0.8333333333333334
-{Okužba s Covid-19},11,0.9166666666666666
-{Sum na okužbo},12,1.0
-{srednje},12,1.0
-{GLASBENA ŠOLA},9,0.75
-{OSNOVNA ŠOLA},12,1.0
-"{SREDNJA ŠOLA}, {VRTEC}",9,0.75
-"{SREDNJA ŠOLA}, {srednje}",12,1.0
-"{Okužba s Covid-19}, {srednje}",9,0.75
-"{SREDNJA ŠOLA}, {kratko}",10,0.8333333333333334
-"{Okužba s Covid-19}, {kratko}",9,0.75
-"{GLASBENA ŠOLA}, {srednje}",9,0.75
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19}",11,0.9166666666666666
-"{SREDNJA ŠOLA}, {Sum na okužbo}",12,1.0
-"{Okužba s Covid-19}, {Sum na okužbo}",9,0.75
-"{OSNOVNA ŠOLA}, {SREDNJA ŠOLA}",10,0.8333333333333334
-"{OSNOVNA ŠOLA}, {VRTEC}",9,0.75
-"{kratko}, {srednje}",11,0.9166666666666666
-"{GLASBENA ŠOLA}, {Sum na okužbo}",9,0.75
-"{OSNOVNA ŠOLA}, {srednje}",12,1.0
-"{VRTEC}, {kratko}",9,0.75
-"{OSNOVNA ŠOLA}, {kratko}",11,0.9166666666666666
-"{Sum na okužbo}, {VRTEC}",10,0.8333333333333334
-"{OSNOVNA ŠOLA}, {Sum na okužbo}",12,1.0
-"{Sum na okužbo}, {srednje}",12,1.0
-"{Sum na okužbo}, {kratko}",11,0.9166666666666666
-"{SREDNJA ŠOLA}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
-"{OSNOVNA ŠOLA}, {Sum na okužbo}, {kratko}",10,0.8333333333333334
-"{Sum na okužbo}, {VRTEC}, {kratko}",9,0.75
-"{OSNOVNA ŠOLA}, {SREDNJA ŠOLA}, {Sum na okužbo}",10,0.8333333333333334
-"{OSNOVNA ŠOLA}, {Sum na okužbo}, {VRTEC}",9,0.75
-"{SREDNJA ŠOLA}, {Sum na okužbo}, {kratko}",10,0.8333333333333334
-"{OSNOVNA ŠOLA}, {Sum na okužbo}, {srednje}",12,1.0
-"{SREDNJA ŠOLA}, {kratko}, {srednje}",9,0.75
-"{SREDNJA ŠOLA}, {Sum na okužbo}, {VRTEC}",9,0.75
-"{Sum na okužbo}, {kratko}, {srednje}",10,0.8333333333333334
-"{OSNOVNA ŠOLA}, {kratko}, {srednje}",10,0.8333333333333334
-"{Okužba s Covid-19}, {Sum na okužbo}, {srednje}",9,0.75
-"{OSNOVNA ŠOLA}, {SREDNJA ŠOLA}, {srednje}",10,0.8333333333333334
-"{OSNOVNA ŠOLA}, {Sum na okužbo}, {kratko}, {srednje}",9,0.75
-"{SREDNJA ŠOLA}, {Sum na okužbo}, {kratko}, {srednje}",9,0.75
+{Sum na okužbo},208,0.7298245614035088
+{srednje trajanje},177,0.6210526315789474
+{OSNOVNA ŠOLA},115,0.40350877192982454
+"{srednje trajanje}, {Sum na okužbo}",121,0.4245614035087719
+"{Sum na okužbo}, {srednje trajanje}",121,0.4245614035087719

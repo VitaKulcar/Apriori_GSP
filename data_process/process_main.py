@@ -15,8 +15,8 @@ def clean_data():
         data_cleaning(dataset_name, columns_drop)
 
 
-def process_month(dataset_name, dataset_month, dataset_data, min_sup, min_conf, lenght):
-    processor = process_algorithms(dataset_name, dataset_month, dataset_data, min_sup, min_conf, lenght)
+def process_month(dataset_name, dataset_month, dataset_data, min_sup, min_conf):
+    processor = process_algorithms(dataset_name, dataset_month, dataset_data, min_sup, min_conf)
     processor.process()
 
 
@@ -24,16 +24,16 @@ def process_file(name, filename):
     if filename.endswith('.csv'):
         group_name = filename.split('.')[0]
         sequences = generate_sequences(name, group_name)
-        process_month(name, group_name, sequences, 0.75, 0.75, len(sequences))
+        process_month(name, group_name, sequences, 0.9, 0.9)
 
 
 def process_sequential():
     clean_data()
 
     dataset_names = {
-        'oddelki': ['REGIJA', 'OBDOBJE', 'STEV_UCENCEV', 'VZROK', 'TRAJANJE'],
-        'ucenci': ['REGIJA', 'OBDOBJE', 'VZROK', 'TRAJANJE'],
-        'zaposleni': ['REGIJA', 'DELOVNO_MESTO', 'VZROK', 'TRAJANJE']
+        'oddelki': ['VNOS', 'REGIJA', 'OBDOBJE', 'STEV_UCENCEV', 'VZROK', 'TRAJANJE'],
+        'ucenci': ['VNOS', 'REGIJA', 'OBDOBJE', 'VZROK', 'TRAJANJE'],
+        'zaposleni': ['VNOS', 'REGIJA', 'DELOVNO_MESTO', 'VZROK', 'TRAJANJE']
     }
 
     for name, columns in dataset_names.items():

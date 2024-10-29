@@ -1,19 +1,12 @@
 Sequence,Support,Relative Frequency
-{kratko},10,0.8333333333333334
-{malo},9,0.75
-{SREDNJA ŠOLA},10,0.8333333333333334
-{veliko},9,0.75
-{srednje},12,1.0
-{Okužba s Covid-19 pri učencu ali več učencih oddelka},11,0.9166666666666666
-{Okužba s Covid-19 pri dijaku ali več dijakih oddelka},10,0.8333333333333334
-{OSNOVNA ŠOLA},12,1.0
-"{SREDNJA ŠOLA}, {kratko}",9,0.75
-"{Okužba s Covid-19 pri dijaku ali več dijakih oddelka}, {kratko}",9,0.75
-"{kratko}, {srednje}",9,0.75
-"{OSNOVNA ŠOLA}, {srednje}",11,0.9166666666666666
-"{Okužba s Covid-19 pri dijaku ali več dijakih oddelka}, {srednje}",10,0.8333333333333334
-"{SREDNJA ŠOLA}, {srednje}",10,0.8333333333333334
-"{Okužba s Covid-19 pri učencu ali več učencih oddelka}, {srednje}",10,0.8333333333333334
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",9,0.75
-"{Okužba s Covid-19 pri dijaku ali več dijakih oddelka}, {Okužba s Covid-19 pri učencu ali več učencih oddelka}",9,0.75
-"{OSNOVNA ŠOLA}, {malo}",9,0.75
+{veliko},71,0.34299516908212563
+{srednje trajanje},153,0.7391304347826086
+{OSNOVNA ŠOLA},102,0.4927536231884058
+{Okužba pri otroku / učencu / dijaku},135,0.6521739130434783
+{srednje},65,0.3140096618357488
+"{OSNOVNA ŠOLA}, {Okužba pri otroku / učencu / dijaku}",78,0.37681159420289856
+"{OSNOVNA ŠOLA}, {srednje trajanje}",71,0.34299516908212563
+"{Okužba pri otroku / učencu / dijaku}, {srednje trajanje}",89,0.42995169082125606
+"{srednje trajanje}, {OSNOVNA ŠOLA}",71,0.34299516908212563
+"{Okužba pri otroku / učencu / dijaku}, {OSNOVNA ŠOLA}",78,0.37681159420289856
+"{srednje trajanje}, {Okužba pri otroku / učencu / dijaku}",89,0.42995169082125606

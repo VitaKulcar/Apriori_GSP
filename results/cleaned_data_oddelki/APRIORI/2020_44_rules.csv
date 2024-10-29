@@ -1,7 +1,1 @@
 Rule,Confidence
-{Okužba s Covid-19 pri vzgojitelju} => {VRTEC},0.75
-{VRTEC} => {Okužba s Covid-19 pri vzgojitelju},0.75
-{Okužba s Covid-19 pri vzgojitelju} => {srednje},0.75
-{srednje} => {Okužba s Covid-19 pri vzgojitelju},0.75
-{VRTEC} => {srednje},0.8333333333333334
-{srednje} => {VRTEC},0.8333333333333334

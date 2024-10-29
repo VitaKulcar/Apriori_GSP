@@ -1,5 +1,326 @@
 Sequence,Support,Relative Frequency
-{srednje},1,1.0
+{srednje trajanje},1,1.0
+{malo},1,1.0
+{VRTEC},1,1.0
 {Okužba pri delavcu},1,1.0
 {Savinjska},1,1.0
-{VRTEC},1,1.0
+"{Okužba pri delavcu}, {srednje trajanje}",1,1.0
+"{Okužba pri delavcu}, {VRTEC}",1,1.0
+"{VRTEC}, {srednje trajanje}",1,1.0
+"{Savinjska}, {srednje trajanje}",1,1.0
+"{Savinjska}, {VRTEC}",1,1.0
+"{srednje trajanje}, {VRTEC}",1,1.0
+"{Okužba pri delavcu}, {malo}",1,1.0
+"{malo}, {srednje trajanje}",1,1.0
+"{VRTEC}, {malo}",1,1.0
+"{malo}, {VRTEC}",1,1.0
+"{Savinjska}, {malo}",1,1.0
+"{srednje trajanje}, {malo}",1,1.0
+"{VRTEC}, {Okužba pri delavcu}",1,1.0
+"{Okužba pri delavcu}, {Savinjska}",1,1.0
+"{Savinjska}, {Okužba pri delavcu}",1,1.0
+"{VRTEC}, {Savinjska}",1,1.0
+"{srednje trajanje}, {Okužba pri delavcu}",1,1.0
+"{srednje trajanje}, {Savinjska}",1,1.0
+"{malo}, {Okužba pri delavcu}",1,1.0
+"{malo}, {Savinjska}",1,1.0
+"{VRTEC}, {Okužba pri delavcu}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {Savinjska}, {VRTEC}",1,1.0
+"{Okužba pri delavcu}, {malo}, {Savinjska}",1,1.0
+"{malo}, {VRTEC}, {srednje trajanje}",1,1.0
+"{malo}, {Savinjska}, {srednje trajanje}",1,1.0
+"{malo}, {Savinjska}, {VRTEC}",1,1.0
+"{Savinjska}, {srednje trajanje}, {malo}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Okužba pri delavcu}",1,1.0
+"{srednje trajanje}, {malo}, {VRTEC}",1,1.0
+"{Okužba pri delavcu}, {srednje trajanje}, {Savinjska}",1,1.0
+"{Savinjska}, {VRTEC}, {Okužba pri delavcu}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Savinjska}",1,1.0
+"{Okužba pri delavcu}, {VRTEC}, {srednje trajanje}",1,1.0
+"{malo}, {srednje trajanje}, {VRTEC}",1,1.0
+"{Okužba pri delavcu}, {Savinjska}, {srednje trajanje}",1,1.0
+"{Okužba pri delavcu}, {Savinjska}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Okužba pri delavcu}, {Savinjska}",1,1.0
+"{VRTEC}, {Savinjska}, {Okužba pri delavcu}",1,1.0
+"{srednje trajanje}, {VRTEC}, {malo}",1,1.0
+"{srednje trajanje}, {Savinjska}, {malo}",1,1.0
+"{VRTEC}, {Okužba pri delavcu}, {malo}",1,1.0
+"{Savinjska}, {malo}, {Okužba pri delavcu}",1,1.0
+"{VRTEC}, {malo}, {srednje trajanje}",1,1.0
+"{VRTEC}, {Savinjska}, {srednje trajanje}",1,1.0
+"{Savinjska}, {srednje trajanje}, {Okužba pri delavcu}",1,1.0
+"{Okužba pri delavcu}, {malo}, {srednje trajanje}",1,1.0
+"{Okužba pri delavcu}, {malo}, {VRTEC}",1,1.0
+"{Savinjska}, {Okužba pri delavcu}, {VRTEC}",1,1.0
+"{Savinjska}, {Okužba pri delavcu}, {srednje trajanje}",1,1.0
+"{Okužba pri delavcu}, {srednje trajanje}, {VRTEC}",1,1.0
+"{malo}, {Okužba pri delavcu}, {Savinjska}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Okužba pri delavcu}",1,1.0
+"{Okužba pri delavcu}, {VRTEC}, {malo}",1,1.0
+"{srednje trajanje}, {Savinjska}, {Okužba pri delavcu}",1,1.0
+"{Savinjska}, {VRTEC}, {srednje trajanje}",1,1.0
+"{Okužba pri delavcu}, {Savinjska}, {malo}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Savinjska}",1,1.0
+"{malo}, {VRTEC}, {Okužba pri delavcu}",1,1.0
+"{VRTEC}, {Okužba pri delavcu}, {Savinjska}",1,1.0
+"{VRTEC}, {Savinjska}, {malo}",1,1.0
+"{srednje trajanje}, {Okužba pri delavcu}, {VRTEC}",1,1.0
+"{malo}, {VRTEC}, {Savinjska}",1,1.0
+"{malo}, {Savinjska}, {Okužba pri delavcu}",1,1.0
+"{srednje trajanje}, {malo}, {Okužba pri delavcu}",1,1.0
+"{Savinjska}, {Okužba pri delavcu}, {malo}",1,1.0
+"{Savinjska}, {malo}, {srednje trajanje}",1,1.0
+"{Savinjska}, {malo}, {VRTEC}",1,1.0
+"{Okužba pri delavcu}, {srednje trajanje}, {malo}",1,1.0
+"{srednje trajanje}, {malo}, {Savinjska}",1,1.0
+"{Savinjska}, {srednje trajanje}, {VRTEC}",1,1.0
+"{VRTEC}, {srednje trajanje}, {malo}",1,1.0
+"{malo}, {srednje trajanje}, {Okužba pri delavcu}",1,1.0
+"{malo}, {srednje trajanje}, {Savinjska}",1,1.0
+"{Savinjska}, {VRTEC}, {malo}",1,1.0
+"{malo}, {Okužba pri delavcu}, {VRTEC}",1,1.0
+"{malo}, {Okužba pri delavcu}, {srednje trajanje}",1,1.0
+"{VRTEC}, {malo}, {Okužba pri delavcu}",1,1.0
+"{Okužba pri delavcu}, {VRTEC}, {Savinjska}",1,1.0
+"{srednje trajanje}, {Okužba pri delavcu}, {malo}",1,1.0
+"{VRTEC}, {malo}, {Savinjska}",1,1.0
+"{malo}, {VRTEC}, {srednje trajanje}, {Savinjska}",1,1.0
+"{Okužba pri delavcu}, {Savinjska}, {srednje trajanje}, {malo}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Okužba pri delavcu}, {Savinjska}",1,1.0
+"{Okužba pri delavcu}, {srednje trajanje}, {malo}, {VRTEC}",1,1.0
+"{Savinjska}, {srednje trajanje}, {Okužba pri delavcu}, {malo}",1,1.0
+"{Savinjska}, {srednje trajanje}, {malo}, {VRTEC}",1,1.0
+"{malo}, {VRTEC}, {Savinjska}, {srednje trajanje}",1,1.0
+"{malo}, {Savinjska}, {srednje trajanje}, {Okužba pri delavcu}",1,1.0
+"{Savinjska}, {Okužba pri delavcu}, {srednje trajanje}, {VRTEC}",1,1.0
+"{malo}, {srednje trajanje}, {Okužba pri delavcu}, {Savinjska}",1,1.0
+"{srednje trajanje}, {Savinjska}, {VRTEC}, {Okužba pri delavcu}",1,1.0
+"{Okužba pri delavcu}, {malo}, {VRTEC}, {Savinjska}",1,1.0
+"{VRTEC}, {Okužba pri delavcu}, {Savinjska}, {malo}",1,1.0
+"{Savinjska}, {VRTEC}, {Okužba pri delavcu}, {malo}",1,1.0
+"{malo}, {srednje trajanje}, {VRTEC}, {Okužba pri delavcu}",1,1.0
+"{VRTEC}, {malo}, {Savinjska}, {Okužba pri delavcu}",1,1.0
+"{malo}, {Okužba pri delavcu}, {VRTEC}, {Savinjska}",1,1.0
+"{Okužba pri delavcu}, {VRTEC}, {Savinjska}, {malo}",1,1.0
+"{Savinjska}, {Okužba pri delavcu}, {srednje trajanje}, {malo}",1,1.0
+"{srednje trajanje}, {malo}, {Savinjska}, {Okužba pri delavcu}",1,1.0
+"{malo}, {VRTEC}, {Okužba pri delavcu}, {Savinjska}",1,1.0
+"{VRTEC}, {malo}, {Okužba pri delavcu}, {srednje trajanje}",1,1.0
+"{Okužba pri delavcu}, {Savinjska}, {VRTEC}, {srednje trajanje}",1,1.0
+"{Savinjska}, {malo}, {srednje trajanje}, {Okužba pri delavcu}",1,1.0
+"{malo}, {srednje trajanje}, {Okužba pri delavcu}, {VRTEC}",1,1.0
+"{Okužba pri delavcu}, {Savinjska}, {malo}, {srednje trajanje}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Okužba pri delavcu}, {malo}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Savinjska}, {malo}",1,1.0
+"{srednje trajanje}, {Savinjska}, {Okužba pri delavcu}, {VRTEC}",1,1.0
+"{malo}, {Okužba pri delavcu}, {Savinjska}, {srednje trajanje}",1,1.0
+"{VRTEC}, {malo}, {Savinjska}, {srednje trajanje}",1,1.0
+"{Savinjska}, {Okužba pri delavcu}, {VRTEC}, {srednje trajanje}",1,1.0
+"{Savinjska}, {Okužba pri delavcu}, {malo}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Savinjska}, {Okužba pri delavcu}, {malo}",1,1.0
+"{srednje trajanje}, {Savinjska}, {malo}, {VRTEC}",1,1.0
+"{VRTEC}, {Savinjska}, {Okužba pri delavcu}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Savinjska}, {Okužba pri delavcu}",1,1.0
+"{VRTEC}, {malo}, {Okužba pri delavcu}, {Savinjska}",1,1.0
+"{Savinjska}, {VRTEC}, {srednje trajanje}, {Okužba pri delavcu}",1,1.0
+"{Okužba pri delavcu}, {srednje trajanje}, {VRTEC}, {malo}",1,1.0
+"{Savinjska}, {srednje trajanje}, {VRTEC}, {malo}",1,1.0
+"{srednje trajanje}, {malo}, {Okužba pri delavcu}, {Savinjska}",1,1.0
+"{VRTEC}, {srednje trajanje}, {malo}, {Savinjska}",1,1.0
+"{Savinjska}, {malo}, {Okužba pri delavcu}, {srednje trajanje}",1,1.0
+"{Okužba pri delavcu}, {malo}, {srednje trajanje}, {Savinjska}",1,1.0
+"{malo}, {Savinjska}, {srednje trajanje}, {VRTEC}",1,1.0
+"{VRTEC}, {malo}, {srednje trajanje}, {Savinjska}",1,1.0
+"{Okužba pri delavcu}, {Savinjska}, {malo}, {VRTEC}",1,1.0
+"{VRTEC}, {Savinjska}, {srednje trajanje}, {malo}",1,1.0
+"{Okužba pri delavcu}, {malo}, {Savinjska}, {srednje trajanje}",1,1.0
+"{VRTEC}, {Okužba pri delavcu}, {srednje trajanje}, {Savinjska}",1,1.0
+"{srednje trajanje}, {Okužba pri delavcu}, {Savinjska}, {VRTEC}",1,1.0
+"{srednje trajanje}, {malo}, {Okužba pri delavcu}, {VRTEC}",1,1.0
+"{malo}, {Okužba pri delavcu}, {Savinjska}, {VRTEC}",1,1.0
+"{Savinjska}, {VRTEC}, {malo}, {Okužba pri delavcu}",1,1.0
+"{Okužba pri delavcu}, {malo}, {srednje trajanje}, {VRTEC}",1,1.0
+"{VRTEC}, {Savinjska}, {malo}, {Okužba pri delavcu}",1,1.0
+"{Savinjska}, {malo}, {srednje trajanje}, {VRTEC}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Okužba pri delavcu}, {Savinjska}",1,1.0
+"{VRTEC}, {Okužba pri delavcu}, {Savinjska}, {srednje trajanje}",1,1.0
+"{Savinjska}, {VRTEC}, {Okužba pri delavcu}, {srednje trajanje}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Savinjska}, {Okužba pri delavcu}",1,1.0
+"{srednje trajanje}, {VRTEC}, {malo}, {Okužba pri delavcu}",1,1.0
+"{Okužba pri delavcu}, {VRTEC}, {srednje trajanje}, {Savinjska}",1,1.0
+"{Okužba pri delavcu}, {VRTEC}, {Savinjska}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {Okužba pri delavcu}, {VRTEC}, {Savinjska}",1,1.0
+"{malo}, {Savinjska}, {Okužba pri delavcu}, {srednje trajanje}",1,1.0
+"{Okužba pri delavcu}, {VRTEC}, {malo}, {srednje trajanje}",1,1.0
+"{VRTEC}, {Savinjska}, {malo}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {Okužba pri delavcu}, {malo}, {Savinjska}",1,1.0
+"{VRTEC}, {Okužba pri delavcu}, {srednje trajanje}, {malo}",1,1.0
+"{malo}, {srednje trajanje}, {Savinjska}, {Okužba pri delavcu}",1,1.0
+"{Savinjska}, {malo}, {Okužba pri delavcu}, {VRTEC}",1,1.0
+"{malo}, {srednje trajanje}, {VRTEC}, {Savinjska}",1,1.0
+"{Savinjska}, {srednje trajanje}, {VRTEC}, {Okužba pri delavcu}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Okužba pri delavcu}, {malo}",1,1.0
+"{srednje trajanje}, {malo}, {VRTEC}, {Okužba pri delavcu}",1,1.0
+"{Savinjska}, {srednje trajanje}, {malo}, {Okužba pri delavcu}",1,1.0
+"{Okužba pri delavcu}, {malo}, {Savinjska}, {VRTEC}",1,1.0
+"{malo}, {Okužba pri delavcu}, {VRTEC}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {Okužba pri delavcu}, {malo}, {VRTEC}",1,1.0
+"{Okužba pri delavcu}, {Savinjska}, {VRTEC}, {malo}",1,1.0
+"{Savinjska}, {srednje trajanje}, {Okužba pri delavcu}, {VRTEC}",1,1.0
+"{Okužba pri delavcu}, {srednje trajanje}, {Savinjska}, {VRTEC}",1,1.0
+"{Okužba pri delavcu}, {VRTEC}, {malo}, {Savinjska}",1,1.0
+"{srednje trajanje}, {malo}, {Savinjska}, {VRTEC}",1,1.0
+"{malo}, {VRTEC}, {srednje trajanje}, {Okužba pri delavcu}",1,1.0
+"{VRTEC}, {Savinjska}, {srednje trajanje}, {Okužba pri delavcu}",1,1.0
+"{malo}, {Savinjska}, {VRTEC}, {Okužba pri delavcu}",1,1.0
+"{VRTEC}, {Okužba pri delavcu}, {malo}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {Savinjska}, {VRTEC}, {malo}",1,1.0
+"{srednje trajanje}, {Okužba pri delavcu}, {Savinjska}, {malo}",1,1.0
+"{Okužba pri delavcu}, {srednje trajanje}, {Savinjska}, {malo}",1,1.0
+"{srednje trajanje}, {VRTEC}, {malo}, {Savinjska}",1,1.0
+"{Savinjska}, {Okužba pri delavcu}, {VRTEC}, {malo}",1,1.0
+"{malo}, {Savinjska}, {Okužba pri delavcu}, {VRTEC}",1,1.0
+"{Savinjska}, {malo}, {VRTEC}, {Okužba pri delavcu}",1,1.0
+"{VRTEC}, {srednje trajanje}, {malo}, {Okužba pri delavcu}",1,1.0
+"{VRTEC}, {Savinjska}, {Okužba pri delavcu}, {malo}",1,1.0
+"{Savinjska}, {VRTEC}, {malo}, {srednje trajanje}",1,1.0
+"{malo}, {Savinjska}, {VRTEC}, {srednje trajanje}",1,1.0
+"{malo}, {Okužba pri delavcu}, {srednje trajanje}, {Savinjska}",1,1.0
+"{Okužba pri delavcu}, {srednje trajanje}, {VRTEC}, {Savinjska}",1,1.0
+"{VRTEC}, {malo}, {srednje trajanje}, {Okužba pri delavcu}",1,1.0
+"{srednje trajanje}, {Savinjska}, {malo}, {Okužba pri delavcu}",1,1.0
+"{VRTEC}, {Okužba pri delavcu}, {malo}, {Savinjska}",1,1.0
+"{srednje trajanje}, {malo}, {VRTEC}, {Savinjska}",1,1.0
+"{Okužba pri delavcu}, {malo}, {VRTEC}, {srednje trajanje}",1,1.0
+"{Savinjska}, {malo}, {VRTEC}, {srednje trajanje}",1,1.0
+"{Okužba pri delavcu}, {srednje trajanje}, {malo}, {Savinjska}",1,1.0
+"{malo}, {VRTEC}, {Savinjska}, {Okužba pri delavcu}",1,1.0
+"{Okužba pri delavcu}, {Savinjska}, {srednje trajanje}, {VRTEC}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Savinjska}, {malo}",1,1.0
+"{malo}, {srednje trajanje}, {Savinjska}, {VRTEC}",1,1.0
+"{Okužba pri delavcu}, {VRTEC}, {srednje trajanje}, {malo}",1,1.0
+"{malo}, {Okužba pri delavcu}, {srednje trajanje}, {VRTEC}",1,1.0
+"{Savinjska}, {VRTEC}, {srednje trajanje}, {malo}",1,1.0
+"{malo}, {VRTEC}, {Okužba pri delavcu}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {Okužba pri delavcu}, {VRTEC}, {malo}",1,1.0
+"{Savinjska}, {Okužba pri delavcu}, {malo}, {srednje trajanje}",1,1.0
+"{Okužba pri delavcu}, {Savinjska}, {malo}, {VRTEC}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Okužba pri delavcu}, {Savinjska}, {malo}",1,1.0
+"{Savinjska}, {srednje trajanje}, {VRTEC}, {malo}, {Okužba pri delavcu}",1,1.0
+"{Okužba pri delavcu}, {srednje trajanje}, {VRTEC}, {Savinjska}, {malo}",1,1.0
+"{Okužba pri delavcu}, {Savinjska}, {VRTEC}, {srednje trajanje}, {malo}",1,1.0
+"{Okužba pri delavcu}, {malo}, {Savinjska}, {srednje trajanje}, {VRTEC}",1,1.0
+"{Savinjska}, {srednje trajanje}, {Okužba pri delavcu}, {VRTEC}, {malo}",1,1.0
+"{malo}, {Okužba pri delavcu}, {VRTEC}, {Savinjska}, {srednje trajanje}",1,1.0
+"{Okužba pri delavcu}, {Savinjska}, {srednje trajanje}, {malo}, {VRTEC}",1,1.0
+"{Savinjska}, {srednje trajanje}, {malo}, {VRTEC}, {Okužba pri delavcu}",1,1.0
+"{malo}, {srednje trajanje}, {Okužba pri delavcu}, {VRTEC}, {Savinjska}",1,1.0
+"{VRTEC}, {Okužba pri delavcu}, {malo}, {srednje trajanje}, {Savinjska}",1,1.0
+"{malo}, {srednje trajanje}, {VRTEC}, {Okužba pri delavcu}, {Savinjska}",1,1.0
+"{malo}, {Savinjska}, {Okužba pri delavcu}, {VRTEC}, {srednje trajanje}",1,1.0
+"{Okužba pri delavcu}, {malo}, {srednje trajanje}, {Savinjska}, {VRTEC}",1,1.0
+"{malo}, {srednje trajanje}, {VRTEC}, {Savinjska}, {Okužba pri delavcu}",1,1.0
+"{srednje trajanje}, {Okužba pri delavcu}, {Savinjska}, {VRTEC}, {malo}",1,1.0
+"{Okužba pri delavcu}, {VRTEC}, {Savinjska}, {srednje trajanje}, {malo}",1,1.0
+"{VRTEC}, {Okužba pri delavcu}, {malo}, {Savinjska}, {srednje trajanje}",1,1.0
+"{VRTEC}, {srednje trajanje}, {malo}, {Okužba pri delavcu}, {Savinjska}",1,1.0
+"{Okužba pri delavcu}, {srednje trajanje}, {malo}, {VRTEC}, {Savinjska}",1,1.0
+"{Savinjska}, {VRTEC}, {Okužba pri delavcu}, {malo}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {Savinjska}, {VRTEC}, {Okužba pri delavcu}, {malo}",1,1.0
+"{VRTEC}, {malo}, {Okužba pri delavcu}, {Savinjska}, {srednje trajanje}",1,1.0
+"{VRTEC}, {malo}, {srednje trajanje}, {Savinjska}, {Okužba pri delavcu}",1,1.0
+"{srednje trajanje}, {Okužba pri delavcu}, {malo}, {Savinjska}, {VRTEC}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Okužba pri delavcu}, {Savinjska}, {malo}",1,1.0
+"{srednje trajanje}, {malo}, {VRTEC}, {Savinjska}, {Okužba pri delavcu}",1,1.0
+"{malo}, {Okužba pri delavcu}, {Savinjska}, {srednje trajanje}, {VRTEC}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Savinjska}, {Okužba pri delavcu}, {malo}",1,1.0
+"{Savinjska}, {malo}, {srednje trajanje}, {Okužba pri delavcu}, {VRTEC}",1,1.0
+"{Okužba pri delavcu}, {VRTEC}, {srednje trajanje}, {Savinjska}, {malo}",1,1.0
+"{malo}, {Savinjska}, {srednje trajanje}, {VRTEC}, {Okužba pri delavcu}",1,1.0
+"{Okužba pri delavcu}, {VRTEC}, {malo}, {Savinjska}, {srednje trajanje}",1,1.0
+"{Savinjska}, {VRTEC}, {srednje trajanje}, {malo}, {Okužba pri delavcu}",1,1.0
+"{Savinjska}, {VRTEC}, {Okužba pri delavcu}, {srednje trajanje}, {malo}",1,1.0
+"{srednje trajanje}, {malo}, {Savinjska}, {Okužba pri delavcu}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Savinjska}, {malo}, {Okužba pri delavcu}, {VRTEC}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Savinjska}, {malo}, {Okužba pri delavcu}",1,1.0
+"{malo}, {Savinjska}, {srednje trajanje}, {Okužba pri delavcu}, {VRTEC}",1,1.0
+"{Savinjska}, {malo}, {VRTEC}, {Okužba pri delavcu}, {srednje trajanje}",1,1.0
+"{malo}, {VRTEC}, {Okužba pri delavcu}, {srednje trajanje}, {Savinjska}",1,1.0
+"{srednje trajanje}, {malo}, {Okužba pri delavcu}, {Savinjska}, {VRTEC}",1,1.0
+"{Savinjska}, {srednje trajanje}, {VRTEC}, {Okužba pri delavcu}, {malo}",1,1.0
+"{Savinjska}, {Okužba pri delavcu}, {malo}, {VRTEC}, {srednje trajanje}",1,1.0
+"{Okužba pri delavcu}, {VRTEC}, {srednje trajanje}, {malo}, {Savinjska}",1,1.0
+"{malo}, {VRTEC}, {Savinjska}, {srednje trajanje}, {Okužba pri delavcu}",1,1.0
+"{Savinjska}, {malo}, {Okužba pri delavcu}, {VRTEC}, {srednje trajanje}",1,1.0
+"{VRTEC}, {Okužba pri delavcu}, {srednje trajanje}, {malo}, {Savinjska}",1,1.0
+"{malo}, {VRTEC}, {Okužba pri delavcu}, {Savinjska}, {srednje trajanje}",1,1.0
+"{malo}, {Okužba pri delavcu}, {srednje trajanje}, {Savinjska}, {VRTEC}",1,1.0
+"{VRTEC}, {Okužba pri delavcu}, {Savinjska}, {srednje trajanje}, {malo}",1,1.0
+"{malo}, {Savinjska}, {VRTEC}, {Okužba pri delavcu}, {srednje trajanje}",1,1.0
+"{malo}, {srednje trajanje}, {Okužba pri delavcu}, {Savinjska}, {VRTEC}",1,1.0
+"{VRTEC}, {malo}, {Savinjska}, {srednje trajanje}, {Okužba pri delavcu}",1,1.0
+"{VRTEC}, {malo}, {srednje trajanje}, {Okužba pri delavcu}, {Savinjska}",1,1.0
+"{srednje trajanje}, {malo}, {Savinjska}, {VRTEC}, {Okužba pri delavcu}",1,1.0
+"{Savinjska}, {malo}, {srednje trajanje}, {VRTEC}, {Okužba pri delavcu}",1,1.0
+"{VRTEC}, {Savinjska}, {malo}, {Okužba pri delavcu}, {srednje trajanje}",1,1.0
+"{Okužba pri delavcu}, {srednje trajanje}, {Savinjska}, {VRTEC}, {malo}",1,1.0
+"{malo}, {Okužba pri delavcu}, {srednje trajanje}, {VRTEC}, {Savinjska}",1,1.0
+"{Savinjska}, {srednje trajanje}, {Okužba pri delavcu}, {malo}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Savinjska}, {malo}, {VRTEC}, {Okužba pri delavcu}",1,1.0
+"{VRTEC}, {Savinjska}, {srednje trajanje}, {malo}, {Okužba pri delavcu}",1,1.0
+"{malo}, {Okužba pri delavcu}, {VRTEC}, {srednje trajanje}, {Savinjska}",1,1.0
+"{Okužba pri delavcu}, {Savinjska}, {malo}, {srednje trajanje}, {VRTEC}",1,1.0
+"{Okužba pri delavcu}, {malo}, {srednje trajanje}, {VRTEC}, {Savinjska}",1,1.0
+"{VRTEC}, {Okužba pri delavcu}, {Savinjska}, {malo}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {Okužba pri delavcu}, {Savinjska}, {malo}, {VRTEC}",1,1.0
+"{Okužba pri delavcu}, {Savinjska}, {srednje trajanje}, {VRTEC}, {malo}",1,1.0
+"{Savinjska}, {VRTEC}, {malo}, {srednje trajanje}, {Okužba pri delavcu}",1,1.0
+"{srednje trajanje}, {Okužba pri delavcu}, {malo}, {VRTEC}, {Savinjska}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Okužba pri delavcu}, {malo}, {Savinjska}",1,1.0
+"{Savinjska}, {VRTEC}, {malo}, {Okužba pri delavcu}, {srednje trajanje}",1,1.0
+"{Savinjska}, {Okužba pri delavcu}, {srednje trajanje}, {VRTEC}, {malo}",1,1.0
+"{malo}, {VRTEC}, {srednje trajanje}, {Okužba pri delavcu}, {Savinjska}",1,1.0
+"{Okužba pri delavcu}, {malo}, {VRTEC}, {srednje trajanje}, {Savinjska}",1,1.0
+"{srednje trajanje}, {VRTEC}, {malo}, {Okužba pri delavcu}, {Savinjska}",1,1.0
+"{srednje trajanje}, {VRTEC}, {Savinjska}, {Okužba pri delavcu}, {malo}",1,1.0
+"{malo}, {Okužba pri delavcu}, {Savinjska}, {VRTEC}, {srednje trajanje}",1,1.0
+"{malo}, {Savinjska}, {Okužba pri delavcu}, {srednje trajanje}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Okužba pri delavcu}, {VRTEC}, {Savinjska}, {malo}",1,1.0
+"{srednje trajanje}, {malo}, {VRTEC}, {Okužba pri delavcu}, {Savinjska}",1,1.0
+"{Okužba pri delavcu}, {malo}, {VRTEC}, {Savinjska}, {srednje trajanje}",1,1.0
+"{Okužba pri delavcu}, {srednje trajanje}, {Savinjska}, {malo}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Savinjska}, {Okužba pri delavcu}, {VRTEC}, {malo}",1,1.0
+"{malo}, {srednje trajanje}, {Savinjska}, {VRTEC}, {Okužba pri delavcu}",1,1.0
+"{srednje trajanje}, {malo}, {Okužba pri delavcu}, {VRTEC}, {Savinjska}",1,1.0
+"{Savinjska}, {Okužba pri delavcu}, {VRTEC}, {srednje trajanje}, {malo}",1,1.0
+"{VRTEC}, {Okužba pri delavcu}, {srednje trajanje}, {Savinjska}, {malo}",1,1.0
+"{Okužba pri delavcu}, {VRTEC}, {Savinjska}, {malo}, {srednje trajanje}",1,1.0
+"{Okužba pri delavcu}, {malo}, {Savinjska}, {VRTEC}, {srednje trajanje}",1,1.0
+"{Okužba pri delavcu}, {srednje trajanje}, {malo}, {Savinjska}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Okužba pri delavcu}, {VRTEC}, {malo}, {Savinjska}",1,1.0
+"{malo}, {srednje trajanje}, {Savinjska}, {Okužba pri delavcu}, {VRTEC}",1,1.0
+"{Savinjska}, {malo}, {VRTEC}, {srednje trajanje}, {Okužba pri delavcu}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Okužba pri delavcu}, {malo}, {Savinjska}",1,1.0
+"{Okužba pri delavcu}, {srednje trajanje}, {VRTEC}, {malo}, {Savinjska}",1,1.0
+"{VRTEC}, {Savinjska}, {Okužba pri delavcu}, {malo}, {srednje trajanje}",1,1.0
+"{Savinjska}, {Okužba pri delavcu}, {srednje trajanje}, {malo}, {VRTEC}",1,1.0
+"{srednje trajanje}, {Savinjska}, {VRTEC}, {malo}, {Okužba pri delavcu}",1,1.0
+"{VRTEC}, {malo}, {Okužba pri delavcu}, {srednje trajanje}, {Savinjska}",1,1.0
+"{Savinjska}, {srednje trajanje}, {malo}, {Okužba pri delavcu}, {VRTEC}",1,1.0
+"{VRTEC}, {Savinjska}, {srednje trajanje}, {Okužba pri delavcu}, {malo}",1,1.0
+"{VRTEC}, {srednje trajanje}, {Savinjska}, {malo}, {Okužba pri delavcu}",1,1.0
+"{Savinjska}, {VRTEC}, {srednje trajanje}, {Okužba pri delavcu}, {malo}",1,1.0
+"{malo}, {VRTEC}, {Savinjska}, {Okužba pri delavcu}, {srednje trajanje}",1,1.0
+"{Okužba pri delavcu}, {Savinjska}, {VRTEC}, {malo}, {srednje trajanje}",1,1.0
+"{malo}, {Savinjska}, {VRTEC}, {srednje trajanje}, {Okužba pri delavcu}",1,1.0
+"{Savinjska}, {Okužba pri delavcu}, {malo}, {srednje trajanje}, {VRTEC}",1,1.0
+"{malo}, {VRTEC}, {srednje trajanje}, {Savinjska}, {Okužba pri delavcu}",1,1.0
+"{srednje trajanje}, {VRTEC}, {malo}, {Savinjska}, {Okužba pri delavcu}",1,1.0
+"{Okužba pri delavcu}, {VRTEC}, {malo}, {srednje trajanje}, {Savinjska}",1,1.0
+"{Savinjska}, {Okužba pri delavcu}, {VRTEC}, {malo}, {srednje trajanje}",1,1.0
+"{srednje trajanje}, {Savinjska}, {Okužba pri delavcu}, {malo}, {VRTEC}",1,1.0
+"{Savinjska}, {malo}, {Okužba pri delavcu}, {srednje trajanje}, {VRTEC}",1,1.0
+"{VRTEC}, {malo}, {Savinjska}, {Okužba pri delavcu}, {srednje trajanje}",1,1.0
+"{VRTEC}, {Savinjska}, {Okužba pri delavcu}, {srednje trajanje}, {malo}",1,1.0
+"{VRTEC}, {srednje trajanje}, {malo}, {Savinjska}, {Okužba pri delavcu}",1,1.0
+"{VRTEC}, {Savinjska}, {malo}, {srednje trajanje}, {Okužba pri delavcu}",1,1.0

@@ -1,24 +1,13 @@
 Sequence,Support,Relative Frequency
-{kratko},10,0.8333333333333334
-{VRTEC},10,0.8333333333333334
-{SREDNJA ŠOLA},9,0.75
-{Okužba s Covid-19},10,0.8333333333333334
-{Sum na okužbo},12,1.0
-{srednje},12,1.0
-{OSNOVNA ŠOLA},12,1.0
-"{OSNOVNA ŠOLA}, {Sum na okužbo}",10,0.8333333333333334
-"{Okužba s Covid-19}, {SREDNJA ŠOLA}",9,0.75
-"{OSNOVNA ŠOLA}, {srednje}",10,0.8333333333333334
-"{Sum na okužbo}, {srednje}",10,0.8333333333333334
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19}",9,0.75
-"{SREDNJA ŠOLA}, {srednje}",9,0.75
-"{Okužba s Covid-19}, {Sum na okužbo}",10,0.8333333333333334
-"{Okužba s Covid-19}, {srednje}",10,0.8333333333333334
-"{Sum na okužbo}, {kratko}",9,0.75
-"{OSNOVNA ŠOLA}, {SREDNJA ŠOLA}",9,0.75
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19}, {Sum na okužbo}",9,0.75
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19}, {srednje}",9,0.75
-"{Okužba s Covid-19}, {SREDNJA ŠOLA}, {srednje}",9,0.75
-"{OSNOVNA ŠOLA}, {Sum na okužbo}, {srednje}",9,0.75
-"{Okužba s Covid-19}, {Sum na okužbo}, {srednje}",9,0.75
-"{OSNOVNA ŠOLA}, {SREDNJA ŠOLA}, {srednje}",9,0.75
+{Sum na okužbo},109,0.6337209302325582
+{srednje trajanje},132,0.7674418604651163
+{Okužba s Covid-19},63,0.36627906976744184
+{OSNOVNA ŠOLA},95,0.5523255813953488
+"{srednje trajanje}, {Sum na okužbo}",78,0.45348837209302323
+"{OSNOVNA ŠOLA}, {srednje trajanje}",64,0.37209302325581395
+"{Sum na okužbo}, {srednje trajanje}",78,0.45348837209302323
+"{OSNOVNA ŠOLA}, {Sum na okužbo}",60,0.3488372093023256
+"{srednje trajanje}, {OSNOVNA ŠOLA}",64,0.37209302325581395
+"{Sum na okužbo}, {OSNOVNA ŠOLA}",60,0.3488372093023256
+"{Okužba s Covid-19}, {srednje trajanje}",54,0.313953488372093
+"{srednje trajanje}, {Okužba s Covid-19}",54,0.313953488372093

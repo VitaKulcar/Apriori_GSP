@@ -1,2 +1,128 @@
 Sequence,Support,Relative Frequency
-{srednje},2,1.0
+{srednje trajanje},2,1.0
+{Sum na okužbo},1,0.5
+{Goriška},1,0.5
+{Podravska},1,0.5
+{Drugi delavci},1,0.5
+{Vzgojitelj},1,0.5
+{Okužba s Covid-19},1,0.5
+"{Podravska}, {Drugi delavci}",1,0.5
+"{Sum na okužbo}, {srednje trajanje}",1,0.5
+"{Drugi delavci}, {Okužba s Covid-19}",1,0.5
+"{Goriška}, {Sum na okužbo}",1,0.5
+"{srednje trajanje}, {Vzgojitelj}",1,0.5
+"{Sum na okužbo}, {Goriška}",1,0.5
+"{Drugi delavci}, {Podravska}",1,0.5
+"{srednje trajanje}, {Goriška}",1,0.5
+"{Vzgojitelj}, {srednje trajanje}",1,0.5
+"{Okužba s Covid-19}, {srednje trajanje}",1,0.5
+"{Vzgojitelj}, {Goriška}",1,0.5
+"{Goriška}, {Vzgojitelj}",1,0.5
+"{srednje trajanje}, {Okužba s Covid-19}",1,0.5
+"{Goriška}, {srednje trajanje}",1,0.5
+"{Podravska}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {Podravska}",1,0.5
+"{srednje trajanje}, {Drugi delavci}",1,0.5
+"{srednje trajanje}, {Sum na okužbo}",1,0.5
+"{Okužba s Covid-19}, {Drugi delavci}",1,0.5
+"{Okužba s Covid-19}, {Podravska}",1,0.5
+"{Drugi delavci}, {srednje trajanje}",1,0.5
+"{Podravska}, {Okužba s Covid-19}",1,0.5
+"{Sum na okužbo}, {Vzgojitelj}",1,0.5
+"{Vzgojitelj}, {Sum na okužbo}",1,0.5
+"{Vzgojitelj}, {Goriška}, {Sum na okužbo}",1,0.5
+"{Vzgojitelj}, {Sum na okužbo}, {Goriška}",1,0.5
+"{Okužba s Covid-19}, {Podravska}, {Drugi delavci}",1,0.5
+"{Goriška}, {srednje trajanje}, {Sum na okužbo}",1,0.5
+"{Goriška}, {Sum na okužbo}, {Vzgojitelj}",1,0.5
+"{Drugi delavci}, {Okužba s Covid-19}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {Goriška}, {Vzgojitelj}",1,0.5
+"{Goriška}, {Sum na okužbo}, {srednje trajanje}",1,0.5
+"{Goriška}, {Vzgojitelj}, {Sum na okužbo}",1,0.5
+"{Drugi delavci}, {srednje trajanje}, {Okužba s Covid-19}",1,0.5
+"{Sum na okužbo}, {srednje trajanje}, {Vzgojitelj}",1,0.5
+"{Okužba s Covid-19}, {Drugi delavci}, {Podravska}",1,0.5
+"{srednje trajanje}, {Vzgojitelj}, {Goriška}",1,0.5
+"{Drugi delavci}, {Podravska}, {srednje trajanje}",1,0.5
+"{Vzgojitelj}, {Goriška}, {srednje trajanje}",1,0.5
+"{Drugi delavci}, {srednje trajanje}, {Podravska}",1,0.5
+"{Goriška}, {srednje trajanje}, {Vzgojitelj}",1,0.5
+"{Vzgojitelj}, {srednje trajanje}, {Goriška}",1,0.5
+"{Podravska}, {Okužba s Covid-19}, {srednje trajanje}",1,0.5
+"{Sum na okužbo}, {Goriška}, {Vzgojitelj}",1,0.5
+"{Sum na okužbo}, {srednje trajanje}, {Goriška}",1,0.5
+"{srednje trajanje}, {Okužba s Covid-19}, {Podravska}",1,0.5
+"{Drugi delavci}, {Okužba s Covid-19}, {Podravska}",1,0.5
+"{Sum na okužbo}, {Goriška}, {srednje trajanje}",1,0.5
+"{Drugi delavci}, {Podravska}, {Okužba s Covid-19}",1,0.5
+"{srednje trajanje}, {Okužba s Covid-19}, {Drugi delavci}",1,0.5
+"{Okužba s Covid-19}, {Podravska}, {srednje trajanje}",1,0.5
+"{Podravska}, {srednje trajanje}, {Okužba s Covid-19}",1,0.5
+"{srednje trajanje}, {Drugi delavci}, {Okužba s Covid-19}",1,0.5
+"{Goriška}, {Vzgojitelj}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {Sum na okužbo}, {Vzgojitelj}",1,0.5
+"{srednje trajanje}, {Podravska}, {Okužba s Covid-19}",1,0.5
+"{Sum na okužbo}, {Vzgojitelj}, {srednje trajanje}",1,0.5
+"{Podravska}, {Drugi delavci}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {Vzgojitelj}, {Sum na okužbo}",1,0.5
+"{srednje trajanje}, {Drugi delavci}, {Podravska}",1,0.5
+"{Sum na okužbo}, {Vzgojitelj}, {Goriška}",1,0.5
+"{Okužba s Covid-19}, {srednje trajanje}, {Drugi delavci}",1,0.5
+"{Okužba s Covid-19}, {srednje trajanje}, {Podravska}",1,0.5
+"{Podravska}, {srednje trajanje}, {Drugi delavci}",1,0.5
+"{Okužba s Covid-19}, {Drugi delavci}, {srednje trajanje}",1,0.5
+"{Podravska}, {Okužba s Covid-19}, {Drugi delavci}",1,0.5
+"{srednje trajanje}, {Sum na okužbo}, {Goriška}",1,0.5
+"{srednje trajanje}, {Goriška}, {Sum na okužbo}",1,0.5
+"{srednje trajanje}, {Podravska}, {Drugi delavci}",1,0.5
+"{Vzgojitelj}, {Sum na okužbo}, {srednje trajanje}",1,0.5
+"{Podravska}, {Drugi delavci}, {Okužba s Covid-19}",1,0.5
+"{Vzgojitelj}, {srednje trajanje}, {Sum na okužbo}",1,0.5
+"{srednje trajanje}, {Okužba s Covid-19}, {Drugi delavci}, {Podravska}",1,0.5
+"{srednje trajanje}, {Goriška}, {Sum na okužbo}, {Vzgojitelj}",1,0.5
+"{Sum na okužbo}, {Vzgojitelj}, {srednje trajanje}, {Goriška}",1,0.5
+"{srednje trajanje}, {Okužba s Covid-19}, {Podravska}, {Drugi delavci}",1,0.5
+"{srednje trajanje}, {Goriška}, {Vzgojitelj}, {Sum na okužbo}",1,0.5
+"{srednje trajanje}, {Drugi delavci}, {Podravska}, {Okužba s Covid-19}",1,0.5
+"{Vzgojitelj}, {Goriška}, {srednje trajanje}, {Sum na okužbo}",1,0.5
+"{srednje trajanje}, {Vzgojitelj}, {Goriška}, {Sum na okužbo}",1,0.5
+"{Okužba s Covid-19}, {Drugi delavci}, {srednje trajanje}, {Podravska}",1,0.5
+"{Podravska}, {Drugi delavci}, {Okužba s Covid-19}, {srednje trajanje}",1,0.5
+"{Podravska}, {Drugi delavci}, {srednje trajanje}, {Okužba s Covid-19}",1,0.5
+"{Sum na okužbo}, {Vzgojitelj}, {Goriška}, {srednje trajanje}",1,0.5
+"{Vzgojitelj}, {Goriška}, {Sum na okužbo}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {Podravska}, {Okužba s Covid-19}, {Drugi delavci}",1,0.5
+"{Drugi delavci}, {Podravska}, {srednje trajanje}, {Okužba s Covid-19}",1,0.5
+"{Goriška}, {srednje trajanje}, {Vzgojitelj}, {Sum na okužbo}",1,0.5
+"{Podravska}, {Okužba s Covid-19}, {srednje trajanje}, {Drugi delavci}",1,0.5
+"{srednje trajanje}, {Podravska}, {Drugi delavci}, {Okužba s Covid-19}",1,0.5
+"{srednje trajanje}, {Vzgojitelj}, {Sum na okužbo}, {Goriška}",1,0.5
+"{Goriška}, {srednje trajanje}, {Sum na okužbo}, {Vzgojitelj}",1,0.5
+"{Drugi delavci}, {srednje trajanje}, {Okužba s Covid-19}, {Podravska}",1,0.5
+"{srednje trajanje}, {Sum na okužbo}, {Goriška}, {Vzgojitelj}",1,0.5
+"{Podravska}, {Okužba s Covid-19}, {Drugi delavci}, {srednje trajanje}",1,0.5
+"{Drugi delavci}, {srednje trajanje}, {Podravska}, {Okužba s Covid-19}",1,0.5
+"{Podravska}, {srednje trajanje}, {Okužba s Covid-19}, {Drugi delavci}",1,0.5
+"{Sum na okužbo}, {Goriška}, {srednje trajanje}, {Vzgojitelj}",1,0.5
+"{Goriška}, {Sum na okužbo}, {srednje trajanje}, {Vzgojitelj}",1,0.5
+"{Drugi delavci}, {Podravska}, {Okužba s Covid-19}, {srednje trajanje}",1,0.5
+"{Okužba s Covid-19}, {Podravska}, {srednje trajanje}, {Drugi delavci}",1,0.5
+"{Goriška}, {Vzgojitelj}, {srednje trajanje}, {Sum na okužbo}",1,0.5
+"{Okužba s Covid-19}, {Podravska}, {Drugi delavci}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {Sum na okužbo}, {Vzgojitelj}, {Goriška}",1,0.5
+"{Sum na okužbo}, {srednje trajanje}, {Goriška}, {Vzgojitelj}",1,0.5
+"{Goriška}, {Vzgojitelj}, {Sum na okužbo}, {srednje trajanje}",1,0.5
+"{Vzgojitelj}, {Sum na okužbo}, {srednje trajanje}, {Goriška}",1,0.5
+"{Vzgojitelj}, {Sum na okužbo}, {Goriška}, {srednje trajanje}",1,0.5
+"{Podravska}, {srednje trajanje}, {Drugi delavci}, {Okužba s Covid-19}",1,0.5
+"{Sum na okužbo}, {Goriška}, {Vzgojitelj}, {srednje trajanje}",1,0.5
+"{Goriška}, {Sum na okužbo}, {Vzgojitelj}, {srednje trajanje}",1,0.5
+"{Drugi delavci}, {Okužba s Covid-19}, {Podravska}, {srednje trajanje}",1,0.5
+"{Drugi delavci}, {Okužba s Covid-19}, {srednje trajanje}, {Podravska}",1,0.5
+"{Okužba s Covid-19}, {srednje trajanje}, {Podravska}, {Drugi delavci}",1,0.5
+"{Vzgojitelj}, {srednje trajanje}, {Goriška}, {Sum na okužbo}",1,0.5
+"{Vzgojitelj}, {srednje trajanje}, {Sum na okužbo}, {Goriška}",1,0.5
+"{Sum na okužbo}, {srednje trajanje}, {Vzgojitelj}, {Goriška}",1,0.5
+"{Okužba s Covid-19}, {Drugi delavci}, {Podravska}, {srednje trajanje}",1,0.5
+"{Okužba s Covid-19}, {srednje trajanje}, {Drugi delavci}, {Podravska}",1,0.5
+"{srednje trajanje}, {Drugi delavci}, {Okužba s Covid-19}, {Podravska}",1,0.5

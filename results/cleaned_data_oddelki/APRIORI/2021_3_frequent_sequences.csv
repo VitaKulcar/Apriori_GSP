@@ -1,4 +1,10 @@
 Sequence,Support,Relative Frequency
-{srednje},11,1.0
-{malo},11,1.0
-"{malo}, {srednje}",10,0.9090909090909091
+{zelo malo},38,0.7037037037037037
+{srednje trajanje},41,0.7592592592592593
+{VRTEC},32,0.5925925925925926
+"{srednje trajanje}, {VRTEC}",26,0.48148148148148145
+"{VRTEC}, {srednje trajanje}",26,0.48148148148148145
+"{srednje trajanje}, {zelo malo}",27,0.5
+"{zelo malo}, {srednje trajanje}",27,0.5
+"{zelo malo}, {VRTEC}",21,0.3888888888888889
+"{VRTEC}, {zelo malo}",21,0.3888888888888889

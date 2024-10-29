@@ -1,16 +1,1 @@
 Sequence,Support,Relative Frequency
-{Okužba s Covid-19 pri vzgojitelju},3,0.75
-{malo},4,1.0
-{VRTEC},4,1.0
-{srednje},4,1.0
-"{VRTEC, malo}",4,1.0
-"{Okužba s Covid-19 pri vzgojitelju, malo}",3,0.75
-"{Okužba s Covid-19 pri vzgojitelju, VRTEC}",3,0.75
-"{malo, srednje}",4,1.0
-"{Okužba s Covid-19 pri vzgojitelju, srednje}",3,0.75
-"{VRTEC, srednje}",4,1.0
-"{Okužba s Covid-19 pri vzgojitelju, VRTEC, malo}",3,0.75
-"{VRTEC, malo, srednje}",4,1.0
-"{Okužba s Covid-19 pri vzgojitelju, malo, srednje}",3,0.75
-"{Okužba s Covid-19 pri vzgojitelju, VRTEC, srednje}",3,0.75
-"{Okužba s Covid-19 pri vzgojitelju, VRTEC, malo, srednje}",3,0.75

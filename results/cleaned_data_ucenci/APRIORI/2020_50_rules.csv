@@ -1,1 +1,16 @@
 Rule,Confidence
+{srednje trajanje} => {VRTEC},0.7037037037037037
+{VRTEC} => {srednje trajanje},1.0
+{srednje trajanje} => {Sum na okužbo},0.7407407407407407
+{Sum na okužbo} => {srednje trajanje},1.0
+{VRTEC} => {Sum na okužbo},0.7894736842105263
+{Sum na okužbo} => {VRTEC},0.75
+"{srednje trajanje} => {Sum na okužbo}, {VRTEC}",0.5555555555555556
+"{VRTEC} => {Sum na okužbo}, {srednje trajanje}",0.7894736842105263
+"{Sum na okužbo} => {VRTEC}, {srednje trajanje}",0.75
+"{srednje trajanje}, {VRTEC} => {Sum na okužbo}",0.7894736842105263
+"{srednje trajanje}, {Sum na okužbo} => {VRTEC}",0.75
+"{VRTEC}, {Sum na okužbo} => {srednje trajanje}",1.0
+"{Sum na okužbo}, {VRTEC} => {srednje trajanje}",1.0
+"{VRTEC}, {srednje trajanje} => {Sum na okužbo}",0.7894736842105263
+"{Sum na okužbo}, {srednje trajanje} => {VRTEC}",0.75

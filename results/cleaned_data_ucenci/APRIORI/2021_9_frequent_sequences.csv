@@ -1,33 +1,13 @@
 Sequence,Support,Relative Frequency
-{kratko},11,0.9166666666666666
-{VRTEC},9,0.75
-{SREDNJA ŠOLA},11,0.9166666666666666
-{Okužba s Covid-19},12,1.0
-{Sum na okužbo},12,1.0
-{srednje},12,1.0
-{OSNOVNA ŠOLA},12,1.0
-"{Okužba s Covid-19}, {kratko}",9,0.75
-"{OSNOVNA ŠOLA}, {VRTEC}",9,0.75
-"{kratko}, {srednje}",11,0.9166666666666666
-"{OSNOVNA ŠOLA}, {Sum na okužbo}",11,0.9166666666666666
-"{Okužba s Covid-19}, {SREDNJA ŠOLA}",10,0.8333333333333334
-"{OSNOVNA ŠOLA}, {srednje}",12,1.0
-"{Sum na okužbo}, {srednje}",12,1.0
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19}",12,1.0
-"{SREDNJA ŠOLA}, {Sum na okužbo}",9,0.75
-"{SREDNJA ŠOLA}, {srednje}",9,0.75
-"{Okužba s Covid-19}, {Sum na okužbo}",12,1.0
-"{Okužba s Covid-19}, {srednje}",12,1.0
-"{Sum na okužbo}, {kratko}",10,0.8333333333333334
-"{OSNOVNA ŠOLA}, {SREDNJA ŠOLA}",10,0.8333333333333334
-"{OSNOVNA ŠOLA}, {kratko}",9,0.75
-"{Sum na okužbo}, {VRTEC}",9,0.75
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19}, {kratko}",9,0.75
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19}, {Sum na okužbo}",11,0.9166666666666666
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19}, {srednje}",11,0.9166666666666666
-"{OSNOVNA ŠOLA}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
-"{Sum na okužbo}, {kratko}, {srednje}",10,0.8333333333333334
-"{OSNOVNA ŠOLA}, {kratko}, {srednje}",9,0.75
-"{Okužba s Covid-19}, {Sum na okužbo}, {srednje}",12,1.0
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19}, {SREDNJA ŠOLA}",10,0.8333333333333334
-"{OSNOVNA ŠOLA}, {Okužba s Covid-19}, {Sum na okužbo}, {srednje}",11,0.9166666666666666
+{Sum na okužbo},172,0.6013986013986014
+{srednje trajanje},200,0.6993006993006993
+{Okužba s Covid-19},114,0.3986013986013986
+{OSNOVNA ŠOLA},173,0.6048951048951049
+"{srednje trajanje}, {Sum na okužbo}",114,0.3986013986013986
+"{OSNOVNA ŠOLA}, {srednje trajanje}",110,0.38461538461538464
+"{Sum na okužbo}, {srednje trajanje}",114,0.3986013986013986
+"{OSNOVNA ŠOLA}, {Sum na okužbo}",102,0.35664335664335667
+"{srednje trajanje}, {OSNOVNA ŠOLA}",110,0.38461538461538464
+"{Sum na okužbo}, {OSNOVNA ŠOLA}",102,0.35664335664335667
+"{Okužba s Covid-19}, {srednje trajanje}",86,0.3006993006993007
+"{srednje trajanje}, {Okužba s Covid-19}",86,0.3006993006993007

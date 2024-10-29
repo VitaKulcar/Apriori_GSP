@@ -1,7 +1,3 @@
 Rule,Confidence
-{Okužba s Covid-19} => {Vzgojitelj},0.8181818181818182
-{Vzgojitelj} => {Okužba s Covid-19},1.0
-{Okužba s Covid-19} => {Sum na okužbo},0.8181818181818182
-{Sum na okužbo} => {Okužba s Covid-19},1.0
-{Okužba s Covid-19} => {srednje},0.9090909090909091
-{srednje} => {Okužba s Covid-19},0.9090909090909091
+{Okužba s Covid-19} => {srednje trajanje},0.8518518518518519
+{srednje trajanje} => {Okužba s Covid-19},0.69

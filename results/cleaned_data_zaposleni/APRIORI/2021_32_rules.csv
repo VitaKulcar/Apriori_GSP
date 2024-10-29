@@ -1,1 +1,9 @@
 Rule,Confidence
+{srednje trajanje} => {Sum na okužbo},0.5
+{Sum na okužbo} => {srednje trajanje},1.0
+{Drugi delavci} => {srednje trajanje},1.0
+{srednje trajanje} => {Drugi delavci},0.5
+{Okužba s Covid-19} => {srednje trajanje},1.0
+{srednje trajanje} => {Okužba s Covid-19},0.5
+{srednje trajanje} => {Osrednjeslovenska},0.5
+{Osrednjeslovenska} => {srednje trajanje},1.0

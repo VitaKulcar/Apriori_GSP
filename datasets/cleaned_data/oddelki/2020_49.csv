@@ -1,11 +1,12 @@
-REGIJA,OBDOBJE,STEV_UCENCEV,VZROK,TRAJANJE
-Osrednjeslovenska,VRTEC,malo,Okužba pri delavcu,srednje
-Osrednjeslovenska,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje
-Primorsko-notranjska,VRTEC,malo,Sum na okužbo s Covid-19 pri otroku ali več otrocih skupine,srednje
-Jugovzhodna Slovenija,VRTEC,srednje,Okužba s Covid-19 pri otroku ali več otrocih skupine,srednje
-Gorenjska,VRTEC,malo,Sum na okužbo s Covid-19 pri učitelju,kratko
-Savinjska,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,kratko
-Primorsko-notranjska,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje
-Pomurska,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje
-Podravska,VRTEC,malo,Okužba pri delavcu,srednje
-Osrednjeslovenska,VRTEC,srednje,Okužba pri delavcu,kratko
+VNOS,REGIJA,OBDOBJE,STEV_UCENCEV,VZROK,TRAJANJE
+2020-11-30,Osrednja Slovenija,VRTEC,zelo malo,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2020-11-30,Osrednja Slovenija,VRTEC,zelo malo,Okužba pri delavcu,srednje trajanje
+2020-12-01,Vzhodna Slovenija,VRTEC,srednje,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2020-12-01,Zahodna Slovenija,VRTEC,zelo malo,Sum na okužbo pri otroku / učencu / dijaku,srednje trajanje
+2020-12-01,Zahodna Slovenija,VRTEC,zelo malo,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2020-12-01,Osrednja Slovenija,VRTEC,zelo malo,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2020-12-01,Zahodna Slovenija,VRTEC,zelo malo,Sum na okužbo s Covid-19 pri učitelju,kratko trajanje
+2020-12-01,Severna Slovenija,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,kratko trajanje
+2020-12-03,Vzhodna Slovenija,VRTEC,zelo malo,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2020-12-04,Vzhodna Slovenija,VRTEC,zelo malo,Okužba pri delavcu,srednje trajanje
+2020-12-05,Osrednja Slovenija,VRTEC,malo,Okužba pri delavcu,kratko trajanje

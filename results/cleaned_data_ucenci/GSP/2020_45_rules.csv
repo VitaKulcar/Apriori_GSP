@@ -1,4 +1,1 @@
 Rule,Confidence
-{srednje} => {Okužba s Covid-19},1.0
-{srednje} => {srednje},0.8571428571428571
-"{srednje} => {Okužba s Covid-19, srednje}",0.8571428571428571

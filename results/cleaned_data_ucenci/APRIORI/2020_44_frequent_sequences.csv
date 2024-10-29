@@ -1,7 +1,19 @@
 Sequence,Support,Relative Frequency
-{VRTEC},10,1.0
-{Okužba s Covid-19},9,0.9
-{Sum na okužbo},10,1.0
-{srednje},9,0.9
-{OSNOVNA ŠOLA},8,0.8
-"{Sum na okužbo}, {srednje}",8,0.8
+{srednje trajanje},53,0.8412698412698413
+{VRTEC},28,0.4444444444444444
+{Sum na okužbo},27,0.42857142857142855
+{OSNOVNA ŠOLA},27,0.42857142857142855
+{Osrednjeslovenska},21,0.3333333333333333
+{Okužba s Covid-19},36,0.5714285714285714
+"{srednje trajanje}, {VRTEC}",26,0.4126984126984127
+"{srednje trajanje}, {Sum na okužbo}",23,0.36507936507936506
+"{Okužba s Covid-19}, {OSNOVNA ŠOLA}",20,0.31746031746031744
+"{VRTEC}, {srednje trajanje}",26,0.4126984126984127
+"{OSNOVNA ŠOLA}, {Okužba s Covid-19}",20,0.31746031746031744
+"{VRTEC}, {Sum na okužbo}",19,0.30158730158730157
+"{srednje trajanje}, {OSNOVNA ŠOLA}",22,0.3492063492063492
+"{Sum na okužbo}, {VRTEC}",19,0.30158730158730157
+"{Sum na okužbo}, {srednje trajanje}",23,0.36507936507936506
+"{OSNOVNA ŠOLA}, {srednje trajanje}",22,0.3492063492063492
+"{Okužba s Covid-19}, {srednje trajanje}",30,0.47619047619047616
+"{srednje trajanje}, {Okužba s Covid-19}",30,0.47619047619047616

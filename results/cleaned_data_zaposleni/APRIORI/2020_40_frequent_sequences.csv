@@ -1,5 +1,10 @@
 Sequence,Support,Relative Frequency
-{kratko},8,0.8
-{Učitelj},10,1.0
-{srednje},9,0.9
-{Sum na okužbo},10,1.0
+{Sum na okužbo},40,0.7142857142857143
+{Učitelj},31,0.5535714285714286
+{srednje trajanje},36,0.6428571428571429
+"{srednje trajanje}, {Sum na okužbo}",24,0.42857142857142855
+"{Učitelj}, {srednje trajanje}",18,0.32142857142857145
+"{srednje trajanje}, {Učitelj}",18,0.32142857142857145
+"{Učitelj}, {Sum na okužbo}",23,0.4107142857142857
+"{Sum na okužbo}, {srednje trajanje}",24,0.42857142857142855
+"{Sum na okužbo}, {Učitelj}",23,0.4107142857142857

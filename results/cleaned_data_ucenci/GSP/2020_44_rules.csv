@@ -1,12 +1,1 @@
 Rule,Confidence
-{Sum na okužbo} => {Okužba s Covid-19},0.9
-{Sum na okužbo} => {srednje},0.8
-{srednje} => {Okužba s Covid-19},0.8888888888888888
-{srednje} => {srednje},0.8888888888888888
-{VRTEC} => {Okužba s Covid-19},0.8
-"{Sum na okužbo} => {Okužba s Covid-19, srednje}",0.8
-"{Sum na okužbo, VRTEC} => {Okužba s Covid-19}",0.8
-"{srednje} => {Okužba s Covid-19, srednje}",0.8888888888888888
-"{Sum na okužbo, srednje} => {Okužba s Covid-19}",0.8888888888888888
-"{Sum na okužbo, srednje} => {srednje}",0.8888888888888888
-"{Sum na okužbo, srednje} => {Okužba s Covid-19, srednje}",0.8888888888888888

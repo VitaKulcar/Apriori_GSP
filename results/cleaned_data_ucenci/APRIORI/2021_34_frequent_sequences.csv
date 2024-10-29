@@ -1,2 +1,65 @@
 Sequence,Support,Relative Frequency
-{srednje},3,1.0
+{srednje trajanje},5,1.0
+{SREDNJA ŠOLA},4,0.8
+{Okužba s Covid-19},4,0.8
+{Osrednjeslovenska},3,0.6
+"{srednje trajanje}, {SREDNJA ŠOLA}",4,0.8
+"{Okužba s Covid-19}, {Osrednjeslovenska}",3,0.6
+"{SREDNJA ŠOLA}, {Osrednjeslovenska}",3,0.6
+"{Okužba s Covid-19}, {SREDNJA ŠOLA}",4,0.8
+"{Okužba s Covid-19}, {srednje trajanje}",4,0.8
+"{SREDNJA ŠOLA}, {Okužba s Covid-19}",4,0.8
+"{SREDNJA ŠOLA}, {srednje trajanje}",4,0.8
+"{srednje trajanje}, {Osrednjeslovenska}",3,0.6
+"{Osrednjeslovenska}, {Okužba s Covid-19}",3,0.6
+"{Osrednjeslovenska}, {srednje trajanje}",3,0.6
+"{Osrednjeslovenska}, {SREDNJA ŠOLA}",3,0.6
+"{srednje trajanje}, {Okužba s Covid-19}",4,0.8
+"{Osrednjeslovenska}, {SREDNJA ŠOLA}, {Okužba s Covid-19}",3,0.6
+"{srednje trajanje}, {Osrednjeslovenska}, {Okužba s Covid-19}",3,0.6
+"{SREDNJA ŠOLA}, {Osrednjeslovenska}, {Okužba s Covid-19}",3,0.6
+"{srednje trajanje}, {Osrednjeslovenska}, {SREDNJA ŠOLA}",3,0.6
+"{Okužba s Covid-19}, {srednje trajanje}, {Osrednjeslovenska}",3,0.6
+"{SREDNJA ŠOLA}, {Okužba s Covid-19}, {srednje trajanje}",4,0.8
+"{srednje trajanje}, {SREDNJA ŠOLA}, {Osrednjeslovenska}",3,0.6
+"{Okužba s Covid-19}, {Osrednjeslovenska}, {srednje trajanje}",3,0.6
+"{SREDNJA ŠOLA}, {srednje trajanje}, {Okužba s Covid-19}",4,0.8
+"{Osrednjeslovenska}, {Okužba s Covid-19}, {srednje trajanje}",3,0.6
+"{srednje trajanje}, {Okužba s Covid-19}, {SREDNJA ŠOLA}",4,0.8
+"{Osrednjeslovenska}, {srednje trajanje}, {Okužba s Covid-19}",3,0.6
+"{Okužba s Covid-19}, {Osrednjeslovenska}, {SREDNJA ŠOLA}",3,0.6
+"{Osrednjeslovenska}, {srednje trajanje}, {SREDNJA ŠOLA}",3,0.6
+"{Okužba s Covid-19}, {SREDNJA ŠOLA}, {Osrednjeslovenska}",3,0.6
+"{Osrednjeslovenska}, {Okužba s Covid-19}, {SREDNJA ŠOLA}",3,0.6
+"{Okužba s Covid-19}, {srednje trajanje}, {SREDNJA ŠOLA}",4,0.8
+"{srednje trajanje}, {SREDNJA ŠOLA}, {Okužba s Covid-19}",4,0.8
+"{SREDNJA ŠOLA}, {Osrednjeslovenska}, {srednje trajanje}",3,0.6
+"{SREDNJA ŠOLA}, {srednje trajanje}, {Osrednjeslovenska}",3,0.6
+"{Osrednjeslovenska}, {SREDNJA ŠOLA}, {srednje trajanje}",3,0.6
+"{srednje trajanje}, {Okužba s Covid-19}, {Osrednjeslovenska}",3,0.6
+"{Okužba s Covid-19}, {SREDNJA ŠOLA}, {srednje trajanje}",4,0.8
+"{SREDNJA ŠOLA}, {Okužba s Covid-19}, {Osrednjeslovenska}",3,0.6
+"{SREDNJA ŠOLA}, {Osrednjeslovenska}, {srednje trajanje}, {Okužba s Covid-19}",3,0.6
+"{srednje trajanje}, {Osrednjeslovenska}, {Okužba s Covid-19}, {SREDNJA ŠOLA}",3,0.6
+"{SREDNJA ŠOLA}, {Okužba s Covid-19}, {srednje trajanje}, {Osrednjeslovenska}",3,0.6
+"{Okužba s Covid-19}, {srednje trajanje}, {Osrednjeslovenska}, {SREDNJA ŠOLA}",3,0.6
+"{Okužba s Covid-19}, {Osrednjeslovenska}, {srednje trajanje}, {SREDNJA ŠOLA}",3,0.6
+"{Okužba s Covid-19}, {SREDNJA ŠOLA}, {Osrednjeslovenska}, {srednje trajanje}",3,0.6
+"{Okužba s Covid-19}, {srednje trajanje}, {SREDNJA ŠOLA}, {Osrednjeslovenska}",3,0.6
+"{SREDNJA ŠOLA}, {Okužba s Covid-19}, {Osrednjeslovenska}, {srednje trajanje}",3,0.6
+"{srednje trajanje}, {SREDNJA ŠOLA}, {Okužba s Covid-19}, {Osrednjeslovenska}",3,0.6
+"{SREDNJA ŠOLA}, {srednje trajanje}, {Okužba s Covid-19}, {Osrednjeslovenska}",3,0.6
+"{Osrednjeslovenska}, {srednje trajanje}, {Okužba s Covid-19}, {SREDNJA ŠOLA}",3,0.6
+"{srednje trajanje}, {SREDNJA ŠOLA}, {Osrednjeslovenska}, {Okužba s Covid-19}",3,0.6
+"{SREDNJA ŠOLA}, {srednje trajanje}, {Osrednjeslovenska}, {Okužba s Covid-19}",3,0.6
+"{srednje trajanje}, {Osrednjeslovenska}, {SREDNJA ŠOLA}, {Okužba s Covid-19}",3,0.6
+"{Okužba s Covid-19}, {Osrednjeslovenska}, {SREDNJA ŠOLA}, {srednje trajanje}",3,0.6
+"{srednje trajanje}, {Okužba s Covid-19}, {Osrednjeslovenska}, {SREDNJA ŠOLA}",3,0.6
+"{srednje trajanje}, {Okužba s Covid-19}, {SREDNJA ŠOLA}, {Osrednjeslovenska}",3,0.6
+"{Osrednjeslovenska}, {SREDNJA ŠOLA}, {srednje trajanje}, {Okužba s Covid-19}",3,0.6
+"{Osrednjeslovenska}, {SREDNJA ŠOLA}, {Okužba s Covid-19}, {srednje trajanje}",3,0.6
+"{Osrednjeslovenska}, {Okužba s Covid-19}, {srednje trajanje}, {SREDNJA ŠOLA}",3,0.6
+"{Osrednjeslovenska}, {srednje trajanje}, {SREDNJA ŠOLA}, {Okužba s Covid-19}",3,0.6
+"{SREDNJA ŠOLA}, {Osrednjeslovenska}, {Okužba s Covid-19}, {srednje trajanje}",3,0.6
+"{Osrednjeslovenska}, {Okužba s Covid-19}, {SREDNJA ŠOLA}, {srednje trajanje}",3,0.6
+"{Okužba s Covid-19}, {SREDNJA ŠOLA}, {srednje trajanje}, {Osrednjeslovenska}",3,0.6

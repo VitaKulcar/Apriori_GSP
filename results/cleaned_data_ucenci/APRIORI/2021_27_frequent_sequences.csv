@@ -1,2 +1,128 @@
 Sequence,Support,Relative Frequency
-{srednje},2,1.0
+{srednje trajanje},2,1.0
+{SREDNJA ŠOLA},1,0.5
+{Sum na okužbo},1,0.5
+{VRTEC},1,0.5
+{Jugovzhodna Slovenija},1,0.5
+{Pomurska},1,0.5
+{Okužba s Covid-19},1,0.5
+"{VRTEC}, {srednje trajanje}",1,0.5
+"{Sum na okužbo}, {srednje trajanje}",1,0.5
+"{Sum na okužbo}, {VRTEC}",1,0.5
+"{Jugovzhodna Slovenija}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {VRTEC}",1,0.5
+"{srednje trajanje}, {Jugovzhodna Slovenija}",1,0.5
+"{Pomurska}, {Sum na okužbo}",1,0.5
+"{Okužba s Covid-19}, {srednje trajanje}",1,0.5
+"{Jugovzhodna Slovenija}, {Okužba s Covid-19}",1,0.5
+"{srednje trajanje}, {Okužba s Covid-19}",1,0.5
+"{Jugovzhodna Slovenija}, {SREDNJA ŠOLA}",1,0.5
+"{srednje trajanje}, {SREDNJA ŠOLA}",1,0.5
+"{VRTEC}, {Pomurska}",1,0.5
+"{Sum na okužbo}, {Pomurska}",1,0.5
+"{VRTEC}, {Sum na okužbo}",1,0.5
+"{Okužba s Covid-19}, {Jugovzhodna Slovenija}",1,0.5
+"{SREDNJA ŠOLA}, {srednje trajanje}",1,0.5
+"{Okužba s Covid-19}, {SREDNJA ŠOLA}",1,0.5
+"{srednje trajanje}, {Pomurska}",1,0.5
+"{srednje trajanje}, {Sum na okužbo}",1,0.5
+"{SREDNJA ŠOLA}, {Jugovzhodna Slovenija}",1,0.5
+"{Pomurska}, {srednje trajanje}",1,0.5
+"{Pomurska}, {VRTEC}",1,0.5
+"{SREDNJA ŠOLA}, {Okužba s Covid-19}",1,0.5
+"{Pomurska}, {Sum na okužbo}, {srednje trajanje}",1,0.5
+"{Pomurska}, {Sum na okužbo}, {VRTEC}",1,0.5
+"{VRTEC}, {srednje trajanje}, {Pomurska}",1,0.5
+"{VRTEC}, {Pomurska}, {srednje trajanje}",1,0.5
+"{Okužba s Covid-19}, {SREDNJA ŠOLA}, {Jugovzhodna Slovenija}",1,0.5
+"{Sum na okužbo}, {Pomurska}, {srednje trajanje}",1,0.5
+"{VRTEC}, {srednje trajanje}, {Sum na okužbo}",1,0.5
+"{Sum na okužbo}, {Pomurska}, {VRTEC}",1,0.5
+"{srednje trajanje}, {Pomurska}, {Sum na okužbo}",1,0.5
+"{Pomurska}, {srednje trajanje}, {VRTEC}",1,0.5
+"{VRTEC}, {Sum na okužbo}, {srednje trajanje}",1,0.5
+"{SREDNJA ŠOLA}, {Jugovzhodna Slovenija}, {srednje trajanje}",1,0.5
+"{SREDNJA ŠOLA}, {Okužba s Covid-19}, {srednje trajanje}",1,0.5
+"{Jugovzhodna Slovenija}, {Okužba s Covid-19}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {Sum na okužbo}, {Pomurska}",1,0.5
+"{srednje trajanje}, {Okužba s Covid-19}, {Jugovzhodna Slovenija}",1,0.5
+"{SREDNJA ŠOLA}, {srednje trajanje}, {Jugovzhodna Slovenija}",1,0.5
+"{SREDNJA ŠOLA}, {Okužba s Covid-19}, {Jugovzhodna Slovenija}",1,0.5
+"{Sum na okužbo}, {VRTEC}, {srednje trajanje}",1,0.5
+"{SREDNJA ŠOLA}, {srednje trajanje}, {Okužba s Covid-19}",1,0.5
+"{srednje trajanje}, {VRTEC}, {Pomurska}",1,0.5
+"{srednje trajanje}, {Jugovzhodna Slovenija}, {Okužba s Covid-19}",1,0.5
+"{Sum na okužbo}, {srednje trajanje}, {VRTEC}",1,0.5
+"{srednje trajanje}, {Jugovzhodna Slovenija}, {SREDNJA ŠOLA}",1,0.5
+"{Jugovzhodna Slovenija}, {srednje trajanje}, {Okužba s Covid-19}",1,0.5
+"{SREDNJA ŠOLA}, {Jugovzhodna Slovenija}, {Okužba s Covid-19}",1,0.5
+"{srednje trajanje}, {Okužba s Covid-19}, {SREDNJA ŠOLA}",1,0.5
+"{Pomurska}, {VRTEC}, {Sum na okužbo}",1,0.5
+"{Okužba s Covid-19}, {Jugovzhodna Slovenija}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {VRTEC}, {Sum na okužbo}",1,0.5
+"{Jugovzhodna Slovenija}, {srednje trajanje}, {SREDNJA ŠOLA}",1,0.5
+"{VRTEC}, {Pomurska}, {Sum na okužbo}",1,0.5
+"{Jugovzhodna Slovenija}, {Okužba s Covid-19}, {SREDNJA ŠOLA}",1,0.5
+"{Okužba s Covid-19}, {srednje trajanje}, {Jugovzhodna Slovenija}",1,0.5
+"{srednje trajanje}, {Pomurska}, {VRTEC}",1,0.5
+"{VRTEC}, {Sum na okužbo}, {Pomurska}",1,0.5
+"{Jugovzhodna Slovenija}, {SREDNJA ŠOLA}, {srednje trajanje}",1,0.5
+"{Pomurska}, {srednje trajanje}, {Sum na okužbo}",1,0.5
+"{srednje trajanje}, {SREDNJA ŠOLA}, {Jugovzhodna Slovenija}",1,0.5
+"{Okužba s Covid-19}, {srednje trajanje}, {SREDNJA ŠOLA}",1,0.5
+"{Okužba s Covid-19}, {Jugovzhodna Slovenija}, {SREDNJA ŠOLA}",1,0.5
+"{srednje trajanje}, {SREDNJA ŠOLA}, {Okužba s Covid-19}",1,0.5
+"{srednje trajanje}, {Sum na okužbo}, {VRTEC}",1,0.5
+"{Sum na okužbo}, {VRTEC}, {Pomurska}",1,0.5
+"{Jugovzhodna Slovenija}, {SREDNJA ŠOLA}, {Okužba s Covid-19}",1,0.5
+"{Okužba s Covid-19}, {SREDNJA ŠOLA}, {srednje trajanje}",1,0.5
+"{Sum na okužbo}, {srednje trajanje}, {Pomurska}",1,0.5
+"{Pomurska}, {VRTEC}, {srednje trajanje}",1,0.5
+"{VRTEC}, {Sum na okužbo}, {srednje trajanje}, {Pomurska}",1,0.5
+"{VRTEC}, {Pomurska}, {srednje trajanje}, {Sum na okužbo}",1,0.5
+"{VRTEC}, {Pomurska}, {Sum na okužbo}, {srednje trajanje}",1,0.5
+"{Okužba s Covid-19}, {SREDNJA ŠOLA}, {Jugovzhodna Slovenija}, {srednje trajanje}",1,0.5
+"{Jugovzhodna Slovenija}, {srednje trajanje}, {SREDNJA ŠOLA}, {Okužba s Covid-19}",1,0.5
+"{VRTEC}, {Sum na okužbo}, {Pomurska}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {Jugovzhodna Slovenija}, {SREDNJA ŠOLA}, {Okužba s Covid-19}",1,0.5
+"{Pomurska}, {srednje trajanje}, {Sum na okužbo}, {VRTEC}",1,0.5
+"{Okužba s Covid-19}, {SREDNJA ŠOLA}, {srednje trajanje}, {Jugovzhodna Slovenija}",1,0.5
+"{Pomurska}, {VRTEC}, {srednje trajanje}, {Sum na okužbo}",1,0.5
+"{SREDNJA ŠOLA}, {Okužba s Covid-19}, {Jugovzhodna Slovenija}, {srednje trajanje}",1,0.5
+"{Okužba s Covid-19}, {srednje trajanje}, {Jugovzhodna Slovenija}, {SREDNJA ŠOLA}",1,0.5
+"{Sum na okužbo}, {Pomurska}, {VRTEC}, {srednje trajanje}",1,0.5
+"{SREDNJA ŠOLA}, {Okužba s Covid-19}, {srednje trajanje}, {Jugovzhodna Slovenija}",1,0.5
+"{SREDNJA ŠOLA}, {Jugovzhodna Slovenija}, {Okužba s Covid-19}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {Pomurska}, {VRTEC}, {Sum na okužbo}",1,0.5
+"{srednje trajanje}, {Sum na okužbo}, {VRTEC}, {Pomurska}",1,0.5
+"{srednje trajanje}, {Okužba s Covid-19}, {Jugovzhodna Slovenija}, {SREDNJA ŠOLA}",1,0.5
+"{Pomurska}, {Sum na okužbo}, {VRTEC}, {srednje trajanje}",1,0.5
+"{Okužba s Covid-19}, {Jugovzhodna Slovenija}, {srednje trajanje}, {SREDNJA ŠOLA}",1,0.5
+"{Pomurska}, {VRTEC}, {Sum na okužbo}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {SREDNJA ŠOLA}, {Jugovzhodna Slovenija}, {Okužba s Covid-19}",1,0.5
+"{Sum na okužbo}, {Pomurska}, {srednje trajanje}, {VRTEC}",1,0.5
+"{SREDNJA ŠOLA}, {srednje trajanje}, {Jugovzhodna Slovenija}, {Okužba s Covid-19}",1,0.5
+"{SREDNJA ŠOLA}, {Jugovzhodna Slovenija}, {srednje trajanje}, {Okužba s Covid-19}",1,0.5
+"{Jugovzhodna Slovenija}, {SREDNJA ŠOLA}, {srednje trajanje}, {Okužba s Covid-19}",1,0.5
+"{Okužba s Covid-19}, {srednje trajanje}, {SREDNJA ŠOLA}, {Jugovzhodna Slovenija}",1,0.5
+"{SREDNJA ŠOLA}, {srednje trajanje}, {Okužba s Covid-19}, {Jugovzhodna Slovenija}",1,0.5
+"{Sum na okužbo}, {srednje trajanje}, {VRTEC}, {Pomurska}",1,0.5
+"{srednje trajanje}, {Jugovzhodna Slovenija}, {Okužba s Covid-19}, {SREDNJA ŠOLA}",1,0.5
+"{srednje trajanje}, {Sum na okužbo}, {Pomurska}, {VRTEC}",1,0.5
+"{srednje trajanje}, {SREDNJA ŠOLA}, {Okužba s Covid-19}, {Jugovzhodna Slovenija}",1,0.5
+"{Pomurska}, {srednje trajanje}, {VRTEC}, {Sum na okužbo}",1,0.5
+"{Jugovzhodna Slovenija}, {SREDNJA ŠOLA}, {Okužba s Covid-19}, {srednje trajanje}",1,0.5
+"{Sum na okužbo}, {VRTEC}, {Pomurska}, {srednje trajanje}",1,0.5
+"{Okužba s Covid-19}, {Jugovzhodna Slovenija}, {SREDNJA ŠOLA}, {srednje trajanje}",1,0.5
+"{Jugovzhodna Slovenija}, {Okužba s Covid-19}, {srednje trajanje}, {SREDNJA ŠOLA}",1,0.5
+"{Sum na okužbo}, {VRTEC}, {srednje trajanje}, {Pomurska}",1,0.5
+"{VRTEC}, {srednje trajanje}, {Pomurska}, {Sum na okužbo}",1,0.5
+"{Pomurska}, {Sum na okužbo}, {srednje trajanje}, {VRTEC}",1,0.5
+"{srednje trajanje}, {VRTEC}, {Sum na okužbo}, {Pomurska}",1,0.5
+"{srednje trajanje}, {Pomurska}, {Sum na okužbo}, {VRTEC}",1,0.5
+"{srednje trajanje}, {Okužba s Covid-19}, {SREDNJA ŠOLA}, {Jugovzhodna Slovenija}",1,0.5
+"{Sum na okužbo}, {srednje trajanje}, {Pomurska}, {VRTEC}",1,0.5
+"{srednje trajanje}, {VRTEC}, {Pomurska}, {Sum na okužbo}",1,0.5
+"{Jugovzhodna Slovenija}, {Okužba s Covid-19}, {SREDNJA ŠOLA}, {srednje trajanje}",1,0.5
+"{VRTEC}, {srednje trajanje}, {Sum na okužbo}, {Pomurska}",1,0.5
+"{Jugovzhodna Slovenija}, {srednje trajanje}, {Okužba s Covid-19}, {SREDNJA ŠOLA}",1,0.5

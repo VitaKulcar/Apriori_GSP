@@ -1,9 +1,5 @@
 Sequence,Support,Relative Frequency
-{Okužba s Covid-19},11,1.0
-{Sum na okužbo},9,0.8181818181818182
-{srednje},11,1.0
-{Drugi strokovni delavec},9,0.8181818181818182
-{Vzgojitelj},9,0.8181818181818182
-"{Okužba s Covid-19}, {Vzgojitelj}",9,0.8181818181818182
-"{Okužba s Covid-19}, {Sum na okužbo}",9,0.8181818181818182
-"{Okužba s Covid-19}, {srednje}",10,0.9090909090909091
+{srednje trajanje},100,0.8771929824561403
+{Okužba s Covid-19},81,0.7105263157894737
+"{Okužba s Covid-19}, {srednje trajanje}",69,0.6052631578947368
+"{srednje trajanje}, {Okužba s Covid-19}",69,0.6052631578947368

@@ -1,2 +1,8 @@
 Rule,Confidence
-{malo} => {malo},0.75
+{VRTEC} => {VRTEC},1.0
+{srednje trajanje} => {VRTEC},1.0
+{zelo malo} => {VRTEC},1.0
+"{VRTEC, srednje trajanje} => {VRTEC}",1.0
+"{VRTEC, zelo malo} => {VRTEC}",1.0
+"{srednje trajanje, zelo malo} => {VRTEC}",1.0
+"{VRTEC, srednje trajanje, zelo malo} => {VRTEC}",1.0

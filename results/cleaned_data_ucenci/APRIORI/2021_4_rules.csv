@@ -1,13 +1,7 @@
 Rule,Confidence
-{Okužba s Covid-19} => {kratko},0.75
-{kratko} => {Okužba s Covid-19},0.9
-{OSNOVNA ŠOLA} => {Sum na okužbo},0.8333333333333334
-{Sum na okužbo} => {OSNOVNA ŠOLA},0.8333333333333334
-{OSNOVNA ŠOLA} => {srednje},0.8333333333333334
-{srednje} => {OSNOVNA ŠOLA},0.8333333333333334
-{Sum na okužbo} => {srednje},0.9166666666666666
-{srednje} => {Sum na okužbo},0.9166666666666666
-{Okužba s Covid-19} => {Sum na okužbo},0.75
-{Sum na okužbo} => {Okužba s Covid-19},0.75
-{Sum na okužbo} => {kratko},0.8333333333333334
-{kratko} => {Sum na okužbo},1.0
+{srednje trajanje} => {Sum na okužbo},0.6730769230769231
+{Sum na okužbo} => {srednje trajanje},0.6862745098039216
+{OSNOVNA ŠOLA} => {srednje trajanje},0.6444444444444445
+{srednje trajanje} => {OSNOVNA ŠOLA},0.5576923076923077
+{OSNOVNA ŠOLA} => {Sum na okužbo},0.7
+{Sum na okužbo} => {OSNOVNA ŠOLA},0.6176470588235294

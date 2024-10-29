@@ -23,17 +23,58 @@ def generate_candidates(previous_level, items, sequence_list, min_support):
     return candidates
 
 
+def filter_unique_candidates(candidates):
+    unique_candidates = set()
+    filtered_candidates = []
+
+    for candidate in candidates:
+        # Convert candidate to a frozenset to ignore order and ensure uniqueness
+        candidate_set = frozenset(candidate)
+
+        # Check if this candidate has already been seen
+        if candidate_set not in unique_candidates:
+            unique_candidates.add(candidate_set)
+            filtered_candidates.append(candidate)
+
+    return filtered_candidates
+
+
+def filter_candidates(candidates, sequence_list, min_support):
+    # First filter candidates for uniqueness
+    unique_candidates = filter_unique_candidates(candidates)
+
+    valid_candidates = {}
+    for candidate in unique_candidates:
+        support = calc_support(candidate, sequence_list)
+        if support >= min_support:
+            valid_candidates[candidate] = support
+
+    return valid_candidates
+
+
 def calc_support(candidate_sequence, sequence_list):
-    return sum(1 for seq in sequence_list if is_subsequence(candidate_sequence, seq))
+    count = 0
+    for seq in sequence_list:
+        if is_subsequence(candidate_sequence, seq):
+            count += 1
+    return count
 
 
 def is_subsequence(candidate, sequence):
     it = iter(sequence)
-    return all(any(set(subseq).issubset(itemset) for itemset in it) for subseq in candidate)
+    for subseq in candidate:
+        found = False
+        for itemset in it:
+            if set(subseq).issubset(set(itemset[-1])):
+                found = True
+                break
+        if not found:
+            return False
+    return True
 
 
 def get_unique_items(sequences):
-    return sorted(set(item for sequence in sequences for itemset in sequence for item in itemset))
+    return sorted(set(item for sequence in sequences for _, itemset in sequence for item in itemset))
 
 
 class GeneralizedSequentialPatternMining:
@@ -46,9 +87,9 @@ class GeneralizedSequentialPatternMining:
     def mine_frequent_sequences(self):
         current_level = set()
         frequent_sequences = {}
-        k = 1
         while True:
             candidates = generate_candidates(current_level, self.unique_items, self.dataset, self.min_support_count)
+            candidates = filter_unique_candidates(candidates)
             current_level = set()
             for candidate in candidates:
                 support = calc_support(candidate, self.dataset)
@@ -57,7 +98,6 @@ class GeneralizedSequentialPatternMining:
                     frequent_sequences[candidate] = support
             if not current_level:
                 break
-            k += 1
         return frequent_sequences
 
     def generate_association_rules(self, frequent_sequences):

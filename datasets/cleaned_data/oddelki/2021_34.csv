@@ -1,7 +1,7 @@
-REGIJA,OBDOBJE,STEV_UCENCEV,VZROK,TRAJANJE
-Gorenjska,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje
-Podravska,VRTEC,malo,Okužba s Covid-19 pri otroku ali več otrocih skupine,srednje
-Zasavska,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje
-Osrednjeslovenska,VRTEC,srednje,Okužba s Covid-19 pri vzgojitelju,srednje
-Gorenjska,VRTEC,malo,Okužba s Covid-19 pri učitelju,srednje
-Gorenjska,VRTEC,srednje,Okužba s Covid-19 pri učitelju,srednje
+VNOS,REGIJA,OBDOBJE,STEV_UCENCEV,VZROK,TRAJANJE
+2021-08-24,Vzhodna Slovenija,VRTEC,malo,Okužba pri otroku / učencu / dijaku,srednje trajanje
+2021-08-24,Zahodna Slovenija,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-08-24,Osrednja Slovenija,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-08-25,Osrednja Slovenija,VRTEC,malo,Okužba s Covid-19 pri vzgojitelju,srednje trajanje
+2021-08-27,Zahodna Slovenija,VRTEC,srednje,Okužba s Covid-19 pri učitelju,srednje trajanje
+2021-08-27,Zahodna Slovenija,VRTEC,malo,Okužba s Covid-19 pri učitelju,srednje trajanje

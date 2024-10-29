@@ -1,15 +1,114 @@
 Sequence,Support,Relative Frequency
-{SREDNJA ŠOLA},1,1.0
-{Primorsko-notranjska},1,1.0
-{Okužba s Covid-19},1,1.0
-{srednje},1,1.0
-{OSTALO},1,1.0
-"{OSTALO}, {SREDNJA ŠOLA}",1,1.0
-"{OSTALO}, {Primorsko-notranjska}",1,1.0
-"{Okužba s Covid-19}, {SREDNJA ŠOLA}",1,1.0
-"{OSTALO}, {srednje}",1,1.0
-"{Okužba s Covid-19}, {Primorsko-notranjska}",1,1.0
-"{Primorsko-notranjska}, {srednje}",1,1.0
-"{OSTALO}, {Okužba s Covid-19}",1,1.0
-"{Okužba s Covid-19}, {srednje}",1,1.0
-"{Primorsko-notranjska}, {SREDNJA ŠOLA}",1,1.0
+{OSTALO},1,0.5
+{srednje trajanje},2,1.0
+{SREDNJA ŠOLA},1,0.5
+{Primorsko-notranjska},2,1.0
+{Okužba s Covid-19},2,1.0
+"{OSTALO}, {Okužba s Covid-19}",1,0.5
+"{OSTALO}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {SREDNJA ŠOLA}",1,0.5
+"{Primorsko-notranjska}, {OSTALO}",1,0.5
+"{srednje trajanje}, {OSTALO}",1,0.5
+"{srednje trajanje}, {Primorsko-notranjska}",2,1.0
+"{OSTALO}, {Primorsko-notranjska}",1,0.5
+"{Okužba s Covid-19}, {SREDNJA ŠOLA}",1,0.5
+"{Okužba s Covid-19}, {srednje trajanje}",2,1.0
+"{SREDNJA ŠOLA}, {Okužba s Covid-19}",1,0.5
+"{SREDNJA ŠOLA}, {srednje trajanje}",1,0.5
+"{Primorsko-notranjska}, {Okužba s Covid-19}",2,1.0
+"{Primorsko-notranjska}, {SREDNJA ŠOLA}",1,0.5
+"{Primorsko-notranjska}, {srednje trajanje}",2,1.0
+"{Okužba s Covid-19}, {OSTALO}",1,0.5
+"{SREDNJA ŠOLA}, {Primorsko-notranjska}",1,0.5
+"{srednje trajanje}, {Okužba s Covid-19}",2,1.0
+"{Okužba s Covid-19}, {Primorsko-notranjska}",2,1.0
+"{Primorsko-notranjska}, {SREDNJA ŠOLA}, {srednje trajanje}",1,0.5
+"{Primorsko-notranjska}, {OSTALO}, {Okužba s Covid-19}",1,0.5
+"{SREDNJA ŠOLA}, {Primorsko-notranjska}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {Primorsko-notranjska}, {OSTALO}",1,0.5
+"{SREDNJA ŠOLA}, {Okužba s Covid-19}, {srednje trajanje}",1,0.5
+"{SREDNJA ŠOLA}, {srednje trajanje}, {Primorsko-notranjska}",1,0.5
+"{Primorsko-notranjska}, {SREDNJA ŠOLA}, {Okužba s Covid-19}",1,0.5
+"{SREDNJA ŠOLA}, {Okužba s Covid-19}, {Primorsko-notranjska}",1,0.5
+"{srednje trajanje}, {Okužba s Covid-19}, {OSTALO}",1,0.5
+"{srednje trajanje}, {Okužba s Covid-19}, {Primorsko-notranjska}",2,1.0
+"{Okužba s Covid-19}, {Primorsko-notranjska}, {srednje trajanje}",2,1.0
+"{Okužba s Covid-19}, {Primorsko-notranjska}, {OSTALO}",1,0.5
+"{srednje trajanje}, {Primorsko-notranjska}, {Okužba s Covid-19}",2,1.0
+"{srednje trajanje}, {Primorsko-notranjska}, {SREDNJA ŠOLA}",1,0.5
+"{SREDNJA ŠOLA}, {Primorsko-notranjska}, {Okužba s Covid-19}",1,0.5
+"{SREDNJA ŠOLA}, {srednje trajanje}, {Okužba s Covid-19}",1,0.5
+"{srednje trajanje}, {Okužba s Covid-19}, {SREDNJA ŠOLA}",1,0.5
+"{OSTALO}, {Primorsko-notranjska}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {OSTALO}, {Primorsko-notranjska}",1,0.5
+"{Okužba s Covid-19}, {srednje trajanje}, {OSTALO}",1,0.5
+"{Primorsko-notranjska}, {srednje trajanje}, {OSTALO}",1,0.5
+"{Okužba s Covid-19}, {Primorsko-notranjska}, {SREDNJA ŠOLA}",1,0.5
+"{Okužba s Covid-19}, {srednje trajanje}, {Primorsko-notranjska}",2,1.0
+"{OSTALO}, {srednje trajanje}, {Primorsko-notranjska}",1,0.5
+"{srednje trajanje}, {OSTALO}, {Okužba s Covid-19}",1,0.5
+"{srednje trajanje}, {SREDNJA ŠOLA}, {Primorsko-notranjska}",1,0.5
+"{Primorsko-notranjska}, {Okužba s Covid-19}, {OSTALO}",1,0.5
+"{Primorsko-notranjska}, {Okužba s Covid-19}, {srednje trajanje}",2,1.0
+"{Primorsko-notranjska}, {srednje trajanje}, {Okužba s Covid-19}",2,1.0
+"{OSTALO}, {Okužba s Covid-19}, {srednje trajanje}",1,0.5
+"{OSTALO}, {Primorsko-notranjska}, {Okužba s Covid-19}",1,0.5
+"{Primorsko-notranjska}, {srednje trajanje}, {SREDNJA ŠOLA}",1,0.5
+"{Okužba s Covid-19}, {srednje trajanje}, {SREDNJA ŠOLA}",1,0.5
+"{srednje trajanje}, {SREDNJA ŠOLA}, {Okužba s Covid-19}",1,0.5
+"{OSTALO}, {srednje trajanje}, {Okužba s Covid-19}",1,0.5
+"{OSTALO}, {Okužba s Covid-19}, {Primorsko-notranjska}",1,0.5
+"{Primorsko-notranjska}, {OSTALO}, {srednje trajanje}",1,0.5
+"{Okužba s Covid-19}, {OSTALO}, {srednje trajanje}",1,0.5
+"{Okužba s Covid-19}, {SREDNJA ŠOLA}, {srednje trajanje}",1,0.5
+"{Okužba s Covid-19}, {OSTALO}, {Primorsko-notranjska}",1,0.5
+"{Primorsko-notranjska}, {Okužba s Covid-19}, {SREDNJA ŠOLA}",1,0.5
+"{Okužba s Covid-19}, {SREDNJA ŠOLA}, {Primorsko-notranjska}",1,0.5
+"{OSTALO}, {srednje trajanje}, {Primorsko-notranjska}, {Okužba s Covid-19}",1,0.5
+"{Primorsko-notranjska}, {SREDNJA ŠOLA}, {srednje trajanje}, {Okužba s Covid-19}",1,0.5
+"{srednje trajanje}, {OSTALO}, {Primorsko-notranjska}, {Okužba s Covid-19}",1,0.5
+"{Okužba s Covid-19}, {OSTALO}, {Primorsko-notranjska}, {srednje trajanje}",1,0.5
+"{Okužba s Covid-19}, {SREDNJA ŠOLA}, {Primorsko-notranjska}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {Primorsko-notranjska}, {Okužba s Covid-19}, {SREDNJA ŠOLA}",1,0.5
+"{Okužba s Covid-19}, {srednje trajanje}, {Primorsko-notranjska}, {SREDNJA ŠOLA}",1,0.5
+"{srednje trajanje}, {OSTALO}, {Okužba s Covid-19}, {Primorsko-notranjska}",1,0.5
+"{Okužba s Covid-19}, {Primorsko-notranjska}, {srednje trajanje}, {SREDNJA ŠOLA}",1,0.5
+"{OSTALO}, {srednje trajanje}, {Okužba s Covid-19}, {Primorsko-notranjska}",1,0.5
+"{Okužba s Covid-19}, {OSTALO}, {srednje trajanje}, {Primorsko-notranjska}",1,0.5
+"{Primorsko-notranjska}, {Okužba s Covid-19}, {OSTALO}, {srednje trajanje}",1,0.5
+"{Okužba s Covid-19}, {SREDNJA ŠOLA}, {srednje trajanje}, {Primorsko-notranjska}",1,0.5
+"{Primorsko-notranjska}, {Okužba s Covid-19}, {SREDNJA ŠOLA}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {Primorsko-notranjska}, {OSTALO}, {Okužba s Covid-19}",1,0.5
+"{SREDNJA ŠOLA}, {Okužba s Covid-19}, {Primorsko-notranjska}, {srednje trajanje}",1,0.5
+"{Okužba s Covid-19}, {Primorsko-notranjska}, {OSTALO}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {Okužba s Covid-19}, {Primorsko-notranjska}, {OSTALO}",1,0.5
+"{OSTALO}, {Okužba s Covid-19}, {Primorsko-notranjska}, {srednje trajanje}",1,0.5
+"{Primorsko-notranjska}, {OSTALO}, {Okužba s Covid-19}, {srednje trajanje}",1,0.5
+"{SREDNJA ŠOLA}, {Okužba s Covid-19}, {srednje trajanje}, {Primorsko-notranjska}",1,0.5
+"{Primorsko-notranjska}, {srednje trajanje}, {Okužba s Covid-19}, {OSTALO}",1,0.5
+"{OSTALO}, {Primorsko-notranjska}, {Okužba s Covid-19}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {Primorsko-notranjska}, {SREDNJA ŠOLA}, {Okužba s Covid-19}",1,0.5
+"{Okužba s Covid-19}, {Primorsko-notranjska}, {SREDNJA ŠOLA}, {srednje trajanje}",1,0.5
+"{Okužba s Covid-19}, {srednje trajanje}, {OSTALO}, {Primorsko-notranjska}",1,0.5
+"{srednje trajanje}, {SREDNJA ŠOLA}, {Primorsko-notranjska}, {Okužba s Covid-19}",1,0.5
+"{SREDNJA ŠOLA}, {srednje trajanje}, {Primorsko-notranjska}, {Okužba s Covid-19}",1,0.5
+"{srednje trajanje}, {Okužba s Covid-19}, {Primorsko-notranjska}, {SREDNJA ŠOLA}",1,0.5
+"{OSTALO}, {Primorsko-notranjska}, {srednje trajanje}, {Okužba s Covid-19}",1,0.5
+"{Okužba s Covid-19}, {srednje trajanje}, {SREDNJA ŠOLA}, {Primorsko-notranjska}",1,0.5
+"{SREDNJA ŠOLA}, {srednje trajanje}, {Okužba s Covid-19}, {Primorsko-notranjska}",1,0.5
+"{Primorsko-notranjska}, {srednje trajanje}, {Okužba s Covid-19}, {SREDNJA ŠOLA}",1,0.5
+"{Primorsko-notranjska}, {OSTALO}, {srednje trajanje}, {Okužba s Covid-19}",1,0.5
+"{OSTALO}, {Okužba s Covid-19}, {srednje trajanje}, {Primorsko-notranjska}",1,0.5
+"{srednje trajanje}, {SREDNJA ŠOLA}, {Okužba s Covid-19}, {Primorsko-notranjska}",1,0.5
+"{Primorsko-notranjska}, {Okužba s Covid-19}, {srednje trajanje}, {OSTALO}",1,0.5
+"{srednje trajanje}, {Okužba s Covid-19}, {OSTALO}, {Primorsko-notranjska}",1,0.5
+"{srednje trajanje}, {Okužba s Covid-19}, {SREDNJA ŠOLA}, {Primorsko-notranjska}",1,0.5
+"{SREDNJA ŠOLA}, {Primorsko-notranjska}, {Okužba s Covid-19}, {srednje trajanje}",1,0.5
+"{srednje trajanje}, {Primorsko-notranjska}, {Okužba s Covid-19}, {OSTALO}",1,0.5
+"{SREDNJA ŠOLA}, {Primorsko-notranjska}, {srednje trajanje}, {Okužba s Covid-19}",1,0.5
+"{Primorsko-notranjska}, {SREDNJA ŠOLA}, {Okužba s Covid-19}, {srednje trajanje}",1,0.5
+"{Primorsko-notranjska}, {srednje trajanje}, {OSTALO}, {Okužba s Covid-19}",1,0.5
+"{Okužba s Covid-19}, {Primorsko-notranjska}, {srednje trajanje}, {OSTALO}",1,0.5
+"{Okužba s Covid-19}, {srednje trajanje}, {Primorsko-notranjska}, {OSTALO}",1,0.5
+"{Primorsko-notranjska}, {srednje trajanje}, {SREDNJA ŠOLA}, {Okužba s Covid-19}",1,0.5
+"{Primorsko-notranjska}, {Okužba s Covid-19}, {srednje trajanje}, {SREDNJA ŠOLA}",1,0.5
