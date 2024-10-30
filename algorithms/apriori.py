@@ -22,9 +22,10 @@ def generate_candidates(previous_level, items, sequence_list, min_support):
 def filter_candidates(candidates, sequence_list, min_support):
     valid_candidates = {}
     for candidate in candidates:
+        normalized_candidate = tuple(sorted(candidate))
         support = calc_support(candidate, sequence_list)
         if support >= min_support:
-            valid_candidates[candidate] = support
+            valid_candidates[normalized_candidate] = support
     return valid_candidates
 
 

@@ -65,7 +65,11 @@ def data_cleaning(dataset_name, columns_drop):
         terms = [
             'Okužba s Covid-19 pri drugem strokovnem delavcu',
             'Okužba s Covid-19 pri drugem delavcu',
-            'Okužba s Covid-19 pri slušatelju ali več slušateljih oddelka'
+            'Okužba s Covid-19 pri slušatelju ali več slušateljih oddelka',
+            'Okužba s Covid-19 pri učitelju',
+            'Okužba s Covid-19 pri vzgojitelju',
+            'Okužba s Covid-19 pri predavatelju'
+
         ]
         pattern = '|'.join(terms)
         df.loc[df['VZROK'].str.contains(pattern, case=False, na=False), 'VZROK'] = 'Okužba pri delavcu'
@@ -83,7 +87,10 @@ def data_cleaning(dataset_name, columns_drop):
         terms = [
             'Sum na okužbo s Covid-19 pri drugem strokovnem delavcu',
             'Sum na okužbo s Covid-19 pri drugem delavcu',
-            'Sum na okužbo s Covid-19 pri slušatelju ali več slušateljih oddelka'
+            'Sum na okužbo s Covid-19 pri slušatelju ali več slušateljih oddelka',
+            'Sum na okužbo s Covid-19 pri učitelju',
+            'Sum na okužbo pri vzgojitelju',
+            'Okužba s Covid-19 pri predavatelju'
         ]
         pattern = '|'.join(terms)
         df.loc[df['VZROK'].str.contains(pattern, case=False,
