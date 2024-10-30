@@ -1,3 +1,4 @@
+import os
 from collections import defaultdict
 import pandas as pd
 
@@ -124,7 +125,11 @@ def data_cleaning(dataset_name, columns_drop):
     df = df.sort_values(by='VNOS', ascending=True)
 
     # shranjevanje prečiščenih podatkov
-    df.to_csv(f'datasets/cleaned_data/{dataset_name}.csv', index=False)
+    output_dir = 'datasets/cleaned_data'
+    output_file = f'{output_dir}/{dataset_name}.csv'
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    df.to_csv(output_file, index=False)
 
 
 def group_data(dataset_name, attributes):
@@ -132,7 +137,11 @@ def group_data(dataset_name, attributes):
     grouped = df.groupby('LETO_TEDEN_VNOSA')
     for group_name, data in grouped:
         unique_data = data[attributes].drop_duplicates()
-        unique_data.to_csv(f'datasets/cleaned_data/{dataset_name}/{group_name}.csv', index=False)
+        output_dir = f'datasets/cleaned_data/{dataset_name}'
+        output_file = f'{output_dir}/{group_name}.csv'
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+        unique_data.to_csv(output_file, index=False)
 
 
 """def generate_sequences(dataset_name, group_name):

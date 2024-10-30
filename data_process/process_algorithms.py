@@ -1,3 +1,4 @@
+import os
 import time
 import csv
 from algorithms.apriori import Apriori
@@ -18,7 +19,11 @@ class process_algorithms:
         elapsed_time_apriori = self.process_apriori()
         elapsed_time_gsp = self.process_gsp()
 
-        with open('results/timings.csv', 'a', newline='') as csvfile:
+        output_dir = 'results'
+        output_file = f'{output_dir}/timings.csv'
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
+        with open(output_file, 'a', newline='') as csvfile:
             csvwriter = csv.writer(csvfile)
             csvwriter.writerow([self.dataset_name, self.dataset_month, 'GSP', elapsed_time_gsp])
             csvwriter.writerow([self.dataset_name, self.dataset_month, 'APRIORI', elapsed_time_apriori])

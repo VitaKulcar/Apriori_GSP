@@ -1,3 +1,5 @@
+import os
+
 import pandas as pd
 
 
@@ -13,7 +15,12 @@ def attributes(dataset_name, columns):
             attributes_list.append({'Feature': column, 'Attributes': unique_values_str})
 
     attributes_df = pd.DataFrame(attributes_list)
-    attributes_df.to_csv(f'datasets/attributes/{dataset_name}.csv', index=False)
+
+    output_dir = 'datasets/attributes'
+    output_file = f'{output_dir}/{dataset_name}.csv'
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    attributes_df.to_csv(output_file, index=False)
 
 
 def sequence_to_string(s):
@@ -28,8 +35,11 @@ def save_results(dataset_name, algorithm, dataset_month, frequent_sequences, len
         'Relative Frequency': [support / length for support in frequent_sequences.values()]
     }
     df_freq_sequences = pd.DataFrame(dataset_data)
-    df_freq_sequences.to_csv(f"results/cleaned_data_{dataset_name}/{algorithm}/{dataset_month}_frequent_sequences.csv",
-                             index=False)
+    output_dir = f"results/cleaned_data_{dataset_name}/{algorithm}"
+    output_file = f"{output_dir}/{dataset_month}_frequent_sequences.csv"
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    df_freq_sequences.to_csv(output_file, index=False)
 
 
 def rule_to_string(rule):
@@ -45,4 +55,8 @@ def save_rules(dataset_name, algorithm, dataset_month, rules):
         'Confidence': list(rules.values())
     }
     df_rules = pd.DataFrame(dataset_data)
-    df_rules.to_csv(f"results/cleaned_data_{dataset_name}/{algorithm}/{dataset_month}_rules.csv", index=False)
+    output_dir = f"results/cleaned_data_{dataset_name}/{algorithm}"
+    output_file = f"{output_dir}/{dataset_month}_rules.csv"
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    df_rules.to_csv(output_file, index=False)
