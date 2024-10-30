@@ -5,7 +5,8 @@ def generate_candidates(previous_level, items, sequence_list, min_support):
         for item in items:
             candidate = ((item,),)
             if calc_support(candidate, sequence_list) >= min_support:
-                candidates.add(candidate)
+                norm_candidate = tuple(sorted(candidate))
+                candidates.add(norm_candidate)
     else:
         for seq in previous_level:
             last_itemset = seq[-1]
@@ -15,11 +16,13 @@ def generate_candidates(previous_level, items, sequence_list, min_support):
                     # i-extension: Add item to the last itemset of the sequence
                     new_seq = seq[:-1] + (last_itemset + (item,),)
                     if calc_support(new_seq, sequence_list) >= min_support:
-                        candidates.add(new_seq)
+                        norm_candidate = tuple(sorted(new_seq))
+                        candidates.add(norm_candidate)
                 # s-extension: Add item as a new itemset to the sequence
                 new_seq = seq + ((item,),)
                 if calc_support(new_seq, sequence_list) >= min_support:
-                    candidates.add(new_seq)
+                    norm_candidate = tuple(sorted(new_seq))
+                    candidates.add(norm_candidate)
     return candidates
 
 
@@ -80,7 +83,8 @@ def get_unique_items(sequences):
 class GeneralizedSequentialPatternMining:
     def __init__(self, sequences, min_supp, min_conf):
         self.dataset = sequences
-        self.min_support_count = min_supp * len(self.dataset)
+        total_item_count = sum(len(sequence) for sequence in self.dataset)
+        self.min_support_count = min_supp * (total_item_count / len(self.dataset))
         self.min_confidence = min_conf
         self.unique_items = get_unique_items(self.dataset)
 

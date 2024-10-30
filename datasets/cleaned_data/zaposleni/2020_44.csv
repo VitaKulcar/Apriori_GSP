@@ -1,395 +1,291 @@
 VNOS,REGIJA,DELOVNO_MESTO,VZROK,TRAJANJE
-2020-10-26,Zasavska,Učitelj,Sum na okužbo,dolgo trajanje
-2020-10-26,Gorenjska,Učitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-26,Osrednjeslovenska,Učitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-26,Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
-2020-10-26,Podravska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-26,Gorenjska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-26,Koroška,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-26,Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-26,Osrednjeslovenska,Drugi delavci,Sum na okužbo,kratko trajanje
-2020-10-26,Osrednjeslovenska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-26,Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-26,Gorenjska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-26,Koroška,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-26,Podravska,Učitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-26,Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-26,Gorenjska,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
-2020-10-26,Gorenjska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-26,Podravska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-26,Podravska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-26,Savinjska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-26,Podravska,Predavatelj,Okužba s Covid-19,dolgo trajanje
-2020-10-26,Savinjska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-26,Gorenjska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-26,Podravska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-26,Gorenjska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-26,Savinjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-26,Gorenjska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-26,Podravska,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
-2020-10-26,Pomurska,Drugi delavci,Okužba s Covid-19,dolgo trajanje
-2020-10-26,Podravska,Učitelj,Okužba s Covid-19,kratko trajanje
-2020-10-26,Pomurska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-26,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,kratko trajanje
-2020-10-26,Primorsko-notranjska,Učitelj,Okužba s Covid-19,kratko trajanje
-2020-10-26,Podravska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-26,Podravska,Učitelj,Sum na okužbo,kratko trajanje
-2020-10-26,Pomurska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-26,Koroška,Vzgojitelj,Sum na okužbo,kratko trajanje
-2020-10-26,Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-26,Podravska,Drugi delavci,Okužba s Covid-19,dolgo trajanje
-2020-10-26,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-26,Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-26,Gorenjska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-26,Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,dolgo trajanje
-2020-10-26,Pomurska,Učitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-26,Pomurska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-26,Osrednjeslovenska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-26,Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
-2020-10-26,Podravska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-26,Osrednjeslovenska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-26,Gorenjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-26,Posavska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-26,Posavska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-26,Savinjska,Drugi delavci,Okužba s Covid-19,dolgo trajanje
-2020-10-26,Savinjska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-26,Pomurska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-26,Pomurska,Drugi strokovni delavec,Sum na okužbo,dolgo trajanje
-2020-10-26,Savinjska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-26,Jugovzhodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-26,Pomurska,Učitelj,Okužba s Covid-19,kratko trajanje
-2020-10-26,Savinjska,Vzgojitelj,Sum na okužbo,kratko trajanje
-2020-10-26,Savinjska,Drugi delavci,Sum na okužbo,kratko trajanje
-2020-10-26,Savinjska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-26,Obalno-kraška,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-26,Goriška,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-26,Jugovzhodna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-26,Osrednjeslovenska,Učitelj,Sum na okužbo,kratko trajanje
-2020-10-26,Goriška,Učitelj,Sum na okužbo,kratko trajanje
-2020-10-26,Pomurska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-26,Pomurska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-26,Gorenjska,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
-2020-10-26,Podravska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-26,Goriška,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-26,Savinjska,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-26,Goriška,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-26,Obalno-kraška,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-26,Savinjska,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
-2020-10-26,Gorenjska,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-26,Podravska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-26,Jugovzhodna Slovenija,Drugi delavci,Okužba s Covid-19,dolgo trajanje
-2020-10-27,Gorenjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-27,Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-27,Savinjska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-27,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,kratko trajanje
-2020-10-27,Osrednjeslovenska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-27,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-27,Zasavska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-27,Koroška,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-27,Pomurska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-27,Podravska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-27,Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-27,Goriška,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-27,Savinjska,Učitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-27,Savinjska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-27,Pomurska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-27,Pomurska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-27,Savinjska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-27,Savinjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-27,Podravska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-27,Posavska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-27,Savinjska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-27,Savinjska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-27,Goriška,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-27,Goriška,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-27,Podravska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-27,Jugovzhodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-27,Goriška,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-27,Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-27,Savinjska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-27,Osrednjeslovenska,Učitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-27,Koroška,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-27,Jugovzhodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-27,Obalno-kraška,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-27,Koroška,Učitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-27,Pomurska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-27,Gorenjska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-27,Osrednjeslovenska,Drugi delavci,Sum na okužbo,kratko trajanje
-2020-10-27,Podravska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-27,Osrednjeslovenska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-27,Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,kratko trajanje
-2020-10-27,Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
-2020-10-27,Gorenjska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-27,Gorenjska,Učitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-27,Gorenjska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-27,Gorenjska,Drugi delavci,Sum na okužbo,kratko trajanje
-2020-10-27,Savinjska,Vzgojitelj,Sum na okužbo,kratko trajanje
-2020-10-27,Jugovzhodna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-27,Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-27,Osrednjeslovenska,Učitelj,Sum na okužbo,kratko trajanje
-2020-10-27,Gorenjska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-27,Jugovzhodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-27,Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,dolgo trajanje
-2020-10-27,Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-27,Goriška,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-27,Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
-2020-10-27,Gorenjska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-27,Savinjska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-27,Goriška,Učitelj,Sum na okužbo,kratko trajanje
-2020-10-27,Posavska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-27,Podravska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-27,Osrednjeslovenska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-27,Gorenjska,Drugi delavci,Okužba s Covid-19,dolgo trajanje
-2020-10-27,Gorenjska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-27,Podravska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-27,Podravska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-28,Podravska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-28,Zasavska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-28,Savinjska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-28,Gorenjska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-28,Jugovzhodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-28,Goriška,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-28,Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-28,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-28,Jugovzhodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-28,Jugovzhodna Slovenija,Drugi delavci,Okužba s Covid-19,dolgo trajanje
-2020-10-28,Jugovzhodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-28,Savinjska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-28,Goriška,Učitelj,Okužba s Covid-19,kratko trajanje
-2020-10-28,Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-28,Savinjska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-28,Gorenjska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-28,Goriška,Drugi delavci,Sum na okužbo,dolgo trajanje
-2020-10-28,Goriška,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-28,Savinjska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-28,Zasavska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-28,Savinjska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-28,Osrednjeslovenska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-28,Savinjska,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
-2020-10-28,Gorenjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-28,Podravska,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
-2020-10-28,Gorenjska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-28,Koroška,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-28,Posavska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-28,Savinjska,Vzgojitelj,Sum na okužbo,kratko trajanje
-2020-10-28,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,kratko trajanje
-2020-10-28,Pomurska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-28,Gorenjska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-28,Pomurska,Vzgojitelj,Sum na okužbo,kratko trajanje
-2020-10-28,Pomurska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-28,Zasavska,Drugi delavci,Okužba s Covid-19,kratko trajanje
-2020-10-28,Pomurska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-28,Podravska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-28,Gorenjska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-28,Jugovzhodna Slovenija,Učitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-28,Gorenjska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-28,Pomurska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-28,Jugovzhodna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-28,Savinjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-28,Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
-2020-10-28,Osrednjeslovenska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-28,Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-28,Zasavska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-28,Koroška,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-28,Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-28,Koroška,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-28,Podravska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-28,Osrednjeslovenska,Učitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-28,Posavska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-28,Primorsko-notranjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-28,Gorenjska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-28,Savinjska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-28,Goriška,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-28,Obalno-kraška,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-28,Obalno-kraška,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-28,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,dolgo trajanje
-2020-10-28,Osrednjeslovenska,Drugi delavci,Sum na okužbo,kratko trajanje
-2020-10-28,Podravska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-28,Koroška,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-28,Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,dolgo trajanje
-2020-10-28,Koroška,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-29,Gorenjska,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-29,Savinjska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-29,Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-29,Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-29,Podravska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-29,Osrednjeslovenska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-29,Koroška,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-29,Obalno-kraška,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-29,Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-29,Koroška,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
-2020-10-29,Pomurska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-29,Osrednjeslovenska,Drugi delavci,Sum na okužbo,kratko trajanje
-2020-10-29,Savinjska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-29,Primorsko-notranjska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-29,Pomurska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-29,Osrednjeslovenska,Učitelj,Okužba s Covid-19,kratko trajanje
-2020-10-29,Podravska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-29,Gorenjska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-29,Obalno-kraška,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-29,Gorenjska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-29,Savinjska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-29,Gorenjska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-29,Pomurska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-29,Goriška,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-29,Podravska,Drugi delavci,Okužba s Covid-19,dolgo trajanje
-2020-10-29,Podravska,Učitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-29,Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-29,Podravska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-29,Gorenjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-29,Osrednjeslovenska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-29,Posavska,Vzgojitelj,Sum na okužbo,kratko trajanje
-2020-10-29,Savinjska,Učitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-29,Gorenjska,Učitelj,Okužba s Covid-19,kratko trajanje
-2020-10-29,Jugovzhodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-29,Jugovzhodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-29,Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
-2020-10-29,Savinjska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-29,Jugovzhodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-29,Podravska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-29,Podravska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-29,Zasavska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-29,Goriška,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-29,Gorenjska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-29,Koroška,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-29,Podravska,Drugi strokovni delavec,Okužba s Covid-19,kratko trajanje
-2020-10-29,Podravska,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
-2020-10-29,Gorenjska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-29,Jugovzhodna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-29,Savinjska,Drugi delavci,Okužba s Covid-19,kratko trajanje
-2020-10-29,Gorenjska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-29,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,kratko trajanje
-2020-10-29,Koroška,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-29,Gorenjska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-29,Gorenjska,Drugi delavci,Okužba s Covid-19,dolgo trajanje
-2020-10-29,Gorenjska,Učitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-29,Osrednjeslovenska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-29,Osrednjeslovenska,Učitelj,Sum na okužbo,kratko trajanje
-2020-10-29,Gorenjska,Drugi delavci,Okužba s Covid-19,kratko trajanje
-2020-10-29,Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
-2020-10-29,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-29,Zasavska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-29,Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-29,Gorenjska,Učitelj,Sum na okužbo,kratko trajanje
-2020-10-29,Savinjska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-29,Jugovzhodna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-30,Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-30,Gorenjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-30,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-30,Pomurska,Učitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-30,Jugovzhodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-30,Primorsko-notranjska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-30,Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-30,Osrednjeslovenska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-30,Primorsko-notranjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-30,Podravska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-30,Pomurska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-30,Podravska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-30,Gorenjska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-30,Primorsko-notranjska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-30,Gorenjska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-30,Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-30,Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-30,Osrednjeslovenska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-30,Podravska,Učitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-30,Zasavska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-30,Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
-2020-10-30,Osrednjeslovenska,Učitelj,Sum na okužbo,kratko trajanje
-2020-10-30,Osrednjeslovenska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-30,Gorenjska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-30,Osrednjeslovenska,Drugi delavci,Sum na okužbo,kratko trajanje
-2020-10-30,Gorenjska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-30,Gorenjska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-30,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,kratko trajanje
-2020-10-30,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,dolgo trajanje
-2020-10-30,Osrednjeslovenska,Učitelj,Sum na okužbo,dolgo trajanje
-2020-10-30,Osrednjeslovenska,Učitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-30,Obalno-kraška,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-30,Jugovzhodna Slovenija,Učitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-30,Jugovzhodna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-30,Osrednjeslovenska,Učitelj,Okužba s Covid-19,kratko trajanje
-2020-10-30,Podravska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-30,Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
-2020-10-30,Savinjska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-30,Gorenjska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-30,Savinjska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-30,Gorenjska,Drugi delavci,Okužba s Covid-19,dolgo trajanje
-2020-10-30,Podravska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-30,Savinjska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-30,Goriška,Učitelj,Sum na okužbo,kratko trajanje
-2020-10-30,Savinjska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-30,Jugovzhodna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-30,Goriška,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-30,Savinjska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-30,Primorsko-notranjska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-30,Primorsko-notranjska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-30,Podravska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-30,Jugovzhodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-30,Jugovzhodna Slovenija,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-30,Goriška,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-30,Podravska,Vzgojitelj,Sum na okužbo,kratko trajanje
-2020-10-30,Savinjska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-30,Podravska,Drugi delavci,Sum na okužbo,dolgo trajanje
-2020-10-30,Podravska,Drugi strokovni delavec,Sum na okužbo,dolgo trajanje
-2020-10-30,Obalno-kraška,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-30,Savinjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-30,Primorsko-notranjska,Drugi delavci,Okužba s Covid-19,dolgo trajanje
-2020-10-30,Koroška,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-30,Jugovzhodna Slovenija,Vzgojitelj,Sum na okužbo,kratko trajanje
-2020-10-30,Primorsko-notranjska,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
-2020-10-30,Podravska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-30,Jugovzhodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-30,Pomurska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-30,Podravska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-31,Gorenjska,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-31,Pomurska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-31,Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-31,Gorenjska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-31,Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-31,Savinjska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-31,Gorenjska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-31,Osrednjeslovenska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-31,Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-10-31,Podravska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-31,Jugovzhodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-31,Jugovzhodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-10-31,Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-31,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,kratko trajanje
-2020-10-31,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-10-31,Zasavska,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
-2020-10-31,Savinjska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-10-31,Savinjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-31,Podravska,Drugi delavci,Sum na okužbo,srednje trajanje
-2020-10-31,Savinjska,Vzgojitelj,Okužba s Covid-19,kratko trajanje
-2020-10-31,Obalno-kraška,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-31,Gorenjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-10-31,Savinjska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-10-31,Savinjska,Učitelj,Sum na okužbo,srednje trajanje
-2020-10-31,Savinjska,Vzgojitelj,Sum na okužbo,srednje trajanje
-2020-11-01,Pomurska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-11-01,Podravska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-11-01,Osrednjeslovenska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-11-01,Koroška,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-11-01,Goriška,Učitelj,Okužba s Covid-19,dolgo trajanje
-2020-11-01,Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-11-01,Savinjska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-11-01,Goriška,Drugi delavci,Okužba s Covid-19,dolgo trajanje
-2020-11-01,Osrednjeslovenska,Učitelj,Sum na okužbo,srednje trajanje
-2020-11-01,Gorenjska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-11-01,Podravska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-11-01,Pomurska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-11-01,Osrednjeslovenska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-11-01,Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
-2020-11-01,Osrednjeslovenska,Vzgojitelj,Sum na okužbo,kratko trajanje
-2020-11-01,Osrednjeslovenska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-11-01,Zasavska,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-11-01,Gorenjska,Drugi delavci,Okužba s Covid-19,srednje trajanje
-2020-11-01,Jugovzhodna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-11-01,Jugovzhodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
-2020-11-01,Savinjska,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
-2020-11-01,Osrednjeslovenska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-11-01,Gorenjska,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
-2020-11-01,Osrednjeslovenska,Drugi delavci,Okužba s Covid-19,dolgo trajanje
-2020-11-01,Osrednjeslovenska,Učitelj,Okužba s Covid-19,kratko trajanje
-2020-11-01,Gorenjska,Učitelj,Okužba s Covid-19,srednje trajanje
-2020-11-01,Podravska,Vzgojitelj,Okužba s Covid-19,kratko trajanje
+2020-10-26,Osrednja Slovenija,Učitelj,Sum na okužbo,dolgo trajanje
+2020-10-26,Zahodna Slovenija,Učitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-26,Osrednja Slovenija,Učitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-26,Osrednja Slovenija,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
+2020-10-26,Vzhodna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-10-26,Zahodna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-10-26,Severna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-10-26,Osrednja Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-26,Osrednja Slovenija,Drugi delavci,Sum na okužbo,kratko trajanje
+2020-10-26,Osrednja Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-26,Osrednja Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-26,Zahodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-26,Severna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-26,Vzhodna Slovenija,Učitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-26,Osrednja Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-10-26,Zahodna Slovenija,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
+2020-10-26,Zahodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-26,Vzhodna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-10-26,Vzhodna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-26,Severna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-26,Vzhodna Slovenija,Predavatelj,Okužba s Covid-19,dolgo trajanje
+2020-10-26,Severna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-26,Zahodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-26,Vzhodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-26,Zahodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-26,Zahodna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-26,Vzhodna Slovenija,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
+2020-10-26,Vzhodna Slovenija,Drugi delavci,Okužba s Covid-19,dolgo trajanje
+2020-10-26,Vzhodna Slovenija,Učitelj,Okužba s Covid-19,kratko trajanje
+2020-10-26,Vzhodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-26,Osrednja Slovenija,Vzgojitelj,Sum na okužbo,kratko trajanje
+2020-10-26,Zahodna Slovenija,Učitelj,Okužba s Covid-19,kratko trajanje
+2020-10-26,Vzhodna Slovenija,Učitelj,Sum na okužbo,kratko trajanje
+2020-10-26,Vzhodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-26,Severna Slovenija,Vzgojitelj,Sum na okužbo,kratko trajanje
+2020-10-26,Osrednja Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-26,Osrednja Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-26,Osrednja Slovenija,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-26,Zahodna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-10-26,Osrednja Slovenija,Drugi delavci,Okužba s Covid-19,dolgo trajanje
+2020-10-26,Osrednja Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-26,Osrednja Slovenija,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
+2020-10-26,Vzhodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-26,Osrednja Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-10-26,Zahodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-26,Severna Slovenija,Drugi delavci,Okužba s Covid-19,dolgo trajanje
+2020-10-26,Severna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-26,Vzhodna Slovenija,Drugi strokovni delavec,Sum na okužbo,dolgo trajanje
+2020-10-26,Vzhodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-26,Severna Slovenija,Drugi delavci,Sum na okužbo,kratko trajanje
+2020-10-26,Severna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-26,Osrednja Slovenija,Učitelj,Sum na okužbo,kratko trajanje
+2020-10-26,Zahodna Slovenija,Učitelj,Sum na okužbo,kratko trajanje
+2020-10-26,Zahodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
+2020-10-26,Severna Slovenija,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-26,Severna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
+2020-10-26,Zahodna Slovenija,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-27,Zahodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-27,Osrednja Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-10-27,Severna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-27,Osrednja Slovenija,Vzgojitelj,Sum na okužbo,kratko trajanje
+2020-10-27,Osrednja Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-27,Osrednja Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-27,Osrednja Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-27,Severna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-27,Vzhodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-27,Vzhodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-27,Osrednja Slovenija,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-27,Zahodna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-10-27,Severna Slovenija,Učitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-27,Severna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-10-27,Vzhodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-27,Vzhodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-27,Severna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-27,Severna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-27,Osrednja Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-10-27,Severna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-10-27,Zahodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-27,Zahodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-27,Vzhodna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-10-27,Vzhodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-27,Zahodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-27,Severna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-27,Osrednja Slovenija,Učitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-27,Osrednja Slovenija,Drugi delavci,Sum na okužbo,kratko trajanje
+2020-10-27,Osrednja Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-27,Osrednja Slovenija,Drugi delavci,Okužba s Covid-19,kratko trajanje
+2020-10-27,Osrednja Slovenija,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
+2020-10-27,Zahodna Slovenija,Učitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-27,Zahodna Slovenija,Drugi delavci,Sum na okužbo,kratko trajanje
+2020-10-27,Severna Slovenija,Vzgojitelj,Sum na okužbo,kratko trajanje
+2020-10-27,Vzhodna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-27,Osrednja Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-27,Osrednja Slovenija,Učitelj,Sum na okužbo,kratko trajanje
+2020-10-27,Osrednja Slovenija,Drugi delavci,Okužba s Covid-19,dolgo trajanje
+2020-10-27,Osrednja Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-27,Zahodna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-27,Osrednja Slovenija,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
+2020-10-27,Zahodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-27,Severna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-27,Zahodna Slovenija,Učitelj,Sum na okužbo,kratko trajanje
+2020-10-27,Zahodna Slovenija,Drugi delavci,Okužba s Covid-19,dolgo trajanje
+2020-10-27,Zahodna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-10-28,Vzhodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-28,Osrednja Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-28,Severna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-10-28,Zahodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-28,Zahodna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-28,Osrednja Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-28,Vzhodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-28,Vzhodna Slovenija,Drugi delavci,Okužba s Covid-19,dolgo trajanje
+2020-10-28,Vzhodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-28,Severna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-28,Zahodna Slovenija,Učitelj,Okužba s Covid-19,kratko trajanje
+2020-10-28,Osrednja Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-10-28,Severna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-28,Zahodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-28,Zahodna Slovenija,Drugi delavci,Sum na okužbo,dolgo trajanje
+2020-10-28,Zahodna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-10-28,Severna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-28,Osrednja Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-28,Severna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-28,Osrednja Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-28,Severna Slovenija,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
+2020-10-28,Zahodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-28,Vzhodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
+2020-10-28,Zahodna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-10-28,Osrednja Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-10-28,Severna Slovenija,Vzgojitelj,Sum na okužbo,kratko trajanje
+2020-10-28,Osrednja Slovenija,Vzgojitelj,Sum na okužbo,kratko trajanje
+2020-10-28,Vzhodna Slovenija,Vzgojitelj,Sum na okužbo,kratko trajanje
+2020-10-28,Vzhodna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-28,Osrednja Slovenija,Drugi delavci,Okužba s Covid-19,kratko trajanje
+2020-10-28,Vzhodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-28,Vzhodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-28,Zahodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-28,Vzhodna Slovenija,Učitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-28,Vzhodna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-10-28,Severna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-28,Osrednja Slovenija,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
+2020-10-28,Osrednja Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-28,Osrednja Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-28,Osrednja Slovenija,Učitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-28,Zahodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-28,Severna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-28,Osrednja Slovenija,Vzgojitelj,Sum na okužbo,dolgo trajanje
+2020-10-28,Osrednja Slovenija,Drugi delavci,Sum na okužbo,kratko trajanje
+2020-10-28,Osrednja Slovenija,Drugi delavci,Okužba s Covid-19,dolgo trajanje
+2020-10-29,Zahodna Slovenija,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-29,Severna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-29,Osrednja Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-29,Osrednja Slovenija,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-29,Vzhodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-29,Osrednja Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-29,Zahodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-29,Osrednja Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-29,Severna Slovenija,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
+2020-10-29,Vzhodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-29,Osrednja Slovenija,Drugi delavci,Sum na okužbo,kratko trajanje
+2020-10-29,Severna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-10-29,Zahodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-29,Vzhodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-29,Osrednja Slovenija,Učitelj,Okužba s Covid-19,kratko trajanje
+2020-10-29,Vzhodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-29,Zahodna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-10-29,Zahodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-29,Severna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-29,Zahodna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-29,Vzhodna Slovenija,Drugi delavci,Okužba s Covid-19,dolgo trajanje
+2020-10-29,Vzhodna Slovenija,Učitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-29,Osrednja Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-29,Zahodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-29,Osrednja Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-10-29,Osrednja Slovenija,Vzgojitelj,Sum na okužbo,kratko trajanje
+2020-10-29,Severna Slovenija,Učitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-29,Zahodna Slovenija,Učitelj,Okužba s Covid-19,kratko trajanje
+2020-10-29,Osrednja Slovenija,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
+2020-10-29,Severna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-29,Vzhodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-29,Vzhodna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-10-29,Osrednja Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-29,Zahodna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-10-29,Vzhodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,kratko trajanje
+2020-10-29,Vzhodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
+2020-10-29,Zahodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-29,Vzhodna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-29,Severna Slovenija,Drugi delavci,Okužba s Covid-19,kratko trajanje
+2020-10-29,Severna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-29,Zahodna Slovenija,Drugi delavci,Okužba s Covid-19,dolgo trajanje
+2020-10-29,Zahodna Slovenija,Učitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-29,Osrednja Slovenija,Učitelj,Sum na okužbo,kratko trajanje
+2020-10-29,Zahodna Slovenija,Drugi delavci,Okužba s Covid-19,kratko trajanje
+2020-10-29,Osrednja Slovenija,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
+2020-10-29,Osrednja Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-29,Osrednja Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-10-29,Zahodna Slovenija,Učitelj,Sum na okužbo,kratko trajanje
+2020-10-29,Vzhodna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-10-30,Osrednja Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-30,Zahodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-30,Osrednja Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-30,Vzhodna Slovenija,Učitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-30,Vzhodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-30,Zahodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-30,Osrednja Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-30,Osrednja Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-30,Vzhodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-30,Vzhodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-30,Zahodna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-30,Zahodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-30,Zahodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-30,Osrednja Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-30,Osrednja Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-10-30,Osrednja Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-30,Osrednja Slovenija,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
+2020-10-30,Osrednja Slovenija,Učitelj,Sum na okužbo,kratko trajanje
+2020-10-30,Osrednja Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-10-30,Zahodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-30,Osrednja Slovenija,Drugi delavci,Sum na okužbo,kratko trajanje
+2020-10-30,Zahodna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-10-30,Osrednja Slovenija,Vzgojitelj,Sum na okužbo,kratko trajanje
+2020-10-30,Osrednja Slovenija,Vzgojitelj,Sum na okužbo,dolgo trajanje
+2020-10-30,Osrednja Slovenija,Učitelj,Sum na okužbo,dolgo trajanje
+2020-10-30,Osrednja Slovenija,Učitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-30,Vzhodna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-30,Osrednja Slovenija,Učitelj,Okužba s Covid-19,kratko trajanje
+2020-10-30,Vzhodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-30,Osrednja Slovenija,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
+2020-10-30,Severna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-30,Severna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-30,Zahodna Slovenija,Drugi delavci,Okužba s Covid-19,dolgo trajanje
+2020-10-30,Vzhodna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-10-30,Severna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-30,Zahodna Slovenija,Učitelj,Sum na okužbo,kratko trajanje
+2020-10-30,Severna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-30,Vzhodna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-10-30,Severna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-10-30,Vzhodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-30,Vzhodna Slovenija,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-30,Vzhodna Slovenija,Vzgojitelj,Sum na okužbo,kratko trajanje
+2020-10-30,Severna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-10-30,Vzhodna Slovenija,Drugi delavci,Sum na okužbo,dolgo trajanje
+2020-10-30,Vzhodna Slovenija,Drugi strokovni delavec,Sum na okužbo,dolgo trajanje
+2020-10-30,Severna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-30,Zahodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,dolgo trajanje
+2020-10-31,Zahodna Slovenija,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-31,Vzhodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-31,Osrednja Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-31,Zahodna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-31,Osrednja Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-31,Severna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-31,Zahodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-31,Osrednja Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-31,Osrednja Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-10-31,Vzhodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-10-31,Vzhodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-31,Osrednja Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-31,Osrednja Slovenija,Vzgojitelj,Sum na okužbo,kratko trajanje
+2020-10-31,Osrednja Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-10-31,Osrednja Slovenija,Vzgojitelj,Okužba s Covid-19,dolgo trajanje
+2020-10-31,Severna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-10-31,Severna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-31,Vzhodna Slovenija,Drugi delavci,Sum na okužbo,srednje trajanje
+2020-10-31,Severna Slovenija,Vzgojitelj,Okužba s Covid-19,kratko trajanje
+2020-10-31,Zahodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-10-31,Severna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-10-31,Severna Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-10-31,Severna Slovenija,Vzgojitelj,Sum na okužbo,srednje trajanje
+2020-11-01,Vzhodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-11-01,Vzhodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-11-01,Osrednja Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-11-01,Severna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-11-01,Zahodna Slovenija,Učitelj,Okužba s Covid-19,dolgo trajanje
+2020-11-01,Osrednja Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-11-01,Zahodna Slovenija,Drugi delavci,Okužba s Covid-19,dolgo trajanje
+2020-11-01,Osrednja Slovenija,Učitelj,Sum na okužbo,srednje trajanje
+2020-11-01,Zahodna Slovenija,Vzgojitelj,Okužba s Covid-19,srednje trajanje
+2020-11-01,Vzhodna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-11-01,Osrednja Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-11-01,Osrednja Slovenija,Drugi strokovni delavec,Sum na okužbo,kratko trajanje
+2020-11-01,Osrednja Slovenija,Vzgojitelj,Sum na okužbo,kratko trajanje
+2020-11-01,Osrednja Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-11-01,Zahodna Slovenija,Drugi delavci,Okužba s Covid-19,srednje trajanje
+2020-11-01,Vzhodna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-11-01,Severna Slovenija,Drugi strokovni delavec,Okužba s Covid-19,srednje trajanje
+2020-11-01,Osrednja Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-11-01,Zahodna Slovenija,Drugi strokovni delavec,Sum na okužbo,srednje trajanje
+2020-11-01,Osrednja Slovenija,Drugi delavci,Okužba s Covid-19,dolgo trajanje
+2020-11-01,Osrednja Slovenija,Učitelj,Okužba s Covid-19,kratko trajanje
+2020-11-01,Zahodna Slovenija,Učitelj,Okužba s Covid-19,srednje trajanje
+2020-11-01,Vzhodna Slovenija,Vzgojitelj,Okužba s Covid-19,kratko trajanje
