@@ -1,8 +1,0 @@
-Rule,Confidence
-{Okužba s Covid-19} => {OSNOVNA ŠOLA},0.5316455696202531
-{OSNOVNA ŠOLA} => {Okužba s Covid-19},0.5753424657534246
-{Sum na okužbo} => {srednje trajanje},0.8909090909090909
-{OSNOVNA ŠOLA} => {srednje trajanje},0.8356164383561644
-{srednje trajanje} => {OSNOVNA ŠOLA},0.5213675213675214
-{Okužba s Covid-19} => {srednje trajanje},0.8607594936708861
-{srednje trajanje} => {Okužba s Covid-19},0.5811965811965812

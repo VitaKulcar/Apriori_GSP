@@ -1,4 +1,0 @@
-Rule,Confidence
-{VRTEC} => {srednje trajanje},0.9444444444444444
-{srednje trajanje} => {Sum na okužbo},0.6666666666666666
-{Sum na okužbo} => {srednje trajanje},0.8666666666666667

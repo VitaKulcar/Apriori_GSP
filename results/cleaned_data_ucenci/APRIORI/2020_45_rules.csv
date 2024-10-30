@@ -1,7 +1,0 @@
-Rule,Confidence
-{VRTEC} => {srednje trajanje},0.8461538461538461
-{srednje trajanje} => {Sum na okužbo},0.5652173913043478
-{Sum na okužbo} => {srednje trajanje},0.8125
-{VRTEC} => {Sum na okužbo},0.6923076923076923
-{Sum na okužbo} => {VRTEC},0.5625
-{Okužba s Covid-19} => {srednje trajanje},0.7692307692307693

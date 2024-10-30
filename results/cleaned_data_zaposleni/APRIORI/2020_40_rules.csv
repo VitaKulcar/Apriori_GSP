@@ -1,7 +1,0 @@
-Rule,Confidence
-{srednje trajanje} => {Sum na okužbo},0.6666666666666666
-{Sum na okužbo} => {srednje trajanje},0.6
-{Učitelj} => {srednje trajanje},0.5806451612903226
-{srednje trajanje} => {Učitelj},0.5
-{Učitelj} => {Sum na okužbo},0.7419354838709677
-{Sum na okužbo} => {Učitelj},0.575

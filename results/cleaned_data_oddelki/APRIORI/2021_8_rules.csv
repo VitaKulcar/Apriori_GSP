@@ -1,4 +1,0 @@
-Rule,Confidence
-{srednje trajanje} => {VRTEC},0.6222222222222222
-{VRTEC} => {srednje trajanje},0.8615384615384616
-{Okužba pri otroku / učencu / dijaku} => {srednje trajanje},0.7407407407407407
