@@ -1,4 +1,0 @@
-Rule,Confidence
-{Sum na okužbo} => {srednje trajanje},0.8046875
-{Okužba s Covid-19} => {srednje trajanje},0.7969543147208121
-{srednje trajanje} => {Okužba s Covid-19},0.6038461538461538

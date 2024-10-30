@@ -1,9 +1,0 @@
-Sequence,Support,Relative Frequency
-{Sum na okužbo},64,0.3902439024390244
-{srednje trajanje},137,0.8353658536585366
-{Vzgojitelj},50,0.3048780487804878
-{Okužba s Covid-19},100,0.6097560975609756
-"{srednje trajanje}, {Sum na okužbo}",51,0.31097560975609756
-"{Okužba s Covid-19}, {srednje trajanje}",86,0.524390243902439
-"{srednje trajanje}, {Okužba s Covid-19}",86,0.524390243902439
-"{Sum na okužbo}, {srednje trajanje}",51,0.31097560975609756

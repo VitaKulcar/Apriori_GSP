@@ -1,7 +1,0 @@
-Rule,Confidence
-{srednje trajanje} => {Sum na okužbo},0.6213592233009708
-{Sum na okužbo} => {srednje trajanje},0.7032967032967034
-{OSNOVNA ŠOLA} => {srednje trajanje},0.6785714285714286
-{srednje trajanje} => {OSNOVNA ŠOLA},0.5533980582524272
-{OSNOVNA ŠOLA} => {Sum na okužbo},0.7023809523809523
-{Sum na okužbo} => {OSNOVNA ŠOLA},0.6483516483516484

@@ -1,3 +1,0 @@
-Rule,Confidence
-{srednje trajanje} => {Sum na okužbo},0.68
-{Sum na okužbo} => {srednje trajanje},0.576271186440678

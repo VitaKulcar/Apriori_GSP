@@ -1,3 +1,0 @@
-Rule,Confidence
-{Okužba s Covid-19} => {srednje trajanje},0.8446601941747572
-{srednje trajanje} => {Okužba s Covid-19},0.6397058823529411

@@ -1,4 +1,0 @@
-Rule,Confidence
-{VRTEC} => {srednje trajanje},0.8666666666666667
-{OSNOVNA ŠOLA} => {srednje trajanje},0.6923076923076923
-{zelo malo} => {srednje trajanje},0.71875

@@ -1,7 +1,0 @@
-Rule,Confidence
-{OSNOVNA ŠOLA} => {Okužba pri otroku / učencu / dijaku},0.6282051282051282
-{Okužba pri otroku / učencu / dijaku} => {OSNOVNA ŠOLA},0.5632183908045977
-{OSNOVNA ŠOLA} => {srednje trajanje},0.6282051282051282
-{srednje trajanje} => {OSNOVNA ŠOLA},0.5104166666666666
-{Okužba pri otroku / učencu / dijaku} => {srednje trajanje},0.6666666666666666
-{srednje trajanje} => {Okužba pri otroku / učencu / dijaku},0.6041666666666666
