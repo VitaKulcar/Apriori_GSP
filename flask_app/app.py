@@ -63,12 +63,12 @@ def get_graphs():
         return jsonify({"error": "Data file not found for the given date, type, and dataset"}), 404
 
     rules_ = data[0].tolist()
-    conf_ = data[1].tolist()
+    # conf_ = data[1].tolist()
 
     nodes, links = prepare_sankey_data(rules_)
     sankey_fig = plot_sankey(nodes, links)
 
-    nodes, edges = prepare_weighted_graph(rules_, conf_)
+    nodes, edges = prepare_weighted_graph(rules_)
     weighted_graph_fig = plot_weighted_graph(nodes, edges)
 
     return jsonify({

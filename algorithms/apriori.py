@@ -73,14 +73,24 @@ class Apriori:
     def mine_frequent_itemsets(self):
         current_level = set()
         frequent_sequences = {}
-        # 1-item sequences
+
+        # začetni nabor 1-element množice
         candidates = generate_candidates(current_level, self.unique_items, self.dataset, self.min_support_count)
-        # n-item sequences (2, 3, 4 ..)
+
+        # ustvarjanje in filtriranje kandidatov 2,3,4,...-elementnih množic
         while candidates:
+            # izkanje kandidatov, ki ustrezajo minimalni podpori
             valid_candidates = filter_candidates(candidates, self.dataset, self.min_support_count)
+
+            # dodajanje ustreznih kanjdidatov v slovar
             frequent_sequences.update(valid_candidates)
+
+            # izbira elementov za generiranje naslednjih kandidatatov
             current_level = set(valid_candidates.keys())
+
+            # generiranje novih kandidatov za naslednji nivo
             candidates = generate_candidates(current_level, self.unique_items, self.dataset, self.min_support_count)
+
         return frequent_sequences
 
     def generate_association_rules(self, frequent_itemsets):

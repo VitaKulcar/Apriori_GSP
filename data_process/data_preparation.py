@@ -90,8 +90,8 @@ def data_cleaning(dataset_name, columns_drop):
             'Sum na okužbo s Covid-19 pri drugem delavcu',
             'Sum na okužbo s Covid-19 pri slušatelju ali več slušateljih oddelka',
             'Sum na okužbo s Covid-19 pri učitelju',
-            'Sum na okužbo pri vzgojitelju',
-            'Okužba s Covid-19 pri predavatelju'
+            'Sum na okužbo s Covid-19 pri vzgojitelju',
+            'Sum na okužbo s Covid-19 pri predavatelju'
         ]
         pattern = '|'.join(terms)
         df.loc[df['VZROK'].str.contains(pattern, case=False,
@@ -173,18 +173,18 @@ def generate_sequences(dataset_name, group_name):
         # Pridobimo datum ('VNOS')
         date = row['VNOS']
 
-        # Preostali elementi vrstice predstavljajo izdelke (transakcijo)
-        items = tuple(row.drop(['VNOS']))  # odstrani stolpec 'VNOS' iz elementov
+        # Preostali elementi vrstice predstavljajo transakcijo
+        items = tuple(row.drop(['VNOS']))  # odstrani stolpec 'VNOS' iz vrstice
 
         # Shranimo transakcijo kot tuple v seznam za določen datum
         date_item_map[date].append(items)
 
-    # Zdaj ustvarimo končno strukturo sekvenc
+    # ustvarimo končno strukturo sekvenc
     consolidated_sequences = []
 
     # Gremo skozi vsako skupino po datumih in njihove transakcije
     for date, transactions in date_item_map.items():
-        # Za vsak datum dodamo seznam transakcij (brez združevanja izdelkov)
+        # Za vsak datum dodamo seznam transakcij
         consolidated_sequences.append([(date, transaction) for transaction in transactions])
 
     return consolidated_sequences
